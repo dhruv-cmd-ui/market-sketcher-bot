@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait" data-composition-variables='[
+  {"id":"date_label","type":"string","label":"Date label","default":"Friday, 16 Oct 2026"},
+  {"id":"fii_buy","type":"number","label":"FII buy (Cr)","default":19951.59},
+  {"id":"fii_sell","type":"number","label":"FII sell (Cr)","default":18785.67},
+  {"id":"fii_net","type":"number","label":"FII net (Cr)","default":1165.92},
+  {"id":"dii_buy","type":"number","label":"DII buy (Cr)","default":17201.80},
+  {"id":"dii_sell","type":"number","label":"DII sell (Cr)","default":20863.08},
+  {"id":"dii_net","type":"number","label":"DII net (Cr)","default":-3661.28}
+]'>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "InterLocal"; src: url("assets/Inter.ttf"); font-weight: 100 900; }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #0b1730; }
+      #root {
+        position: relative; width: 1080px; height: 1920px; overflow: hidden;
+        font-family: "InterLocal", sans-serif; color: #f5f7fa;
+        background: radial-gradient(1200px 900px at 85% 0%, #16306a 0%, rgba(11,23,48,0) 60%),
+                    radial-gradient(900px 900px at 0% 100%, #0f2a4d 0%, rgba(11,23,48,0) 60%), #0b1730;
+      }
+      .accent-bar { position: absolute; left: 0; top: 0; width: 1080px; height: 12px; background: #5b8def; transform-origin: left; }
+      .header { position: absolute; left: 80px; top: 170px; width: 920px; }
+      .eyebrow { font-size: 30px; font-weight: 600; letter-spacing: 0.12em; color: #5b8def; }
+      .title { font-size: 104px; font-weight: 800; letter-spacing: -0.03em; line-height: 1.05; margin-top: 18px; }
+      .subtitle { font-size: 34px; color: #8a9bb8; margin-top: 22px; }
+      .panel {
+        position: absolute; left: 80px; width: 920px; height: 430px; border-radius: 36px;
+        background: rgba(19,34,63,0.92); padding: 44px 48px; box-shadow: 0 30px 80px rgba(0,0,0,0.35);
+      }
+      #fii-panel { top: 540px; }
+      #dii-panel { top: 1000px; }
+      .panel-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px; }
+      .panel-head > div:first-child { flex: 1 1 auto; min-width: 0; }
+      .panel-head > div:last-child { flex: 0 0 auto; }
+      .name { font-size: 56px; font-weight: 800; }
+      .full { font-size: 28px; color: #8a9bb8; margin-top: 8px; }
+      .net { font-size: 64px; font-weight: 800; text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+      .pill {
+        display: inline-flex; align-items: center; gap: 12px; margin-top: 14px; float: right;
+        font-size: 26px; font-weight: 800; padding: 10px 24px; border-radius: 999px;
+      }
+      .pos { color: #22c55e; } .neg { color: #ef4444; }
+      .pill.pos { background: rgba(34,197,94,0.16); } .pill.neg { background: rgba(239,68,68,0.16); }
+      .rows { position: absolute; left: 48px; right: 48px; bottom: 44px; }
+      .row { display: flex; align-items: center; height: 40px; margin-top: 26px; }
+      .row-label { width: 110px; font-size: 30px; font-weight: 500; color: #8a9bb8; }
+      .track { flex: 1; height: 30px; border-radius: 15px; background: #1e2f52; overflow: hidden; }
+      .fill { height: 100%; border-radius: 15px; transform-origin: left; }
+      .fill.buy { background: #22c55e; } .fill.sell { background: #ef4444; }
+      .row-value { width: 270px; text-align: right; font-size: 32px; font-weight: 600; font-variant-numeric: tabular-nums; }
+      .summary {
+        position: absolute; left: 80px; top: 1470px; width: 920px; border-radius: 36px; padding: 36px 48px;
+        border: 2px solid rgba(91,141,239,0.45); background: rgba(91,141,239,0.10);
+      }
+      .summary-label { font-size: 28px; font-weight: 600; letter-spacing: 0.1em; color: #8a9bb8; }
+      .summary-value { font-size: 72px; font-weight: 800; margin-top: 10px; font-variant-numeric: tabular-nums; }
+      .footer {
+        position: absolute; left: 80px; top: 1730px; width: 920px; padding-top: 28px;
+        border-top: 2px solid #1e2f52; display: flex; justify-content: space-between; font-size: 30px;
+      }
+      .footer .src { color: #8a9bb8; } .footer .handle { color: #5b8def; font-weight: 600; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="9" data-width="1080" data-height="1920">
+      <div id="scene" class="clip" data-start="0" data-duration="9" data-track-index="0" style="position:absolute;inset:0">
+        <div class="accent-bar" id="accent"></div>
+
+        <div class="header" id="header">
+          <div class="eyebrow">INSTITUTIONAL FLOWS</div>
+          <div class="title">FII / DII<br />Activity</div>
+          <div class="subtitle" id="subtitle"></div>
+        </div>
+
+        <div class="panel" id="fii-panel">
+          <div class="panel-head">
+            <div><div class="name">FII / FPI</div><div class="full">Foreign Institutional Investors</div></div>
+            <div><div class="net" id="fii-net"></div><div class="pill" id="fii-pill"></div></div>
+          </div>
+          <div class="rows">
+            <div class="row"><div class="row-label">Buy</div><div class="track"><div class="fill buy" id="fii-buy-bar"></div></div><div class="row-value" id="fii-buy"></div></div>
+            <div class="row"><div class="row-label">Sell</div><div class="track"><div class="fill sell" id="fii-sell-bar"></div></div><div class="row-value" id="fii-sell"></div></div>
+          </div>
+        </div>
+
+        <div class="panel" id="dii-panel">
+          <div class="panel-head">
+            <div><div class="name">DII</div><div class="full">Domestic Institutional Investors</div></div>
+            <div><div class="net" id="dii-net"></div><div class="pill" id="dii-pill"></div></div>
+          </div>
+          <div class="rows">
+            <div class="row"><div class="row-label">Buy</div><div class="track"><div class="fill buy" id="dii-buy-bar"></div></div><div class="row-value" id="dii-buy"></div></div>
+            <div class="row"><div class="row-label">Sell</div><div class="track"><div class="fill sell" id="dii-sell-bar"></div></div><div class="row-value" id="dii-sell"></div></div>
+          </div>
+        </div>
+
+        <div class="summary" id="summary">
+          <div class="summary-label">COMBINED INSTITUTIONAL NET FLOW</div>
+          <div class="summary-value" id="combined"></div>
+        </div>
+
+        <div class="footer" id="footer">
+          <div class="src">Source: NSE &middot; Provisional &middot; &#8377; Crore</div>
+          <div class="handle">@wealthandworkflow</div>
+        </div>
+      </div>
+      <audio id="music" class="clip" src="assets/audio/music.wav" data-start="0" data-duration="9" data-volume="0.5" data-fade-out="1.0"></audio>
+      <audio id="sfx-whoosh-1" class="clip" src="assets/audio/whoosh.wav" data-start="0" data-duration="0.75" data-volume="0.6"></audio>
+      <audio id="sfx-whoosh-2" class="clip" src="assets/audio/whoosh.wav" data-start="0.75" data-duration="0.75" data-volume="0.6"></audio>
+      <audio id="sfx-pop-1" class="clip" src="assets/audio/pop.wav" data-start="2.0" data-duration="0.18" data-volume="0.8"></audio>
+      <audio id="sfx-whoosh-3" class="clip" src="assets/audio/whoosh.wav" data-start="2.05" data-duration="0.75" data-volume="0.6"></audio>
+      <audio id="sfx-pop-2" class="clip" src="assets/audio/pop.wav" data-start="3.3" data-duration="0.18" data-volume="0.8"></audio>
+      <audio id="sfx-impact" class="clip" src="assets/audio/impact.wav" data-start="3.6" data-duration="1.2" data-volume="0.8"></audio>
+    </div>
+    <script>
+      const v = window.__hyperframes.getVariables();
+      const fmt = (n) => "₹" + Math.abs(n).toLocaleString("en-IN", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " Cr";
+      const signed = (n) => (n >= 0 ? "+" : "−") + fmt(n);
+      const $ = (id) => document.getElementById(id);
+
+      $("subtitle").textContent = "Cash Market · " + v.date_label;
+      const scaleMax = Math.max(v.fii_buy, v.fii_sell, v.dii_buy, v.dii_sell) || 1;
+
+      function setupPanel(prefix, buy, sell, net) {
+        const cls = net >= 0 ? "pos" : "neg";
+        $(prefix + "-net").classList.add(cls);
+        const pill = $(prefix + "-pill");
+        pill.classList.add(cls);
+        pill.textContent = (net >= 0 ? "▲ NET BUY" : "▼ NET SELL");
+        $(prefix + "-buy").textContent = fmt(buy);
+        $(prefix + "-sell").textContent = fmt(sell);
+        $(prefix + "-buy-bar").style.width = (100 * buy / scaleMax) + "%";
+        $(prefix + "-sell-bar").style.width = (100 * sell / scaleMax) + "%";
+      }
+      setupPanel("fii", v.fii_buy, v.fii_sell, v.fii_net);
+      setupPanel("dii", v.dii_buy, v.dii_sell, v.dii_net);
+      const combinedNet = v.fii_net + v.dii_net;
+      $("combined").classList.add(combinedNet >= 0 ? "pos" : "neg");
+
+      const counters = { fii: 0, dii: 0, combined: 0 };
+      const paint = () => {
+        $("fii-net").textContent = signed(counters.fii);
+        $("dii-net").textContent = signed(counters.dii);
+        $("combined").textContent = signed(counters.combined);
+      };
+      paint();
+
+      const tl = gsap.timeline({ paused: true, defaults: { ease: "power3.out" } });
+      tl.from("#accent", { scaleX: 0, duration: 0.8 }, 0);
+      tl.from("#header", { opacity: 0, y: 50, duration: 0.8 }, 0.1);
+
+      tl.from("#fii-panel", { opacity: 0, y: 80, duration: 0.7 }, 0.8);
+      tl.from(["#fii-buy-bar", "#fii-sell-bar"], { scaleX: 0, duration: 1.0, stagger: 0.15 }, 1.2);
+      tl.from("#fii-pill", { opacity: 0, scale: 0.7, duration: 0.4 }, 2.0);
+      tl.to(counters, { fii: v.fii_net, duration: 1.2, ease: "power2.out", onUpdate: paint }, 1.1);
+
+      tl.from("#dii-panel", { opacity: 0, y: 80, duration: 0.7 }, 2.1);
+      tl.from(["#dii-buy-bar", "#dii-sell-bar"], { scaleX: 0, duration: 1.0, stagger: 0.15 }, 2.5);
+      tl.from("#dii-pill", { opacity: 0, scale: 0.7, duration: 0.4 }, 3.3);
+      tl.to(counters, { dii: v.dii_net, duration: 1.2, ease: "power2.out", onUpdate: paint }, 2.4);
+
+      tl.from("#summary", { opacity: 0, y: 60, duration: 0.7 }, 3.6);
+      tl.to(counters, { combined: combinedNet, duration: 1.0, ease: "power2.out", onUpdate: paint }, 3.8);
+      tl.from("#footer", { opacity: 0, duration: 0.6 }, 4.4);
+      tl.to({}, { duration: 0.01 }, 8.99);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

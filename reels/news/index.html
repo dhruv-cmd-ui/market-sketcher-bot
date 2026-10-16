@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait" data-composition-variables='[
+  {"id":"header","type":"string","label":"Category pill","default":"SEBI UPDATE"},
+  {"id":"headline","type":"string","label":"Headline","default":"SEBI tightens F&O eligibility norms for stocks; new rules kick in from December 2026"},
+  {"id":"source","type":"string","label":"Source","default":"SEBI"},
+  {"id":"date_label","type":"string","label":"Date","default":"16 Oct 2026"},
+  {"id":"bg_src","type":"string","label":"Background image","default":"assets/bg_default.png"}
+]'>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "InterLocal"; src: url("assets/Inter.ttf"); font-weight: 100 900; }
+      @font-face { font-family: "MontserratLocal"; src: url("assets/Montserrat.ttf"); font-weight: 100 900; }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #050a18; }
+      #root { position: relative; width: 1080px; height: 1920px; overflow: hidden; font-family: "InterLocal", sans-serif; color: #fff; }
+      #stage { position: absolute; inset: 0; }
+      #bg { position: absolute; left: -420px; top: 0; width: 1920px; height: 1920px; object-fit: cover; transform-origin: 50% 45%; }
+      .shade { position: absolute; inset: 0;
+        background: linear-gradient(180deg, rgba(3,6,16,0.55) 0%, rgba(3,6,16,0.35) 35%, rgba(3,6,16,0.70) 75%, rgba(3,6,16,0.92) 100%),
+                    radial-gradient(1100px 1500px at 50% 45%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.55) 100%); }
+      .particle { position: absolute; border-radius: 50%; background: rgba(160, 255, 210, 0.75); box-shadow: 0 0 14px rgba(0,230,118,0.8); }
+      #topbar { position: absolute; left: 0; top: 0; width: 1080px; height: 12px; background: #00e676; transform-origin: left; }
+
+      #content { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; }
+      #pill { position: absolute; left: 80px; top: 300px; padding: 18px 34px; border-radius: 16px; background: #facc15;
+        color: #000; font-family: "MontserratLocal", sans-serif; font-weight: 800; font-size: 38px; letter-spacing: 0.02em; }
+      #live { position: absolute; left: 80px; top: 404px; display: flex; align-items: center; gap: 14px; font-size: 30px; font-weight: 600; color: #dfe6f0; }
+      #live-dot { width: 16px; height: 16px; border-radius: 50%; background: #ef4444; box-shadow: 0 0 16px #ef4444; }
+
+      #headline-wrap { position: absolute; left: 80px; top: 480px; width: 880px; height: 860px; display: flex; align-items: center; }
+      #accent { position: absolute; left: 0; width: 14px; border-radius: 7px; background: #00e676; box-shadow: 0 0 24px rgba(0,230,118,0.75); transform-origin: top; }
+      #headline-box { position: relative; margin-left: 44px; width: 836px; overflow: hidden; padding: 18px 0; }
+      #headline { width: 800px; font-family: "MontserratLocal", sans-serif; font-weight: 800; line-height: 1.16; letter-spacing: -0.01em;
+        text-shadow: 0 6px 30px rgba(0,0,0,0.55); }
+      #headline .w { display: inline-block; will-change: transform; }
+      #sweep { position: absolute; top: -20%; left: 0; width: 220px; height: 140%;
+        background: linear-gradient(100deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.45) 50%, rgba(255,255,255,0) 100%);
+        mix-blend-mode: overlay; transform: skewX(-18deg); }
+      #flash { position: absolute; inset: 0; background: #fff; opacity: 0; }
+
+      #cta { position: absolute; left: 80px; top: 640px; width: 880px; text-align: left; opacity: 0; }
+      .cta-eyebrow { font-size: 34px; font-weight: 700; letter-spacing: 0.14em; color: #00e676; }
+      .cta-title { font-family: "MontserratLocal", sans-serif; font-weight: 800; font-size: 104px; line-height: 1.05; margin-top: 26px; }
+      .cta-handle { display: inline-block; margin-top: 40px; padding: 20px 36px; border-radius: 18px; background: #facc15; color: #000;
+        font-family: "MontserratLocal", sans-serif; font-weight: 800; font-size: 50px; }
+      .cta-sub { font-size: 36px; color: #c8d2e0; margin-top: 44px; line-height: 1.45; }
+
+      #footer { position: absolute; left: 80px; top: 1500px; width: 880px; padding-top: 26px; border-top: 2px solid rgba(255,255,255,0.28);
+        display: flex; justify-content: space-between; font-size: 32px; }
+      #footer .meta { color: #dfe6f0; font-weight: 500; } #footer .handle { color: #fff; font-weight: 700; }
+      #progress { position: absolute; left: 0; bottom: 0; width: 1080px; height: 10px; background: #00e676; transform-origin: left; opacity: 0.9; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="12" data-width="1080" data-height="1920">
+      <div id="scene" class="clip" data-start="0" data-duration="12" data-track-index="0" style="position:absolute;inset:0" data-layout-allow-overlap>
+        <div id="stage">
+          <img id="bg" alt="" />
+          <div class="shade"></div>
+          <div id="particles"></div>
+          <div id="topbar"></div>
+
+          <div id="content">
+            <div id="pill"></div>
+            <div id="live"><div id="live-dot"></div><span id="live-text"></span></div>
+            <div id="headline-wrap">
+              <div id="accent"></div>
+              <div id="headline-box"><div id="headline"></div><div id="sweep" data-layout-allow-overflow></div></div>
+            </div>
+          </div>
+
+          <div id="cta">
+            <div class="cta-eyebrow">STAY AHEAD OF THE MARKET</div>
+            <div class="cta-title">Follow for daily market updates</div>
+            <div class="cta-handle">@wealthandworkflow</div>
+            <div class="cta-sub">SEBI updates &middot; FII / DII data &middot; Market news</div>
+          </div>
+
+          <div id="footer"><div class="meta" id="footer-meta"></div><div class="handle">@wealthandworkflow</div></div>
+          <div id="progress"></div>
+          <div id="flash"></div>
+        </div>
+      </div>
+
+      <audio id="music" class="clip" src="assets/audio/music.wav" data-start="0" data-duration="12" data-volume="0.5" data-fade-out="1.2"></audio>
+      <audio id="sfx-whoosh-1" class="clip" src="assets/audio/whoosh.wav" data-start="0" data-duration="0.75" data-volume="0.7"></audio>
+      <audio id="sfx-pop-1" class="clip" src="assets/audio/pop.wav" data-start="0.45" data-duration="0.18" data-volume="0.8"></audio>
+      <audio id="sfx-whoosh-2" class="clip" src="assets/audio/whoosh.wav" data-start="0.85" data-duration="0.75" data-volume="0.6"></audio>
+      <audio id="sfx-impact-1" class="clip" src="assets/audio/impact.wav" data-start="2.5" data-duration="1.2" data-volume="0.85"></audio>
+      <audio id="sfx-riser" class="clip" src="assets/audio/riser.wav" data-start="8.3" data-duration="1.4" data-volume="0.55"></audio>
+      <audio id="sfx-whoosh-3" class="clip" src="assets/audio/whoosh.wav" data-start="9.55" data-duration="0.75" data-volume="0.7"></audio>
+      <audio id="sfx-impact-2" class="clip" src="assets/audio/impact.wav" data-start="9.8" data-duration="1.2" data-volume="0.75"></audio>
+      <audio id="sfx-pop-2" class="clip" src="assets/audio/pop.wav" data-start="10.3" data-duration="0.18" data-volume="0.8"></audio>
+    </div>
+    <script>
+      const v = window.__hyperframes.getVariables();
+      const $ = (id) => document.getElementById(id);
+
+      $("bg").src = v.bg_src;
+      $("pill").textContent = v.header;
+      $("live-text").textContent = v.source + " · " + v.date_label;
+      $("footer-meta").textContent = v.date_label + " · " + v.source;
+
+      // Headline split into words for a staggered reveal.
+      const words = v.headline.split(/\s+/).filter(Boolean);
+      const headline = $("headline");
+      words.forEach((w, i) => {
+        const span = document.createElement("span");
+        span.className = "w";
+        span.textContent = w;
+        headline.appendChild(span);
+        if (i < words.length - 1) headline.appendChild(document.createTextNode(" "));
+      });
+
+      // Fit the headline: largest size that keeps it within the box.
+      const box = $("headline-wrap");
+      function fit() {
+        let size = 104;
+        headline.style.fontSize = size + "px";
+        while (size > 54 && headline.scrollHeight > box.clientHeight - 40) {
+          size -= 4;
+          headline.style.fontSize = size + "px";
+        }
+        $("accent").style.height = (headline.offsetHeight - 12) + "px";
+      }
+      fit();
+      if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+
+      // Deterministic particles (seeded so parallel render workers agree).
+      let seed = 0;
+      for (const ch of v.headline) seed = (seed * 31 + ch.charCodeAt(0)) >>> 0;
+      const rand = () => { seed = (seed + 0x6D2B79F5) >>> 0; let t = seed;
+        t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+        return ((t ^ (t >>> 14)) >>> 0) / 4294967296; };
+      const particles = [];
+      for (let i = 0; i < 26; i++) {
+        const p = document.createElement("div");
+        p.className = "particle";
+        const s = 4 + rand() * 9;
+        p.style.width = p.style.height = s + "px";
+        p.style.left = (rand() * 1080) + "px";
+        p.style.top = (300 + rand() * 1600) + "px";
+        p.style.opacity = (0.25 + rand() * 0.6).toFixed(2);
+        $("particles").appendChild(p);
+        particles.push({ el: p, rise: 200 + rand() * 500, drift: (rand() - 0.5) * 120 });
+      }
+
+      const tl = gsap.timeline({ paused: true, defaults: { ease: "power3.out" } });
+
+      // Background: slow Ken Burns zoom + drift for the whole reel.
+      tl.fromTo("#bg", { scale: 1.22, x: 60 }, { scale: 1.0, x: -60, duration: 12, ease: "none" }, 0);
+      particles.forEach((p) => tl.to(p.el, { y: -p.rise, x: p.drift, duration: 12, ease: "none" }, 0));
+      tl.fromTo("#progress", { scaleX: 0 }, { scaleX: 1, duration: 12, ease: "none" }, 0);
+
+      // Intro
+      tl.from("#topbar", { scaleX: 0, duration: 0.7 }, 0.1);
+      tl.from("#pill", { scale: 0, opacity: 0, transformOrigin: "0% 50%", duration: 0.5, ease: "back.out(2.2)" }, 0.45);
+      tl.from("#live", { opacity: 0, x: -30, duration: 0.5 }, 0.6);
+      tl.to("#live-dot", { opacity: 0.25, duration: 0.5, repeat: 21, yoyo: true, ease: "sine.inOut" }, 0.6);
+      tl.from("#footer", { opacity: 0, y: 20, duration: 0.6 }, 0.7);
+
+      // Headline: words rise in over a fixed 1.6s regardless of length.
+      const stagger = Math.min(0.12, 1.6 / Math.max(words.length, 1));
+      tl.from("#accent", { scaleY: 0, duration: 0.8 }, 0.85);
+      tl.from("#headline .w", { y: 70, opacity: 0, duration: 0.55, stagger }, 0.85);
+
+      // Impact at 2.5s: flash + camera shake + light sweep across the headline.
+      tl.fromTo("#flash", { opacity: 0.22 }, { opacity: 0, duration: 0.45, ease: "power2.out", immediateRender: false }, 2.5);
+      tl.to("#stage", { x: 12, y: -8, duration: 0.04, repeat: 7, yoyo: true, ease: "none" }, 2.5);
+      tl.set("#stage", { x: 0, y: 0 }, 2.85);
+      tl.set("#sweep", { x: -320 }, 0);
+      tl.fromTo("#sweep", { x: -320 }, { x: 1100, duration: 0.9, ease: "power2.inOut", immediateRender: false }, 2.6);
+      tl.to("#headline", { scale: 1.025, transformOrigin: "0% 50%", duration: 5.5, ease: "sine.inOut" }, 3.0);
+      tl.fromTo("#sweep", { x: -320 }, { x: 1100, duration: 0.9, ease: "power2.inOut", immediateRender: false }, 6.2);
+
+      // Outro: headline exits, CTA lands with a second impact.
+      tl.to("#content", { y: -90, opacity: 0, duration: 0.5, ease: "power2.in" }, 9.55);
+      tl.to("#footer", { opacity: 0, duration: 0.4 }, 9.55);
+      tl.fromTo("#flash", { opacity: 0.25 }, { opacity: 0, duration: 0.5, ease: "power2.out", immediateRender: false }, 9.8);
+      tl.to("#stage", { x: -10, y: 8, duration: 0.04, repeat: 5, yoyo: true, ease: "none" }, 9.8);
+      tl.set("#stage", { x: 0, y: 0 }, 10.05);
+      tl.fromTo("#cta", { opacity: 0, scale: 0.88, transformOrigin: "0% 50%" }, { opacity: 1, scale: 1, duration: 0.6, ease: "back.out(1.6)" }, 9.8);
+      tl.from(".cta-handle", { scale: 0.6, opacity: 0, transformOrigin: "0% 50%", duration: 0.45, ease: "back.out(2.4)" }, 10.3);
+      tl.to({}, { duration: 0.01 }, 11.99);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

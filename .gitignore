@@ -1,0 +1,14 @@
+.env
+history.json.tmp
+images/
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+cache/
+reels/*/.hyperframes/
+reels/*/renders/
+reels/*/assets/bg_*.jpg
+*.log.*
+scripts/__pycache__/

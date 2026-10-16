@@ -1,0 +1,7 @@
+APScheduler==3.11.3
+feedparser==6.0.14
+google-genai==2.31.0
+pillow==12.3.0
+python-dotenv==1.2.4
+requests==2.34.2
+tzdata==2026.5

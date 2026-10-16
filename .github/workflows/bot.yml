@@ -1,0 +1,100 @@
+name: Wealth & Work Flow bot
+
+on:
+  schedule:
+    # Times are UTC (IST = UTC+5:30). Odd minutes avoid GitHub's busy top-of-hour queue.
+    # News: every 30 min, 05:37-23:07 IST; the code itself only posts 06:00-23:00 IST.
+    - cron: "7,37 0-17 * * *"
+    # FII/DII: every 15 min, 16:32-21:17 IST Mon-Fri; the code only posts 17:00-21:00 IST.
+    - cron: "2,17,32,47 11-15 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "What to run"
+        type: choice
+        options: [selftest, news, fii]
+        default: selftest
+
+permissions:
+  contents: write  # to commit history.json back
+
+concurrency:
+  group: wealthbot  # one run at a time, so history.json never gets conflicting writes
+  cancel-in-progress: false
+
+jobs:
+  run:
+    # Scheduled runs stay off until the repo variable BOT_ENABLED is "true", so the
+    # bot never posts from here and from the local PC at the same time.
+    if: github.event_name == 'workflow_dispatch' || vars.BOT_ENABLED == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+      PYTHONIOENCODING: utf-8
+    steps:
+      - name: Pick task
+        id: pick
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then t="${{ inputs.task }}"
+          elif [ "${{ github.event.schedule }}" = "2,17,32,47 11-15 * * 1-5" ]; then t=fii
+          else t=news; fi
+          echo "task=$t" >> "$GITHUB_OUTPUT"
+          echo "Running: $t"
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: FFmpeg
+        run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+
+      - name: Cache HyperFrames + its Chrome
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.npm
+            ~/.cache/hyperframes
+            ~/.cache/puppeteer
+          key: hyperframes-0.8.164-${{ runner.os }}
+
+      - name: Prepare HyperFrames
+        run: |
+          cd reels/news
+          npx --yes hyperframes@0.8.164 telemetry disable
+          npx --yes hyperframes@0.8.164 browser ensure
+
+      - name: Run
+        run: python run_once.py ${{ steps.pick.outputs.task }}
+
+      - name: Save post history
+        if: always() && steps.pick.outputs.task != 'selftest'
+        run: |
+          git config user.name "wealthbot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add history.json
+          if git diff --cached --quiet; then echo "No history changes"; exit 0; fi
+          git commit -m "Update post history"
+          git pull --rebase -q && git push -q
+
+      - name: Keep this run's cards and reels (3 days)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: media-${{ github.run_id }}
+          path: images/
+          retention-days: 3
+          if-no-files-found: ignore
