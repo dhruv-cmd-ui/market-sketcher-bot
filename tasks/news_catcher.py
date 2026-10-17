@@ -1,14 +1,19 @@
 """Task 1: Event-Driven News Catcher.
 
-Polls official RSS feeds between 06:00 and 23:00 IST and posts the best new item
-(SEBI first, then newest) as a still card to Telegram and an animated Reel to
-Instagram + Facebook. Pacing: MAX_NEWS_PER_RUN per check, MAX_NEWS_PER_DAY per day,
-and items older than NEWS_MAX_AGE_HOURS are skipped.
+Polls RSS feeds (SEBI + ET Markets, Mint and Business Standard) between 06:00 and
+23:00 IST and posts the best new item as a still card to Telegram and an animated
+Reel to Instagram + Facebook.
+
+Selection: SEBI press releases/circulars first (routine enforcement filings are
+skipped), then the newest market story from any outlet. A story another outlet
+already covered (similar headline) is skipped. Pacing: MAX_NEWS_PER_RUN per check,
+MAX_NEWS_PER_DAY per day, items older than NEWS_MAX_AGE_HOURS skipped.
 """
 import calendar
 import datetime
 import html
 import logging
+import re
 import time
 
 import config
@@ -23,12 +28,46 @@ from multi_publish import post_card_to_telegram, post_reel_to_meta
 logger = logging.getLogger(__name__)
 
 
+_SOURCES = {
+    "sebi.gov.in": "SEBI",
+    "economictimes.indiatimes.com": "ET Markets",
+    "livemint.com": "Mint",
+    "business-standard.com": "Business Standard",
+}
+
+# SEBI's feed is mostly individual enforcement filings (appeals, recovery and
+# attachment notices) that aren't news for followers; press releases and
+# circulars are kept.
+_ROUTINE_SEBI_TITLE = re.compile(
+    r"\b(appeal no|recovery proceedings?|notice of attachment|attachment notice|demand notice|"
+    r"recovery certificate|release order|summons|adjudication order|settlement order)\b",
+    re.IGNORECASE,
+)
+
+_STOPWORDS = set(
+    "a an and are as at be by for from has have in into is it its of on or over says the to "
+    "up was were will with after amid than this that new rs cr crore lakh per".split()
+)
+
+
 def _card_meta(link: str) -> tuple[str, str]:
-    if "sebi.gov.in" in link:
-        return "SEBI UPDATE", "SEBI"
-    if "economictimes" in link:
-        return "MARKET UPDATE", "ET Markets"
-    return "MARKET UPDATE", "News"
+    source = next((name for host, name in _SOURCES.items() if host in link), "News")
+    return ("SEBI UPDATE" if source == "SEBI" else "MARKET UPDATE"), source
+
+
+def _is_routine_sebi(link: str, title: str) -> bool:
+    return "sebi.gov.in" in link and ("/enforcement/" in link or bool(_ROUTINE_SEBI_TITLE.search(title)))
+
+
+def _words(title: str) -> set[str]:
+    return {w for w in re.findall(r"[a-z0-9]+", title.lower()) if len(w) > 2 and w not in _STOPWORDS}
+
+
+def _same_story(a: set[str], b: set[str]) -> bool:
+    """Headlines from different outlets about one story share most of their key words."""
+    if min(len(a), len(b)) < 4:
+        return False
+    return len(a & b) / min(len(a), len(b)) >= 0.6
 
 
 def _date_only(entry) -> datetime.datetime | None:
@@ -59,11 +98,13 @@ def _published_ts(entry) -> float | None:
 
 
 def _collect_candidates() -> list:
-    """New entries, best first: earlier feeds in RSS_FEEDS win, then newest first.
-    Entries older than NEWS_MAX_AGE_HOURS are marked processed and dropped."""
+    """New entries, best first: SEBI, then every other feed merged newest first.
+    Routine SEBI filings, stale items and stories already posted by another
+    outlet are marked processed and dropped."""
     now = time.time()
-    candidates, stale = [], 0
-    for priority, feed_url in enumerate(config.RSS_FEEDS):
+    posted = [_words(t) for t in history_store.recent_titles()]
+    candidates, stale, routine, duplicate = [], 0, 0, 0
+    for feed_index, feed_url in enumerate(config.RSS_FEEDS):
         try:
             parsed = feeds.fetch(feed_url)
         except Exception:
@@ -77,18 +118,51 @@ def _collect_candidates() -> list:
             link = getattr(entry, "link", None)
             if not link or history_store.is_news_processed(link):
                 continue
+            title = html.unescape(getattr(entry, "title", "")).strip()
+            if _is_routine_sebi(link, title):
+                history_store.mark_news_processed(link)
+                routine += 1
+                continue
             ts = _published_ts(entry)
             # Entries with no readable date at all are treated as fresh.
             if ts is not None and now - ts > config.NEWS_MAX_AGE_HOURS * 3600:
                 history_store.mark_news_processed(link)
                 stale += 1
                 continue
+            words = _words(title)
+            if any(_same_story(words, p) for p in posted):
+                history_store.mark_news_processed(link)
+                duplicate += 1
+                continue
+            priority = 0 if "sebi.gov.in" in link else 1
             # Feeds list newest first, so position breaks ties for undated items.
-            candidates.append((priority, -(ts or now), position, entry))
-    if stale:
-        logger.info("News Catcher: skipped %d item(s) older than %.0fh.", stale, config.NEWS_MAX_AGE_HOURS)
-    candidates.sort(key=lambda c: c[:3])
-    return [c[3] for c in candidates]
+            candidates.append((priority, -(ts or now), feed_index, position, entry, words))
+    if routine or stale or duplicate:
+        logger.info("News Catcher: skipped %d routine SEBI filing(s), %d item(s) older than %.0fh, "
+                    "%d story(ies) already posted by another outlet.",
+                    routine, stale, config.NEWS_MAX_AGE_HOURS, duplicate)
+    candidates.sort(key=lambda c: c[:4])
+
+    # Rotate between outlets (each one's newest, then each one's next newest, ...)
+    # so a prolific feed like ET Markets doesn't take every slot.
+    seen_per_source = {}
+    ranked = []
+    for c in candidates:
+        source = _card_meta(c[4].link)[1]
+        turn = seen_per_source.get(source, 0)
+        seen_per_source[source] = turn + 1
+        ranked.append((c[0], turn) + c)
+    ranked.sort(key=lambda r: r[:6])
+    candidates = [r[2:] for r in ranked]
+
+    # One story can sit in several feeds at once; keep only its best copy.
+    picked, picked_words = [], []
+    for *_, entry, words in candidates:
+        if any(_same_story(words, w) for w in picked_words):
+            continue
+        picked.append(entry)
+        picked_words.append(words)
+    return picked
 
 
 def _process_entry(entry) -> bool:
@@ -115,6 +189,7 @@ def _process_entry(entry) -> bool:
         logger.warning("Telegram post failed for %s; will retry next cycle.", link)
         return False
     history_store.mark_news_processed(link)
+    history_store.add_recent_title(title)
     logger.info("News item processed and marked: %s", link)
 
     # The Reel (Instagram + Facebook only) must never affect the Telegram card post.

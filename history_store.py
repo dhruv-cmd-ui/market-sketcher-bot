@@ -50,6 +50,20 @@ def mark_news_processed(url: str) -> None:
             save(data)
 
 
+def recent_titles() -> list[str]:
+    with _lock:
+        return list(load().get("recent_titles", []))
+
+
+def add_recent_title(title: str) -> None:
+    with _lock:
+        data = load()
+        titles = data.get("recent_titles", [])
+        titles.append(title)
+        data["recent_titles"] = titles[-80:]
+        save(data)
+
+
 def daily_count(key: str, date_str: str) -> int:
     """Per-IST-day counter (e.g. "reels_posted", "news_posted"); resets when the date changes."""
     with _lock:

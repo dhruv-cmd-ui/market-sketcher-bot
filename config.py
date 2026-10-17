@@ -43,9 +43,13 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
 
 # --- RSS feeds for the News Catcher ---
+# SEBI is always posted first; the market feeds are merged newest-first.
+# (Moneycontrol's RSS feeds are stale -- newest items are years old -- so they're not used.)
 _default_feeds = (
     "https://www.sebi.gov.in/sebirss.xml,"
-    "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"
+    "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms,"
+    "https://www.livemint.com/rss/markets,"
+    "https://www.business-standard.com/rss/markets-106.rss"
 )
 RSS_FEEDS = [
     url.strip()
