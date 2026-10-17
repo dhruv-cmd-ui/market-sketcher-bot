@@ -146,6 +146,7 @@ def run() -> None:
     try:
         reel_path = reel_render.render_fii_dii_reel(report_date, values)
         logger.info("FII/DII Monitor: reel rendered at %s", reel_path)
-        post_reel_to_meta(reel_path, content["social_caption"])
+        post_reel_to_meta(reel_path, gemini_client.with_keywords(content["social_caption"],
+                                                                 content.get("keywords", [])))
     except Exception:
         logger.warning("FII/DII Monitor: reel render/post failed.", exc_info=True)

@@ -23,6 +23,7 @@ import history_store
 import backgrounds
 import image_render
 import reel_render
+import token_monitor
 from multi_publish import post_card_to_telegram, post_reel_to_meta
 
 logger = logging.getLogger(__name__)
@@ -180,10 +181,16 @@ def _process_entry(entry) -> bool:
         content = {
             "telegram_caption": f"{header.title()}: {title}\n\nRead more: {link}",
             "social_caption": f"{title}\n\n#StockMarket #IndianStockMarket #Nifty #Sensex #{source.replace(' ', '')}",
+            "title": "",
+            "keywords": [],
         }
+    # Gemini's catchy title goes on the image; the original headline is the fallback
+    # and is still what de-duplication compares against.
+    display_title = content.get("title") or title
+    social_caption = gemini_client.with_keywords(content["social_caption"], content.get("keywords", []))
     date = _published_date(entry)
     background = backgrounds.get_background(title or link)
-    local_path = image_render.render_news_card(header, title, source, date, background)
+    local_path = image_render.render_news_card(header, display_title, source, date, background)
 
     if not post_card_to_telegram(local_path, content["telegram_caption"]):
         logger.warning("Telegram post failed for %s; will retry next cycle.", link)
@@ -194,9 +201,9 @@ def _process_entry(entry) -> bool:
 
     # The Reel (Instagram + Facebook only) must never affect the Telegram card post.
     try:
-        reel_path = reel_render.render_news_reel(header, title, source, date, background[0])
+        reel_path = reel_render.render_news_reel(header, display_title, source, date, background[0])
         logger.info("News reel rendered at %s", reel_path)
-        post_reel_to_meta(reel_path, content["social_caption"])
+        post_reel_to_meta(reel_path, social_caption)
     except Exception:
         logger.warning("News reel render/post failed for %s.", link, exc_info=True)
     return True
@@ -206,6 +213,11 @@ def run() -> None:
     now = datetime.datetime.now(config.IST)
     if not (config.NEWS_WINDOW_START_HOUR <= now.hour < config.NEWS_WINDOW_END_HOUR):
         return
+    try:
+        token_monitor.check_meta_token()  # once a day; never blocks posting
+    except Exception:
+        logger.exception("Meta token check failed.")
+
     today = now.date().isoformat()
     remaining = config.MAX_NEWS_PER_DAY - history_store.daily_count("news_posted", today)
     if remaining <= 0:

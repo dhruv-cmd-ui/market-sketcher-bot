@@ -50,6 +50,18 @@ def mark_news_processed(url: str) -> None:
             save(data)
 
 
+def get_value(key: str):
+    with _lock:
+        return load().get(key)
+
+
+def set_value(key: str, value) -> None:
+    with _lock:
+        data = load()
+        data[key] = value
+        save(data)
+
+
 def recent_titles() -> list[str]:
     with _lock:
         return list(load().get("recent_titles", []))

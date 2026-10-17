@@ -45,7 +45,11 @@ REEL_HANDLE = os.getenv("REEL_HANDLE", "@marketsketchbook")
 
 # --- Telegram ---
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")  # the public channel
+# Your private chat with the bot, for maintenance alerts (never the public channel).
+ADMIN_CHAT_ID = os.getenv("ADMIN_CHAT_ID", "")
+# Start warning this many days before the Meta token loses access.
+META_TOKEN_WARN_DAYS = int(os.getenv("META_TOKEN_WARN_DAYS", "14"))
 
 # --- RSS feeds for the News Catcher ---
 # SEBI is always posted first; the market feeds are merged newest-first.

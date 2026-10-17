@@ -21,3 +21,10 @@ def post(local_image_path: str, caption: str) -> None:
     if resp.status_code != 200:
         raise RuntimeError(f"Telegram sendPhoto failed ({resp.status_code}): {resp.text}")
 
+
+def send_text(chat_id: str, text: str) -> None:
+    resp = requests.post(f"{_API_BASE}/bot{config.TELEGRAM_BOT_TOKEN}/sendMessage",
+                         data={"chat_id": chat_id, "text": text}, timeout=30)
+    if resp.status_code != 200:
+        raise RuntimeError(f"Telegram sendMessage failed ({resp.status_code}): {resp.text}")
+

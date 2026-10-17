@@ -39,10 +39,17 @@ def _parse_json_response(text: str) -> dict:
         raise
 
 
+MAX_TITLE_CHARS = 90
+MAX_KEYWORDS = 8
+
+
 def generate_content(context: str) -> dict:
     """
-    Returns a dict with keys: social_caption, telegram_caption.
+    Returns a dict with keys: social_caption, telegram_caption, title, keywords.
+    `title` is "" and `keywords` is [] when Gemini doesn't return usable ones,
+    so callers fall back to the original headline.
     `context` is the raw factual material (news summary, or FII/DII numbers).
+    One request per post: the free tier allows only ~20 requests/day per model.
     """
     client = _get_client()
 
@@ -52,8 +59,13 @@ Context / facts to base the post on:
 {context}
 
 Respond with ONLY a valid JSON object (no markdown fences, no commentary) with exactly these keys:
-- "social_caption": an engaging Instagram/Facebook caption (2-4 short sentences) ending with 3-5 relevant, dynamic trending hashtags for Indian stock market content.
+- "title": a catchy, scroll-stopping headline for the post image, at most 12 words. It must stay strictly
+  accurate to the facts above: no new facts, numbers copied exactly, no false urgency or misleading clickbait.
+- "social_caption": an engaging Instagram/Facebook caption (2-4 short sentences) that naturally uses the main
+  keywords, ending with 3-5 relevant, dynamic trending hashtags for Indian stock market content.
 - "telegram_caption": a slightly more detailed caption suited for a Telegram channel, plain text, no hashtags required.
+- "keywords": a JSON array of 5-8 short search keywords or phrases people would type into Instagram or Google
+  to find this topic (for example a company name plus "Q2 results", "Nifty 50 today", "FII DII data").
 """
 
     response = None
@@ -76,4 +88,21 @@ Respond with ONLY a valid JSON object (no markdown fences, no commentary) with e
     for key in ("social_caption", "telegram_caption"):
         if key not in data or not isinstance(data[key], str) or not data[key].strip():
             raise ValueError(f"Gemini response missing/invalid '{key}': {data!r}")
+
+    title = data.get("title")
+    title = " ".join(title.split()).strip(' "') if isinstance(title, str) else ""
+    data["title"] = title if 0 < len(title) <= MAX_TITLE_CHARS else ""
+
+    keywords = data.get("keywords")
+    cleaned = []
+    for k in keywords if isinstance(keywords, list) else []:
+        k = " ".join(str(k).split()).strip(" #")
+        if k and k.lower() not in {c.lower() for c in cleaned}:
+            cleaned.append(k)
+    data["keywords"] = cleaned[:MAX_KEYWORDS]
     return data
+
+
+def with_keywords(caption: str, keywords: list[str]) -> str:
+    """Appends search keywords to a caption; Instagram and Facebook index caption text for search."""
+    return f"{caption}\n\nTopics: {' · '.join(keywords)}" if keywords else caption
