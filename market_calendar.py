@@ -1,12 +1,17 @@
 """NSE trading-day calendar: weekends plus NSE's cash-market trading holidays.
 
-The holiday list comes from NSE's own holiday API, refreshed weekly and cached in
-history.json. If NSE can't be reached it falls back to the cache, then to the
-built-in list below (update it each December from NSE's published calendar).
+Zero-maintenance: no dates are stored in the code. Sources, in order:
+  1. NSE's own holiday API
+  2. Upstox's public market-holidays API (no key needed), if NSE is unreachable
+  3. the last list either source returned, cached in history.json, if both are down
+  4. the `holidays` package's computed NSE calendar, which works offline for any
+     year (it can't know one-off holidays such as an election day)
+A successful online fetch is cached and refreshed weekly.
 """
 import datetime
 import logging
 
+import holidays
 import requests
 
 import config
@@ -14,53 +19,64 @@ import history_store
 
 logger = logging.getLogger(__name__)
 
-_HOLIDAY_API = "https://www.nseindia.com/api/holiday-master"
+_NSE_API = "https://www.nseindia.com/api/holiday-master"
+_UPSTOX_API = "https://api.upstox.com/v2/market/holidays"
 _REFRESH_DAYS = 7
 
-# NSE cash-market (CM) trading holidays, as published by NSE.
-_BUILT_IN = {
-    2026: ["2026-01-15", "2026-01-26", "2026-02-15", "2026-03-03", "2026-03-21", "2026-03-26",
-           "2026-03-31", "2026-04-03", "2026-04-14", "2026-05-01", "2026-05-28", "2026-06-26",
-           "2026-08-15", "2026-09-14", "2026-10-02", "2026-10-20", "2026-11-08", "2026-11-10",
-           "2026-11-24", "2026-12-25"],
-}
 
-
-def _fetch_from_nse() -> list[str]:
+def _from_nse(year: int) -> list[str]:
     session = requests.Session()
     session.headers.update(config.SCRAPE_HEADERS)
     try:
         session.get(config.NSE_HOME_URL, timeout=15)  # cookie priming; NSE sometimes answers 403 here
     except requests.RequestException:
         pass
-    resp = session.get(_HOLIDAY_API, params={"type": "trading"}, timeout=20)
+    resp = session.get(_NSE_API, params={"type": "trading"}, timeout=20)
     resp.raise_for_status()
-    dates = [datetime.datetime.strptime(h["tradingDate"], "%d-%b-%Y").date().isoformat()
+    dates = [datetime.datetime.strptime(h["tradingDate"], "%d-%b-%Y").date()
              for h in resp.json().get("CM", [])]
-    if not dates:
-        raise ValueError("NSE holiday list came back empty")
-    return dates
+    return [d.isoformat() for d in dates if d.year == year]
+
+
+def _from_upstox(year: int) -> list[str]:
+    resp = requests.get(_UPSTOX_API, headers={"Accept": "application/json"}, timeout=20)
+    resp.raise_for_status()
+    body = resp.json()
+    if body.get("status") != "success":
+        raise ValueError(f"Upstox holidays API returned {body.get('status')!r}")
+    return [h["date"] for h in body.get("data", [])
+            if h.get("holiday_type") == "TRADING_HOLIDAY" and "NSE" in (h.get("closed_exchanges") or [])
+            and h.get("date", "").startswith(str(year))]
+
+
+def _computed(year: int) -> list[str]:
+    return [d.isoformat() for d in holidays.financial_holidays("XNSE", years=year)]
 
 
 def _holidays(today: datetime.date) -> set[str]:
     cached = history_store.get_value("nse_holidays") or {}
-    fetched_on = cached.get("fetched_on")
-    fresh = (fetched_on and cached.get("year") == today.year and
-             (today - datetime.date.fromisoformat(fetched_on)).days < _REFRESH_DAYS)
-    if not fresh:
+    same_year = cached.get("year") == today.year and cached.get("dates")
+    if same_year and cached.get("fetched_on") and \
+            (today - datetime.date.fromisoformat(cached["fetched_on"])).days < _REFRESH_DAYS:
+        return set(cached["dates"])
+
+    for name, fetch in (("NSE", _from_nse), ("Upstox", _from_upstox)):
         try:
-            dates = _fetch_from_nse()
-            cached = {"year": today.year, "fetched_on": today.isoformat(), "dates": dates}
-            history_store.set_value("nse_holidays", cached)
-            logger.info("Refreshed NSE holiday list: %d holidays.", len(dates))
-        except Exception:
-            logger.warning("Could not refresh NSE holidays; using cached/built-in list.", exc_info=True)
-    dates = set(cached.get("dates", [])) if cached.get("year") == today.year else set()
-    if not dates:
-        dates = set(_BUILT_IN.get(today.year, []))
-        if not dates:
-            logger.warning("No NSE holiday list for %d; only weekends are treated as closed.", today.year)
-    return dates
+            dates = fetch(today.year)
+            if not dates:
+                raise ValueError("empty holiday list")
+            history_store.set_value("nse_holidays", {"year": today.year, "fetched_on": today.isoformat(),
+                                                      "source": name, "dates": dates})
+            logger.info("NSE holiday list refreshed from %s: %d holidays in %d.", name, len(dates), today.year)
+            return set(dates)
+        except Exception as exc:
+            logger.warning("Holiday source %s unavailable: %s", name, exc)
+
+    if same_year:
+        logger.warning("Using the cached NSE holiday list from %s (%s).", cached.get("fetched_on"), cached.get("source"))
+        return set(cached["dates"])
+    logger.warning("Using the computed NSE holiday calendar for %d (may miss one-off holidays).", today.year)
+    return set(_computed(today.year))
 
 
 def is_trading_day(day: datetime.date | None = None) -> bool:
