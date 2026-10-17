@@ -6,8 +6,8 @@ Reel to Instagram + Facebook.
 
 Selection: SEBI press releases/circulars first (routine enforcement filings are
 skipped), then the newest market story from any outlet. A story another outlet
-already covered (similar headline) is skipped. Pacing: MAX_NEWS_PER_RUN per check,
-MAX_NEWS_PER_DAY per day, items older than NEWS_MAX_AGE_HOURS skipped.
+already covered (similar headline) is skipped. Pacing: MAX_NEWS_PER_RUN per check (no
+daily cap on Telegram), items older than NEWS_MAX_AGE_HOURS skipped.
 """
 import calendar
 import datetime
@@ -24,7 +24,7 @@ import backgrounds
 import image_render
 import reel_render
 import token_monitor
-from multi_publish import post_card_to_telegram, post_reel_to_meta
+from multi_publish import meta_configured, post_card_to_telegram, post_reel_to_meta, reels_left
 
 logger = logging.getLogger(__name__)
 
@@ -200,6 +200,9 @@ def _process_entry(entry) -> bool:
     logger.info("News item processed and marked: %s", link)
 
     # The Reel (Instagram + Facebook only) must never affect the Telegram card post.
+    if meta_configured() and reels_left("news") <= 0:
+        logger.info("Today's news Reel slots are used up; Telegram card only.")
+        return True
     try:
         reel_path = reel_render.render_news_reel(header, display_title, source, date, background[0])
         logger.info("News reel rendered at %s", reel_path)
@@ -219,10 +222,6 @@ def run() -> None:
         logger.exception("Meta token check failed.")
 
     today = now.date().isoformat()
-    remaining = config.MAX_NEWS_PER_DAY - history_store.daily_count("news_posted", today)
-    if remaining <= 0:
-        logger.info("News Catcher: daily cap of %d posts reached.", config.MAX_NEWS_PER_DAY)
-        return
 
     logger.info("News Catcher: checking feeds...")
     candidates = _collect_candidates()
@@ -230,7 +229,7 @@ def run() -> None:
         logger.info("News Catcher: no new items.")
         return
 
-    for entry in candidates[: min(config.MAX_NEWS_PER_RUN, remaining)]:
+    for entry in candidates[: config.MAX_NEWS_PER_RUN]:
         try:
             if _process_entry(entry):
                 history_store.increment_daily_count("news_posted", today)

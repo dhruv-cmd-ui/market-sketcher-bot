@@ -98,8 +98,14 @@ GEMINI_FALLBACK_MODELS = [
 ]
 
 # Reels posted to Instagram/Facebook per IST day. Facebook allows 30 API posts per
-# 24h and Instagram 100; staying under them avoids account restrictions.
+# 24h and Instagram 100; staying under them avoids account restrictions. On NSE
+# trading days one of these is held back for the FII/DII Reel until it posts or
+# its window closes.
 MAX_REELS_PER_DAY = int(os.getenv("MAX_REELS_PER_DAY", "25"))
+
+# FII/DII polling window (IST hours, weekdays).
+FII_WINDOW_START_HOUR = int(os.getenv("FII_WINDOW_START_HOUR", "17"))
+FII_WINDOW_END_HOUR = int(os.getenv("FII_WINDOW_END_HOUR", "21"))
 
 # Generated cards/reels in images/ older than this are deleted daily.
 MEDIA_RETENTION_DAYS = int(os.getenv("MEDIA_RETENTION_DAYS", "7"))
@@ -108,9 +114,8 @@ MEDIA_RETENTION_DAYS = int(os.getenv("MEDIA_RETENTION_DAYS", "7"))
 # News is only posted between these IST hours (start inclusive, end exclusive).
 NEWS_WINDOW_START_HOUR = int(os.getenv("NEWS_WINDOW_START_HOUR", "6"))
 NEWS_WINDOW_END_HOUR = int(os.getenv("NEWS_WINDOW_END_HOUR", "23"))
-# Items posted per 30-minute check, and per IST day. Feeds listed first in
-# RSS_FEEDS get priority (SEBI is first by default).
+# Items posted per 30-minute check. Telegram has no daily cap; Reels are limited
+# by MAX_REELS_PER_DAY instead.
 MAX_NEWS_PER_RUN = int(os.getenv("MAX_NEWS_PER_RUN", "1"))
-MAX_NEWS_PER_DAY = int(os.getenv("MAX_NEWS_PER_DAY", "20"))
 # Items older than this are skipped (e.g. the overnight backlog at 6 AM).
 NEWS_MAX_AGE_HOURS = float(os.getenv("NEWS_MAX_AGE_HOURS", "12"))

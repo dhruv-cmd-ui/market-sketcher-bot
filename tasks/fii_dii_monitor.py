@@ -33,8 +33,8 @@ _DATE_FORMATS = ["%d-%b-%Y", "%d-%m-%Y", "%d/%m/%Y"]
 def _in_scrape_window(now_ist: datetime.datetime) -> bool:
     if now_ist.weekday() > 4:  # Mon=0 ... Sun=6
         return False
-    start = now_ist.replace(hour=17, minute=0, second=0, microsecond=0)
-    end = now_ist.replace(hour=21, minute=0, second=0, microsecond=0)
+    start = now_ist.replace(hour=config.FII_WINDOW_START_HOUR, minute=0, second=0, microsecond=0)
+    end = now_ist.replace(hour=config.FII_WINDOW_END_HOUR, minute=0, second=0, microsecond=0)
     return start <= now_ist <= end
 
 
@@ -147,6 +147,6 @@ def run() -> None:
         reel_path = reel_render.render_fii_dii_reel(report_date, values)
         logger.info("FII/DII Monitor: reel rendered at %s", reel_path)
         post_reel_to_meta(reel_path, gemini_client.with_keywords(content["social_caption"],
-                                                                 content.get("keywords", [])))
+                                                                 content.get("keywords", [])), kind="fii")
     except Exception:
         logger.warning("FII/DII Monitor: reel render/post failed.", exc_info=True)
