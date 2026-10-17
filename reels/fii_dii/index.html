@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en" data-resolution="portrait" data-composition-variables='[
+  {"id":"handle","type":"string","label":"Social handle","default":"@marketsketchbook"},
   {"id":"date_label","type":"string","label":"Date label","default":"Friday, 16 Oct 2026"},
   {"id":"fii_buy","type":"number","label":"FII buy (Cr)","default":19951.59},
   {"id":"fii_sell","type":"number","label":"FII sell (Cr)","default":18785.67},
@@ -105,7 +106,7 @@
 
         <div class="footer" id="footer">
           <div class="src">Source: NSE &middot; Provisional &middot; &#8377; Crore</div>
-          <div class="handle">@wealthandworkflow</div>
+          <div class="handle"></div>
         </div>
       </div>
       <audio id="music" class="clip" src="assets/audio/music.wav" data-start="0" data-duration="9" data-volume="0.5" data-fade-out="1.0"></audio>
@@ -121,6 +122,7 @@
       const fmt = (n) => "₹" + Math.abs(n).toLocaleString("en-IN", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " Cr";
       const signed = (n) => (n >= 0 ? "+" : "−") + fmt(n);
       const $ = (id) => document.getElementById(id);
+      document.querySelectorAll(".handle, .cta-handle").forEach((el) => { el.textContent = v.handle; });
 
       $("subtitle").textContent = "Cash Market · " + v.date_label;
       const scaleMax = Math.max(v.fii_buy, v.fii_sell, v.dii_buy, v.dii_sell) || 1;

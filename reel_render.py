@@ -50,6 +50,7 @@ def _render_unlocked(project_dir, variables: dict, stem: str) -> str:
 def render_fii_dii_reel(report_date: datetime.date, values: dict) -> str:
     fii, dii = values["fii"], values["dii"]
     return _render(FII_DII_PROJECT, {
+        "handle": config.REEL_HANDLE,
         "date_label": report_date.strftime("%A, %d %b %Y"),
         "fii_buy": fii["buy"], "fii_sell": fii["sell"], "fii_net": fii["net"],
         "dii_buy": dii["buy"], "dii_sell": dii["sell"], "dii_net": dii["net"],
@@ -64,6 +65,7 @@ def render_news_reel(header: str, headline: str, source: str, date: datetime.dat
     background.convert("RGB").save(bg_path, quality=90)
     try:
         return _render(NEWS_PROJECT, {
+            "handle": config.REEL_HANDLE,
             "header": header,
             "headline": " ".join(headline.split()),
             "source": source,

@@ -114,7 +114,7 @@ def render_fii_dii_card(report_date: datetime.date, values: dict) -> str:
 
     d.line([_s(72), _s(948), _s(1008), _s(948)], fill=TRACK, width=_s(2))
     _text(d, (72, 1000), "Source: NSE  \u00b7  Values in \u20b9 Crore", "Regular", 24, MUTED, anchor="lm")
-    _text(d, (1008, 1000), "@wealthandworkflow", "SemiBold", 24, ACCENT, anchor="rm")
+    _text(d, (1008, 1000), config.CARD_HANDLE, "SemiBold", 24, ACCENT, anchor="rm")
 
     return _save(img, f"fii_dii_{report_date.isoformat()}")
 
@@ -225,7 +225,7 @@ def render_news_card(header: str, headline: str, source: str, date: datetime.dat
     d.line([_s(NEWS_LEFT), _s(960), _s(NEWS_RIGHT), _s(960)], fill=(255, 255, 255, 70), width=_s(2))
     _text(d, (NEWS_LEFT, 1010), f"{date.strftime('%d %b %Y')}  ·  {source}", "Medium", 24,
           (220, 226, 235, 255), anchor="lm")
-    _text(d, (NEWS_RIGHT, 1010), "@wealthandworkflow", "SemiBold", 24, (255, 255, 255, 255), anchor="rm")
+    _text(d, (NEWS_RIGHT, 1010), config.CARD_HANDLE, "SemiBold", 24, (255, 255, 255, 255), anchor="rm")
 
     img = Image.alpha_composite(img, layer).convert("RGB")
     return _save(img, f"news_{date.isoformat()}")

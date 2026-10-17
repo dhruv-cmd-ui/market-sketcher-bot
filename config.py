@@ -38,6 +38,11 @@ META_ACCESS_TOKEN = os.getenv("META_ACCESS_TOKEN", "")
 GRAPH_API_VERSION = os.getenv("GRAPH_API_VERSION", "v25.0")
 GRAPH_API_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
 
+# --- Branding ---
+# Telegram cards point to the Telegram channel; Reels go to Instagram/Facebook.
+CARD_HANDLE = os.getenv("CARD_HANDLE", "@wealthandworkflow")
+REEL_HANDLE = os.getenv("REEL_HANDLE", "@marketsketchbook")
+
 # --- Telegram ---
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")

@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en" data-resolution="portrait" data-composition-variables='[
+  {"id":"handle","type":"string","label":"Social handle","default":"@marketsketchbook"},
   {"id":"header","type":"string","label":"Category pill","default":"SEBI UPDATE"},
   {"id":"headline","type":"string","label":"Headline","default":"SEBI tightens F&O eligibility norms for stocks; new rules kick in from December 2026"},
   {"id":"source","type":"string","label":"Source","default":"SEBI"},
@@ -75,11 +76,11 @@
           <div id="cta">
             <div class="cta-eyebrow">STAY AHEAD OF THE MARKET</div>
             <div class="cta-title">Follow for daily market updates</div>
-            <div class="cta-handle">@wealthandworkflow</div>
+            <div class="cta-handle"></div>
             <div class="cta-sub">SEBI updates &middot; FII / DII data &middot; Market news</div>
           </div>
 
-          <div id="footer"><div class="meta" id="footer-meta"></div><div class="handle">@wealthandworkflow</div></div>
+          <div id="footer"><div class="meta" id="footer-meta"></div><div class="handle"></div></div>
           <div id="progress"></div>
           <div id="flash"></div>
         </div>
@@ -98,6 +99,7 @@
     <script>
       const v = window.__hyperframes.getVariables();
       const $ = (id) => document.getElementById(id);
+      document.querySelectorAll(".handle, .cta-handle").forEach((el) => { el.textContent = v.handle; });
 
       $("bg").src = v.bg_src;
       $("pill").textContent = v.header;
