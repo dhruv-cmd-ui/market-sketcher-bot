@@ -280,12 +280,18 @@
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-results-net-profit-jumps-29-yoy-to-rs-6367-crore-nii-up-24/articleshow/135048431.cms",
     "https://www.livemint.com/market/stock-market-news/105-billion-worth-of-shares-spacex-boss-elon-musk-to-give-one-share-to-every-us-child-how-many-shares-does-he-own-11792411456791.html",
-    "https://www.business-standard.com/markets/mutual-fund/sbi-mutual-fund-leans-on-brand-sbi-s-network-to-deepen-b-30-penetration-126101900987_1.html"
+    "https://www.business-standard.com/markets/mutual-fund/sbi-mutual-fund-leans-on-brand-sbi-s-network-to-deepen-b-30-penetration-126101900987_1.html",
+    "https://www.business-standard.com/markets/news/risk-reward-setup-favours-bears-lemon-tree-among-3-stock-ideas-angel-one-126101900057_1.html",
+    "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
+    "https://www.business-standard.com/markets/commodities/oil-slips-as-trump-s-sanction-waiver-may-lead-to-more-russian-fuel-supplies-126101900025_1.html",
+    "https://www.business-standard.com/markets/news/stocks-to-buy-today-groww-nazara-hcl-tech-choice-broking-is-bullish-on-3-stocks-here-s-why-126101900054_1.html",
+    "https://www.business-standard.com/markets/news/asian-stocks-skid-on-ai-worries-wall-street-and-bonds-aided-by-oil-slip-126101900040_1.html",
+    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-nse-declares-date-time-for-special-trading-session-details-here-11792417487197.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-19",
-    "count": 19
+    "count": 20
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -360,11 +366,12 @@
     "Reliance-backed Jio Platforms IPO: Will investors prefer Jio shares over RIL stock? What shareholders should know",
     "Gold price to touch  \u20b91.60 lakh by Dec 2026 end? Time to buy? What experts say to earn money from yellow metal deals",
     "$10.5 billion worth of shares! SpaceX boss Elon Musk to give one share to every US child \u2014 how many shares does he own?",
-    "SBI Mutual Fund leans on brand, SBI's network to deepen B-30 penetration"
+    "SBI Mutual Fund leans on brand, SBI's network to deepen B-30 penetration",
+    "Diwali Muhurat trading 2026: NSE declares date, time for special trading session. Details here"
   ],
   "reels_posted": {
     "date": "2026-10-19",
-    "count": 21
+    "count": 22
   },
   "meta_token_checked_on": "2026-10-19",
   "nse_holidays": {
@@ -396,6 +403,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-19",
-    "next": "reel"
+    "next": "post"
   }
 }
