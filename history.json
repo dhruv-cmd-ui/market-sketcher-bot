@@ -258,12 +258,13 @@
     "https://www.business-standard.com/markets/news/sebi-s-cas-rollback-may-offer-new-lifeline-to-indian-derivatives-market-126101900078_1.html",
     "https://www.business-standard.com/markets/news/icici-bank-shares-gain-1-after-q2-results-brokerages-remain-bullish-126101900131_1.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-as-ai-investment-worries-weigh-on-chipmakers/articleshow/135039691.cms",
-    "https://www.livemint.com/market/stock-market-news/suzlon-shares-crash-over-20-in-six-months-experts-predict-a-strong-rebound-after-re-rating-target-price-stoploss-11792384372732.html"
+    "https://www.livemint.com/market/stock-market-news/suzlon-shares-crash-over-20-in-six-months-experts-predict-a-strong-rebound-after-re-rating-target-price-stoploss-11792384372732.html",
+    "https://www.business-standard.com/markets/commodities/gold-silver-prices-rise-as-traders-pare-bets-on-october-fed-rate-hike-126101900270_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-16",
   "news_posted": {
     "date": "2026-10-19",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -327,11 +328,12 @@
     "RIL nears technical breakout amid Jio IPO buzz: Anand James shares the outlook",
     "U-turn from regulator may be new lifeline to Indian derivatives",
     "ICICI Bank gains 1% post Q2 results; analysts upbeat on asset quality",
-    "Suzlon shares crash over 20% in six months but experts predict a strong rebound - here's why | Target price, stop-loss"
+    "Suzlon shares crash over 20% in six months but experts predict a strong rebound - here's why | Target price, stop-loss",
+    "Gold, silver prices rise as traders pare bets on October Fed rate hike"
   ],
   "reels_posted": {
     "date": "2026-10-19",
-    "count": 8
+    "count": 9
   },
   "meta_token_checked_on": "2026-10-19",
   "nse_holidays": {
@@ -363,6 +365,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-19",
-    "next": "post"
+    "next": "reel"
   }
 }
