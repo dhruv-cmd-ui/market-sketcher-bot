@@ -135,6 +135,6 @@ Meta's app review is **not needed**. The app only posts to accounts you own, and
 1. Add the three values to your local `.env` and run `.venv\Scripts\python scripts\check_meta.py`. Every line should say `OK`.
 2. Add the same three values as GitHub Secrets (Part 1, step 3).
 
-From then on, each news item and each day's FII/DII update goes out as a Reel on Instagram and Facebook, and as a still card on Telegram.
+From then on, each news item and each day's FII/DII update goes out as a still card on Telegram, plus Instagram and Facebook posts: news alternates between a Reel and an Image Post (Reel, Post, Reel, Post..., resetting to Reel each morning); FII/DII always posts both a Reel and an Image Post, since it only happens once a day.
 
-**Limits:** Instagram allows 100 API posts and Facebook 30 per 24 hours. The bot posts at most 25 Reels a day (`MAX_REELS_PER_DAY`). On NSE trading days, 1 of those is held for the FII/DII Reel. Once the day's Reels are used up, news keeps going to Telegram only, until 11 PM.
+**Limits:** Instagram allows 100 API posts and Facebook 30 per 24 hours. The bot posts at most 25 Reels+Posts combined a day (`MAX_REELS_PER_DAY`). On NSE trading days, 2 of those are held for FII/DII's Reel and Image Post. Once the day's Meta slots are used up, news keeps going to Telegram only, until 11 PM.
