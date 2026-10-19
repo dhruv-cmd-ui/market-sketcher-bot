@@ -264,12 +264,17 @@
     "https://www.livemint.com/market/mark-to-market/jio-platforms-ipo-ai-patents-pricing-revenue-airtel-11792388156507.html",
     "https://www.livemint.com/market/stock-market-news/q2-results-today-hindustan-zinc-ireda-l-t-tech-union-bank-bajaj-finance-among-35-companies-to-announce-earnings-11792333351897.html",
     "https://www.livemint.com/market/stock-market-news/dividend-record-date-last-chance-to-buy-today-to-qualify-elecon-icici-prudential-amc-mrpl-who-pays-max-amount-11792336666965.html",
-    "https://www.livemint.com/market/stock-market-news/platinum-industries-share-price-jumps-14-technical-analyst-sees-further-upside-check-key-levels-to-watch-11792393248087.html"
+    "https://www.livemint.com/market/stock-market-news/platinum-industries-share-price-jumps-14-technical-analyst-sees-further-upside-check-key-levels-to-watch-11792393248087.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
+    "https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-16",
   "news_posted": {
     "date": "2026-10-19",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -336,11 +341,12 @@
     "Suzlon shares crash over 20% in six months but experts predict a strong rebound - here's why | Target price, stop-loss",
     "Gold, silver prices rise as traders pare bets on October Fed rate hike",
     "Jio Platforms\u2019 trump card hides in plain sight even as AI and patents may be hazy",
-    "Platinum Industries share price jumps 14%: Technical analyst sees further upside; Check key levels to watch"
+    "Platinum Industries share price jumps 14%: Technical analyst sees further upside; Check key levels to watch",
+    "Eternal Q2 preview: Brokerages expect market share gains, steady margins"
   ],
   "reels_posted": {
     "date": "2026-10-19",
-    "count": 11
+    "count": 12
   },
   "meta_token_checked_on": "2026-10-19",
   "nse_holidays": {
@@ -372,6 +378,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-19",
-    "next": "reel"
+    "next": "post"
   }
 }
