@@ -270,12 +270,14 @@
     "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
     "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
     "https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html",
-    "https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-on-dussehra-are-bse-nse-open-or-closed-for-trading-on-tuesday-20-oct-check-calendar-11792400130338.html"
+    "https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-on-dussehra-are-bse-nse-open-or-closed-for-trading-on-tuesday-20-oct-check-calendar-11792400130338.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-on-october-20-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135040341.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms"
   ],
   "last_fii_dii_post_date": "2026-10-16",
   "news_posted": {
     "date": "2026-10-19",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -344,11 +346,12 @@
     "Jio Platforms\u2019 trump card hides in plain sight even as AI and patents may be hazy",
     "Platinum Industries share price jumps 14%: Technical analyst sees further upside; Check key levels to watch",
     "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
-    "Stock market holiday tomorrow on Dussehra: Are BSE, NSE open or closed for trading on Tuesday 20 Oct? Check calendar"
+    "Stock market holiday tomorrow on Dussehra: Are BSE, NSE open or closed for trading on Tuesday 20 Oct? Check calendar",
+    "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026"
   ],
   "reels_posted": {
     "date": "2026-10-19",
-    "count": 13
+    "count": 14
   },
   "meta_token_checked_on": "2026-10-19",
   "nse_holidays": {
@@ -380,6 +383,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-19",
-    "next": "reel"
+    "next": "post"
   }
 }
