@@ -273,12 +273,13 @@
     "https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-on-dussehra-are-bse-nse-open-or-closed-for-trading-on-tuesday-20-oct-check-calendar-11792400130338.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-on-october-20-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135040341.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
-    "https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html"
+    "https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html",
+    "https://www.livemint.com/market/ipo/reliancebacked-jio-platforms-ipo-will-investors-prefer-jio-shares-over-ril-stock-what-shareholders-should-know-11792406314449.html"
   ],
   "last_fii_dii_post_date": "2026-10-16",
   "news_posted": {
     "date": "2026-10-19",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -349,11 +350,12 @@
     "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
     "Stock market holiday tomorrow on Dussehra: Are BSE, NSE open or closed for trading on Tuesday 20 Oct? Check calendar",
     "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
-    "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX"
+    "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",
+    "Reliance-backed Jio Platforms IPO: Will investors prefer Jio shares over RIL stock? What shareholders should know"
   ],
   "reels_posted": {
     "date": "2026-10-19",
-    "count": 15
+    "count": 16
   },
   "meta_token_checked_on": "2026-10-19",
   "nse_holidays": {
@@ -385,6 +387,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-19",
-    "next": "reel"
+    "next": "post"
   }
 }
