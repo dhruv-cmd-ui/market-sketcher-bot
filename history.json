@@ -269,12 +269,13 @@
     "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
     "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
     "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
-    "https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html"
+    "https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html",
+    "https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-on-dussehra-are-bse-nse-open-or-closed-for-trading-on-tuesday-20-oct-check-calendar-11792400130338.html"
   ],
   "last_fii_dii_post_date": "2026-10-16",
   "news_posted": {
     "date": "2026-10-19",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -342,11 +343,12 @@
     "Gold, silver prices rise as traders pare bets on October Fed rate hike",
     "Jio Platforms\u2019 trump card hides in plain sight even as AI and patents may be hazy",
     "Platinum Industries share price jumps 14%: Technical analyst sees further upside; Check key levels to watch",
-    "Eternal Q2 preview: Brokerages expect market share gains, steady margins"
+    "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
+    "Stock market holiday tomorrow on Dussehra: Are BSE, NSE open or closed for trading on Tuesday 20 Oct? Check calendar"
   ],
   "reels_posted": {
     "date": "2026-10-19",
-    "count": 12
+    "count": 13
   },
   "meta_token_checked_on": "2026-10-19",
   "nse_holidays": {
@@ -378,6 +380,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-19",
-    "next": "post"
+    "next": "reel"
   }
 }
