@@ -289,12 +289,14 @@
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-nse-declares-date-time-for-special-trading-session-details-here-11792417487197.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-bse-announces-date-and-timings-for-special-session-check-details/articleshow/135046488.cms",
     "https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html",
-    "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-should-you-subscribe-anand-rathi-sees-long-term-potential-in-ai-reasonable-valuations-11792414820060.html"
+    "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-should-you-subscribe-anand-rathi-sees-long-term-potential-in-ai-reasonable-valuations-11792414820060.html",
+    "https://www.business-standard.com/markets/interviews/mutual-fund-inflows-insufficient-to-lift-markets-manish-jain-choice-mf-126101900075_1.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-19",
-    "count": 21
+    "count": 22
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -371,11 +373,12 @@
     "$10.5 billion worth of shares! SpaceX boss Elon Musk to give one share to every US child \u2014 how many shares does he own?",
     "SBI Mutual Fund leans on brand, SBI's network to deepen B-30 penetration",
     "Diwali Muhurat trading 2026: NSE declares date, time for special trading session. Details here",
-    "Jio Platforms IPO: Should you subscribe? Anand Rathi sees long-term potential in AI, reasonable valuations"
+    "Jio Platforms IPO: Should you subscribe? Anand Rathi sees long-term potential in AI, reasonable valuations",
+    "Global Markets: French markets tumble as riots add to political crisis"
   ],
   "reels_posted": {
     "date": "2026-10-19",
-    "count": 23
+    "count": 24
   },
   "meta_token_checked_on": "2026-10-19",
   "nse_holidays": {
@@ -407,6 +410,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-19",
-    "next": "reel"
+    "next": "post"
   }
 }
