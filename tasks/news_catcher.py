@@ -24,7 +24,8 @@ import backgrounds
 import image_render
 import reel_render
 import token_monitor
-from multi_publish import meta_configured, post_card_to_telegram, post_reel_to_meta, reels_left
+from multi_publish import (meta_configured, next_meta_action, post_card_to_telegram,
+                           post_photo_to_meta, post_reel_to_meta, reels_left)
 
 logger = logging.getLogger(__name__)
 
@@ -199,16 +200,25 @@ def _process_entry(entry) -> bool:
     history_store.add_recent_title(title)
     logger.info("News item processed and marked: %s", link)
 
-    # The Reel (Instagram + Facebook only) must never affect the Telegram card post.
-    if meta_configured() and reels_left("news") <= 0:
-        logger.info("Today's news Reel slots are used up; Telegram card only.")
-        return True
-    try:
-        reel_path = reel_render.render_news_reel(header, display_title, source, date, background[0])
-        logger.info("News reel rendered at %s", reel_path)
-        post_reel_to_meta(reel_path, social_caption)
-    except Exception:
-        logger.warning("News reel render/post failed for %s.", link, exc_info=True)
+    # Instagram/Facebook (Reel or Image Post, alternating) must never affect the
+    # Telegram card post above, which has already gone out.
+    if meta_configured():
+        do_reel, do_post = next_meta_action("news")
+        if do_reel:
+            if reels_left("news") <= 0:
+                logger.info("No Meta slots left today; skipping the news reel render.")
+            else:
+                try:
+                    reel_path = reel_render.render_news_reel(header, display_title, source, date, background[0])
+                    logger.info("News reel rendered at %s", reel_path)
+                    post_reel_to_meta(reel_path, social_caption, kind="news")
+                except Exception:
+                    logger.warning("News reel render/post failed for %s.", link, exc_info=True)
+        if do_post:
+            try:
+                post_photo_to_meta(local_path, social_caption, kind="news")
+            except Exception:
+                logger.warning("News photo post failed for %s.", link, exc_info=True)
     return True
 
 

@@ -23,7 +23,7 @@ import gemini_client
 import history_store
 import image_render
 import reel_render
-from multi_publish import post_card_to_telegram, post_reel_to_meta
+from multi_publish import post_card_to_telegram, post_photo_to_meta, post_reel_to_meta
 
 logger = logging.getLogger(__name__)
 
@@ -142,11 +142,17 @@ def run() -> None:
         logger.exception("FII/DII Monitor: failed to generate/publish content.")
         return
 
-    # The Reel (Instagram + Facebook only) must never affect the Telegram card post.
+    # Instagram/Facebook (both a Reel AND an Image Post for FII/DII, always -- this
+    # bypasses the news alternation tracker entirely) must never affect the
+    # Telegram card post above, which has already gone out.
+    social_caption = gemini_client.with_keywords(content["social_caption"], content.get("keywords", []))
     try:
         reel_path = reel_render.render_fii_dii_reel(report_date, values)
         logger.info("FII/DII Monitor: reel rendered at %s", reel_path)
-        post_reel_to_meta(reel_path, gemini_client.with_keywords(content["social_caption"],
-                                                                 content.get("keywords", [])), kind="fii")
+        post_reel_to_meta(reel_path, social_caption, kind="fii")
     except Exception:
         logger.warning("FII/DII Monitor: reel render/post failed.", exc_info=True)
+    try:
+        post_photo_to_meta(local_path, social_caption, kind="fii")
+    except Exception:
+        logger.warning("FII/DII Monitor: photo post failed.", exc_info=True)
