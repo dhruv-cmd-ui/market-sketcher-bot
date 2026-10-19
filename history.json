@@ -291,12 +291,19 @@
     "https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html",
     "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-should-you-subscribe-anand-rathi-sees-long-term-potential-in-ai-reasonable-valuations-11792414820060.html",
     "https://www.business-standard.com/markets/interviews/mutual-fund-inflows-insufficient-to-lift-markets-manish-jain-choice-mf-126101900075_1.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms",
+    "https://www.livemint.com/market/stock-market-news/urban-company-shares-crash-over-8-after-q2-results-should-investors-buy-sell-or-hold-the-stock-experts-explain-11792383144839.html",
+    "https://www.livemint.com/market/stock-market-news/up-38-in-a-month-pc-jeweller-share-price-rallies-9-despite-weak-trend-on-d-street-check-target-price-stop-loss-11792381037081.html",
+    "https://www.livemint.com/market/anthropics-ipo-dreams-may-be-eclipsed-by-thecloud-11792383878872.html",
+    "https://www.livemint.com/market/stock-market-news/hindustan-zinc-share-q2-results-2026-date-today-dividend-profit-growth-in-focus-experts-preview-and-expectations-11792379742075.html",
+    "https://www.business-standard.com/markets/news/karur-vysya-bank-hits-new-lifetime-high-up-8-in-two-days-post-q2-results-126101900172_1.html",
+    "https://www.business-standard.com/markets/news/hdfc-bank-share-price-falls-1-5-post-q2-show-analysts-say-worst-over-eyes-on-new-ceo-126101900140_1.html",
+    "https://www.livemint.com/market/phonepe-rebrands-stock-broking-platform-share-market-as-phonepe-invest-offers-smart-tools-for-investors-11792406855628.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-19",
-    "count": 22
+    "count": 23
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -374,11 +381,12 @@
     "SBI Mutual Fund leans on brand, SBI's network to deepen B-30 penetration",
     "Diwali Muhurat trading 2026: NSE declares date, time for special trading session. Details here",
     "Jio Platforms IPO: Should you subscribe? Anand Rathi sees long-term potential in AI, reasonable valuations",
-    "Global Markets: French markets tumble as riots add to political crisis"
+    "Global Markets: French markets tumble as riots add to political crisis",
+    "PhonePe rebrands stock broking platform Share.Market as PhonePe Invest, offers smart tools for investors"
   ],
   "reels_posted": {
     "date": "2026-10-19",
-    "count": 24
+    "count": 25
   },
   "meta_token_checked_on": "2026-10-19",
   "nse_holidays": {
@@ -410,6 +418,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-19",
-    "next": "post"
+    "next": "reel"
   }
 }
