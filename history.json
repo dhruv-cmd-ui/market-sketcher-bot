@@ -244,12 +244,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/ixigo-q2-profit-jumps-to-63-cr-revenue-up-13/articleshow/135023827.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-indias-q2-profit-jumps-21-yoy-to-rs-1469-crore/articleshow/135023806.cms",
     "https://economictimes.indiatimes.com/markets/expert-view/lg-electronics-polycab-among-picks-as-premiumisation-and-infrastructure-demand-drive-growth-siddhartha-khemka/articleshow/135024487.cms",
-    "https://www.business-standard.com/world-news/crypto-devices-built-to-foil-hackers-may-have-come-with-spies-inside-126101800160_1.html"
+    "https://www.business-standard.com/world-news/crypto-devices-built-to-foil-hackers-may-have-come-with-spies-inside-126101800160_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-75-in-six-months/slideshow/135024478.cms",
+    "https://www.livemint.com/market/ipo/reliance-jio-ipo-lic-leading-mfs-amcs-and-global-investors-eye-issue-say-reports-check-latest-gmp-price-today-11792299184449.html",
+    "https://www.livemint.com/market/veteran-sip-investors-not-deterred-by-stagnant-market-kotak-mahindrass-harsha-upadhyaya-11792308340457.html"
   ],
   "last_fii_dii_post_date": "2026-10-16",
   "news_posted": {
-    "date": "2026-10-18",
-    "count": 30
+    "date": "2026-10-19",
+    "count": 1
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -305,11 +308,39 @@
     "FPIs pull out Rs 52,100 cr from equities in Oct so far amid global headwinds",
     "What\u2019s next for IDBI Bank stock after Q2 net profit slumps 39%, massive Fairfax deal? Key factors investors should watch",
     "LG Electronics, Polycab among picks as premiumisation and infrastructure demand drive growth: Siddhartha Khemka",
-    "Crypto devices built to foil hackers may have come with spies inside"
+    "Crypto devices built to foil hackers may have come with spies inside",
+    "Veteran SIP investors not deterred by stagnant market: Kotak Mahindra's's Harsha Upadhyaya"
   ],
   "reels_posted": {
-    "date": "2026-10-18",
-    "count": 25
+    "date": "2026-10-19",
+    "count": 1
   },
-  "meta_token_checked_on": "2026-10-18"
+  "meta_token_checked_on": "2026-10-19",
+  "nse_holidays": {
+    "year": 2026,
+    "fetched_on": "2026-10-19",
+    "source": "NSE",
+    "dates": [
+      "2026-01-15",
+      "2026-01-26",
+      "2026-02-15",
+      "2026-03-03",
+      "2026-03-21",
+      "2026-03-26",
+      "2026-03-31",
+      "2026-04-03",
+      "2026-04-14",
+      "2026-05-01",
+      "2026-05-28",
+      "2026-06-26",
+      "2026-08-15",
+      "2026-09-14",
+      "2026-10-02",
+      "2026-10-20",
+      "2026-11-08",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-25"
+    ]
+  }
 }
