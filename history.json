@@ -361,12 +361,16 @@
     "https://www.business-standard.com/markets/news/cyient-dlm-plunges-24-in-two-days-what-s-making-the-street-nervous-126101900248_1.html",
     "https://www.business-standard.com/markets/news/ixigo-share-price-zoom-13-after-q2-pat-hits-record-but-mofsl-stays-neutral-126101900252_1.html",
     "https://www.business-standard.com/markets/news/ltcg-tax-cut-alone-won-t-lure-fpis-says-bernstein-nifty-target-cut-to-25k-126101900230_1.html",
-    "https://www.livemint.com/market/stock-market-news/ashish-kacholia-ardee-industries-ardee-share-price-11792413235678.html"
+    "https://www.livemint.com/market/stock-market-news/ashish-kacholia-ardee-industries-ardee-share-price-11792413235678.html",
+    "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
+    "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-with-a-dividend-bonus-shares-stock-split-history-show-resilience-against-market-crash-11792412436995.html",
+    "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-salute-mukesh-ambani-ace-investor-manish-chokhani-on-500-mn-customers-100-bn-valuation-11792409784245.html",
+    "https://www.livemint.com/market/dollar-and-euro-drift-yen-slips-as-markets-seek-direction-11792458827878.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
     "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
@@ -447,11 +451,12 @@
     "Global Markets: French markets tumble as riots add to political crisis",
     "PhonePe rebrands stock broking platform Share.Market as PhonePe Invest, offers smart tools for investors",
     "Private lenders weigh on equity markets as PSU banks buck the selloff",
-    "Ashish Kacholia buys into this lead recycler. Can the stock overcome margin pressure?"
+    "Ashish Kacholia buys into this lead recycler. Can the stock overcome margin pressure?",
+    "Dollar and euro drift, yen slips as markets seek direction"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -483,6 +488,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "post"
+    "next": "reel"
   }
 }
