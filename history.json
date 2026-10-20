@@ -387,15 +387,17 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-elice-shares-plunge-28-in-market-debut-as-data-centre-stocks-shunned/articleshow/135060541.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
-    "https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-share-price-targets-check-upside-potential-returns-valuations-which-stock-should-you-buy-11792470098217.html"
+    "https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-share-price-targets-check-upside-potential-returns-valuations-which-stock-should-you-buy-11792470098217.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/central-bank-of-india-reports-technical-glitch-in-rtgs-outward-system/articleshow/135059072.cms",
+    "https://www.business-standard.com/markets/news/tonbo-imaging-india-ipo-subscribed-nearly-136-times-led-by-qib-demand-126101901284_1.html",
+    "https://www.livemint.com/market/stock-market-news/tata-group-stock-to-buy-on-dussehra-2026-for-gains-check-target-stop-loss-by-choice-brokings-sumeet-bagadia-11792471310750.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "BEL Q2 results 2026 date out | Market sees up to 16% YoY revenue growth, defence order may drop \u2014 share outlook in focus",
     "IPO-bound Sathya Agencies plans to strengthen presence in Karnataka",
     "Nifty reclaims 200 WMA; eyes further gains as key resistance shapes next move",
     "Reliance Jio IPO GMP today: Listing-day jackpot or long-term bet? How should investors play Mukesh Ambani\u2019s mega IPO?",
@@ -474,11 +476,12 @@
     "Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the year",
     "Global Market: South Korea's Elice shares plunge 28% in market debut as data centre stocks shunned",
     "Korea\u2019s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
-    "HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations \u2014 which stock should you buy?"
+    "HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations \u2014 which stock should you buy?",
+    "Tata Group stock to buy on Dussehra 2026 for money gains - Check target, stop loss by Choice Broking's Sumeet Bagadia"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 9
+    "count": 10
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -510,6 +513,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "post"
+    "next": "reel"
   }
 }
