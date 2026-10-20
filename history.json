@@ -420,15 +420,17 @@
     "https://www.livemint.com/market/stock-market-news/whats-the-future-of-ai-stock-sk-hynix-shares-crash-to-lowest-level-since-apr-as-sell-off-deepens-down-31-in-oct-2026-11792493870676.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135058877.cms",
     "https://www.livemint.com/market/ipo/jio-platforms-ipo-preview-analysis-11792390573415.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/metas-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results/articleshow/135068976.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/metas-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results/articleshow/135068976.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
+    "https://www.livemint.com/market/stock-market-news/bajaj-finance-vs-ireda-vs-reliances-jio-financial-top-financial-stock-to-buy-after-q2-results-2026-for-best-returns-11792493516210.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 20
+    "count": 21
   },
   "recent_titles": [
-    "Q2 results 2026 race: HDFC vs ICICI Bank vs Axis Bank vs Yes Bank vs IDBI - Which bank won in PAT, NII, asset quality?",
     "Railway PSU stocks derailed! RVNL, IRFC, IRCON, RITES to IRCTC down 40% in yr- What went wrong? Experts explain",
     "Cupid\u2019s Aditya Halwasiya bets big on PC Jeweller after 70% rally in 6 months - Who is he? Check PCJ stock returns, RoE",
     "10 smallcap stocks surge up to 65% in 3 months despite market weakness",
@@ -507,11 +509,12 @@
     "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say",
     "Reliance Jio IPO: Massive bids top $25 bn amount for anchor book! How Mukesh Ambani firm attracted top-notch investors",
     "What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% in Oct 2026",
-    "Meta's AI spending, Muse assistant adoption in focus for quarterly results"
+    "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
+    "Bajaj Finance vs IREDA vs Reliance's Jio Financial: Top financial stock to buy after Q2 results 2026 for best returns?"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 20
+    "count": 21
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -543,6 +546,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "reel"
+    "next": "post"
   }
 }
