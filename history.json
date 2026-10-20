@@ -453,15 +453,17 @@
     "https://www.livemint.com/market/up-64-in-6-months-already-should-you-still-buy-neogen-chemicals-antique-sees-23-upside-potential-check-target-11792425758466.html",
     "https://www.livemint.com/market/stock-market-news/wall-street-rebounds-from-lows-as-upbeat-earnings-falling-oil-prices-lift-sentiment-micron-intel-up-2-11792507459852.html",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-secures-rs-652-cr-from-anchor-investors-ipo-to-open-on-oct-21/articleshow/135061692.cms",
+    "https://www.livemint.com/market/stock-market-news/why-should-you-buy-vedanta-shares-despite-strong-hindustan-zinc-q2-results-2026-experts-views-target-price-stoploss-11792469059843.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 26
+    "count": 27
   },
   "recent_titles": [
-    "Tata Steel declares Q2 results 2026 date: EBITDA may decline QoQ; share price target, stop-loss and outlook in focus",
     "Top 3 stocks to buy under  \u20b9100: IRFC, Motherson Sumi, Lloyds Engineering Works by Sumeet Bagadia | Target price, SL",
     "AI Trade Reversal Pierces Asia\u2019s Star Picks-and-Shovels Stocks",
     "Wall Street Week Ahead - Earnings expectations:  All eyes on Meta, Tesla, Netflix, and SpaceX; this survey also in focus",
@@ -540,7 +542,8 @@
     "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out",
     "Big-ticket IPOs have struggled to deliver bumper listing gains. Can Mukesh Ambani backed Reliance Jio buck the trend?",
     "Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%",
-    "Ahead of Market: 10 things that will decide stock market action on Wednesday"
+    "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+    "Aerospace and military contractors raise 2026 profit forecasts"
   ],
   "reels_posted": {
     "date": "2026-10-20",
@@ -576,6 +579,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "reel"
+    "next": "post"
   }
 }
