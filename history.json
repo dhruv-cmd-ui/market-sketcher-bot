@@ -451,15 +451,16 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-peter-lynch-turned-fidelity-magellan-funds-18-million-into-14-billion-in-13-years/articleshow/135051656.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-higher-yields-inflation-fears-weigh/articleshow/135060522.cms",
     "https://www.livemint.com/market/up-64-in-6-months-already-should-you-still-buy-neogen-chemicals-antique-sees-23-upside-potential-check-target-11792425758466.html",
-    "https://www.livemint.com/market/stock-market-news/wall-street-rebounds-from-lows-as-upbeat-earnings-falling-oil-prices-lift-sentiment-micron-intel-up-2-11792507459852.html"
+    "https://www.livemint.com/market/stock-market-news/wall-street-rebounds-from-lows-as-upbeat-earnings-falling-oil-prices-lift-sentiment-micron-intel-up-2-11792507459852.html",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 25
+    "count": 26
   },
   "recent_titles": [
-    "Jio Platforms IPO: Who qualifies for employee and Reliance shareholder quotas? Rules for up to 3 applications per person",
     "Tata Steel declares Q2 results 2026 date: EBITDA may decline QoQ; share price target, stop-loss and outlook in focus",
     "Top 3 stocks to buy under  \u20b9100: IRFC, Motherson Sumi, Lloyds Engineering Works by Sumeet Bagadia | Target price, SL",
     "AI Trade Reversal Pierces Asia\u2019s Star Picks-and-Shovels Stocks",
@@ -538,7 +539,8 @@
     "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
     "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out",
     "Big-ticket IPOs have struggled to deliver bumper listing gains. Can Mukesh Ambani backed Reliance Jio buck the trend?",
-    "Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%"
+    "Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%",
+    "Ahead of Market: 10 things that will decide stock market action on Wednesday"
   ],
   "reels_posted": {
     "date": "2026-10-20",
@@ -574,6 +576,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "post"
+    "next": "reel"
   }
 }
