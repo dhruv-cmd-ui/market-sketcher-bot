@@ -441,15 +441,17 @@
     "https://www.livemint.com/market/stock-market-news/expert-view-a-relief-rally-toward-23-800-24-200-possible-fpis-may-return-if-dollar-bond-yields-peak-says-rahul-ghose-11792461311690.html",
     "https://www.livemint.com/market/stock-market-news/global-markets-today-gift-nifty-nikkei-225-kospi-t-slide-on-tuesday-20-october-nasdaq-s-p-djia-rise-up-to-1-11792458344691.html",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-just-dial-bse-orient-hotels-target-price-stop-loss-by-anand-rathis-expert-11792400725179.html",
-    "https://www.livemint.com/market/india-jio-ipo-lenders-brokerages-push-retail-participation-with-loans-marketing-11792473742375.html"
+    "https://www.livemint.com/market/india-jio-ipo-lenders-brokerages-push-retail-participation-with-loans-marketing-11792473742375.html",
+    "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-20-crude-oil-nears-110-again-as-fresh-attacks-outweigh-easing-russian-sanctions-what-are-experts-saying/articleshow/135059918.cms",
+    "https://www.business-standard.com/markets/news/nse-bse-to-hold-diwali-muhurat-trading-on-nov-8-check-timings-126102000077_1.html",
+    "https://www.livemint.com/market/stock-market-news/bigticket-ipos-have-struggled-to-deliver-bumper-listing-gains-can-mukesh-ambani-backed-reliance-jio-buck-the-trend-11792505293980.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 23
+    "count": 24
   },
   "recent_titles": [
-    "10 smallcap stocks surge up to 65% in 3 months despite market weakness",
     "Dividend rush next week! Infosys, Nippon, Sagility, Cyient among 11 firms in focus for reward, Q2 results | List",
     "Jio Platforms IPO: Who qualifies for employee and Reliance shareholder quotas? Rules for up to 3 applications per person",
     "Tata Steel declares Q2 results 2026 date: EBITDA may decline QoQ; share price target, stop-loss and outlook in focus",
@@ -528,11 +530,12 @@
     "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
     "Bajaj Finance vs IREDA vs Reliance's Jio Financial: Top financial stock to buy after Q2 results 2026 for best returns?",
     "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
-    "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out"
+    "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out",
+    "Big-ticket IPOs have struggled to deliver bumper listing gains. Can Mukesh Ambani backed Reliance Jio buck the trend?"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 23
+    "count": 24
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -564,6 +567,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "post"
+    "next": "reel"
   }
 }
