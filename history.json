@@ -390,15 +390,17 @@
     "https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-share-price-targets-check-upside-potential-returns-valuations-which-stock-should-you-buy-11792470098217.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/central-bank-of-india-reports-technical-glitch-in-rtgs-outward-system/articleshow/135059072.cms",
     "https://www.business-standard.com/markets/news/tonbo-imaging-india-ipo-subscribed-nearly-136-times-led-by-qib-demand-126101901284_1.html",
-    "https://www.livemint.com/market/stock-market-news/tata-group-stock-to-buy-on-dussehra-2026-for-gains-check-target-stop-loss-by-choice-brokings-sumeet-bagadia-11792471310750.html"
+    "https://www.livemint.com/market/stock-market-news/tata-group-stock-to-buy-on-dussehra-2026-for-gains-check-target-stop-loss-by-choice-brokings-sumeet-bagadia-11792471310750.html",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-lic-blackrock-fidelity-gic-among-212-anchor-investors-pour-rs-8110-crore/articleshow/135053762.cms",
+    "https://www.livemint.com/market/stock-market-news/eyes-on-wall-street-general-motors-shares-in-focus-ahead-of-3rd-quarter-results-key-factors-investors-should-watch-11792427935997.html",
+    "https://www.livemint.com/market/stock-market-news/nykaa-shares-anand-rathi-initiates-coverage-on-e-commerce-stock-with-buy-rating-check-target-price-rating-11792473585712.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "IPO-bound Sathya Agencies plans to strengthen presence in Karnataka",
     "Nifty reclaims 200 WMA; eyes further gains as key resistance shapes next move",
     "Reliance Jio IPO GMP today: Listing-day jackpot or long-term bet? How should investors play Mukesh Ambani\u2019s mega IPO?",
     "Rising borrowing costs signal funding risks for global AI expansion: Jefferies report",
@@ -477,11 +479,12 @@
     "Global Market: South Korea's Elice shares plunge 28% in market debut as data centre stocks shunned",
     "Korea\u2019s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
     "HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations \u2014 which stock should you buy?",
-    "Tata Group stock to buy on Dussehra 2026 for money gains - Check target, stop loss by Choice Broking's Sumeet Bagadia"
+    "Tata Group stock to buy on Dussehra 2026 for money gains - Check target, stop loss by Choice Broking's Sumeet Bagadia",
+    "Nykaa shares: Anand Rathi initiates coverage on e-commerce stock with 'buy' rating | Check target price, rating"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 10
+    "count": 11
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -513,6 +516,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "reel"
+    "next": "post"
   }
 }
