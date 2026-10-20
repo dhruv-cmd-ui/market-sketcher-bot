@@ -365,15 +365,21 @@
     "https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html",
     "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-with-a-dividend-bonus-shares-stock-split-history-show-resilience-against-market-crash-11792412436995.html",
     "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-salute-mukesh-ambani-ace-investor-manish-chokhani-on-500-mn-customers-100-bn-valuation-11792409784245.html",
-    "https://www.livemint.com/market/dollar-and-euro-drift-yen-slips-as-markets-seek-direction-11792458827878.html"
+    "https://www.livemint.com/market/dollar-and-euro-drift-yen-slips-as-markets-seek-direction-11792458827878.html",
+    "https://economictimes.indiatimes.com/markets/bonds/titan-redeems-rs-1000-crore-commercial-paper/articleshow/135050383.cms",
+    "https://economictimes.indiatimes.com/markets/bonds/yes-bank-cet1-may-fall-to-10-if-past-at1-coupons-are-paid-crisil/articleshow/135059116.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/piramal-finance-q2-net-profit-soars-67-to-rs-545-crore/articleshow/135050351.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-among-8-stocks-that-hit-52-week-high-and-rallied-up-to-42-in-a-month/slideshow/135050343.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings/articleshow/135050156.cms",
+    "https://www.business-standard.com/markets/news/stock-market-holiday-bse-nse-shut-for-trading-today-due-to-dussehra-126101900660_1.html",
+    "https://www.livemint.com/market/indonesia-to-remove-tightly-held-stocks-from-key-index-11792461519157.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout",
     "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
     "AI fears are rocking markets. The brave should buy the dips.",
     "Paytm shares rally 50% in 6 months, but Nomura sees 33% more upside, initiates with 'buy'; check target price, rationale",
@@ -452,11 +458,12 @@
     "PhonePe rebrands stock broking platform Share.Market as PhonePe Invest, offers smart tools for investors",
     "Private lenders weigh on equity markets as PSU banks buck the selloff",
     "Ashish Kacholia buys into this lead recycler. Can the stock overcome margin pressure?",
-    "Dollar and euro drift, yen slips as markets seek direction"
+    "Dollar and euro drift, yen slips as markets seek direction",
+    "Indonesia to Remove Tightly Held Stocks From Key Index"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 2
+    "count": 3
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -488,6 +495,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "reel"
+    "next": "post"
   }
 }
