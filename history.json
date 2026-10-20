@@ -415,15 +415,16 @@
     "https://www.livemint.com/market/treasuries-fall-as-tech-shares-rebound-denting-haven-demand-11792444988693.html",
     "https://www.livemint.com/market/stock-market-news/crash-kospi-in-free-fall-south-korea-stock-market-down-another-5-tanks-40-from-record-high-what-s-driving-ai-rout-11792483921193.html",
     "https://www.livemint.com/market/multibagger-union-bank-of-india-shares-up-300-in-5-years-can-rally-accelerate-after-q2-results-what-systematix-say-11792490511697.html",
-    "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html"
+    "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+    "https://www.livemint.com/market/stock-market-news/whats-the-future-of-ai-stock-sk-hynix-shares-crash-to-lowest-level-since-apr-as-sell-off-deepens-down-31-in-oct-2026-11792493870676.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 18
+    "count": 19
   },
   "recent_titles": [
-    "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
     "ixigo Q2 profit at Rs 63 cr on robust show in hotel booking biz",
     "Q2 results 2026 race: HDFC vs ICICI Bank vs Axis Bank vs Yes Bank vs IDBI - Which bank won in PAT, NII, asset quality?",
     "Railway PSU stocks derailed! RVNL, IRFC, IRCON, RITES to IRCTC down 40% in yr- What went wrong? Experts explain",
@@ -502,11 +503,12 @@
     "Dussehra 2026 special: Top 3 stocks to buy; ICICI Bank, Adani Ports, Reliance Industries | Target price by Mahesh M Ojha",
     "Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What\u2019s driving AI rout?",
     "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say",
-    "Reliance Jio IPO: Massive bids top $25 bn amount for anchor book! How Mukesh Ambani firm attracted top-notch investors"
+    "Reliance Jio IPO: Massive bids top $25 bn amount for anchor book! How Mukesh Ambani firm attracted top-notch investors",
+    "What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% in Oct 2026"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 18
+    "count": 19
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -538,6 +540,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "reel"
+    "next": "post"
   }
 }
