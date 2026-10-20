@@ -432,15 +432,23 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q2-net-profit-up-30-as-margins-improve/articleshow/135059129.cms",
     "https://www.livemint.com/market/australia-nz-dollars-firm-as-french-fallout-pressures-euro-11792456940342.html",
     "https://www.livemint.com/market/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path-11792456762808.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-catl-third-quarter-profit-growth-slowest-in-nearly-two-years-as-competition-intensifies/articleshow/135070675.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-catl-third-quarter-profit-growth-slowest-in-nearly-two-years-as-competition-intensifies/articleshow/135070675.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/chinas-catl-third-quarter-profit-growth-slowest-in-nearly-two-years-as-competition-intensifies/articleshow/135070675.cms",
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-decline-in-break-from-us-chip-rally/articleshow/135059346.cms",
+    "https://economictimes.indiatimes.com/markets/commodities/news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks/articleshow/135059323.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-net-profit-jumps-448-to-rs-394-crore/articleshow/135059308.cms",
+    "https://www.livemint.com/market/stock-market-news/expert-view-a-relief-rally-toward-23-800-24-200-possible-fpis-may-return-if-dollar-bond-yields-peak-says-rahul-ghose-11792461311690.html",
+    "https://www.livemint.com/market/stock-market-news/global-markets-today-gift-nifty-nikkei-225-kospi-t-slide-on-tuesday-20-october-nasdaq-s-p-djia-rise-up-to-1-11792458344691.html",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-just-dial-bse-orient-hotels-target-price-stop-loss-by-anand-rathis-expert-11792400725179.html",
+    "https://www.livemint.com/market/india-jio-ipo-lenders-brokerages-push-retail-participation-with-loans-marketing-11792473742375.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 22
+    "count": 23
   },
   "recent_titles": [
-    "Cupid\u2019s Aditya Halwasiya bets big on PC Jeweller after 70% rally in 6 months - Who is he? Check PCJ stock returns, RoE",
     "10 smallcap stocks surge up to 65% in 3 months despite market weakness",
     "Dividend rush next week! Infosys, Nippon, Sagility, Cyient among 11 firms in focus for reward, Q2 results | List",
     "Jio Platforms IPO: Who qualifies for employee and Reliance shareholder quotas? Rules for up to 3 applications per person",
@@ -519,11 +527,12 @@
     "What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% in Oct 2026",
     "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
     "Bajaj Finance vs IREDA vs Reliance's Jio Financial: Top financial stock to buy after Q2 results 2026 for best returns?",
-    "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies"
+    "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
+    "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 22
+    "count": 23
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -555,6 +564,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "reel"
+    "next": "post"
   }
 }
