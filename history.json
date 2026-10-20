@@ -374,15 +374,15 @@
     "https://www.business-standard.com/markets/news/stock-market-holiday-bse-nse-shut-for-trading-today-due-to-dussehra-126101900660_1.html",
     "https://www.livemint.com/market/indonesia-to-remove-tightly-held-stocks-from-key-index-11792461519157.html",
     "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms",
-    "https://www.business-standard.com/markets/commodities/oil-prices-ease-as-russia-sanctions-relief-offsets-gulf-supply-risks-126102000063_1.html"
+    "https://www.business-standard.com/markets/commodities/oil-prices-ease-as-russia-sanctions-relief-offsets-gulf-supply-risks-126102000063_1.html",
+    "https://www.livemint.com/market/ipo/reliance-jio-ipo-review-apply-or-not-bid-now-or-buy-shares-post-nse-bse-debut-check-gmp-listing-price-prediction-11792461309554.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "AI fears are rocking markets. The brave should buy the dips.",
     "Paytm shares rally 50% in 6 months, but Nomura sees 33% more upside, initiates with 'buy'; check target price, rationale",
     "Axis Bank Q2 Results: Net profit jumps 38% YoY to Rs 7,003 crore, NII rises 12%",
     "Reliance Jio IPO: From Dhirubhai Ambani's 1977 listing to Akash Ambani's mega issue - what's changed? Gen Z connect!",
@@ -461,11 +461,12 @@
     "Ashish Kacholia buys into this lead recycler. Can the stock overcome margin pressure?",
     "Dollar and euro drift, yen slips as markets seek direction",
     "Indonesia to Remove Tightly Held Stocks From Key Index",
-    "Oil prices ease as Russia sanctions relief offsets Gulf supply risks"
+    "Oil prices ease as Russia sanctions relief offsets Gulf supply risks",
+    "Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 4
+    "count": 5
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -497,6 +498,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "reel"
+    "next": "post"
   }
 }
