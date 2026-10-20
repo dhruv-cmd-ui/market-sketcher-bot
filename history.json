@@ -413,15 +413,15 @@
     "https://www.livemint.com/market/stock-market-news/dussehra-2026-special-top-3-stocks-to-buy-icici-bank-adani-ports-reliance-industries-target-price-by-mahesh-m-ojha-11792481678492.html",
     "https://www.livemint.com/market/stock-market-news/next-stock-market-holiday-2026-when-is-next-weekday-non-trading-day-at-nse-bse-check-calendar-oct-or-nov-11792486748549.html",
     "https://www.livemint.com/market/treasuries-fall-as-tech-shares-rebound-denting-haven-demand-11792444988693.html",
-    "https://www.livemint.com/market/stock-market-news/crash-kospi-in-free-fall-south-korea-stock-market-down-another-5-tanks-40-from-record-high-what-s-driving-ai-rout-11792483921193.html"
+    "https://www.livemint.com/market/stock-market-news/crash-kospi-in-free-fall-south-korea-stock-market-down-another-5-tanks-40-from-record-high-what-s-driving-ai-rout-11792483921193.html",
+    "https://www.livemint.com/market/multibagger-union-bank-of-india-shares-up-300-in-5-years-can-rally-accelerate-after-q2-results-what-systematix-say-11792490511697.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-20",
-    "count": 16
+    "count": 17
   },
   "recent_titles": [
-    "Hindustan Zinc Q2 results 2026: Anil Agarwal-led Vedanta firm to report earnings next week - Preview, dividend history",
     "Central Bank of India Q2 profit rises 21% as loans grow 30%",
     "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
     "ixigo Q2 profit at Rs 63 cr on robust show in hotel booking biz",
@@ -500,11 +500,12 @@
     "SpaceX shares: Down 35% from IPO listing peak, Elon Musk firm to declare earnings today - When, where to check online",
     "Analysis ahead of Reliance Jio IPO: Bharti Airtel is better or Mukesh Ambani shares? Top value things before bid opens",
     "Dussehra 2026 special: Top 3 stocks to buy; ICICI Bank, Adani Ports, Reliance Industries | Target price by Mahesh M Ojha",
-    "Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What\u2019s driving AI rout?"
+    "Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What\u2019s driving AI rout?",
+    "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say"
   ],
   "reels_posted": {
     "date": "2026-10-20",
-    "count": 16
+    "count": 17
   },
   "meta_token_checked_on": "2026-10-20",
   "nse_holidays": {
@@ -536,6 +537,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-20",
-    "next": "reel"
+    "next": "post"
   }
 }
