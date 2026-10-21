@@ -1,13 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boes-bailey-says-energy-price-pass-through-remains-limited-rate-risks-persist/articleshow/134986792.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/from-worst-to-best-how-it-stocks-staged-a-rs-2-6-lakh-crore-revival-this-week/articleshow/134986472.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-four-weeks/articleshow/134985765.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-reports-a-rs-1388-crore-gain-from-sale-of-nse-shares/articleshow/134985719.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-at-20-grey-market-signals-rs-220-premium-as-brokerages-say-subscribe/articleshow/134985658.cms",
-    "https://economictimes.indiatimes.com/markets/forex/rupee-relief-comes-with-disruptions-in-financial-markets/articleshow/134985296.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/hfcls-ai-data-centre-exposure-drives-nuvamas-buy-call-target-implies-56-upside/articleshow/134985229.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-goolsbee-says-latest-us-inflation-data-is-discouraging/articleshow/134985186.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-debt-crisis-coreweave-sell-off-rattles-tech-investors/slideshow/134985217.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/indonesias-1-5-trillion-market-faces-a-historic-downgrade-why-global-investors-are-worried/articleshow/134984330.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-chair-warsh-offers-no-signal-on-october-interest-rate-decision/articleshow/134984000.cms",
@@ -499,15 +491,22 @@
     "https://www.business-standard.com/markets/news/asian-shares-climb-bonds-stabilise-as-strong-earnings-buoy-wall-street-126102100086_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-wipro-among-5-stock-recommendations-for-thursday/slideshow/135095527.cms",
     "https://www.business-standard.com/markets/news/bajaj-finance-down-3-post-q2-analysts-stay-bullish-on-asset-quality-gains-126102100164_1.html",
-    "https://www.livemint.com/market/ipo/jio-platforms-ipo-has-a-flying-start-shares-subscribed-over-three-times-11792591212856.html"
+    "https://www.livemint.com/market/ipo/jio-platforms-ipo-has-a-flying-start-shares-subscribed-over-three-times-11792591212856.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
+    "https://www.business-standard.com/markets/news/why-are-markets-rising-today-sensex-up-800-pts-intraday-nifty-tops-23-100-126102100246_1.html",
+    "https://www.business-standard.com/markets/news/nifty-it-index-hits-8-month-high-ltts-zooms-15-on-wednesday-here-s-why-126102100228_1.html",
+    "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-higher-crude-oil-prices-revive-rate-hike-concerns-126102100241_1.html",
+    "https://www.business-standard.com/markets/news/the-great-bull-market-in-india-is-over-prefer-bonds-cash-marc-faber-126102100216_1.html",
+    "https://www.business-standard.com/markets/news/hd-fire-protect-lists-at-24-premium-over-ipo-price-after-132x-subscription-126102100213_1.html",
+    "https://www.business-standard.com/markets/news/hindustan-zinc-up-4-post-q2-analysts-see-silver-prices-key-to-earnings-growth-126102100208_1.html",
+    "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-to-be-in-focus-as-q2-net-profit-jumps-58-can-the-stock-extend-its-482-rally-in-3-years-11792597628059.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 26
+    "count": 27
   },
   "recent_titles": [
-    "What\u2019s next for IDBI Bank stock after Q2 net profit slumps 39%, massive Fairfax deal? Key factors investors should watch",
     "LG Electronics, Polycab among picks as premiumisation and infrastructure demand drive growth: Siddhartha Khemka",
     "Crypto devices built to foil hackers may have come with spies inside",
     "Veteran SIP investors not deterred by stagnant market: Kotak Mahindra's's Harsha Upadhyaya",
@@ -586,7 +585,8 @@
     "Reliance Jio IPO subscription status day 1: QIB, NII, Retail, Employees, RIL Shareholders; category wise investor detail",
     "Netflix shares slide 4% as slowing sales growth raises fresh concerns",
     "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
-    "Jio IPO has a flying start, shares subscribed over three times"
+    "Jio IPO has a flying start, shares subscribed over three times",
+    "PC Jeweller share price to be in focus as Q2 net profit jumps 58%; can the stock extend its 482% rally in 3 years?"
   ],
   "reels_posted": {
     "date": "2026-10-21",
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "reel"
+    "next": "post"
   }
 }
