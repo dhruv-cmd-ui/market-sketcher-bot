@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-central-bank-to-boost-support-for-global-investors-in-financial-markets/articleshow/134989432.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-preview-pat-nii-may-rise-up-to-21-yoy-margins-deposit-growth-in-focus/articleshow/134988975.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/mukesh-ambani-taps-massive-reliance-workforce-to-boost-jios-record-ipo/articleshow/134988928.cms",
     "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hang-tight-ahead-of-supply/articleshow/134988781.cms",
@@ -499,15 +498,15 @@
     "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-red-sea-shipping-risks-threats-to-saudi-oil-sites-126102100052_1.html",
     "https://www.business-standard.com/markets/news/here-s-why-shrikant-chouhan-is-bullish-on-jsw-steel-groww-126102100071_1.html",
     "https://www.business-standard.com/markets/news/consumer-durables-demand-mixed-prefer-lg-electronics-polycab-india-motilal-oswal-126102100068_1.html",
-    "https://www.livemint.com/market/ipo/reliance-jio-ipo-subscription-status-day-1-qib-nii-retail-employees-ril-shareholders-category-wise-investor-detail-11792584622711.html"
+    "https://www.livemint.com/market/ipo/reliance-jio-ipo-subscription-status-day-1-qib-nii-retail-employees-ril-shareholders-category-wise-investor-detail-11792584622711.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/netflix-shares-slide-4-as-slowing-sales-growth-raises-fresh-concerns/articleshow/135094744.cms"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 23
+    "count": 24
   },
   "recent_titles": [
-    "Snabbit vs Urban Company Financials compared: Aayush Agarwal, Abhiraj Singh Bhal and battle over scale, losses, funding",
     "Earnings, crude oil, Jio IPO key monitorables for investors next week",
     "FPIs pull out Rs 52,100 cr from equities in Oct so far amid global headwinds",
     "What\u2019s next for IDBI Bank stock after Q2 net profit slumps 39%, massive Fairfax deal? Key factors investors should watch",
@@ -586,7 +585,8 @@
     "177% returns in 5 yrs! ICICI Sec sees 51% upside potential in this small finance bank stock; do you own? Target price",
     "SFC Environmental Technologies IPO opens Oct 27, price band at \u20b9313-330",
     "Sky Gold and Diamonds among 5 stocks that hit 52-week highs and rallied up to 45% in a month",
-    "Reliance Jio IPO subscription status day 1: QIB, NII, Retail, Employees, RIL Shareholders; category wise investor detail"
+    "Reliance Jio IPO subscription status day 1: QIB, NII, Retail, Employees, RIL Shareholders; category wise investor detail",
+    "Netflix shares slide 4% as slowing sales growth raises fresh concerns"
   ],
   "reels_posted": {
     "date": "2026-10-21",
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "post"
+    "next": "reel"
   }
 }
