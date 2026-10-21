@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/bonds/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss/articleshow/134995086.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/ltm-q2-results-pat-remains-flat-at-rs-1380-crore-revenue-rises-14-yoy-co-declares-rs-25-per-share-dividend/articleshow/134994968.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yield-earnings-tesla-nvidia-nebius-coreweave-varonis-systems-ai-chip-stock-price-news-16th-october-2026/liveblog/134994983.cms",
     "https://economictimes.indiatimes.com/markets/companies/dee-development-engineers-signs-framework-pact-with-domestic-epc-firm-for-nuclear-power-sector/articleshow/134993986.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/down-25-in-3-months-but-market-expert-sumeet-bagadia-sees-recovery-gains-in-fortis-check-target-price-stoploss-11792567504473.html",
     "https://www.livemint.com/market/ipo/reliance-jio-ipo-creates-history-with-record-of-fastest-ever-subscribed-offer-will-listing-create-more-records-latest-11792572666968.html",
     "https://www.business-standard.com/markets/news/hero-motors-sml-mahindra-wheels-india-locked-at-10-lower-circuits-126102100650_1.html",
-    "https://www.livemint.com/market/stock-market-news/spacex-q3-2026-results-shares-jump-8-in-pre-market-after-4-4-billion-profit-what-musk-said-on-spacex-tesla-merger-11792575955027.html"
+    "https://www.livemint.com/market/stock-market-news/spacex-q3-2026-results-shares-jump-8-in-pre-market-after-4-4-billion-profit-what-musk-said-on-spacex-tesla-merger-11792575955027.html",
+    "https://www.livemint.com/market/stock-market-news/should-you-buy-vedanta-shares-after-subsidiary-hindustan-zinc-beats-d-street-estimates-in-q2-results-what-analyst-says-11792576290440.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 17
+    "count": 18
   },
   "recent_titles": [
-    "Energy stocks dividend leaderboard: Power Grid, NTPC, SJVN, NHPC or IREDA - Which power stock beats the rest on yield?",
     "Kellton Tech Solutions rights issue 2026: Record date, price, size, subscription date, entitlement ratio, other details",
     "Stock market this week with top 7 factors for Sensex, Nifty: Reliance Jio IPO, crude volatility, FII selling, Q2 results",
     "Adani Group stocks Q2 results 2026 date this week: Adani Green, Adani Energy, Adani Gas, Adani Power schedule, returns",
@@ -586,11 +585,12 @@
     "Down 25% in 3 months, but market expert Sumeet Bagadia sees recovery, gains in Fortis - Check target price, stop-loss",
     "Reliance Jio IPO creates history with fastest-ever full subscription - Will listing set more records? Check latest GMP",
     "Hero Motors, SML Mahindra, Wheels India locked at 10% lower circuits",
-    "SpaceX Q3 2026 results: Shares jump 8% in pre-market after $4.4 billion profit; what Musk said on SpaceX-Tesla merger"
+    "SpaceX Q3 2026 results: Shares jump 8% in pre-market after $4.4 billion profit; what Musk said on SpaceX-Tesla merger",
+    "Should you buy Vedanta shares after subsidiary Hindustan Zinc beats D-Street estimates in Q2 results? What analyst says"
   ],
   "reels_posted": {
     "date": "2026-10-21",
-    "count": 17
+    "count": 18
   },
   "meta_token_checked_on": "2026-10-21",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "post"
+    "next": "reel"
   }
 }
