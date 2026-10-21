@@ -490,15 +490,18 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/hilton-to-move-stock-listing-to-nasdaq/articleshow/135070768.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/et-exclusive-jio-wants-satellite-broadband-within-reach-of-more-indians-says-akash-ambani/articleshow/135078982.cms",
     "https://www.livemint.com/market/stock-market-news/eternal-share-what-to-expect-from-zomato-parent-s-q2-results-2026-as-blinkit-growth-stays-strong-11792497152335.html",
-    "https://www.livemint.com/market/european-gas-prices-slump-after-climbing-to-four-year-highs-11792543623675.html"
+    "https://www.livemint.com/market/european-gas-prices-slump-after-climbing-to-four-year-highs-11792543623675.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Wall Street Week Ahead - Earnings expectations:  All eyes on Meta, Tesla, Netflix, and SpaceX; this survey also in focus",
     "Jio Platforms IPO RHP: From financials to spectrum portfolio | 10 key things to know before subscribing",
     "Can Nifty, Sensex rally further or will bears reign in? 5 factors to decide market action next week",
     "Mega Jio Platforms IPO to lead Rs 31,663 crore offerings this week; 9 listings lined up",
@@ -577,11 +580,12 @@
     "Ahead of Market: 10 things that will decide stock market action on Wednesday",
     "Aerospace and military contractors raise 2026 profit forecasts",
     "Stock recommendations for 21 October from MarketSmith India",
-    "European Gas Prices Slump After Climbing to Four-Year Highs"
+    "European Gas Prices Slump After Climbing to Four-Year Highs",
+    "AI debutant\u2019s flameout stokes fears boom is ending"
   ],
   "reels_posted": {
     "date": "2026-10-21",
-    "count": 2
+    "count": 3
   },
   "meta_token_checked_on": "2026-10-21",
   "nse_holidays": {
@@ -613,6 +617,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "reel"
+    "next": "post"
   }
 }
