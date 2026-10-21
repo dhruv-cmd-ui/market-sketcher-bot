@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1575-2026-issued-against-venkatachari-suresh-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8710-of-2025_105292.html",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7111-of-2026-filed-by-bidish-das_105307.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7104-of-2026-filed-by-sunil-kumar_105304.html",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-21-oct-2026/liveblog/135080172.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-ireda-yes-bank-trent-and-hindustan-zinc/articleshow/135074022.cms",
     "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-eternal-adani-green-indian-hotels-among-38-firms-to-announce-quarterly-earnings-full-list-11792550102736.html",
-    "https://www.livemint.com/market/stock-market-news/expert-view-developed-markets-now-offer-higher-growth-and-higher-roe-says-waterfield-advisors-md-11792553607694.html"
+    "https://www.livemint.com/market/stock-market-news/expert-view-developed-markets-now-offer-higher-growth-and-higher-roe-says-waterfield-advisors-md-11792553607694.html",
+    "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
+    "https://www.livemint.com/market/stock-market-news/dividend-record-date-today-2-1-bonus-shares-history-500-returns-in-5-years-do-you-own-this-multibagger-stock-11792553236502.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "Bonus issues, stock splits & dividends: HDB Financial, IRFC, TechM among 19 stocks turning ex-record date this week",
     "Mcap of nine of top-10 most valued firms surges by \u20b93.65 trn, TCS shines",
     "Jefferies\u2019 Chris Wood says it\u2019s time to diversify beyond AI. Where should investors look now?",
     "Stock split, bonus, dividend, buyback record date in 19-25Oct week: Angel One, JSW, IRFC, Tech Mahindra, Modison, others",
@@ -586,11 +585,12 @@
     "Reliance Jio IPO: Massive  \u20b930,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction",
     "Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS",
     "Q2 results 2026 today: Eternal, Adani Green, Indian Hotels among 38 firms to announce quarterly earnings | Full list",
-    "Expert view: Developed markets now offer higher growth and higher ROE, says Waterfield Advisors MD"
+    "Expert view: Developed markets now offer higher growth and higher ROE, says Waterfield Advisors MD",
+    "Dividend record date today! 2:1 bonus shares history, 500% returns in 5 years; do you own this multibagger stock?"
   ],
   "reels_posted": {
     "date": "2026-10-21",
-    "count": 7
+    "count": 8
   },
   "meta_token_checked_on": "2026-10-21",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "post"
+    "next": "reel"
   }
 }
