@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hang-tight-ahead-of-supply/articleshow/134988781.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/10-stocks-held-by-100-mf-schemes-in-september-rally-up-to-205-in-cy26-6-turn-multibaggers/slideshow/134987505.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boes-bailey-says-energy-price-pass-through-remains-limited-rate-risks-persist/articleshow/134986792.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/from-worst-to-best-how-it-stocks-staged-a-rs-2-6-lakh-crore-revival-this-week/articleshow/134986472.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-four-weeks/articleshow/134985765.cms",
@@ -499,15 +497,16 @@
     "https://www.livemint.com/market/ipo/reliance-jio-ipo-subscription-status-day-1-qib-nii-retail-employees-ril-shareholders-category-wise-investor-detail-11792584622711.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/netflix-shares-slide-4-as-slowing-sales-growth-raises-fresh-concerns/articleshow/135094744.cms",
     "https://www.business-standard.com/markets/news/asian-shares-climb-bonds-stabilise-as-strong-earnings-buoy-wall-street-126102100086_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-wipro-among-5-stock-recommendations-for-thursday/slideshow/135095527.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-wipro-among-5-stock-recommendations-for-thursday/slideshow/135095527.cms",
+    "https://www.business-standard.com/markets/news/bajaj-finance-down-3-post-q2-analysts-stay-bullish-on-asset-quality-gains-126102100164_1.html",
+    "https://www.livemint.com/market/ipo/jio-platforms-ipo-has-a-flying-start-shares-subscribed-over-three-times-11792591212856.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 25
+    "count": 26
   },
   "recent_titles": [
-    "FPIs pull out Rs 52,100 cr from equities in Oct so far amid global headwinds",
     "What\u2019s next for IDBI Bank stock after Q2 net profit slumps 39%, massive Fairfax deal? Key factors investors should watch",
     "LG Electronics, Polycab among picks as premiumisation and infrastructure demand drive growth: Siddhartha Khemka",
     "Crypto devices built to foil hackers may have come with spies inside",
@@ -586,7 +585,8 @@
     "Sky Gold and Diamonds among 5 stocks that hit 52-week highs and rallied up to 45% in a month",
     "Reliance Jio IPO subscription status day 1: QIB, NII, Retail, Employees, RIL Shareholders; category wise investor detail",
     "Netflix shares slide 4% as slowing sales growth raises fresh concerns",
-    "Market Trading Guide: Wipro among 5 stock recommendations for Thursday"
+    "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
+    "Jio IPO has a flying start, shares subscribed over three times"
   ],
   "reels_posted": {
     "date": "2026-10-21",
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "post"
+    "next": "reel"
   }
 }
