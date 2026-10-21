@@ -486,15 +486,18 @@
     "https://www.livemint.com/market/commodities/gold-price-outlook-yellow-metal-prices-cool-26-from-record-high-what-indian-buyers-are-doing-this-dussehra-diwali-11792472642371.html",
     "https://www.livemint.com/market/stock-market-news/it-fmcg-stocks-defensive-investment-strategy-11792424725693.html",
     "https://www.business-standard.com/finance/personal-finance/form-141-replaces-4-tds-forms-what-property-buyers-tenants-must-know-126102000376_1.html",
-    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-21-october-from-marketsmith-india-11792418627840.html"
+    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-21-october-from-marketsmith-india-11792418627840.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/hilton-to-move-stock-listing-to-nasdaq/articleshow/135070768.cms",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/et-exclusive-jio-wants-satellite-broadband-within-reach-of-more-indians-says-akash-ambani/articleshow/135078982.cms",
+    "https://www.livemint.com/market/stock-market-news/eternal-share-what-to-expect-from-zomato-parent-s-q2-results-2026-as-blinkit-growth-stays-strong-11792497152335.html",
+    "https://www.livemint.com/market/european-gas-prices-slump-after-climbing-to-four-year-highs-11792543623675.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "AI Trade Reversal Pierces Asia\u2019s Star Picks-and-Shovels Stocks",
     "Wall Street Week Ahead - Earnings expectations:  All eyes on Meta, Tesla, Netflix, and SpaceX; this survey also in focus",
     "Jio Platforms IPO RHP: From financials to spectrum portfolio | 10 key things to know before subscribing",
     "Can Nifty, Sensex rally further or will bears reign in? 5 factors to decide market action next week",
@@ -573,11 +576,12 @@
     "Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%",
     "Ahead of Market: 10 things that will decide stock market action on Wednesday",
     "Aerospace and military contractors raise 2026 profit forecasts",
-    "Stock recommendations for 21 October from MarketSmith India"
+    "Stock recommendations for 21 October from MarketSmith India",
+    "European Gas Prices Slump After Climbing to Four-Year Highs"
   ],
   "reels_posted": {
     "date": "2026-10-21",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-10-21",
   "nse_holidays": {
@@ -609,6 +613,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "post"
+    "next": "reel"
   }
 }
