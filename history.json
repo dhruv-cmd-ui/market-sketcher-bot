@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-among-5-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/134995212.cms",
     "https://economictimes.indiatimes.com/markets/bonds/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss/articleshow/134995086.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/ltm-q2-results-pat-remains-flat-at-rs-1380-crore-revenue-rises-14-yoy-co-declares-rs-25-per-share-dividend/articleshow/134994968.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/dollar-dips-as-traders-weigh-iran-ai-risks-11792522097761.html",
     "https://www.livemint.com/market/ipo/reliance-jio-ipo-applying-for-money-gains-do-you-know-different-ways-to-apply-for-shares-full-list-of-options-here-11792564619532.html",
     "https://www.livemint.com/market/stock-market-news/down-25-in-3-months-but-market-expert-sumeet-bagadia-sees-recovery-gains-in-fortis-check-target-price-stoploss-11792567504473.html",
-    "https://www.livemint.com/market/ipo/reliance-jio-ipo-creates-history-with-record-of-fastest-ever-subscribed-offer-will-listing-create-more-records-latest-11792572666968.html"
+    "https://www.livemint.com/market/ipo/reliance-jio-ipo-creates-history-with-record-of-fastest-ever-subscribed-offer-will-listing-create-more-records-latest-11792572666968.html",
+    "https://www.business-standard.com/markets/news/hero-motors-sml-mahindra-wheels-india-locked-at-10-lower-circuits-126102100650_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
-    "DIIs increase stake in 8 midcap stocks in Q2FY27",
     "IPO GMP race: Zetwerk vs Sahajanand vs Bonfiglioli Transmissions vs Tonbo Imaging - check share listing price prediction",
     "Energy stocks dividend leaderboard: Power Grid, NTPC, SJVN, NHPC or IREDA - Which power stock beats the rest on yield?",
     "Kellton Tech Solutions rights issue 2026: Record date, price, size, subscription date, entitlement ratio, other details",
@@ -586,11 +585,12 @@
     "eMudhra tanks 20%; why IT-enabled services stock sank in Wednesday's trade?",
     "Reliance Jio IPO: Applying for money gains? Do you know different ways to apply for shares? Full list of options here",
     "Down 25% in 3 months, but market expert Sumeet Bagadia sees recovery, gains in Fortis - Check target price, stop-loss",
-    "Reliance Jio IPO creates history with fastest-ever full subscription - Will listing set more records? Check latest GMP"
+    "Reliance Jio IPO creates history with fastest-ever full subscription - Will listing set more records? Check latest GMP",
+    "Hero Motors, SML Mahindra, Wheels India locked at 10% lower circuits"
   ],
   "reels_posted": {
     "date": "2026-10-21",
-    "count": 15
+    "count": 16
   },
   "meta_token_checked_on": "2026-10-21",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "post"
+    "next": "reel"
   }
 }
