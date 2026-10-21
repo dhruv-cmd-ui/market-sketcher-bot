@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-wealthy-rush-to-unwind-offshore-trusts-as-tax-deadline-looms/articleshow/134982601.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134982593.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/news/global-stocks-fall-as-ai-spending-concerns-resurface-oil-prices-surge-126102000915_1.html",
     "https://www.livemint.com/market/stock-market-news/south-indian-bank-shares-already-up-15-in-oct-hit-52-week-high-what-is-driving-rally-more-rise-ahead-expert-view-11792559889591.html",
     "https://www.livemint.com/market/stock-market-news/dividend-stock-split-buyback-last-chance-to-buy-today-vrl-logistics-jsw-dulux-angel-one-shares-11792511128048.html",
-    "https://www.business-standard.com/markets/news/emudhra-tanks-20-why-it-enabled-services-stock-sank-in-wednesday-s-trade-126102100353_1.html"
+    "https://www.business-standard.com/markets/news/emudhra-tanks-20-why-it-enabled-services-stock-sank-in-wednesday-s-trade-126102100353_1.html",
+    "https://www.livemint.com/market/dollar-dips-as-traders-weigh-iran-ai-risks-11792522097761.html",
+    "https://www.livemint.com/market/ipo/reliance-jio-ipo-applying-for-money-gains-do-you-know-different-ways-to-apply-for-shares-full-list-of-options-here-11792564619532.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "\u2018Rarest of rare\u2019 bets on Reliance ahead of Jio Platforms\u2019 biggest-ever IPO",
     "Cyient DLM shares crash 12% despite Q2 profit growth: 3 reasons, brokerages set targets; should you buy?",
     "Stocks to buy: Ganesh Dongre of Anand Rathi recommends Larsen and Toubro, Equitas, Bajaj Finance shares | Target, SL",
     "DIIs increase stake in 8 midcap stocks in Q2FY27",
@@ -586,11 +585,12 @@
     "How Reliance Jio IPO is acting as shot in the arm for RIL shares \u2014 Will Mukesh Ambani company stock fly more? Buy now?",
     "Multibagger stock: PC Jeweller shares jump 5% after surging 40% in 2 weeks | Q2 beat, bulk deal in focus | Key levels",
     "South Indian Bank shares: Already up 15% in Oct, hit 52-week high - What is driving rally? More rise ahead? Expert view",
-    "eMudhra tanks 20%; why IT-enabled services stock sank in Wednesday's trade?"
+    "eMudhra tanks 20%; why IT-enabled services stock sank in Wednesday's trade?",
+    "Reliance Jio IPO: Applying for money gains? Do you know different ways to apply for shares? Full list of options here"
   ],
   "reels_posted": {
     "date": "2026-10-21",
-    "count": 12
+    "count": 13
   },
   "meta_token_checked_on": "2026-10-21",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "reel"
+    "next": "post"
   }
 }
