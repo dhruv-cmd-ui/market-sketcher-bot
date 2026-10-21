@@ -495,15 +495,16 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms",
-    "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html"
+    "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-large-cap-stocks-cross-below-their-200-dmas/slideshow/135080058.cms",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-19",
   "news_posted": {
     "date": "2026-10-21",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Can Nifty, Sensex rally further or will bears reign in? 5 factors to decide market action next week",
     "Mega Jio Platforms IPO to lead Rs 31,663 crore offerings this week; 9 listings lined up",
     "Top 3 stocks to buy tomorrow: Mphasis, HAL, Indian Hotel by market expert - Check stop-loss, target price for Monday, 19",
     "Bonus issues, stock splits & dividends: HDB Financial, IRFC, TechM among 19 stocks turning ex-record date this week",
@@ -582,11 +583,12 @@
     "Stock recommendations for 21 October from MarketSmith India",
     "European Gas Prices Slump After Climbing to Four-Year Highs",
     "AI debutant\u2019s flameout stokes fears boom is ending",
-    "Reliance Jio IPO: Massive  \u20b930,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction"
+    "Reliance Jio IPO: Massive  \u20b930,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction",
+    "Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS"
   ],
   "reels_posted": {
     "date": "2026-10-21",
-    "count": 4
+    "count": 5
   },
   "meta_token_checked_on": "2026-10-21",
   "nse_holidays": {
@@ -618,6 +620,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-21",
-    "next": "reel"
+    "next": "post"
   }
 }
