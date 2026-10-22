@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/world-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-126101600073_1.html",
-    "https://www.business-standard.com/companies/news/pernod-ricard-india-sales-grow-19-in-sep-quarter-ipo-plan-awaits-approval-126101501204_1.html",
-    "https://www.business-standard.com/markets/news/reliance-industries-bse-lead-mutual-fund-buys-in-september-shows-data-126101501245_1.html",
-    "https://www.livemint.com/market/stock-market-news/dividend-alert-irfc-tech-mahindra-icici-prudential-amc-among-11-stocks-to-watch-next-week-check-record-date-payout-11792211741541.html",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
-    "https://www.livemint.com/market/stock-market-news/hfcl-shares-jump-277-in-2026-ahead-of-reliance-jio-ipo-nuvama-says-buy-rating-check-target-price-and-jio-connection-11792172068819.html",
     "https://www.livemint.com/market/stock-market-news/ai-fears-are-rocking-markets-the-brave-should-buy-the-dips-11792217039622.html",
     "https://www.livemint.com/market/stock-market-news/yes-bank-flags-250-bps-impact-in-core-capital-ratio-after-supreme-court-upholds-at-1-bond-write-off-ruling-11792175520924.html",
     "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bajaj-finance-dr-reddys-lab-grasim-industries-by-sumeet-bagadia-target-price-stoploss-11792172794591.html",
@@ -499,15 +493,20 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q2-net-profit-surges-55-to-rs-882-crore-on-volumes-lower-credit-cost/articleshow/135094556.cms",
     "https://economictimes.indiatimes.com/markets/forex/forex-news/dip-in-the-dollar-takes-a-breather-with-fed-in-focus/articleshow/135104703.cms",
     "https://economictimes.indiatimes.com/markets/expert-view/gold-global-equities-largecaps-midcaps-and-smallcaps-samco-ceo-jimet-modis-five-way-portfolio-formula/articleshow/135105177.cms",
-    "https://www.livemint.com/market/indian-shares-seen-opening-lower-as-high-oil-prices-fuel-inflation-worries-11792639503940.html"
+    "https://www.livemint.com/market/indian-shares-seen-opening-lower-as-high-oil-prices-fuel-inflation-worries-11792639503940.html",
+    "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
+    "https://www.livemint.com/market/stock-market-news/multibagger-stock-declares-q2-results-2026-date-up-750-in-10-years-with-history-of-dividend-stock-split-do-you-own-11792638157875.html",
+    "https://www.livemint.com/market/stock-market-news/ipo-gmp-race-reliance-jio-platforms-ipo-vs-paras-healthcare-ipo-check-grey-market-winner-11792598142454.html",
+    "https://www.livemint.com/market/stock-market-news/zerodha-launches-us-stock-investing-how-to-invest-in-tesla-amazon-spacex-meta-micron-nvidia-and-amd-explained-11792594591349.html",
+    "https://www.business-standard.com/markets/news/it-stocks-gain-77-000-crore-in-value-as-banking-shares-weigh-on-nifty-126102101234_1.html",
+    "https://www.livemint.com/market/why-is-stock-market-down-today-sensex-drops-over-700-points-top-3-reasons-explained-11792641284679.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "RIL nears technical breakout amid Jio IPO buzz: Anand James shares the outlook",
     "U-turn from regulator may be new lifeline to Indian derivatives",
     "ICICI Bank gains 1% post Q2 results; analysts upbeat on asset quality",
     "Suzlon shares crash over 20% in six months but experts predict a strong rebound - here's why | Target price, stop-loss",
@@ -586,11 +585,12 @@
     "Top stocks to watch today: Swiggy, Adani Green, Eternal, GMDC, BEL shares in focus on Thurs, 22 Oct | Full list",
     "Dip in the dollar takes a breather with Fed in focus",
     "Gold, global equities, largecaps, midcaps and smallcaps: Samco CEO Jimet Modi\u2019s five-way portfolio formula",
-    "Indian shares seen opening lower as high oil prices fuel inflation worries"
+    "Indian shares seen opening lower as high oil prices fuel inflation worries",
+    "Why is stock market down today? Sensex drops over 700 points - Top 3 reasons explained"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 6
+    "count": 7
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "reel"
+    "next": "post"
   }
 }
