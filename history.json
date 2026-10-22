@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stocks-slip-as-dollar-heads-for-weekly-loss-11792179512288.html",
     "https://www.livemint.com/market/arabica-coffee-touches-one-month-high-as-stocks-remain-critically-low-11792178652490.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-results-net-profit-jumps-38-yoy-to-rs-7003-crore-nii-rises-12/articleshow/135009892.cms",
     "https://www.livemint.com/market/commodities/axis-bank-q2-results-net-profit-jumps-38-yoy-check-asset-quality-stock-trend-and-other-key-highlights-11792223868805.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/it-mid-caps-vs-large-caps-tcs-infosys-wipro-vs-persistent-coforge-tata-tech-who-leads-the-q2-results-2026-race-11792600156200.html",
     "https://www.livemint.com/market/stock-market-news/vodafone-idea-shares-up-20-in-6-months-will-q2-results-2026-fuel-this-rally-experts-views-target-price-stoploss-11792642677847.html",
     "https://www.business-standard.com/markets/news/sundaram-mf-enters-sif-space-choice-mf-launches-first-active-equity-fund-126102101488_1.html",
-    "https://www.livemint.com/market/stock-market-news/freefall-emudhra-shares-crash-34-in-just-3-sessions-near-52-week-low-why-is-stock-plunging-what-market-experts-say-11792644922990.html"
+    "https://www.livemint.com/market/stock-market-news/freefall-emudhra-shares-crash-34-in-just-3-sessions-near-52-week-low-why-is-stock-plunging-what-market-experts-say-11792644922990.html",
+    "https://www.business-standard.com/markets/news/ncdex-ndex-finndex-equity-derivatives-market-launch-126102200427_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Gold, silver prices rise as traders pare bets on October Fed rate hike",
     "Jio Platforms\u2019 trump card hides in plain sight even as AI and patents may be hazy",
     "Platinum Industries share price jumps 14%: Technical analyst sees further upside; Check key levels to watch",
     "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
@@ -586,11 +585,12 @@
     "Why is stock market down today? Sensex drops over 700 points - Top 3 reasons explained",
     "Reliance Industries share price: Jio IPO gets blockbuster response, but stock near 52-week low; what should you do?",
     "Vodafone Idea shares: Up 20% in 6 months! Will Q2 results 2026 fuel this rally? Experts' views, target price, stop-loss",
-    "Freefall! eMudhra shares crash 34% in just 3 sessions, near 52-week low - Why is stock plunging? What market experts say"
+    "Freefall! eMudhra shares crash 34% in just 3 sessions, near 52-week low - Why is stock plunging? What market experts say",
+    "NCDEX launches NDEX, FINNDEX in push to become multi-segment exchange"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 10
+    "count": 11
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "reel"
+    "next": "post"
   }
 }
