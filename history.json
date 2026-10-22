@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-from-dhirubhai-ambanis-1977-listing-to-akash-ambanis-mega-issue-whats-changed-gen-z-connect-11792219519404.html",
     "https://www.livemint.com/market/stock-market-news/hdfc-bank-q2-results-net-profit-rises-5-to-rs-19-610-crore-nii-jumps-10-in-last-quarter-under-outgoing-ceo-jagdishan-11792226165605.html",
     "https://www.livemint.com/market/stock-market-news/itc-sets-board-meeting-date-to-declare-q2-results-2026-net-profit-may-decline-due-to-cigarette-taxation-share-outlook-11792178741965.html",
     "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets/articleshow/135007267.cms",
@@ -499,15 +498,15 @@
     "https://www.business-standard.com/markets/news/ncdex-ndex-finndex-equity-derivatives-market-launch-126102200427_1.html",
     "https://www.livemint.com/market/stock-market-news/ultratech-cement-shares-down-11-in-a-year-incred-equities-says-recovery-ahead-check-target-upside-rationale-11792649432607.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/stock-crash-alert-emudhra-shares-plunge-37-in-just-two-sessions-whats-unfolding/articleshow/135112232.cms",
-    "https://www.livemint.com/market/mark-to-market/eternal-q2-results-blinkit-growth-dark-ai-launch-11792653186363.html"
+    "https://www.livemint.com/market/mark-to-market/eternal-q2-results-blinkit-growth-dark-ai-launch-11792653186363.html",
+    "https://www.business-standard.com/markets/news/silver-etfs-dip-nearly-3-as-rate-hike-fears-overshadow-safe-haven-appeal-126102200681_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
     "Stock market holiday tomorrow on Dussehra: Are BSE, NSE open or closed for trading on Tuesday 20 Oct? Check calendar",
     "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
     "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",
@@ -586,11 +585,12 @@
     "Freefall! eMudhra shares crash 34% in just 3 sessions, near 52-week low - Why is stock plunging? What market experts say",
     "NCDEX launches NDEX, FINNDEX in push to become multi-segment exchange",
     "UltraTech Cement shares down 11% in a year: InCred Equities says recovery ahead | Check target, upside, rationale",
-    "Eternal's growth engines are firing, as it doubles down on Blinkit expansion"
+    "Eternal's growth engines are firing, as it doubles down on Blinkit expansion",
+    "Silver ETFs dip nearly 3% as rate hike fears overshadow safe-haven appeal"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 13
+    "count": 14
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "post"
+    "next": "reel"
   }
 }
