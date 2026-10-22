@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/itc-sets-board-meeting-date-to-declare-q2-results-2026-net-profit-may-decline-due-to-cigarette-taxation-share-outlook-11792178741965.html",
     "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets/articleshow/135007267.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-net-profit-rises-5-yoy-to-rs-19510-crore-nii-grows-10/articleshow/135010605.cms",
     "https://www.livemint.com/market/foreign-holdings-of-us-treasuries-rise-from-almost-one-year-low-11792184534641.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/stock-crash-alert-emudhra-shares-plunge-37-in-just-two-sessions-whats-unfolding/articleshow/135112232.cms",
     "https://www.livemint.com/market/mark-to-market/eternal-q2-results-blinkit-growth-dark-ai-launch-11792653186363.html",
     "https://www.business-standard.com/markets/news/silver-etfs-dip-nearly-3-as-rate-hike-fears-overshadow-safe-haven-appeal-126102200681_1.html",
-    "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-commissions-new-unit-up-3200-in-5-years-strong-dividend-stock-split-history-do-you-own-11792659247664.html"
+    "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-commissions-new-unit-up-3200-in-5-years-strong-dividend-stock-split-history-do-you-own-11792659247664.html",
+    "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-monarch-sees-20-upside-in-3-4-months-reveals-buy-range-targets-for-mukesh-ambani-stock-11792662864758.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
-    "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
     "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",
     "Reliance-backed Jio Platforms IPO: Will investors prefer Jio shares over RIL stock? What shareholders should know",
     "Gold price to touch  \u20b91.60 lakh by Dec 2026 end? Time to buy? What experts say to earn money from yellow metal deals",
@@ -586,11 +585,12 @@
     "UltraTech Cement shares down 11% in a year: InCred Equities says recovery ahead | Check target, upside, rationale",
     "Eternal's growth engines are firing, as it doubles down on Blinkit expansion",
     "Silver ETFs dip nearly 3% as rate hike fears overshadow safe-haven appeal",
-    "Multibagger defence stock commissions new unit; up 3200% in 5-Yrs \u2014 has dividend, stock-split history | should you buy?"
+    "Multibagger defence stock commissions new unit; up 3200% in 5-Yrs \u2014 has dividend, stock-split history | should you buy?",
+    "Reliance Industries shares: Monarch sees 20% upside in 3\u20134 months - Reveals buy range, targets for Mukesh Ambani stock"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 15
+    "count": 16
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "post"
+    "next": "reel"
   }
 }
