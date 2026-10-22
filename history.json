@@ -1,17 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/tips-music-zooms-10-to-hit-52-wk-high-after-q2-nos-6-50-share-dividend-126101600665_1.html",
-    "https://www.business-standard.com/companies/news/ambani-taps-reliance-s-420-000-employees-to-boost-jio-ipo-participation-126101600630_1.html",
-    "https://www.business-standard.com/markets/news/dmart-share-price-hits-over-3-year-low-down-28-from-april-high-126101600546_1.html",
-    "https://www.business-standard.com/markets/news/solara-active-pharma-share-price-zooms-16-on-q2-turnaround-h1-net-up-103x-126101600592_1.html",
-    "https://www.business-standard.com/markets/news/sebi-s-cas-rule-change-bigger-positive-for-brokers-vs-exchanges-jefferies-126101600560_1.html",
-    "https://www.business-standard.com/markets/news/beyond-the-sell-off-what-an-msci-downgrade-threat-could-mean-for-indonesia-126101600530_1.html",
-    "https://www.business-standard.com/markets/news/axis-bank-q2-results-preview-nim-may-fall-on-fcnr-b-flows-pat-could-rise-37-43-126101600498_1.html",
-    "https://www.business-standard.com/markets/news/zensar-hcl-technologies-rebounded-from-100-month-ema-support-says-analyst-126101600472_1.html",
-    "https://www.business-standard.com/markets/news/icici-bank-q2-preview-profit-may-rise-8-14-yoy-nim-likely-to-contract-126101600468_1.html",
-    "https://www.business-standard.com/markets/news/hdfc-bank-q2-preview-single-digit-pat-growth-likely-margin-pressure-seen-126101600449_1.html",
-    "https://www.business-standard.com/markets/news/derivatives-volumes-may-recover-after-settlement-rule-changes-analysts-126101600428_1.html",
-    "https://www.business-standard.com/markets/news/senco-pc-jeweller-shares-surge-up-to-17-why-are-gold-stocks-rallying-on-friday-126101600417_1.html",
     "https://www.business-standard.com/markets/news/gold-sell-on-rallies-as-rate-hike-concerns-weigh-on-metal-says-analyst-126101600411_1.html",
     "https://www.business-standard.com/markets/news/silver-outlook-bearish-may-fall-to-48-if-54-50-support-breaks-analyst-126101600371_1.html",
     "https://www.business-standard.com/markets/news/jio-financial-stock-drop-2-5-as-q2-pat-halves-mofsl-cuts-fy27-estimates-126101600346_1.html",
@@ -499,15 +487,26 @@
     "https://www.business-standard.com/markets/ipo/jio-platforms-ipo-subscription-qib-retail-anchor-investor-126102100328_1.html",
     "https://www.business-standard.com/markets/news/midcap-100-smallcap-100-index-down-1-mrf-biocon-swiggy-at-52-week-lows-126102100269_1.html",
     "https://www.business-standard.com/markets/news/ultratech-up-3-post-q2-jefferies-says-cement-price-recovery-key-catalyst-126102100281_1.html",
-    "https://www.livemint.com/market/stock-market-news/tech-mahindra-bonus-issue-a-sweet-deal-or-market-trap-11792582032984.html"
+    "https://www.livemint.com/market/stock-market-news/tech-mahindra-bonus-issue-a-sweet-deal-or-market-trap-11792582032984.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7107-of-2026-filed-by-deepali-singhal_105321.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7115-of-2026-filed-by-prem-kumar-gurusamy_105311.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/igi-q2-results-consolidated-pat-surges-43-to-rs-185-crore/articleshow/135093213.cms",
+    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ai-data-center-projects-boost-us-warehouse-demand-and-rents-real-estate-company-jll-says/articleshow/135093158.cms",
+    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/uk-annual-house-prices-rise-at-weakest-pace-since-march-ons-says/articleshow/135093001.cms",
+    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tvs-ilp-leases-80k-sq-ft-at-visakhapatnam-park-in-andhra-to-yokohoma-group/articleshow/135092976.cms",
+    "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-46-paise-to-94-45-on-india-us-trade-deal-hopes-oil-prices-cap-gains/articleshow/135092741.cms",
+    "https://www.livemint.com/market/stock-market-news/super-micro-shares-jump-12-after-q1-preliminary-results-top-estimates-can-the-ai-server-maker-sustain-its-recovery-11792584229403.html",
+    "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-22-october-11792629823349.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Crypto devices built to foil hackers may have come with spies inside",
     "Veteran SIP investors not deterred by stagnant market: Kotak Mahindra's's Harsha Upadhyaya",
     "Global Market Today: Asian shares fall as AI spending worries weigh on sentiment",
     "Top stocks to watch today: Hindustan Zinc, IREDA, HDFC Bank, Axis Bank shares in focus on Monday, 19 Oct | Full list",
@@ -586,11 +585,12 @@
     "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
     "Jio IPO has a flying start, shares subscribed over three times",
     "PC Jeweller share price to be in focus as Q2 net profit jumps 58%; can the stock extend its 482% rally in 3 years?",
-    "Tech Mahindra bonus issue: A sweet deal or market trap"
+    "Tech Mahindra bonus issue: A sweet deal or market trap",
+    "Raja Venkatraman recommends two stocks for 22 October"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "post"
+    "next": "reel"
   }
 }
