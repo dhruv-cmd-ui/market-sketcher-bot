@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/indian-it-stocks-post-best-weekly-gain-in-18-years-amid-global-ai-sell-off-126101601303_1.html",
-    "https://www.business-standard.com/markets/stock-market-news/sebi-s-ipo-nod-to-cult-fit-eswari-global-metal-sohan-lal-commodity-126101700004_1.html",
     "https://www.livemint.com/market/stock-market-news/paytm-shares-rally-50-in-6-months-but-nomura-sees-33-more-upside-initiates-with-buy-check-target-price-rationale-11792215152382.html",
     "https://www.livemint.com/market/funding-markets-diverge-as-t-bills-cheapen-overnight-repo-calm-11792179755736.html",
     "https://www.livemint.com/market/stocks-slip-as-dollar-heads-for-weekly-loss-11792179512288.html",
@@ -499,15 +497,16 @@
     "https://www.livemint.com/market/why-is-stock-market-down-today-sensex-drops-over-700-points-top-3-reasons-explained-11792641284679.html",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-subscribe-on-day-2-or-wait-until-the-last-day-what-investors-need-to-know/articleshow/135106577.cms",
     "https://www.livemint.com/market/ipo/upcoming-ipo-edelweiss-unit-eaaa-india-alternatives-rs-1-200-cr-public-issue-to-open-on-oct-26-top-things-to-know-11792596892239.html",
-    "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-jio-ipo-gets-blockbuster-response-but-stock-near-52-week-low-what-should-you-do-11792644127122.html"
+    "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-jio-ipo-gets-blockbuster-response-but-stock-near-52-week-low-what-should-you-do-11792644127122.html",
+    "https://www.livemint.com/market/stock-market-news/it-mid-caps-vs-large-caps-tcs-infosys-wipro-vs-persistent-coforge-tata-tech-who-leads-the-q2-results-2026-race-11792600156200.html",
+    "https://www.livemint.com/market/stock-market-news/vodafone-idea-shares-up-20-in-6-months-will-q2-results-2026-fuel-this-rally-experts-views-target-price-stoploss-11792642677847.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "ICICI Bank gains 1% post Q2 results; analysts upbeat on asset quality",
     "Suzlon shares crash over 20% in six months but experts predict a strong rebound - here's why | Target price, stop-loss",
     "Gold, silver prices rise as traders pare bets on October Fed rate hike",
     "Jio Platforms\u2019 trump card hides in plain sight even as AI and patents may be hazy",
@@ -586,11 +585,12 @@
     "Gold, global equities, largecaps, midcaps and smallcaps: Samco CEO Jimet Modi\u2019s five-way portfolio formula",
     "Indian shares seen opening lower as high oil prices fuel inflation worries",
     "Why is stock market down today? Sensex drops over 700 points - Top 3 reasons explained",
-    "Reliance Industries share price: Jio IPO gets blockbuster response, but stock near 52-week low; what should you do?"
+    "Reliance Industries share price: Jio IPO gets blockbuster response, but stock near 52-week low; what should you do?",
+    "Vodafone Idea shares: Up 20% in 6 months! Will Q2 results 2026 fuel this rally? Experts' views, target price, stop-loss"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 8
+    "count": 9
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "reel"
+    "next": "post"
   }
 }
