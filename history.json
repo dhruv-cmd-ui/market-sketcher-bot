@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-23450-could-push-index-to-23650-sudeep-shah-picks-tech-mahindra-tcs-strategy/articleshow/135009790.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/8-small-midcap-stocks-with-upside-potential-of-up-to-50-how-many-are-in-your-portfolio/slideshow/135009761.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/nicholas-sleeps-investing-lessons-why-patience-conviction-and-long-term-thinking-matter/articleshow/135009564.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-15-stocks-gain-for-5-days-in-a-row/slideshow/135008981.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-grey-market-hints-at-20-listing-pop-what-are-emkay-sbi-securities-saying/articleshow/135008712.cms",
     "https://economictimes.indiatimes.com/markets/commodities/news/brentcrude-oil-prices-hit-110-for-first-time-since-may-as-iran-attacks-continue-ukraine-eyes-russia-energy-infra/articleshow/135008770.cms",
     "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-manufacturing-healthcare-and-financialisation-could-create-indias-next-wealth-creators-sanjay-doshi/articleshow/135008355.cms",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135122517.cms",
     "https://www.business-standard.com/markets/news/fusion-cx-lists-at-5-premium-over-ipo-price-after-3-3x-subscription-126102200222_1.html",
     "https://www.business-standard.com/markets/news/nifty-psu-vs-private-bank-which-banking-index-looks-stronger-on-charts-126102200199_1.html",
-    "https://www.business-standard.com/markets/news/48-000-crore-fpi-retreat-leaves-tech-stocks-as-lone-bright-spot-126102201471_1.html"
+    "https://www.business-standard.com/markets/news/48-000-crore-fpi-retreat-leaves-tech-stocks-as-lone-bright-spot-126102201471_1.html",
+    "https://www.business-standard.com/markets/news/q2-result-impact-igil-shares-hit-10-upper-circuit-pat-up-43-to-185-cr-126102200363_1.html",
+    "https://www.business-standard.com/markets/news/indian-hotels-share-price-gains-3-as-analysts-raise-earnings-estimates-target-post-q2-126102200329_1.html",
+    "https://www.business-standard.com/markets/news/lupin-srf-tmpv-maruti-ntpc-among-74-bse-500-stocks-hit-52-week-lows-on-thursday-126102200219_1.html",
+    "https://www.livemint.com/market/stock-market-news/apple-stock-rises-28-in-2026-as-ai-stocks-wobble-why-investors-are-betting-on-the-iphone-maker-11792687241486.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 22
+    "count": 23
   },
   "recent_titles": [
-    "Jio Platforms IPO: Should you subscribe? Anand Rathi sees long-term potential in AI, reasonable valuations",
     "Global Markets: French markets tumble as riots add to political crisis",
     "PhonePe rebrands stock broking platform Share.Market as PhonePe Invest, offers smart tools for investors",
     "Private lenders weigh on equity markets as PSU banks buck the selloff",
@@ -586,11 +585,12 @@
     "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
     "Sebi warns investors against fraudulent WhatsApp stock tip groups",
     "Calliope Capital Ola Electric Investment: How many rights entitlements has the firm applied for?",
-    "\u20b948,000 crore FPI retreat leaves tech stocks as lone bright spot"
+    "\u20b948,000 crore FPI retreat leaves tech stocks as lone bright spot",
+    "Apple stock rises 28% in 2026 as AI stocks wobble: Why investors are betting on the iPhone maker"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 24
+    "count": 25
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "reel"
+    "next": "post"
   }
 }
