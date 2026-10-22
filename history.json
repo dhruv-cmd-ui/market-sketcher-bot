@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms",
-    "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-a-weekly-drop-as-traders-assess-fed-signals/articleshow/135007093.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-close-out-best-week-since-june-as-earnings-soften-blow-from-tech-selloff/articleshow/135007075.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-slip-as-dollar-heads-for-weekly-loss/articleshow/135007060.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings/articleshow/135007046.cms",
@@ -499,15 +496,17 @@
     "https://www.business-standard.com/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html",
     "https://www.business-standard.com/markets/news/near-term-market-outlook-weak-drl-among-3-stocks-to-buy-today-ajit-mishra-126102200084_1.html",
     "https://www.business-standard.com/markets/news/esds-advit-among-9-listings-with-up-to-220-rally-ytd-more-steam-left-126102200082_1.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html"
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html",
+    "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html",
+    "https://www.business-standard.com/markets/interviews/mkt-re-rating-unlikely-amid-global-uncertainty-venugopal-manghat-hsbc-mf-126102200119_1.html",
+    "https://www.business-standard.com/markets/news/sebi-warns-investors-against-fraudulent-whatsapp-stock-tip-groups-126102201541_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 19
+    "count": 20
   },
   "recent_titles": [
-    "$10.5 billion worth of shares! SpaceX boss Elon Musk to give one share to every US child \u2014 how many shares does he own?",
     "SBI Mutual Fund leans on brand, SBI's network to deepen B-30 penetration",
     "Diwali Muhurat trading 2026: NSE declares date, time for special trading session. Details here",
     "Jio Platforms IPO: Should you subscribe? Anand Rathi sees long-term potential in AI, reasonable valuations",
@@ -586,11 +585,12 @@
     "Reliance Industries shares: Monarch sees 20% upside in 3\u20134 months - Reveals buy range, targets for Mukesh Ambani stock",
     "Sebi eases margin rules for trades post EPI",
     "Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
-    "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups"
+    "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
+    "Sebi warns investors against fraudulent WhatsApp stock tip groups"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 21
+    "count": 22
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "post"
+    "next": "reel"
   }
 }
