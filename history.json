@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-results-net-profit-jumps-38-yoy-to-rs-7003-crore-nii-rises-12/articleshow/135009892.cms",
-    "https://www.livemint.com/market/commodities/axis-bank-q2-results-net-profit-jumps-38-yoy-check-asset-quality-stock-trend-and-other-key-highlights-11792223868805.html",
     "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-from-dhirubhai-ambanis-1977-listing-to-akash-ambanis-mega-issue-whats-changed-gen-z-connect-11792219519404.html",
     "https://www.livemint.com/market/stock-market-news/hdfc-bank-q2-results-net-profit-rises-5-to-rs-19-610-crore-nii-jumps-10-in-last-quarter-under-outgoing-ceo-jagdishan-11792226165605.html",
     "https://www.livemint.com/market/stock-market-news/itc-sets-board-meeting-date-to-declare-q2-results-2026-net-profit-may-decline-due-to-cigarette-taxation-share-outlook-11792178741965.html",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/news/sundaram-mf-enters-sif-space-choice-mf-launches-first-active-equity-fund-126102101488_1.html",
     "https://www.livemint.com/market/stock-market-news/freefall-emudhra-shares-crash-34-in-just-3-sessions-near-52-week-low-why-is-stock-plunging-what-market-experts-say-11792644922990.html",
     "https://www.business-standard.com/markets/news/ncdex-ndex-finndex-equity-derivatives-market-launch-126102200427_1.html",
-    "https://www.livemint.com/market/stock-market-news/ultratech-cement-shares-down-11-in-a-year-incred-equities-says-recovery-ahead-check-target-upside-rationale-11792649432607.html"
+    "https://www.livemint.com/market/stock-market-news/ultratech-cement-shares-down-11-in-a-year-incred-equities-says-recovery-ahead-check-target-upside-rationale-11792649432607.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/stock-crash-alert-emudhra-shares-plunge-37-in-just-two-sessions-whats-unfolding/articleshow/135112232.cms",
+    "https://www.livemint.com/market/mark-to-market/eternal-q2-results-blinkit-growth-dark-ai-launch-11792653186363.html"
   ],
   "last_fii_dii_post_date": "2026-10-21",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Platinum Industries share price jumps 14%: Technical analyst sees further upside; Check key levels to watch",
     "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
     "Stock market holiday tomorrow on Dussehra: Are BSE, NSE open or closed for trading on Tuesday 20 Oct? Check calendar",
     "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
@@ -586,11 +585,12 @@
     "Vodafone Idea shares: Up 20% in 6 months! Will Q2 results 2026 fuel this rally? Experts' views, target price, stop-loss",
     "Freefall! eMudhra shares crash 34% in just 3 sessions, near 52-week low - Why is stock plunging? What market experts say",
     "NCDEX launches NDEX, FINNDEX in push to become multi-segment exchange",
-    "UltraTech Cement shares down 11% in a year: InCred Equities says recovery ahead | Check target, upside, rationale"
+    "UltraTech Cement shares down 11% in a year: InCred Equities says recovery ahead | Check target, upside, rationale",
+    "Eternal's growth engines are firing, as it doubles down on Blinkit expansion"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 12
+    "count": 13
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "reel"
+    "next": "post"
   }
 }
