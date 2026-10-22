@@ -2,10 +2,11 @@
 
 The bot runs on **GitHub Actions**. You need a free GitHub account and no credit card. GitHub starts the bot on a schedule: every 30 minutes from 6 AM to 11 PM IST for news, and every 15 minutes from 5 PM to 9 PM IST on weekdays for FII/DII. Each run does one check and then stops. Between runs nothing is running, so there's no server to maintain.
 
-There are two parts:
+There are three parts:
 
 1. **Move the bot to GitHub Actions.** Telegram posting works as soon as this is done.
-2. **Connect Instagram and Facebook** (optional) so the Reels are published there too.
+2. **Connect Instagram and Facebook** (optional) so the Reels and Image Posts are published there too.
+3. **Connect YouTube** (optional) so the daily FII/DII Reel is also published as a YouTube Short.
 
 ---
 
@@ -138,3 +139,41 @@ Meta's app review is **not needed**. The app only posts to accounts you own, and
 From then on, each news item and each day's FII/DII update goes out as a still card on Telegram, plus Instagram and Facebook posts: news alternates between a Reel and an Image Post (Reel, Post, Reel, Post..., resetting to Reel each morning); FII/DII always posts both a Reel and an Image Post, since it only happens once a day.
 
 **Limits:** Instagram allows 100 API posts and Facebook 30 per 24 hours. The bot posts at most 25 Reels+Posts combined a day (`MAX_REELS_PER_DAY`). On NSE trading days, 2 of those are held for FII/DII's Reel and Image Post. Once the day's Meta slots are used up, news keeps going to Telegram only, until 11 PM.
+
+---
+
+## Part 3: YouTube
+
+Free, no card. Only the **FII/DII Reel** is posted to YouTube (as a Short), once a day on trading days — this isn't tied to the Instagram/Facebook post budget. The title, description and tags are written by the same Gemini call that writes the other captions, with keywords aimed at people searching for daily FII/DII data.
+
+### A. Create a Google Cloud project and enable the API
+
+1. Go to <https://console.cloud.google.com/>, sign in with the Google account for your YouTube channel, and create a new project (any name).
+2. Go to **APIs & Services → Library**, search **YouTube Data API v3**, and click **Enable**.
+
+### B. Set up the OAuth consent screen
+
+1. **APIs & Services → OAuth consent screen**. User type: **External**. Fill in an app name and your email, then save through the scopes and test-user screens (you can leave scopes empty here; the script requests the right one directly).
+2. On the consent screen's summary page, click **Publish app** so its **Publishing status** says **In production** (not "Testing"). For personal use like this (fewer than 100 users — just you), Google doesn't require you to submit for verification; you'll just see a one-time "Google hasn't verified this app" warning when you approve it in step D below, which is safe to click through. **This step matters**: leaving the app in "Testing" status makes Google expire the refresh token every 7 days, which would silently break YouTube posting every week.
+
+### C. Create OAuth credentials
+
+1. **APIs & Services → Credentials → Create Credentials → OAuth client ID**.
+2. Application type: **TV and Limited Input devices**. Name it anything.
+3. Copy the **Client ID** and **Client Secret** it shows you.
+
+### D. Get the refresh token (one-time, on this PC)
+
+```powershell
+cd "D:\IFT Automation"
+.venv\Scripts\python scripts\youtube_auth.py
+```
+
+It asks for the Client ID and Secret from step C, then prints a URL and a short code. Open the URL, enter the code, sign in with your YouTube channel's Google account, and approve (click through the "unverified app" warning — this is expected, see step B). The script then prints three lines: `YOUTUBE_CLIENT_ID`, `YOUTUBE_CLIENT_SECRET`, `YOUTUBE_REFRESH_TOKEN`.
+
+### E. Add the values
+
+1. Add all three to your local `.env`.
+2. Add all three as GitHub Secrets (Part 1, step 3).
+
+From then on, each day's FII/DII Reel also posts to YouTube as a Short (public by default — set `YOUTUBE_PRIVACY_STATUS=unlisted` in `.env`/GitHub Secrets if you'd rather review before making videos public). A custom thumbnail is attempted using the same FII/DII card image; this needs your channel to be **phone-verified** (YouTube Studio → Settings → Channel → Feature eligibility — free, instant). If it isn't verified, the thumbnail step is skipped and logged, but the video still uploads and publishes normally.

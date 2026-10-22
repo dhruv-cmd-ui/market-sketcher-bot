@@ -1,4 +1,5 @@
-"""Fan-out helpers: still cards go to Telegram, Reels go to Instagram + Facebook.
+"""Fan-out helpers: still cards go to Telegram, Reels/Posts go to Instagram +
+Facebook, the FII/DII Reel also goes to YouTube Shorts.
 
 Each platform failure is logged and swallowed so one broken platform (e.g.
 Meta before app review is complete) never blocks the others.
@@ -10,7 +11,7 @@ import config
 import history_store
 import image_host
 import market_calendar
-from publishers import meta_photos, meta_reels, telegram
+from publishers import meta_photos, meta_reels, telegram, youtube
 
 logger = logging.getLogger(__name__)
 
@@ -126,3 +127,27 @@ def post_photo_to_meta(local_image_path: str, caption: str, kind: str = "news") 
                 logger.warning("Instagram photo post failed.", exc_info=True)
     if posted:
         history_store.increment_daily_count("reels_posted", today)
+
+
+def youtube_configured() -> bool:
+    return bool(config.YOUTUBE_CLIENT_ID and config.YOUTUBE_CLIENT_SECRET and config.YOUTUBE_REFRESH_TOKEN)
+
+
+def post_video_to_youtube(local_video_path: str, title: str, description: str, tags: list[str],
+                          thumbnail_path: str | None = None) -> None:
+    """Independent of the Meta Reel/Post budget -- YouTube has its own separate quota."""
+    if not youtube_configured():
+        logger.info("YouTube credentials not set; video saved at %s but not posted.", local_video_path)
+        return
+    try:
+        video_id = youtube.upload_short(local_video_path, title, description, tags)
+        logger.info("Posted Short to YouTube (id %s).", video_id)
+    except Exception:
+        logger.warning("YouTube upload failed.", exc_info=True)
+        return
+    if thumbnail_path:
+        try:
+            youtube.set_thumbnail(video_id, thumbnail_path)
+        except Exception:
+            # Needs a phone-verified channel; failing here must not affect the upload itself.
+            logger.warning("YouTube thumbnail set failed (channel may need phone verification).", exc_info=True)

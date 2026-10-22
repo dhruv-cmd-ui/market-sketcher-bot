@@ -23,7 +23,7 @@ import gemini_client
 import history_store
 import image_render
 import reel_render
-from multi_publish import post_card_to_telegram, post_photo_to_meta, post_reel_to_meta
+from multi_publish import post_card_to_telegram, post_photo_to_meta, post_reel_to_meta, post_video_to_youtube
 
 logger = logging.getLogger(__name__)
 
@@ -127,6 +127,10 @@ def run() -> None:
             content = {
                 "telegram_caption": f"FII / DII Activity\n\n{summary}",
                 "social_caption": f"{summary}\n\n#FII #DII #StockMarket #Nifty #Sensex",
+                "youtube_title": f"FII DII Data Today {report_date.strftime('%d %b %Y')} | NSE Cash Market",
+                "youtube_description": f"{summary}\n\nFollow for daily FII/DII updates. #Shorts #FII #DII #StockMarket #Nifty",
+                "youtube_tags": ["FII DII data", "FII DII today", "Nifty", "Sensex", "Indian stock market",
+                                 "NSE", "stock market news", "FII DII activity"],
             }
         local_path = image_render.render_fii_dii_card(report_date, values)
 
@@ -146,6 +150,7 @@ def run() -> None:
     # bypasses the news alternation tracker entirely) must never affect the
     # Telegram card post above, which has already gone out.
     social_caption = gemini_client.with_keywords(content["social_caption"], content.get("keywords", []))
+    reel_path = None
     try:
         reel_path = reel_render.render_fii_dii_reel(report_date, values)
         logger.info("FII/DII Monitor: reel rendered at %s", reel_path)
@@ -156,3 +161,15 @@ def run() -> None:
         post_photo_to_meta(local_path, social_caption, kind="fii")
     except Exception:
         logger.warning("FII/DII Monitor: photo post failed.", exc_info=True)
+
+    # YouTube Shorts: independent of Meta entirely, must never affect anything above.
+    if reel_path is None:
+        logger.warning("FII/DII Monitor: no reel to upload; skipping YouTube.")
+    else:
+        try:
+            yt_title = content.get("youtube_title") or f"FII DII Data {report_date.strftime('%d %b %Y')} | NSE"
+            yt_description = content.get("youtube_description") or social_caption
+            yt_tags = content.get("youtube_tags") or ["FII DII data", "Nifty", "Sensex", "Indian stock market"]
+            post_video_to_youtube(reel_path, yt_title, yt_description, yt_tags, thumbnail_path=local_path)
+        except Exception:
+            logger.warning("FII/DII Monitor: YouTube post failed.", exc_info=True)

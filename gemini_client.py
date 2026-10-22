@@ -41,13 +41,18 @@ def _parse_json_response(text: str) -> dict:
 
 MAX_TITLE_CHARS = 90
 MAX_KEYWORDS = 8
+MAX_YOUTUBE_TITLE_CHARS = 100
+MAX_YOUTUBE_TAGS = 15
+MAX_YOUTUBE_TAGS_CHARS = 460  # YouTube's combined-tags limit is 500 chars; leave margin
 
 
 def generate_content(context: str) -> dict:
     """
-    Returns a dict with keys: social_caption, telegram_caption, title, keywords.
-    `title` is "" and `keywords` is [] when Gemini doesn't return usable ones,
-    so callers fall back to the original headline.
+    Returns a dict with keys: social_caption, telegram_caption, title, keywords,
+    youtube_title, youtube_description, youtube_tags.
+    `title` is "" and `keywords` is [] when Gemini doesn't return usable ones, so
+    callers fall back to the original headline; youtube_title/description/tags
+    fall back the same way (see with_keywords / callers' own template fallback).
     `context` is the raw factual material (news summary, or FII/DII numbers).
     One request per post: the free tier allows only ~20 requests/day per model.
     """
@@ -66,6 +71,13 @@ Respond with ONLY a valid JSON object (no markdown fences, no commentary) with e
 - "telegram_caption": a slightly more detailed caption suited for a Telegram channel, plain text, no hashtags required.
 - "keywords": a JSON array of 5-8 short search keywords or phrases people would type into Instagram or Google
   to find this topic (for example a company name plus "Q2 results", "Nifty 50 today", "FII DII data").
+- "youtube_title": an SEO-optimized YouTube Shorts title, at most 90 characters, with the most important
+  keyword as early as possible, strictly accurate to the facts (no clickbait, no invented numbers).
+- "youtube_description": a YouTube description, 2-4 sentences restating the key facts/numbers, naturally
+  including the main keywords, ending with a short call-to-action to follow for daily updates plus 3-5
+  hashtags (first one #Shorts).
+- "youtube_tags": a JSON array of 8-15 short plain-text search tags for YouTube's video tags field (no "#",
+  e.g. "FII DII data", "Nifty 50", "Indian stock market", "Sensex today").
 """
 
     response = None
@@ -93,13 +105,30 @@ Respond with ONLY a valid JSON object (no markdown fences, no commentary) with e
     title = " ".join(title.split()).strip(' "') if isinstance(title, str) else ""
     data["title"] = title if 0 < len(title) <= MAX_TITLE_CHARS else ""
 
-    keywords = data.get("keywords")
-    cleaned = []
-    for k in keywords if isinstance(keywords, list) else []:
-        k = " ".join(str(k).split()).strip(" #")
-        if k and k.lower() not in {c.lower() for c in cleaned}:
-            cleaned.append(k)
-    data["keywords"] = cleaned[:MAX_KEYWORDS]
+    def _clean_list(raw, cap: int) -> list[str]:
+        cleaned = []
+        for k in raw if isinstance(raw, list) else []:
+            k = " ".join(str(k).split()).strip(" #")
+            if k and k.lower() not in {c.lower() for c in cleaned}:
+                cleaned.append(k)
+        return cleaned[:cap]
+
+    data["keywords"] = _clean_list(data.get("keywords"), MAX_KEYWORDS)
+
+    yt_title = data.get("youtube_title")
+    yt_title = " ".join(yt_title.split()).strip(' "') if isinstance(yt_title, str) else ""
+    data["youtube_title"] = yt_title if 0 < len(yt_title) <= MAX_YOUTUBE_TITLE_CHARS else ""
+
+    yt_description = data.get("youtube_description")
+    data["youtube_description"] = yt_description.strip() if isinstance(yt_description, str) and yt_description.strip() else ""
+
+    yt_tags, total = [], 0
+    for tag in _clean_list(data.get("youtube_tags"), MAX_YOUTUBE_TAGS):
+        total += len(tag) + 1
+        if total > MAX_YOUTUBE_TAGS_CHARS:
+            break
+        yt_tags.append(tag)
+    data["youtube_tags"] = yt_tags
     return data
 
 

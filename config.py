@@ -38,6 +38,13 @@ META_ACCESS_TOKEN = os.getenv("META_ACCESS_TOKEN", "")
 GRAPH_API_VERSION = os.getenv("GRAPH_API_VERSION", "v25.0")
 GRAPH_API_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
 
+# --- YouTube (FII/DII Shorts) ---
+YOUTUBE_CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID", "")
+YOUTUBE_CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET", "")
+YOUTUBE_REFRESH_TOKEN = os.getenv("YOUTUBE_REFRESH_TOKEN", "")
+YOUTUBE_PRIVACY_STATUS = os.getenv("YOUTUBE_PRIVACY_STATUS", "public")
+YOUTUBE_CATEGORY_ID = os.getenv("YOUTUBE_CATEGORY_ID", "25")  # News & Politics
+
 # --- Branding ---
 # Telegram cards point to the Telegram channel; Reels go to Instagram/Facebook.
 CARD_HANDLE = os.getenv("CARD_HANDLE", "@wealthandworkflow")
