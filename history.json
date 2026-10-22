@@ -1,17 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-net-profit-rises-5-yoy-to-rs-19510-crore-nii-grows-10/articleshow/135010605.cms",
-    "https://www.livemint.com/market/foreign-holdings-of-us-treasuries-rise-from-almost-one-year-low-11792184534641.html",
-    "https://www.livemint.com/market/stock-market-news/bel-q2-results-2026-date-out-market-sees-up-to-16-yoy-revenue-growth-defence-order-may-drop-share-outlook-in-focus-11792223944924.html",
-    "https://www.business-standard.com/companies/start-ups/sathya-agencies-karnataka-expansion-unilet-acquisition-ipo-126101700528_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/nifty-reclaims-200-wma-eyes-further-gains-as-key-resistance-shapes-next-move/articleshow/135011480.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q2-results-net-profit-tanks-39-yoy-to-rs-2205-crore-nii-dips-49-yoy/articleshow/135011867.cms",
-    "https://economictimes.indiatimes.com/markets/cryptocurrency/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets/articleshow/135007267.cms",
-    "https://www.livemint.com/market/ipo/reliance-jio-ipo-gmp-today-listing-day-jackpot-or-long-term-bet-how-should-investors-play-mukesh-ambani-s-mega-ipo-11792233746569.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms",
-    "https://www.livemint.com/market/stock-market-news/nifty-soars-2-8-this-week-what-lies-ahead-for-dalal-street-experts-decode-5-triggers-key-levels-for-next-week-11792231234654.html",
-    "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-under-rs-100-equitas-sfb-uco-bank-suzlon-by-mehul-kothari-of-anand-rathi-target-stoploss-11792229200001.html",
     "https://www.livemint.com/market/stock-market-news/hindustan-zinc-q2-results-2026-anil-agarwal-led-vedanta-firm-to-report-earnings-next-week-preview-dividend-history-11792235803320.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q2-profit-rises-21-as-loans-grow-30/articleshow/135014014.cms",
     "https://www.livemint.com/market/stock-market-news/sunil-singhania-sunil-singhania-portfolio-guru-stock-super-investors-11792153559805.html",
@@ -499,15 +487,26 @@
     "https://www.business-standard.com/markets/news/silver-etfs-dip-nearly-3-as-rate-hike-fears-overshadow-safe-haven-appeal-126102200681_1.html",
     "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-commissions-new-unit-up-3200-in-5-years-strong-dividend-stock-split-history-do-you-own-11792659247664.html",
     "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-monarch-sees-20-upside-in-3-4-months-reveals-buy-range-targets-for-mukesh-ambani-stock-11792662864758.html",
-    "https://www.livemint.com/market/stock-market-news/sebi-eases-margin-requirements-on-trades-backed-by-early-pay-in-of-shares-11792667584844.html"
+    "https://www.livemint.com/market/stock-market-news/sebi-eases-margin-requirements-on-trades-backed-by-early-pay-in-of-shares-11792667584844.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-certificate-no-rc842-of-2015-in-respect-of-mr-jyotiranjan-panda-pan-beapp0928k-in-the-matter-of-magnox-infraprojects-limited_105386.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-general-remittance-order-dated-22-10-2026-in-recovery-certificate-no-3883-of-2021-issued-against-arrow-asia-stock-broking-limited-in-the-matter-of-kausambi-vanijya-ltd-_105384.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-demat-account-and-mutual-fund-folio-s-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limi-_105382.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-of-bank-post-office-account-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limited_105379.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-under-recovery-certificate-no-9290-of-2026-dated-22-10-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-_105371.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-rishabh-tanwar-registered-research-analyst_105362.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-regulations-2014-last-amended-on-october-16-2026-_105377.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-regulations-2014-last-amended-on-october-15-2026-_105376.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-regulations-2012-last-amended-on-october-15-2026-_105374.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-october-15-2026-_105365.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-regulations-2012-last-amended-on-october-15-2026-_105357.html",
+    "https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-22",
-    "count": 17
+    "count": 18
   },
   "recent_titles": [
-    "Reliance-backed Jio Platforms IPO: Will investors prefer Jio shares over RIL stock? What shareholders should know",
     "Gold price to touch  \u20b91.60 lakh by Dec 2026 end? Time to buy? What experts say to earn money from yellow metal deals",
     "$10.5 billion worth of shares! SpaceX boss Elon Musk to give one share to every US child \u2014 how many shares does he own?",
     "SBI Mutual Fund leans on brand, SBI's network to deepen B-30 penetration",
@@ -586,11 +585,12 @@
     "Silver ETFs dip nearly 3% as rate hike fears overshadow safe-haven appeal",
     "Multibagger defence stock commissions new unit; up 3200% in 5-Yrs \u2014 has dividend, stock-split history | should you buy?",
     "Reliance Industries shares: Monarch sees 20% upside in 3\u20134 months - Reveals buy range, targets for Mukesh Ambani stock",
-    "Sebi eases margin rules for trades post EPI"
+    "Sebi eases margin rules for trades post EPI",
+    "Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment"
   ],
   "reels_posted": {
     "date": "2026-10-22",
-    "count": 19
+    "count": 20
   },
   "meta_token_checked_on": "2026-10-22",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-22",
-    "next": "post"
+    "next": "reel"
   }
 }
