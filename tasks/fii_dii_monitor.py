@@ -23,7 +23,7 @@ import gemini_client
 import history_store
 import image_render
 import reel_render
-from multi_publish import post_card_to_telegram, post_photo_to_meta, post_reel_to_meta, post_video_to_youtube
+from multi_publish import post_card_to_telegram, post_reel_to_meta, post_video_to_youtube
 
 logger = logging.getLogger(__name__)
 
@@ -153,11 +153,10 @@ def run() -> None:
         logger.exception("FII/DII Monitor: failed to generate/publish content.")
         return
 
-    # Instagram/Facebook/YouTube (Reel + Image Post + Short for FII/DII, always -- this
-    # bypasses the news alternation tracker entirely) must never affect the
-    # Telegram card post above, which has already gone out. Telegram's own caption
-    # (content["telegram_caption"]) is untouched; this hook/CTA structure is only
-    # for Instagram, Facebook and YouTube.
+    # Instagram/Facebook Reel + YouTube Short for FII/DII (no Image Post -- Reel
+    # only) must never affect the Telegram card post above, which has already gone
+    # out. Telegram's own caption (content["telegram_caption"]) is untouched; this
+    # hook/CTA structure is only for Instagram, Facebook and YouTube.
     hook_stat, hook_sentiment = reel_render.hook_stat_line(values)
     hook_question = content.get("hook_question") or "Who Is Really Driving The Market Today?"
     cta = _next_cta()
@@ -178,10 +177,6 @@ def run() -> None:
         post_reel_to_meta(reel_path, social_caption, kind="fii")
     except Exception:
         logger.warning("FII/DII Monitor: reel render/post failed.", exc_info=True)
-    try:
-        post_photo_to_meta(local_path, social_caption, kind="fii")
-    except Exception:
-        logger.warning("FII/DII Monitor: photo post failed.", exc_info=True)
 
     # YouTube Shorts: independent of Meta entirely, must never affect anything above.
     if reel_path is None:

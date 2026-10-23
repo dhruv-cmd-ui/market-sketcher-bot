@@ -1,8 +1,12 @@
 """Task 1: Event-Driven News Catcher.
 
 Polls RSS feeds (SEBI + ET Markets, Mint and Business Standard) between 06:00 and
-23:00 IST and posts the best new item as a still card to Telegram and an animated
-Reel to Instagram + Facebook.
+23:00 IST and posts the best new item as a still card to Telegram every cycle.
+
+Instagram/Facebook post at most once per fixed daily window, not every cycle:
+a Reel 8-10am, an Image Post 12-2pm, a Reel 6-8pm (all IST). Whichever item is
+selected is whatever the window happens to catch on that cycle -- already the
+best-ranked one by the selection below.
 
 Selection: SEBI press releases/circulars first (routine enforcement filings are
 skipped), then stories about a currently most-active-by-volume NSE stock (see
@@ -28,8 +32,8 @@ import image_render
 import reel_render
 import token_monitor
 import trends
-from multi_publish import (meta_configured, news_reels_left, next_meta_action, post_card_to_telegram,
-                           post_photo_to_meta, post_reel_to_meta, reels_left)
+from multi_publish import (mark_news_meta_slot_used, meta_configured, news_meta_action,
+                           post_card_to_telegram, post_photo_to_meta, post_reel_to_meta, reels_left)
 
 logger = logging.getLogger(__name__)
 
@@ -212,31 +216,34 @@ def _process_entry(entry) -> bool:
     history_store.add_recent_title(title)
     logger.info("News item processed and marked: %s", link)
 
-    # Instagram/Facebook (Reel or Image Post, alternating) must never affect the
-    # Telegram card post above, which has already gone out.
+    # Instagram/Facebook, at most once per fixed daily window (8-10am Reel, 12-2pm
+    # Post, 6-8pm Reel) -- must never affect the Telegram card post above, which has
+    # already gone out. Whatever item is being processed this cycle is already the
+    # best-ranked one (SEBI/trending priority + Google Trends), so it's what fills
+    # the window if one is open right now.
     if meta_configured():
-        do_reel, do_post = next_meta_action("news")
-        if do_reel and news_reels_left() <= 0:
-            # Daily news-Reel cap reached -- fall back to an Image Post instead of
-            # skipping Meta for this item entirely.
-            logger.info("Daily news Reel cap (%d) reached; posting an Image Post instead.",
-                       config.MAX_NEWS_REELS_PER_DAY)
-            do_reel, do_post = False, True
-        if do_reel:
-            if reels_left("news") <= 0:
-                logger.info("No Meta slots left today; skipping the news reel render.")
+        action = news_meta_action()
+        if action is None:
+            logger.info("No news Meta window open right now; Telegram card only.")
+        else:
+            kind, window_key = action
+            if kind == "reel":
+                if reels_left("news") <= 0:
+                    logger.info("No Meta slots left today; skipping the news reel render.")
+                else:
+                    try:
+                        reel_path = reel_render.render_news_reel(header, display_title, source, date, background[0])
+                        logger.info("News reel rendered at %s", reel_path)
+                        if post_reel_to_meta(reel_path, social_caption, kind="news"):
+                            mark_news_meta_slot_used(window_key)
+                    except Exception:
+                        logger.warning("News reel render/post failed for %s.", link, exc_info=True)
             else:
                 try:
-                    reel_path = reel_render.render_news_reel(header, display_title, source, date, background[0])
-                    logger.info("News reel rendered at %s", reel_path)
-                    post_reel_to_meta(reel_path, social_caption, kind="news")
+                    if post_photo_to_meta(local_path, social_caption, kind="news"):
+                        mark_news_meta_slot_used(window_key)
                 except Exception:
-                    logger.warning("News reel render/post failed for %s.", link, exc_info=True)
-        if do_post:
-            try:
-                post_photo_to_meta(local_path, social_caption, kind="news")
-            except Exception:
-                logger.warning("News photo post failed for %s.", link, exc_info=True)
+                    logger.warning("News photo post failed for %s.", link, exc_info=True)
     return True
 
 

@@ -104,16 +104,22 @@ GEMINI_FALLBACK_MODELS = [
     if m.strip()
 ]
 
-# Reels posted to Instagram/Facebook per IST day. Facebook allows 30 API posts per
-# 24h and Instagram 100; staying under them avoids account restrictions. On NSE
-# trading days one of these is held back for the FII/DII Reel until it posts or
-# its window closes.
+# Reels/Posts to Instagram/Facebook per IST day -- a generous safety ceiling, not the
+# day-to-day target (that's the fixed windows below). Facebook allows 30 API posts
+# per 24h and Instagram 100. On NSE trading days one slot is held back for the
+# FII/DII Reel until it posts or its window closes.
 MAX_REELS_PER_DAY = int(os.getenv("MAX_REELS_PER_DAY", "25"))
 
-# Separate, tighter cap on news Reels specifically (not Image Posts): once this many
-# have posted today, news falls back to Image Posts only, to avoid Instagram/Facebook
-# feeds filling up with many near-identical clips.
-MAX_NEWS_REELS_PER_DAY = int(os.getenv("MAX_NEWS_REELS_PER_DAY", "4"))
+# News Reels/Post to Instagram+Facebook, at most once each in these fixed daily
+# windows (IST hours): a Reel in the morning, a Reel in the evening, a single
+# Image Post around midday. Outside these windows, news still posts to Telegram
+# as usual but nothing goes to Meta.
+NEWS_MORNING_REEL_START_HOUR = int(os.getenv("NEWS_MORNING_REEL_START_HOUR", "8"))
+NEWS_MORNING_REEL_END_HOUR = int(os.getenv("NEWS_MORNING_REEL_END_HOUR", "10"))
+NEWS_AFTERNOON_POST_START_HOUR = int(os.getenv("NEWS_AFTERNOON_POST_START_HOUR", "12"))
+NEWS_AFTERNOON_POST_END_HOUR = int(os.getenv("NEWS_AFTERNOON_POST_END_HOUR", "14"))
+NEWS_EVENING_REEL_START_HOUR = int(os.getenv("NEWS_EVENING_REEL_START_HOUR", "18"))
+NEWS_EVENING_REEL_END_HOUR = int(os.getenv("NEWS_EVENING_REEL_END_HOUR", "20"))
 
 # FII/DII polling window (IST hours, weekdays).
 FII_WINDOW_START_HOUR = int(os.getenv("FII_WINDOW_START_HOUR", "17"))

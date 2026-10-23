@@ -98,8 +98,10 @@ To pause the bot later, change `BOT_ENABLED` to `false`.
 | `NEWS_WINDOW_START_HOUR` / `NEWS_WINDOW_END_HOUR` | 6 / 23 | News is posted only between 6 AM and 11 PM IST |
 | `MAX_NEWS_PER_RUN` | 1 | News posts per 30-minute check. Telegram has no daily cap (SEBI first, then the newest market stories) |
 | `NEWS_MAX_AGE_HOURS` | 12 | Older items are skipped (stops a flood of overnight news at 6 AM) |
-| `MAX_REELS_PER_DAY` | 25 | Reels+Posts per day to Instagram/Facebook combined (Facebook allows 30). On NSE trading days 2 are held for FII/DII (its Reel + Image Post) until it posts or 9 PM; weekends and NSE holidays give all 25 to news |
-| `MAX_NEWS_REELS_PER_DAY` | 4 | News Reels specifically (not Image Posts) per day; once reached, news falls back to Image Posts only, so feeds don't fill with near-identical clips |
+| `MAX_REELS_PER_DAY` | 25 | Safety ceiling on Reels+Posts per day to Instagram/Facebook combined (Facebook allows 30). Day-to-day volume is actually set by the windows below, so this almost never binds |
+| `NEWS_MORNING_REEL_START/END_HOUR` | 8 / 10 | News Reel to Instagram/Facebook, at most once in this window |
+| `NEWS_AFTERNOON_POST_START/END_HOUR` | 12 / 14 | News Image Post to Instagram/Facebook, at most once in this window |
+| `NEWS_EVENING_REEL_START/END_HOUR` | 18 / 20 | News Reel to Instagram/Facebook, at most once in this window |
 | `FII_WINDOW_START_HOUR` / `FII_WINDOW_END_HOUR` | 17 / 21 | FII/DII is checked every 15 minutes between these IST hours on weekdays |
 
 On this PC, the same settings go in `.env`. Restart the bot after editing.
@@ -137,9 +139,9 @@ Meta's app review is **not needed**. The app only posts to accounts you own, and
 1. Add the three values to your local `.env` and run `.venv\Scripts\python scripts\check_meta.py`. Every line should say `OK`.
 2. Add the same three values as GitHub Secrets (Part 1, step 3).
 
-From then on, each news item and each day's FII/DII update goes out as a still card on Telegram, plus Instagram and Facebook posts: news alternates between a Reel and an Image Post (Reel, Post, Reel, Post..., resetting to Reel each morning); FII/DII always posts both a Reel and an Image Post, since it only happens once a day.
+From then on, every news item still goes out as a still card on Telegram, same as before. Instagram and Facebook get far less: a news Reel 8-10am, a news Image Post 12-2pm, a news Reel 6-8pm, and FII/DII's own Reel once a day on trading days -- 3 Reels + 1 Post total, whatever the best-ranked (SEBI/trending-priority, Google Trends-boosted) story happens to be at each window.
 
-**Limits:** Instagram allows 100 API posts and Facebook 30 per 24 hours. The bot posts at most 25 Reels+Posts combined a day (`MAX_REELS_PER_DAY`). On NSE trading days, 2 of those are held for FII/DII's Reel and Image Post. Once the day's Meta slots are used up, news keeps going to Telegram only, until 11 PM.
+**Limits:** Instagram allows 100 API posts and Facebook 30 per 24 hours; at ~4 posts/day total this is nowhere close to either limit.
 
 ---
 

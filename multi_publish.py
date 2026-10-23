@@ -31,9 +31,9 @@ def meta_configured() -> bool:
 
 
 def _fii_slot_reserved(now: datetime.datetime) -> bool:
-    """On NSE trading days, hold Meta slots back for FII/DII (it posts both a Reel and
-    an Image Post) until it has posted or its window has closed. Weekends and NSE
-    holidays publish no FII/DII data, so no hold."""
+    """On NSE trading days, hold one Meta slot back for FII/DII's Reel until it has
+    posted or its window has closed. Weekends and NSE holidays publish no FII/DII
+    data, so no hold."""
     if history_store.get_value("last_fii_dii_post_date") == now.date().isoformat():
         return False
     if now.hour >= config.FII_WINDOW_END_HOUR:
@@ -43,40 +43,39 @@ def _fii_slot_reserved(now: datetime.datetime) -> bool:
 
 def reels_left(kind: str = "news") -> int:
     """Meta post slots (Reels + Image Posts combined) still allowed today for this
-    kind ("news" or "fii"). FII/DII posts both a Reel and an Image Post, so 2 slots
-    are held for it on trading days until it posts."""
+    kind ("news" or "fii") -- a generous safety ceiling; day-to-day volume is
+    actually set by the fixed news windows below and FII/DII's once-a-day post."""
     now = datetime.datetime.now(config.IST)
     used = history_store.daily_count("reels_posted", now.date().isoformat())
     limit = config.MAX_REELS_PER_DAY
     if kind == "news" and _fii_slot_reserved(now):
-        limit -= 2
+        limit -= 1
     return max(0, limit - used)
 
 
-def next_meta_action(kind: str = "news") -> tuple[bool, bool]:
-    """Decides whether to post a Reel and/or an Image Post to Instagram/Facebook.
-
-    kind="fii" ignores the alternation and always does both, without advancing
-    the tracker. kind="news" alternates Reel, Post, Reel, Post, ..., resetting
-    to Reel at the start of each new IST day."""
-    if kind == "fii":
-        return True, True
-    today = datetime.datetime.now(config.IST).date().isoformat()
-    state = history_store.get_value("meta_sequence") or {}
-    if state.get("date") != today:
-        state = {"date": today, "next": "reel"}
-    do_reel = state["next"] == "reel"
-    state["next"] = "post" if do_reel else "reel"
-    history_store.set_value("meta_sequence", state)
-    return do_reel, not do_reel
+# (window start hour, end hour, "reel"/"post", history_store key for "already used today")
+_NEWS_META_WINDOWS = [
+    (config.NEWS_MORNING_REEL_START_HOUR, config.NEWS_MORNING_REEL_END_HOUR, "reel", "news_morning_reel_date"),
+    (config.NEWS_AFTERNOON_POST_START_HOUR, config.NEWS_AFTERNOON_POST_END_HOUR, "post", "news_afternoon_post_date"),
+    (config.NEWS_EVENING_REEL_START_HOUR, config.NEWS_EVENING_REEL_END_HOUR, "reel", "news_evening_reel_date"),
+]
 
 
-def news_reels_left() -> int:
-    """News Reels (not Image Posts) still allowed today, under the tighter
-    MAX_NEWS_REELS_PER_DAY cap -- separate from the overall Meta slot budget."""
-    today = datetime.datetime.now(config.IST).date().isoformat()
-    used = history_store.daily_count("news_reels_posted", today)
-    return max(0, config.MAX_NEWS_REELS_PER_DAY - used)
+def news_meta_action() -> tuple[str, str] | None:
+    """Returns ("reel"|"post", window_key) if now falls inside one of the fixed daily
+    news windows and that window hasn't posted yet today, else None. Whichever news
+    item the News Catcher is already processing this cycle (already the best-ranked
+    one, trending-boosted) is what gets posted -- there's no separate re-pick here."""
+    now = datetime.datetime.now(config.IST)
+    today = now.date().isoformat()
+    for start, end, kind, key in _NEWS_META_WINDOWS:
+        if start <= now.hour < end and history_store.get_value(key) != today:
+            return kind, key
+    return None
+
+
+def mark_news_meta_slot_used(window_key: str) -> None:
+    history_store.set_value(window_key, datetime.datetime.now(config.IST).date().isoformat())
 
 
 def post_reel_to_meta(local_video_path: str, caption: str, kind: str = "news") -> bool:
@@ -107,17 +106,18 @@ def post_reel_to_meta(local_video_path: str, caption: str, kind: str = "news") -
     return posted
 
 
-def post_photo_to_meta(local_image_path: str, caption: str, kind: str = "news") -> None:
+def post_photo_to_meta(local_image_path: str, caption: str, kind: str = "news") -> bool:
     """Image Post: the same locally-rendered card already sent to Telegram, with the
-    same Gemini-generated caption/keywords as a Reel would get."""
+    same Gemini-generated caption/keywords as a Reel would get. Returns True if the
+    photo posted to at least one platform."""
     if not meta_configured():
         logger.info("Meta credentials not set; photo saved at %s but not posted.", local_image_path)
-        return
+        return False
     today = datetime.datetime.now(config.IST).date().isoformat()
     if reels_left(kind) <= 0:
         logger.info("No %s Meta slots left today (cap %d); photo saved at %s but not posted.",
                     kind, config.MAX_REELS_PER_DAY, local_image_path)
-        return
+        return False
     posted = False
     if config.FB_PAGE_ID:
         try:
@@ -139,6 +139,7 @@ def post_photo_to_meta(local_image_path: str, caption: str, kind: str = "news") 
                 logger.warning("Instagram photo post failed.", exc_info=True)
     if posted:
         history_store.increment_daily_count("reels_posted", today)
+    return posted
 
 
 def youtube_configured() -> bool:
