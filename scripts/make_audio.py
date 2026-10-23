@@ -44,18 +44,30 @@ def _saw(freq, t, harmonics=10):
     return sum(np.sin(2 * np.pi * freq * n * t) / n for n in range(1, harmonics + 1))
 
 
+def _pluck(freq, t_rel, dur=0.26):
+    """Bright, fast-attack plucked/bell tone -- the arpeggio voice that gives
+    corporate-motivational tracks their signature "inspirational" character."""
+    env = np.exp(-t_rel / 0.17)
+    tone = (np.sin(2 * np.pi * freq * t_rel) + 0.5 * np.sin(2 * np.pi * freq * 2 * t_rel)
+           + 0.25 * np.sin(2 * np.pi * freq * 3 * t_rel))
+    return tone * env * (t_rel < dur)
+
+
 def _note(f):
     return 440.0 * 2 ** ((f - 69) / 12)
 
 
 def music(seconds, bpm, chords, bass_roots):
-    """Lo-fi / corporate pulse: pad chords, sub bass, kick, clap and hats, sidechained."""
+    """Corporate-motivational: warm major-key pad chords, a bright plucked arpeggio
+    lead, sub bass, kick/clap/hats, sidechained -- an uplifting, driving finance/
+    success-content feel rather than a laid-back lo-fi one."""
     t = _t(seconds)
     beat = 60 / bpm
     bar = beat * 4
     pad_l = np.zeros_like(t)
     pad_r = np.zeros_like(t)
     bass = np.zeros_like(t)
+    arp = np.zeros_like(t)
     for i, (chord, root) in enumerate(zip(chords * 20, bass_roots * 20)):
         start = i * bar
         if start >= seconds:
@@ -65,14 +77,25 @@ def music(seconds, bpm, chords, bass_roots):
         env = np.minimum(1, lt / 0.35) * np.exp(-np.maximum(0, lt - bar) / 0.15)
         for n in chord:
             f = _note(n)
-            pad_l[seg] += _saw(f * 0.998, lt, 6) * env
-            pad_r[seg] += _saw(f * 1.002, lt, 6) * env
+            pad_l[seg] += _saw(f * 0.998, lt, 4) * env
+            pad_r[seg] += _saw(f * 1.002, lt, 4) * env
         for b in range(4):
             bs = start + b * beat
             m = (t >= bs) & (t < bs + beat)
             bt = t[m] - bs
             bass[m] += np.sin(2 * np.pi * _note(root) * bt) * np.exp(-bt / 0.35)
+        # Arpeggio: steps up through the chord tones (one octave above the pad) on
+        # each 8th note of the bar -- the plucked, rising-and-falling melodic hook.
+        arp_tones = [_note(n + 12) for n in chord] + [_note(chord[0] + 24)]
+        for step in range(8):
+            st = start + step * (beat / 2)
+            if st >= seconds:
+                break
+            m = (t >= st) & (t < st + beat / 2 + 0.3)
+            at = t[m] - st
+            arp[m] += _pluck(arp_tones[step % len(arp_tones)], at)
     pad_l, pad_r = _lowpass(pad_l, 1400), _lowpass(pad_r, 1400)
+    arp = _lowpass(arp, 7000)
 
     kick = np.zeros_like(t)
     clap = np.zeros_like(t)
@@ -95,8 +118,8 @@ def music(seconds, bpm, chords, bass_roots):
             noise = rng.standard_normal(hm.sum())
             hats[hm] += (noise - _lowpass(noise, 6000)) * np.exp(-ht / 0.015)
 
-    left = 0.22 * pad_l * duck + 0.45 * bass * duck + 0.9 * kick + 0.11 * clap + 0.10 * hats
-    right = 0.22 * pad_r * duck + 0.45 * bass * duck + 0.9 * kick + 0.11 * clap + 0.10 * hats
+    left = 0.20 * pad_l * duck + 0.45 * bass * duck + 0.9 * kick + 0.11 * clap + 0.10 * hats + 0.30 * arp * duck
+    right = 0.20 * pad_r * duck + 0.45 * bass * duck + 0.9 * kick + 0.11 * clap + 0.10 * hats + 0.30 * arp * duck
     fade = np.minimum(1, np.minimum(t / 0.5, (seconds - t) / 1.5))
     return left * fade, right * fade
 
@@ -146,11 +169,13 @@ if __name__ == "__main__":
     sfx = {"whoosh": whoosh(), "pop": pop(), "riser": riser(), "impact": impact(), "tick": tick()}
     news_dir = ROOT / "reels" / "news" / "assets" / "audio"
     fii_dir = ROOT / "reels" / "fii_dii" / "assets" / "audio"
-    # Am - F - C - G at 100 bpm for news; Dm - Bb - F - C at 104 bpm for FII/DII
-    _write(news_dir / "music.wav", *music(12.5, 100, [[57, 60, 64], [53, 57, 60], [48, 55, 64], [55, 59, 62]],
-                                           [45, 41, 36, 43]), peak=0.7)
-    _write(fii_dir / "music.wav", *music(9.5, 104, [[50, 53, 57], [46, 50, 53], [53, 57, 60], [48, 52, 55]],
-                                          [38, 34, 41, 36]), peak=0.7)
+    # Major-key, uplifting "four chords" progressions (the classic corporate/
+    # motivational sound) -- C-G-Am-F at 112 bpm for news; F-C-G-Am at 116 bpm
+    # for FII/DII, so the two tracks are related but distinguishable.
+    _write(news_dir / "music.wav", *music(12.5, 112, [[60, 64, 67], [55, 59, 62], [57, 60, 64], [53, 57, 60]],
+                                           [48, 43, 45, 41]), peak=0.7)
+    _write(fii_dir / "music.wav", *music(9.5, 116, [[53, 57, 60], [60, 64, 67], [55, 59, 62], [57, 60, 64]],
+                                          [41, 48, 43, 45]), peak=0.7)
     for name, sig in sfx.items():
         _write(news_dir / f"{name}.wav", sig)
         _write(fii_dir / f"{name}.wav", sig)
