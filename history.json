@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/karur-vysya-bank-hits-new-lifetime-high-up-8-in-two-days-post-q2-results-126101900172_1.html",
-    "https://www.business-standard.com/markets/news/hdfc-bank-share-price-falls-1-5-post-q2-show-analysts-say-worst-over-eyes-on-new-ceo-126101900140_1.html",
-    "https://www.livemint.com/market/phonepe-rebrands-stock-broking-platform-share-market-as-phonepe-invest-offers-smart-tools-for-investors-11792406855628.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-as-strong-gdp-data-ease-stimulus-concerns/articleshow/135040279.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/ixigo-shares-rally-13-after-travel-platform-reports-all-time-high-profit/articleshow/135040268.cms",
     "https://www.livemint.com/market/stock-market-news/ixigo-shares-jump-13-on-q2-profit-turnaround-but-why-does-motilal-oswal-retain-its-neutral-rating-11792383522422.html",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-tumble-over-8-after-q2-results-heres-why-jefferies-nomura-bernstein-cut-target-price/articleshow/135133939.cms",
     "https://www.livemint.com/market/stock-market-news/swiggy-shares-hit-52-week-low-down-35-in-1-month-should-investors-buy-the-stock-after-q2-results-expert-view-11792732293505.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-public-notice-to-rose-valley-depositors_105395.html",
-    "https://www.business-standard.com/markets/news/zetwerk-shares-debut-at-5-premium-over-ipo-price-beat-expectations-126102300231_1.html"
+    "https://www.business-standard.com/markets/news/zetwerk-shares-debut-at-5-premium-over-ipo-price-beat-expectations-126102300231_1.html",
+    "https://www.livemint.com/market/yields-plummet-as-fears-about-ai-boom-sustainability-flare-11792695822319.html",
+    "https://www.business-standard.com/markets/news/tonbo-imaging-shares-make-strong-debut-list-at-66-premium-over-ipo-price-126102300219_1.html",
+    "https://www.business-standard.com/markets/news/swiggy-slumps-10-to-new-low-as-q2-below-expectations-analysts-cut-targets-126102300185_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-23",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Korea\u2019s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
     "HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations \u2014 which stock should you buy?",
     "Tata Group stock to buy on Dussehra 2026 for money gains - Check target, stop loss by Choice Broking's Sumeet Bagadia",
     "Nykaa shares: Anand Rathi initiates coverage on e-commerce stock with 'buy' rating | Check target price, rating",
@@ -586,11 +585,12 @@
     "Tata Teleservices shares crash 11% after Q2 result 2026 - What's next for the stock? Expert view",
     "Swiggy shares crash 14%, hit 52-week low after Q2 results. Here\u2019s why Jefferies, Nomura, Bernstein cut target price",
     "Swiggy shares hit 52-week low, down 35% in 1 month- should investors buy the stock after Q2 results? Expert view",
-    "Zetwerk shares debut at 5% premium over IPO price, beat expectations"
+    "Zetwerk shares debut at 5% premium over IPO price, beat expectations",
+    "Swiggy slumps 15% to new low as Q2 below expectations, analysts cut targets"
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 10
+    "count": 11
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -622,14 +622,14 @@
   },
   "meta_sequence": {
     "date": "2026-10-23",
-    "next": "reel"
+    "next": "post"
   },
   "news_reels_posted": {
     "date": "2026-10-23",
-    "count": 2
+    "count": 3
   },
   "nse_most_active": {
-    "fetched_at": 1792737455.309348,
+    "fetched_at": 1792740166.0552273,
     "symbols": [
       "bonfig",
       "easemytrip",
