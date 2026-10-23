@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/ixigo-shares-jump-13-on-q2-profit-turnaround-but-why-does-motilal-oswal-retain-its-neutral-rating-11792383522422.html",
     "https://www.business-standard.com/markets/news/urban-company-shares-fall-10-as-q2-net-loss-widens-despite-revenue-growth-126101900225_1.html",
     "https://www.business-standard.com/markets/news/nifty-psu-bank-index-surges-3-pnb-psb-canara-union-bank-soar-up-to-8-126101900159_1.html",
     "https://www.business-standard.com/markets/news/axis-bank-shares-fall-5-despite-39-rise-in-q2-net-profit-here-s-why-126101900187_1.html",
@@ -499,15 +498,15 @@
     "https://www.business-standard.com/markets/news/tonbo-imaging-shares-make-strong-debut-list-at-66-premium-over-ipo-price-126102300219_1.html",
     "https://www.business-standard.com/markets/news/swiggy-slumps-10-to-new-low-as-q2-below-expectations-analysts-cut-targets-126102300185_1.html",
     "https://www.livemint.com/market/stock-market-news/ipo-listings-share-price-today-tonbo-imaging-vs-zetwerk-vs-bonfiglioli-vs-sahajanand-who-won-debut-race-on-nse-bse-11792733810920.html",
-    "https://www.livemint.com/market/stock-market-news/why-are-mid-small-caps-bleeding-indices-crash-up-to-4-swiggy-meesho-vedanta-aluminium-mcx-lose-big-11792737065942.html"
+    "https://www.livemint.com/market/stock-market-news/why-are-mid-small-caps-bleeding-indices-crash-up-to-4-swiggy-meesho-vedanta-aluminium-mcx-lose-big-11792737065942.html",
+    "https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-23",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "Nykaa shares: Anand Rathi initiates coverage on e-commerce stock with 'buy' rating | Check target price, rating",
     "Hindustan Zinc shares: Experts bullish on Anil Agarwal-led metal stock after robust Q2 results 2026 | Target, stop-loss",
     "SpaceX shares: Down 35% from IPO listing peak, Elon Musk firm to declare earnings today - When, where to check online",
     "Analysis ahead of Reliance Jio IPO: Bharti Airtel is better or Mukesh Ambani shares? Top value things before bid opens",
@@ -586,11 +585,12 @@
     "Zetwerk shares debut at 5% premium over IPO price, beat expectations",
     "Swiggy slumps 15% to new low as Q2 below expectations, analysts cut targets",
     "IPO listings, share price today: Tonbo Imaging vs Zetwerk vs Bonfiglioli vs Sahajanand - Who won debut race on NSE, BSE?",
-    "Why are mid, small-caps bleeding? Indices crash up to 4% - Swiggy, Meesho, Vedanta Aluminium, MCX lose big"
+    "Why are mid, small-caps bleeding? Indices crash up to 4% - Swiggy, Meesho, Vedanta Aluminium, MCX lose big",
+    "Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price"
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 13
+    "count": 14
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -622,14 +622,14 @@
   },
   "meta_sequence": {
     "date": "2026-10-23",
-    "next": "post"
+    "next": "reel"
   },
   "news_reels_posted": {
     "date": "2026-10-23",
     "count": 4
   },
   "nse_most_active": {
-    "fetched_at": 1792749969.4103646,
+    "fetched_at": 1792751636.5484087,
     "symbols": [
       "adanipower",
       "easemytrip",
