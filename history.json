@@ -1,15 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/suzlon-shares-crash-over-20-in-six-months-experts-predict-a-strong-rebound-after-re-rating-target-price-stoploss-11792384372732.html",
-    "https://www.business-standard.com/markets/commodities/gold-silver-prices-rise-as-traders-pare-bets-on-october-fed-rate-hike-126101900270_1.html",
-    "https://www.livemint.com/market/stock-market-news/vaishali-parekh-recommends-3-stocks-to-buy-today-coforge-lalithaa-jewellery-titan-target-stop-loss-market-outlook-11792342947926.html",
-    "https://www.livemint.com/market/mark-to-market/jio-platforms-ipo-ai-patents-pricing-revenue-airtel-11792388156507.html",
-    "https://www.livemint.com/market/stock-market-news/q2-results-today-hindustan-zinc-ireda-l-t-tech-union-bank-bajaj-finance-among-35-companies-to-announce-earnings-11792333351897.html",
-    "https://www.livemint.com/market/stock-market-news/dividend-record-date-last-chance-to-buy-today-to-qualify-elecon-icici-prudential-amc-mrpl-who-pays-max-amount-11792336666965.html",
-    "https://www.livemint.com/market/stock-market-news/platinum-industries-share-price-jumps-14-technical-analyst-sees-further-upside-check-key-levels-to-watch-11792393248087.html",
-    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
-    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
-    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
     "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
     "https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html",
     "https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-on-dussehra-are-bse-nse-open-or-closed-for-trading-on-tuesday-20-oct-check-calendar-11792400130338.html",
@@ -499,15 +489,24 @@
     "https://www.business-standard.com/markets/news/srf-extends-slide-to-5th-day-falls-5-to-hit-52-wk-low-on-q2-margin-miss-126102200396_1.html",
     "https://www.business-standard.com/markets/news/kei-industries-share-price-plunges-10-nears-52-week-low-here-s-why-126102200355_1.html",
     "https://www.business-standard.com/markets/news/mahindra-finance-tanks-10-hits-52-week-low-despite-55-surge-in-q2-profit-126102200356_1.html",
-    "https://www.livemint.com/market/stock-market-news/pros-and-cons-of-investing-in-sbi-11792677364140.html"
+    "https://www.livemint.com/market/stock-market-news/pros-and-cons-of-investing-in-sbi-11792677364140.html",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/record-galore-jio-ipo-claims-crown-for-highest-qib-demand-among-indias-5-largest-issues-edges-past-nse/articleshow/135120259.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-2026-moderna-sandisk-lead-top-10-gainers-delivering-up-to-734-returns/articleshow/135119576.cms",
+    "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/sofi-targets-idle-crypto-cash-with-interest-bearing-tokenized-deposit/articleshow/135119511.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-india-q2-results-profit-rises-4-3-to-rs-341-6-crore/articleshow/135119461.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-margin-relief-against-early-pay-in-of-securities-for-subsequent-trades/articleshow/135119438.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs/articleshow/135119388.cms",
+    "https://www.livemint.com/market/stock-market-news/it-stocks-rebound-sharply-in-october-tcs-gains-22-wipro-and-tech-mahindra-gain-20-3-key-reasons-behind-the-jump-11792671461699.html",
+    "https://www.livemint.com/market/stock-market-news/163-return-in-3-years-this-amc-declares-rs-9-50-dividend-despite-6-profit-dip-do-you-own-check-record-date-11792672553645.html",
+    "https://www.business-standard.com/markets/news/sebi-allows-margin-relief-on-subsequent-trades-against-early-pay-in-126102201148_1.html",
+    "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-23",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "PhonePe rebrands stock broking platform Share.Market as PhonePe Invest, offers smart tools for investors",
     "Private lenders weigh on equity markets as PSU banks buck the selloff",
     "Ashish Kacholia buys into this lead recycler. Can the stock overcome margin pressure?",
     "Dollar and euro drift, yen slips as markets seek direction",
@@ -586,11 +585,12 @@
     "Calliope Capital Ola Electric Investment: How many rights entitlements has the firm applied for?",
     "\u20b948,000 crore FPI retreat leaves tech stocks as lone bright spot",
     "Apple stock rises 28% in 2026 as AI stocks wobble: Why investors are betting on the iPhone maker",
-    "Pros and cons of investing in SBI"
+    "Pros and cons of investing in SBI",
+    "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment"
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-23",
-    "next": "post"
+    "next": "reel"
   }
 }
