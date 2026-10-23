@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/up-38-in-a-month-pc-jeweller-share-price-rallies-9-despite-weak-trend-on-d-street-check-target-price-stop-loss-11792381037081.html",
     "https://www.livemint.com/market/anthropics-ipo-dreams-may-be-eclipsed-by-thecloud-11792383878872.html",
     "https://www.livemint.com/market/stock-market-news/hindustan-zinc-share-q2-results-2026-date-today-dividend-profit-growth-in-focus-experts-preview-and-expectations-11792379742075.html",
     "https://www.business-standard.com/markets/news/karur-vysya-bank-hits-new-lifetime-high-up-8-in-two-days-post-q2-results-126101900172_1.html",
@@ -499,15 +498,15 @@
     "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html",
     "https://www.livemint.com/market/stock-market-news/bpcl-hpcl-to-iocl-omc-stocks-dip-up-to-2-as-brent-crude-price-touches-114-per-barrel-what-should-investors-do-11792728952014.html",
     "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-crash-11-after-q2-result-2026-whats-next-for-the-stock-expert-view-11792664691866.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-tumble-over-8-after-q2-results-heres-why-jefferies-nomura-bernstein-cut-target-price/articleshow/135133939.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-tumble-over-8-after-q2-results-heres-why-jefferies-nomura-bernstein-cut-target-price/articleshow/135133939.cms",
+    "https://www.livemint.com/market/stock-market-news/swiggy-shares-hit-52-week-low-down-35-in-1-month-should-investors-buy-the-stock-after-q2-results-expert-view-11792732293505.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-23",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the year",
     "Global Market: South Korea's Elice shares plunge 28% in market debut as data centre stocks shunned",
     "Korea\u2019s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
     "HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations \u2014 which stock should you buy?",
@@ -586,11 +585,12 @@
     "IPO GMP comparison: Reliance Jio Platforms IPO vs Paras Healthcare - Last day to apply today - Listing price prediction",
     "OMC stocks in troubled waters? BPCL, HPCL, IOCL shares slump up to 2%; Brent at $114/barrel | What should investors do?",
     "Tata Teleservices shares crash 11% after Q2 result 2026 - What's next for the stock? Expert view",
-    "Swiggy shares crash 14%, hit 52-week low after Q2 results. Here\u2019s why Jefferies, Nomura, Bernstein cut target price"
+    "Swiggy shares crash 14%, hit 52-week low after Q2 results. Here\u2019s why Jefferies, Nomura, Bernstein cut target price",
+    "Swiggy shares hit 52-week low, down 35% in 1 month- should investors buy the stock after Q2 results? Expert view"
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 8
+    "count": 9
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -622,14 +622,14 @@
   },
   "meta_sequence": {
     "date": "2026-10-23",
-    "next": "reel"
+    "next": "post"
   },
   "news_reels_posted": {
     "date": "2026-10-23",
-    "count": 1
+    "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792733552.008611,
+    "fetched_at": 1792735412.600068,
     "symbols": [
       "adanipower",
       "bonfig",
