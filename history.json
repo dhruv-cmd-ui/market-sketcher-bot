@@ -501,7 +501,7 @@
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-eternal-apollo-hospital-shriram-finance-adani-enterprises-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135144888.cms"
   ],
-  "last_fii_dii_post_date": "2026-10-22",
+  "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-23",
     "count": 15
@@ -590,7 +590,7 @@
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 15
+    "count": 16
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -653,5 +653,6 @@
       "zetwerk"
     ]
   },
-  "news_evening_reel_date": "2026-10-23"
+  "news_evening_reel_date": "2026-10-23",
+  "fii_cta_index": 1
 }
