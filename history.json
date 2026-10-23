@@ -1,12 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/105-billion-worth-of-shares-spacex-boss-elon-musk-to-give-one-share-to-every-us-child-how-many-shares-does-he-own-11792411456791.html",
-    "https://www.business-standard.com/markets/mutual-fund/sbi-mutual-fund-leans-on-brand-sbi-s-network-to-deepen-b-30-penetration-126101900987_1.html",
-    "https://www.business-standard.com/markets/news/risk-reward-setup-favours-bears-lemon-tree-among-3-stock-ideas-angel-one-126101900057_1.html",
-    "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
-    "https://www.business-standard.com/markets/commodities/oil-slips-as-trump-s-sanction-waiver-may-lead-to-more-russian-fuel-supplies-126101900025_1.html",
-    "https://www.business-standard.com/markets/news/stocks-to-buy-today-groww-nazara-hcl-tech-choice-broking-is-bullish-on-3-stocks-here-s-why-126101900054_1.html",
-    "https://www.business-standard.com/markets/news/asian-stocks-skid-on-ai-worries-wall-street-and-bonds-aided-by-oil-slip-126101900040_1.html",
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-nse-declares-date-time-for-special-trading-session-details-here-11792417487197.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-bse-announces-date-and-timings-for-special-session-check-details/articleshow/135046488.cms",
     "https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html",
@@ -499,15 +492,21 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-jitters-return-oil-rises/articleshow/135120582.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
     "https://www.livemint.com/market/stock-market-news/coal-india-q2-results-2026-date-dividend-announcement-news-check-maharatna-psus-earnings-schedule-preview-yield-11792676595483.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131780.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131780.cms",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/bonfiglioli-transmissions-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131771.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sahajanand-medical-technologies-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131726.cms",
+    "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-8-590-per-kilo-to-7-month-low-gold-hits-2-month-low-what-s-driving-the-selloff-in-precious-metals-11792676479559.html",
+    "https://www.business-standard.com/markets/news/oil-price-surge-keeps-nifty-in-red-sensex-sheds-460-points-on-thursday-126102201522_1.html",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-emudhra-infosys-swiggy-hpcl-havells-sun-pharma-jsl-126102300089_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-23",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Ashish Kacholia buys into this lead recycler. Can the stock overcome margin pressure?",
     "Dollar and euro drift, yen slips as markets seek direction",
     "Indonesia to Remove Tightly Held Stocks From Key Index",
     "Oil prices ease as Russia sanctions relief offsets Gulf supply risks",
@@ -586,11 +585,12 @@
     "Apple stock rises 28% in 2026 as AI stocks wobble: Why investors are betting on the iPhone maker",
     "Pros and cons of investing in SBI",
     "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
-    "Zetwerk Manufacturing Business shares to list today: Check GMP ahead of debut"
+    "Zetwerk Manufacturing Business shares to list today: Check GMP ahead of debut",
+    "Stocks to watch: eMudhra, Infosys, Swiggy, HPCL, Havells, Sun Pharma, JSL"
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 3
+    "count": 4
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-23",
-    "next": "post"
+    "next": "reel"
   }
 }
