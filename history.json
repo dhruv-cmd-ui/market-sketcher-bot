@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html",
-    "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-should-you-subscribe-anand-rathi-sees-long-term-potential-in-ai-reasonable-valuations-11792414820060.html",
-    "https://www.business-standard.com/markets/interviews/mutual-fund-inflows-insufficient-to-lift-markets-manish-jain-choice-mf-126101900075_1.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms",
     "https://www.livemint.com/market/stock-market-news/urban-company-shares-crash-over-8-after-q2-results-should-investors-buy-sell-or-hold-the-stock-experts-explain-11792383144839.html",
     "https://www.livemint.com/market/stock-market-news/up-38-in-a-month-pc-jeweller-share-price-rallies-9-despite-weak-trend-on-d-street-check-target-price-stop-loss-11792381037081.html",
@@ -499,15 +496,17 @@
     "https://www.business-standard.com/markets/news/oil-price-surge-keeps-nifty-in-red-sensex-sheds-460-points-on-thursday-126102201522_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-emudhra-infosys-swiggy-hpcl-havells-sun-pharma-jsl-126102300089_1.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/articleshow/135121938.cms",
-    "https://www.livemint.com/market/ipo/ipo-gmp-comparison-reliance-jio-platforms-ipo-vs-paras-healthcare-last-day-to-apply-today-listing-price-prediction-11792723513212.html"
+    "https://www.livemint.com/market/ipo/ipo-gmp-comparison-reliance-jio-platforms-ipo-vs-paras-healthcare-last-day-to-apply-today-listing-price-prediction-11792723513212.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/emudhra-shares-crash-another-4-down-40-in-3-sessions-whats-behind-this-free-fall/articleshow/135134086.cms",
+    "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html",
+    "https://www.livemint.com/market/stock-market-news/bpcl-hpcl-to-iocl-omc-stocks-dip-up-to-2-as-brent-crude-price-touches-114-per-barrel-what-should-investors-do-11792728952014.html"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-23",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "Indonesia to Remove Tightly Held Stocks From Key Index",
     "Oil prices ease as Russia sanctions relief offsets Gulf supply risks",
     "Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction",
     "Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the year",
@@ -586,11 +585,12 @@
     "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
     "Zetwerk Manufacturing Business shares to list today: Check GMP ahead of debut",
     "Stocks to watch: eMudhra, Infosys, Swiggy, HPCL, Havells, Sun Pharma, JSL",
-    "IPO GMP comparison: Reliance Jio Platforms IPO vs Paras Healthcare - Last day to apply today - Listing price prediction"
+    "IPO GMP comparison: Reliance Jio Platforms IPO vs Paras Healthcare - Last day to apply today - Listing price prediction",
+    "OMC stocks in troubled waters? BPCL, HPCL, IOCL shares slump up to 2%; Brent at $114/barrel | What should investors do?"
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 5
+    "count": 6
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-23",
-    "next": "post"
+    "next": "reel"
   }
 }
