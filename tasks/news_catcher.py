@@ -5,9 +5,12 @@ Polls RSS feeds (SEBI + ET Markets, Mint and Business Standard) between 06:00 an
 Reel to Instagram + Facebook.
 
 Selection: SEBI press releases/circulars first (routine enforcement filings are
-skipped), then the newest market story from any outlet. A story another outlet
-already covered (similar headline) is skipped. Pacing: MAX_NEWS_PER_RUN per check (no
-daily cap on Telegram), items older than NEWS_MAX_AGE_HOURS skipped.
+skipped), then stories about a currently most-active-by-volume NSE stock (see
+trends.py), then the newest market story from any outlet. Among the top few,
+Google Trends search interest re-ranks further (fails soft if unavailable). A
+story another outlet already covered (similar headline) is skipped. Pacing:
+MAX_NEWS_PER_RUN per check (no daily cap on Telegram), items older than
+NEWS_MAX_AGE_HOURS skipped.
 """
 import calendar
 import datetime
@@ -24,6 +27,7 @@ import backgrounds
 import image_render
 import reel_render
 import token_monitor
+import trends
 from multi_publish import (meta_configured, news_reels_left, next_meta_action, post_card_to_telegram,
                            post_photo_to_meta, post_reel_to_meta, reels_left)
 
@@ -105,6 +109,7 @@ def _collect_candidates() -> list:
     outlet are marked processed and dropped."""
     now = time.time()
     posted = [_words(t) for t in history_store.recent_titles()]
+    trending_symbols = trends.nse_most_active_symbols()
     candidates, stale, routine, duplicate = [], 0, 0, 0
     for feed_index, feed_url in enumerate(config.RSS_FEEDS):
         try:
@@ -136,7 +141,14 @@ def _collect_candidates() -> list:
                 history_store.mark_news_processed(link)
                 duplicate += 1
                 continue
-            priority = 0 if "sebi.gov.in" in link else 1
+            # SEBI first, then stories about a currently most-active-by-volume NSE
+            # stock (real trending signal, see trends.py), then everything else.
+            if "sebi.gov.in" in link:
+                priority = 0
+            elif trends.is_trending_headline(title, trending_symbols):
+                priority = 1
+            else:
+                priority = 2
             # Feeds list newest first, so position breaks ties for undated items.
             candidates.append((priority, -(ts or now), feed_index, position, entry, words))
     if routine or stale or duplicate:
@@ -244,6 +256,10 @@ def run() -> None:
     if not candidates:
         logger.info("News Catcher: no new items.")
         return
+    try:
+        candidates = trends.rerank_by_search_interest(candidates)
+    except Exception:
+        logger.warning("Search-interest reranking failed; keeping recency order.", exc_info=True)
 
     for entry in candidates[: config.MAX_NEWS_PER_RUN]:
         try:

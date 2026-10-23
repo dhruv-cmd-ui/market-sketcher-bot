@@ -6,3 +6,4 @@ python-dotenv==1.2.4
 requests==2.34.2
 tzdata==2026.5
 holidays>=0.106,<1
+pytrends==4.9.2
