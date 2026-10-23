@@ -1,16 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
-    "https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html",
-    "https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-on-dussehra-are-bse-nse-open-or-closed-for-trading-on-tuesday-20-oct-check-calendar-11792400130338.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-on-october-20-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135040341.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
-    "https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html",
-    "https://www.livemint.com/market/ipo/reliancebacked-jio-platforms-ipo-will-investors-prefer-jio-shares-over-ril-stock-what-shareholders-should-know-11792406314449.html",
-    "https://www.livemint.com/market/commodities/gold-price-to-touch-rs-1-60-lakh-by-dec-2026-end-time-to-buy-what-experts-say-to-earn-money-from-yellow-metal-deals-11792405015486.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-results-net-profit-jumps-29-yoy-to-rs-6367-crore-nii-up-24/articleshow/135048431.cms",
     "https://www.livemint.com/market/stock-market-news/105-billion-worth-of-shares-spacex-boss-elon-musk-to-give-one-share-to-every-us-child-how-many-shares-does-he-own-11792411456791.html",
     "https://www.business-standard.com/markets/mutual-fund/sbi-mutual-fund-leans-on-brand-sbi-s-network-to-deepen-b-30-penetration-126101900987_1.html",
     "https://www.business-standard.com/markets/news/risk-reward-setup-favours-bears-lemon-tree-among-3-stock-ideas-angel-one-126101900057_1.html",
@@ -499,15 +488,25 @@
     "https://www.livemint.com/market/stock-market-news/it-stocks-rebound-sharply-in-october-tcs-gains-22-wipro-and-tech-mahindra-gain-20-3-key-reasons-behind-the-jump-11792671461699.html",
     "https://www.livemint.com/market/stock-market-news/163-return-in-3-years-this-amc-declares-rs-9-50-dividend-despite-6-profit-dip-do-you-own-check-record-date-11792672553645.html",
     "https://www.business-standard.com/markets/news/sebi-allows-margin-relief-on-subsequent-trades-against-early-pay-in-126102201148_1.html",
-    "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html"
+    "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html",
+    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-launches-ndex-and-finndex-to-expand-into-equity-benchmarks/articleshow/135121233.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/creditaccess-grameen-q2-profit-jumps-fourfold-to-rs-502-crore/articleshow/135121186.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tesla-shares-slip-after-capex-cut-raises-doubts-over-musks-ai-and-robotics-push/articleshow/135121152.cms",
+    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/kolkata-home-registrations-dip-12-per-cent-in-jan-sep-larger-flats-gain-share/articleshow/135121131.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/hatsun-agro-product-q2-results-profit-rises-5-6-on-strong-sales/articleshow/135121117.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-deposit-rates-by-15-basis-points/articleshow/135131215.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-jitters-return-oil-rises/articleshow/135120582.cms",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
+    "https://www.livemint.com/market/stock-market-news/coal-india-q2-results-2026-date-dividend-announcement-news-check-maharatna-psus-earnings-schedule-preview-yield-11792676595483.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131780.cms"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-23",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Private lenders weigh on equity markets as PSU banks buck the selloff",
     "Ashish Kacholia buys into this lead recycler. Can the stock overcome margin pressure?",
     "Dollar and euro drift, yen slips as markets seek direction",
     "Indonesia to Remove Tightly Held Stocks From Key Index",
@@ -586,11 +585,12 @@
     "\u20b948,000 crore FPI retreat leaves tech stocks as lone bright spot",
     "Apple stock rises 28% in 2026 as AI stocks wobble: Why investors are betting on the iPhone maker",
     "Pros and cons of investing in SBI",
-    "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment"
+    "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
+    "Zetwerk Manufacturing Business shares to list today: Check GMP ahead of debut"
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 2
+    "count": 3
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -622,6 +622,6 @@
   },
   "meta_sequence": {
     "date": "2026-10-23",
-    "next": "reel"
+    "next": "post"
   }
 }
