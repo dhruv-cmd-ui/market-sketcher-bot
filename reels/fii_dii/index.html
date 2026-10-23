@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en" data-resolution="portrait" data-composition-variables='[
   {"id":"handle","type":"string","label":"Social handle","default":"@marketsketchbook"},
+  {"id":"hook_stat","type":"string","label":"Hook stat line","default":"DII NET SELL ₹3,661 Cr"},
+  {"id":"hook_sentiment","type":"string","label":"Hook sentiment (pos/neg)","default":"neg"},
+  {"id":"hook_question","type":"string","label":"Hook question line","default":"Who Is Really Driving The Market?"},
   {"id":"date_label","type":"string","label":"Date label","default":"Friday, 16 Oct 2026"},
   {"id":"fii_buy","type":"number","label":"FII buy (Cr)","default":19951.59},
   {"id":"fii_sell","type":"number","label":"FII sell (Cr)","default":18785.67},
@@ -64,11 +67,25 @@
         border-top: 2px solid #1e2f52; display: flex; justify-content: space-between; font-size: 30px;
       }
       .footer .src { color: #8a9bb8; } .footer .handle { color: #5b8def; font-weight: 600; }
+      .hook-overlay { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; z-index: 50; }
+      .hook-box {
+        width: 940px; padding: 64px 56px; border-radius: 40px; text-align: center;
+        background: rgba(5,12,28,0.82); box-shadow: 0 40px 100px rgba(0,0,0,0.5);
+      }
+      .hook-stat { font-size: 92px; font-weight: 800; line-height: 1.08; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+      .hook-stat.pos { color: #22c55e; } .hook-stat.neg { color: #ef4444; }
+      .hook-question { font-size: 48px; font-weight: 700; color: #f5f7fa; margin-top: 28px; line-height: 1.25; }
     </style>
   </head>
   <body>
-    <div id="root" data-composition-id="main" data-start="0" data-duration="9" data-width="1080" data-height="1920">
-      <div id="scene" class="clip" data-start="0" data-duration="9" data-track-index="0" style="position:absolute;inset:0">
+    <div id="root" data-composition-id="main" data-start="0" data-duration="11.6" data-width="1080" data-height="1920">
+      <div id="scene" class="clip" data-start="0" data-duration="11.6" data-track-index="0" style="position:absolute;inset:0">
+        <div class="hook-overlay" id="hook-overlay">
+          <div class="hook-box">
+            <div class="hook-stat" id="hook-stat"></div>
+            <div class="hook-question" id="hook-question"></div>
+          </div>
+        </div>
         <div class="accent-bar" id="accent"></div>
 
         <div class="header" id="header">
@@ -109,13 +126,15 @@
           <div class="handle"></div>
         </div>
       </div>
-      <audio id="music" class="clip" src="assets/audio/music.wav" data-start="0" data-duration="9" data-volume="0.5" data-fade-out="1.0"></audio>
-      <audio id="sfx-whoosh-1" class="clip" src="assets/audio/whoosh.wav" data-start="0" data-duration="0.75" data-volume="0.6"></audio>
-      <audio id="sfx-whoosh-2" class="clip" src="assets/audio/whoosh.wav" data-start="0.75" data-duration="0.75" data-volume="0.6"></audio>
-      <audio id="sfx-pop-1" class="clip" src="assets/audio/pop.wav" data-start="2.0" data-duration="0.18" data-volume="0.8"></audio>
-      <audio id="sfx-whoosh-3" class="clip" src="assets/audio/whoosh.wav" data-start="2.05" data-duration="0.75" data-volume="0.6"></audio>
-      <audio id="sfx-pop-2" class="clip" src="assets/audio/pop.wav" data-start="3.3" data-duration="0.18" data-volume="0.8"></audio>
-      <audio id="sfx-impact" class="clip" src="assets/audio/impact.wav" data-start="3.6" data-duration="1.2" data-volume="0.8"></audio>
+      <audio id="music" class="clip" src="assets/audio/music.wav" data-start="0" data-duration="11.6" data-volume="0.5" data-fade-out="1.0"></audio>
+      <audio id="sfx-hook-in" class="clip" src="assets/audio/impact.wav" data-start="0" data-duration="1.0" data-volume="0.85"></audio>
+      <audio id="sfx-hook-out" class="clip" src="assets/audio/whoosh.wav" data-start="2.2" data-duration="0.6" data-volume="0.6"></audio>
+      <audio id="sfx-whoosh-1" class="clip" src="assets/audio/whoosh.wav" data-start="2.6" data-duration="0.75" data-volume="0.6"></audio>
+      <audio id="sfx-whoosh-2" class="clip" src="assets/audio/whoosh.wav" data-start="3.35" data-duration="0.75" data-volume="0.6"></audio>
+      <audio id="sfx-pop-1" class="clip" src="assets/audio/pop.wav" data-start="4.6" data-duration="0.18" data-volume="0.8"></audio>
+      <audio id="sfx-whoosh-3" class="clip" src="assets/audio/whoosh.wav" data-start="4.65" data-duration="0.75" data-volume="0.6"></audio>
+      <audio id="sfx-pop-2" class="clip" src="assets/audio/pop.wav" data-start="5.9" data-duration="0.18" data-volume="0.8"></audio>
+      <audio id="sfx-impact" class="clip" src="assets/audio/impact.wav" data-start="6.2" data-duration="1.2" data-volume="0.8"></audio>
     </div>
     <script>
       const v = window.__hyperframes.getVariables();
@@ -123,6 +142,10 @@
       const signed = (n) => (n >= 0 ? "+" : "−") + fmt(n);
       const $ = (id) => document.getElementById(id);
       document.querySelectorAll(".handle, .cta-handle").forEach((el) => { el.textContent = v.handle; });
+
+      $("hook-stat").textContent = v.hook_stat;
+      $("hook-stat").classList.add(v.hook_sentiment === "pos" ? "pos" : "neg");
+      $("hook-question").textContent = v.hook_question;
 
       $("subtitle").textContent = "Cash Market · " + v.date_label;
       const scaleMax = Math.max(v.fii_buy, v.fii_sell, v.dii_buy, v.dii_sell) || 1;
@@ -151,24 +174,31 @@
       };
       paint();
 
+      const HOOK = 2.6; // seconds the opening hook (first-3-seconds scroll-stopper) holds the screen
+
       const tl = gsap.timeline({ paused: true, defaults: { ease: "power3.out" } });
-      tl.from("#accent", { scaleX: 0, duration: 0.8 }, 0);
-      tl.from("#header", { opacity: 0, y: 50, duration: 0.8 }, 0.1);
 
-      tl.from("#fii-panel", { opacity: 0, y: 80, duration: 0.7 }, 0.8);
-      tl.from(["#fii-buy-bar", "#fii-sell-bar"], { scaleX: 0, duration: 1.0, stagger: 0.15 }, 1.2);
-      tl.from("#fii-pill", { opacity: 0, scale: 0.7, duration: 0.4 }, 2.0);
-      tl.to(counters, { fii: v.fii_net, duration: 1.2, ease: "power2.out", onUpdate: paint }, 1.1);
+      tl.fromTo("#hook-overlay", { opacity: 0, scale: 0.92 }, { opacity: 1, scale: 1, duration: 0.5, ease: "back.out(1.6)" }, 0);
+      tl.from("#hook-question", { opacity: 0, y: 20, duration: 0.4 }, 0.35);
+      tl.to("#hook-overlay", { opacity: 0, scale: 1.04, duration: 0.4, ease: "power2.in" }, HOOK - 0.35);
 
-      tl.from("#dii-panel", { opacity: 0, y: 80, duration: 0.7 }, 2.1);
-      tl.from(["#dii-buy-bar", "#dii-sell-bar"], { scaleX: 0, duration: 1.0, stagger: 0.15 }, 2.5);
-      tl.from("#dii-pill", { opacity: 0, scale: 0.7, duration: 0.4 }, 3.3);
-      tl.to(counters, { dii: v.dii_net, duration: 1.2, ease: "power2.out", onUpdate: paint }, 2.4);
+      tl.from("#accent", { scaleX: 0, duration: 0.8 }, HOOK + 0);
+      tl.from("#header", { opacity: 0, y: 50, duration: 0.8 }, HOOK + 0.1);
 
-      tl.from("#summary", { opacity: 0, y: 60, duration: 0.7 }, 3.6);
-      tl.to(counters, { combined: combinedNet, duration: 1.0, ease: "power2.out", onUpdate: paint }, 3.8);
-      tl.from("#footer", { opacity: 0, duration: 0.6 }, 4.4);
-      tl.to({}, { duration: 0.01 }, 8.99);
+      tl.from("#fii-panel", { opacity: 0, y: 80, duration: 0.7 }, HOOK + 0.8);
+      tl.from(["#fii-buy-bar", "#fii-sell-bar"], { scaleX: 0, duration: 1.0, stagger: 0.15 }, HOOK + 1.2);
+      tl.from("#fii-pill", { opacity: 0, scale: 0.7, duration: 0.4 }, HOOK + 2.0);
+      tl.to(counters, { fii: v.fii_net, duration: 1.2, ease: "power2.out", onUpdate: paint }, HOOK + 1.1);
+
+      tl.from("#dii-panel", { opacity: 0, y: 80, duration: 0.7 }, HOOK + 2.1);
+      tl.from(["#dii-buy-bar", "#dii-sell-bar"], { scaleX: 0, duration: 1.0, stagger: 0.15 }, HOOK + 2.5);
+      tl.from("#dii-pill", { opacity: 0, scale: 0.7, duration: 0.4 }, HOOK + 3.3);
+      tl.to(counters, { dii: v.dii_net, duration: 1.2, ease: "power2.out", onUpdate: paint }, HOOK + 2.4);
+
+      tl.from("#summary", { opacity: 0, y: 60, duration: 0.7 }, HOOK + 3.6);
+      tl.to(counters, { combined: combinedNet, duration: 1.0, ease: "power2.out", onUpdate: paint }, HOOK + 3.8);
+      tl.from("#footer", { opacity: 0, duration: 0.6 }, HOOK + 4.4);
+      tl.to({}, { duration: 0.01 }, HOOK + 8.99);
 
       window.__timelines = window.__timelines || {};
       window.__timelines["main"] = tl;

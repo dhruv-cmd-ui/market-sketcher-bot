@@ -29,6 +29,15 @@ logger = logging.getLogger(__name__)
 
 _DATE_FORMATS = ["%d-%b-%Y", "%d-%m-%Y", "%d/%m/%Y"]
 
+# Rotates on every Instagram/Facebook/YouTube post so the same CTA doesn't repeat every day.
+_CTAS = ["Comment your view \U0001F447", "Save this for later \U0001F4CC", "Follow for daily updates \U0001F514"]
+
+
+def _next_cta() -> str:
+    idx = (history_store.get_value("fii_cta_index") or 0) % len(_CTAS)
+    history_store.set_value("fii_cta_index", (idx + 1) % len(_CTAS))
+    return _CTAS[idx]
+
 
 def _in_scrape_window(now_ist: datetime.datetime) -> bool:
     if now_ist.weekday() > 4:  # Mon=0 ... Sun=6
@@ -117,7 +126,7 @@ def run() -> None:
     try:
         context = _build_context(report_date, values)
         try:
-            content = gemini_client.generate_content(context)
+            content = gemini_client.generate_content(context, content_type="fii_dii")
         except Exception:
             logger.warning("Gemini captions unavailable; using template captions.", exc_info=True)
             fii, dii = values["fii"]["net"], values["dii"]["net"]
@@ -127,10 +136,8 @@ def run() -> None:
             content = {
                 "telegram_caption": f"FII / DII Activity\n\n{summary}",
                 "social_caption": f"{summary}\n\n#FII #DII #StockMarket #Nifty #Sensex",
-                "youtube_title": f"FII DII Data Today {report_date.strftime('%d %b %Y')} | NSE Cash Market",
-                "youtube_description": f"{summary}\n\nFollow for daily FII/DII updates. #Shorts #FII #DII #StockMarket #Nifty",
-                "youtube_tags": ["FII DII data", "FII DII today", "Nifty", "Sensex", "Indian stock market",
-                                 "NSE", "stock market news", "FII DII activity"],
+                "keywords": [],
+                "hook_question": "",
             }
         local_path = image_render.render_fii_dii_card(report_date, values)
 
@@ -146,13 +153,27 @@ def run() -> None:
         logger.exception("FII/DII Monitor: failed to generate/publish content.")
         return
 
-    # Instagram/Facebook (both a Reel AND an Image Post for FII/DII, always -- this
+    # Instagram/Facebook/YouTube (Reel + Image Post + Short for FII/DII, always -- this
     # bypasses the news alternation tracker entirely) must never affect the
-    # Telegram card post above, which has already gone out.
-    social_caption = gemini_client.with_keywords(content["social_caption"], content.get("keywords", []))
+    # Telegram card post above, which has already gone out. Telegram's own caption
+    # (content["telegram_caption"]) is untouched; this hook/CTA structure is only
+    # for Instagram, Facebook and YouTube.
+    hook_stat, hook_sentiment = reel_render.hook_stat_line(values)
+    hook_question = content.get("hook_question") or "Who Is Really Driving The Market Today?"
+    cta = _next_cta()
+    hashtags = "#FII #DII #StockMarket #Nifty"
+    social_caption = gemini_client.with_keywords(
+        f"{hook_stat}\n{hook_question}\n\n{cta}\n\n{hashtags}", content.get("keywords", [])
+    )
+    # Logged plainly so the generated hook/caption can be spot-checked in the GitHub
+    # Actions run log without opening Instagram/Facebook/YouTube.
+    logger.info("FII/DII Monitor: hook_stat=%r hook_sentiment=%s hook_question=%r cta=%r",
+               hook_stat, hook_sentiment, hook_question, cta)
+    logger.info("FII/DII Monitor: social_caption:\n%s", social_caption)
+
     reel_path = None
     try:
-        reel_path = reel_render.render_fii_dii_reel(report_date, values)
+        reel_path = reel_render.render_fii_dii_reel(report_date, values, hook_question)
         logger.info("FII/DII Monitor: reel rendered at %s", reel_path)
         post_reel_to_meta(reel_path, social_caption, kind="fii")
     except Exception:
@@ -167,8 +188,8 @@ def run() -> None:
         logger.warning("FII/DII Monitor: no reel to upload; skipping YouTube.")
     else:
         try:
-            yt_title = content.get("youtube_title") or f"FII DII Data {report_date.strftime('%d %b %Y')} | NSE"
-            yt_description = content.get("youtube_description") or social_caption
+            yt_title = f"{hook_stat} Today | FII DII Data {report_date.strftime('%d %b %Y')}"[:100]
+            yt_description = f"{hook_stat}\n{hook_question}\n\n{cta}\n\n{hashtags} #Shorts"
             yt_tags = content.get("youtube_tags") or ["FII DII data", "Nifty", "Sensex", "Indian stock market"]
             post_video_to_youtube(reel_path, yt_title, yt_description, yt_tags, thumbnail_path=local_path)
         except Exception:

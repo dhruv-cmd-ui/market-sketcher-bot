@@ -24,7 +24,7 @@ import backgrounds
 import image_render
 import reel_render
 import token_monitor
-from multi_publish import (meta_configured, next_meta_action, post_card_to_telegram,
+from multi_publish import (meta_configured, news_reels_left, next_meta_action, post_card_to_telegram,
                            post_photo_to_meta, post_reel_to_meta, reels_left)
 
 logger = logging.getLogger(__name__)
@@ -204,6 +204,12 @@ def _process_entry(entry) -> bool:
     # Telegram card post above, which has already gone out.
     if meta_configured():
         do_reel, do_post = next_meta_action("news")
+        if do_reel and news_reels_left() <= 0:
+            # Daily news-Reel cap reached -- fall back to an Image Post instead of
+            # skipping Meta for this item entirely.
+            logger.info("Daily news Reel cap (%d) reached; posting an Image Post instead.",
+                       config.MAX_NEWS_REELS_PER_DAY)
+            do_reel, do_post = False, True
         if do_reel:
             if reels_left("news") <= 0:
                 logger.info("No Meta slots left today; skipping the news reel render.")

@@ -71,15 +71,24 @@ def next_meta_action(kind: str = "news") -> tuple[bool, bool]:
     return do_reel, not do_reel
 
 
-def post_reel_to_meta(local_video_path: str, caption: str, kind: str = "news") -> None:
+def news_reels_left() -> int:
+    """News Reels (not Image Posts) still allowed today, under the tighter
+    MAX_NEWS_REELS_PER_DAY cap -- separate from the overall Meta slot budget."""
+    today = datetime.datetime.now(config.IST).date().isoformat()
+    used = history_store.daily_count("news_reels_posted", today)
+    return max(0, config.MAX_NEWS_REELS_PER_DAY - used)
+
+
+def post_reel_to_meta(local_video_path: str, caption: str, kind: str = "news") -> bool:
+    """Returns True if the reel posted to at least one platform."""
     if not meta_configured():
         logger.info("Meta credentials not set; reel saved at %s but not posted.", local_video_path)
-        return
+        return False
     today = datetime.datetime.now(config.IST).date().isoformat()
     if reels_left(kind) <= 0:
         logger.info("No %s Meta slots left today (cap %d); reel saved at %s but not posted.",
                     kind, config.MAX_REELS_PER_DAY, local_video_path)
-        return
+        return False
     posted = False
     for name, func, needed in (("Instagram", meta_reels.post_instagram_reel, config.IG_USER_ID),
                                ("Facebook", meta_reels.post_facebook_reel, config.FB_PAGE_ID)):
@@ -93,6 +102,9 @@ def post_reel_to_meta(local_video_path: str, caption: str, kind: str = "news") -
             logger.warning("%s reel post failed.", name, exc_info=True)
     if posted:
         history_store.increment_daily_count("reels_posted", today)
+        if kind == "news":
+            history_store.increment_daily_count("news_reels_posted", today)
+    return posted
 
 
 def post_photo_to_meta(local_image_path: str, caption: str, kind: str = "news") -> None:

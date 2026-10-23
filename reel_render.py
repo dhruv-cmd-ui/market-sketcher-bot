@@ -47,10 +47,22 @@ def _render_unlocked(project_dir, variables: dict, stem: str) -> str:
     return str(out)
 
 
-def render_fii_dii_reel(report_date: datetime.date, values: dict) -> str:
+def hook_stat_line(values: dict) -> tuple[str, str]:
+    """Picks whichever of FII/DII moved more and returns (headline text, "pos"/"neg").
+    Computed from the real numbers (never from Gemini) so the on-screen figure is exact.
+    Shared with tasks/fii_dii_monitor.py so the caption's first line matches the video."""
+    fii_net, dii_net = values["fii"]["net"], values["dii"]["net"]
+    mover, net = ("FII", fii_net) if abs(fii_net) >= abs(dii_net) else ("DII", dii_net)
+    verb = "NET BUY" if net >= 0 else "NET SELL"
+    return f"{mover} {verb} ₹{abs(net):,.0f} Cr", ("pos" if net >= 0 else "neg")
+
+
+def render_fii_dii_reel(report_date: datetime.date, values: dict, hook_question: str) -> str:
     fii, dii = values["fii"], values["dii"]
+    hook_stat, hook_sentiment = hook_stat_line(values)
     return _render(FII_DII_PROJECT, {
         "handle": config.REEL_HANDLE,
+        "hook_stat": hook_stat, "hook_sentiment": hook_sentiment, "hook_question": hook_question,
         "date_label": report_date.strftime("%A, %d %b %Y"),
         "fii_buy": fii["buy"], "fii_sell": fii["sell"], "fii_net": fii["net"],
         "dii_buy": dii["buy"], "dii_sell": dii["sell"], "dii_net": dii["net"],

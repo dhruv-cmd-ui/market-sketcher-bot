@@ -46,10 +46,11 @@ MAX_YOUTUBE_TAGS = 15
 MAX_YOUTUBE_TAGS_CHARS = 460  # YouTube's combined-tags limit is 500 chars; leave margin
 
 
-def generate_content(context: str) -> dict:
+def generate_content(context: str, content_type: str = "news") -> dict:
     """
     Returns a dict with keys: social_caption, telegram_caption, title, keywords,
-    youtube_title, youtube_description, youtube_tags.
+    youtube_title, youtube_description, youtube_tags, and (content_type="fii_dii"
+    only) hook_question.
     `title` is "" and `keywords` is [] when Gemini doesn't return usable ones, so
     callers fall back to the original headline; youtube_title/description/tags
     fall back the same way (see with_keywords / callers' own template fallback).
@@ -57,6 +58,13 @@ def generate_content(context: str) -> dict:
     One request per post: the free tier allows only ~20 requests/day per model.
     """
     client = _get_client()
+
+    hook_field = ""
+    if content_type == "fii_dii":
+        hook_field = """- "hook_question": a short, punchy question or stakes line (at most 10 words) that creates
+  curiosity about today's FII/DII flow, written for a video's opening 2-3 seconds (e.g. "Should You
+  Follow The Smart Money?"). No fabricated numbers, no clickbait that misrepresents the facts.
+"""
 
     prompt = f"""You are a social media copywriter for an Indian stock-market finance page.
 
@@ -78,7 +86,7 @@ Respond with ONLY a valid JSON object (no markdown fences, no commentary) with e
   hashtags (first one #Shorts).
 - "youtube_tags": a JSON array of 8-15 short plain-text search tags for YouTube's video tags field (no "#",
   e.g. "FII DII data", "Nifty 50", "Indian stock market", "Sensex today").
-"""
+{hook_field}"""
 
     response = None
     last_exc = None
@@ -129,6 +137,11 @@ Respond with ONLY a valid JSON object (no markdown fences, no commentary) with e
             break
         yt_tags.append(tag)
     data["youtube_tags"] = yt_tags
+
+    if content_type == "fii_dii":
+        hook_question = data.get("hook_question")
+        hook_question = " ".join(hook_question.split()).strip(' "') if isinstance(hook_question, str) else ""
+        data["hook_question"] = hook_question if 0 < len(hook_question) <= 80 else ""
     return data
 
 

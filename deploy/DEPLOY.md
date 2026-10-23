@@ -98,7 +98,8 @@ To pause the bot later, change `BOT_ENABLED` to `false`.
 | `NEWS_WINDOW_START_HOUR` / `NEWS_WINDOW_END_HOUR` | 6 / 23 | News is posted only between 6 AM and 11 PM IST |
 | `MAX_NEWS_PER_RUN` | 1 | News posts per 30-minute check. Telegram has no daily cap (SEBI first, then the newest market stories) |
 | `NEWS_MAX_AGE_HOURS` | 12 | Older items are skipped (stops a flood of overnight news at 6 AM) |
-| `MAX_REELS_PER_DAY` | 25 | Reels per day to Instagram/Facebook (Facebook allows 30). On NSE trading days 1 is held for FII/DII until it posts or 9 PM; weekends and NSE holidays give all 25 to news |
+| `MAX_REELS_PER_DAY` | 25 | Reels+Posts per day to Instagram/Facebook combined (Facebook allows 30). On NSE trading days 2 are held for FII/DII (its Reel + Image Post) until it posts or 9 PM; weekends and NSE holidays give all 25 to news |
+| `MAX_NEWS_REELS_PER_DAY` | 4 | News Reels specifically (not Image Posts) per day; once reached, news falls back to Image Posts only, so feeds don't fill with near-identical clips |
 | `FII_WINDOW_START_HOUR` / `FII_WINDOW_END_HOUR` | 17 / 21 | FII/DII is checked every 15 minutes between these IST hours on weekdays |
 
 On this PC, the same settings go in `.env`. Restart the bot after editing.

@@ -110,6 +110,11 @@ GEMINI_FALLBACK_MODELS = [
 # its window closes.
 MAX_REELS_PER_DAY = int(os.getenv("MAX_REELS_PER_DAY", "25"))
 
+# Separate, tighter cap on news Reels specifically (not Image Posts): once this many
+# have posted today, news falls back to Image Posts only, to avoid Instagram/Facebook
+# feeds filling up with many near-identical clips.
+MAX_NEWS_REELS_PER_DAY = int(os.getenv("MAX_NEWS_REELS_PER_DAY", "4"))
+
 # FII/DII polling window (IST hours, weekdays).
 FII_WINDOW_START_HOUR = int(os.getenv("FII_WINDOW_START_HOUR", "17"))
 FII_WINDOW_END_HOUR = int(os.getenv("FII_WINDOW_END_HOUR", "21"))
