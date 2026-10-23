@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/urban-company-shares-fall-10-as-q2-net-loss-widens-despite-revenue-growth-126101900225_1.html",
-    "https://www.business-standard.com/markets/news/nifty-psu-bank-index-surges-3-pnb-psb-canara-union-bank-soar-up-to-8-126101900159_1.html",
     "https://www.business-standard.com/markets/news/axis-bank-shares-fall-5-despite-39-rise-in-q2-net-profit-here-s-why-126101900187_1.html",
     "https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html",
     "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-give-up-days-gains-as-oil-price-spike-adds-to-rate-hike-fears/articleshow/135048949.cms",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/news/swiggy-slumps-10-to-new-low-as-q2-below-expectations-analysts-cut-targets-126102300185_1.html",
     "https://www.livemint.com/market/stock-market-news/ipo-listings-share-price-today-tonbo-imaging-vs-zetwerk-vs-bonfiglioli-vs-sahajanand-who-won-debut-race-on-nse-bse-11792733810920.html",
     "https://www.livemint.com/market/stock-market-news/why-are-mid-small-caps-bleeding-indices-crash-up-to-4-swiggy-meesho-vedanta-aluminium-mcx-lose-big-11792737065942.html",
-    "https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html"
+    "https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-eternal-apollo-hospital-shriram-finance-adani-enterprises-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135144888.cms"
   ],
   "last_fii_dii_post_date": "2026-10-22",
   "news_posted": {
     "date": "2026-10-23",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "Hindustan Zinc shares: Experts bullish on Anil Agarwal-led metal stock after robust Q2 results 2026 | Target, stop-loss",
     "SpaceX shares: Down 35% from IPO listing peak, Elon Musk firm to declare earnings today - When, where to check online",
     "Analysis ahead of Reliance Jio IPO: Bharti Airtel is better or Mukesh Ambani shares? Top value things before bid opens",
     "Dussehra 2026 special: Top 3 stocks to buy; ICICI Bank, Adani Ports, Reliance Industries | Target price by Mahesh M Ojha",
@@ -586,11 +585,12 @@
     "Swiggy slumps 15% to new low as Q2 below expectations, analysts cut targets",
     "IPO listings, share price today: Tonbo Imaging vs Zetwerk vs Bonfiglioli vs Sahajanand - Who won debut race on NSE, BSE?",
     "Why are mid, small-caps bleeding? Indices crash up to 4% - Swiggy, Meesho, Vedanta Aluminium, MCX lose big",
-    "Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price"
+    "Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price",
+    "Market wrap: Eternal, Apollo Hospital, Shriram Finance, Adani Enterprises among top gainers and losers on Nifty and Sensex on Friday"
   ],
   "reels_posted": {
     "date": "2026-10-23",
-    "count": 14
+    "count": 15
   },
   "meta_token_checked_on": "2026-10-23",
   "nse_holidays": {
@@ -626,10 +626,10 @@
   },
   "news_reels_posted": {
     "date": "2026-10-23",
-    "count": 4
+    "count": 5
   },
   "nse_most_active": {
-    "fetched_at": 1792751636.5484087,
+    "fetched_at": 1792758798.2119706,
     "symbols": [
       "adanipower",
       "easemytrip",
@@ -652,5 +652,6 @@
       "yesbank",
       "zetwerk"
     ]
-  }
+  },
+  "news_evening_reel_date": "2026-10-23"
 }
