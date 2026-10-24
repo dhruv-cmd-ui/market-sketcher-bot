@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-warned-about-stock-valuations-but-berkshire-hathaway-is-aggressively-purchasing-stocks/articleshow/135051738.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-peter-lynch-turned-fidelity-magellan-funds-18-million-into-14-billion-in-13-years/articleshow/135051656.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-higher-yields-inflation-fears-weigh/articleshow/135060522.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/power-stock-to-buy-despite-almost-20-fall-in-1-month-deven-choksey-research-sees-72-returns-ahead-do-you-own-11792833005751.html",
     "https://www.livemint.com/market/stock-market-news/it-stocks-q2-results-analysis-infosys-vs-tcs-vs-wipro-vs-hcl-vs-techm-who-wins-profit-revenue-dividend-ai-race-11792836774239.html",
     "https://www.livemint.com/market/stock-market-news/godrej-properties-q2-profit-falls-62-to-rs-154-crore-real-estate-stock-down-6-5-in-1-week-what-s-next-for-investors-11792839670974.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-10-stocks-rally-up-to-100-in-fy27-so-far/slideshow/135167433.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-10-stocks-rally-up-to-100-in-fy27-so-far/slideshow/135167433.cms",
+    "https://www.livemint.com/market/stock-market-news/silver-price-has-broken-below-2-lakh-for-the-first-time-since-december-2025-is-this-the-right-time-to-buy-for-returns-11792841534411.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-24",
-    "count": 20
+    "count": 21
   },
   "recent_titles": [
-    "Multibagger stock: PC Jeweller shares jump 5% after surging 40% in 2 weeks | Q2 beat, bulk deal in focus | Key levels",
     "South Indian Bank shares: Already up 15% in Oct, hit 52-week high - What is driving rally? More rise ahead? Expert view",
     "eMudhra tanks 20%; why IT-enabled services stock sank in Wednesday's trade?",
     "Reliance Jio IPO: Applying for money gains? Do you know different ways to apply for shares? Full list of options here",
@@ -586,11 +585,12 @@
     "Power stock to buy: Despite almost 20% fall in 1 month, Deven Choksey Research sees 72% returns ahead - Do you own?",
     "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
     "Godrej Properties Q2 profit plunges 62% to  \u20b9154 crore, real estate stock down 6.5% in 1 week - What next for investors",
-    "Govt of Singapore\u2019s India portfolio: 10 stocks rally up to 100% in FY27 so far"
+    "Govt of Singapore\u2019s India portfolio: 10 stocks rally up to 100% in FY27 so far",
+    "Silver price has broken below  \u20b92 lakh for the first time since December 2025: Is this the right time to buy for returns?"
   ],
   "reels_posted": {
     "date": "2026-10-24",
-    "count": 2
+    "count": 3
   },
   "meta_token_checked_on": "2026-10-24",
   "nse_holidays": {
@@ -626,10 +626,10 @@
   },
   "news_reels_posted": {
     "date": "2026-10-24",
-    "count": 1
+    "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792843118.956268,
+    "fetched_at": 1792844989.0174308,
     "symbols": [
       "adanipower",
       "easemytrip",
@@ -653,7 +653,7 @@
       "zetwerk"
     ]
   },
-  "news_evening_reel_date": "2026-10-23",
+  "news_evening_reel_date": "2026-10-24",
   "fii_cta_index": 1,
   "news_morning_reel_date": "2026-10-24",
   "news_afternoon_post_date": "2026-10-24"
