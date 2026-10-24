@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/rbi-injects-rs-1-lakh-crore-as-liquidity-tightens-before-festive-season/articleshow/135059068.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/yes-banks-evaluating-capital-actions-to-back-growth-plans/articleshow/135059065.cms",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-scrutiny-of-1-billion-plus-overseas-investments-amid-rupee-pressure/articleshow/135059267.cms",
-    "https://www.livemint.com/market/indonesia-was-finding-its-feet-then-came-msci-11792438179587.html",
-    "https://www.livemint.com/market/ipo/analysis-ahead-of-reliance-jio-ipo-bharti-airtel-is-better-or-mukesh-ambani-shares-top-value-things-before-bid-opens-11792481253599.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-gains-as-chip-ai-stocks-rebound/articleshow/135056194.cms",
     "https://www.livemint.com/market/tsx-pulls-back-from-three-week-high-as-financials-metal-minersfall-11792441989054.html",
     "https://www.livemint.com/market/stock-market-news/dussehra-2026-special-top-3-stocks-to-buy-icici-bank-adani-ports-reliance-industries-target-price-by-mahesh-m-ojha-11792481678492.html",
@@ -499,15 +494,19 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q2-results-net-profit-declines-21-yoy-to-rs-4863-crore-revenue-grows-29/articleshow/135149653.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-breaks-12-records-rs-4-5-lakh-crore-bids-highest-applications-and-more/articleshow/135149311.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-falls-16-to-new-low-qcomm-losses-spook-street/articleshow/135160761.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-falls-16-to-new-low-qcomm-losses-spook-street/articleshow/135160761.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-profit-falls-15-yoy-to-rs-263-crore-on-higher-fuel-costs/articleshow/135150160.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-rising-inflation-risks-from-west-asia-conflict-el-nino-despite-resilient-indian-economy/articleshow/135160910.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-24",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Bajaj Finance vs IREDA vs Reliance's Jio Financial: Top financial stock to buy after Q2 results 2026 for best returns?",
     "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
     "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out",
     "Big-ticket IPOs have struggled to deliver bumper listing gains. Can Mukesh Ambani backed Reliance Jio buck the trend?",
@@ -586,7 +585,8 @@
     "Top 3 stocks to buy: Eternal, Apollo Hospitals, Maruti Suzuki by Sumeet Bagadia | Target price, stoploss, market outlook",
     "RBI net forex buys hit a record $43 billion in August, balances it with swaps",
     "Infosys guidance shock may hit stock despite numbers bounce",
-    "Swiggy falls 16% to new low, Qcomm losses spook street"
+    "Swiggy falls 16% to new low, Qcomm losses spook street",
+    "Adani Power profit surges 142% on strong demand amid weak rains"
   ],
   "reels_posted": {
     "date": "2026-10-24",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792812488.5717523,
+    "fetched_at": 1792814596.5089073,
     "symbols": [
       "adanipower",
       "easemytrip",
