@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-gains-as-chip-ai-stocks-rebound/articleshow/135056194.cms",
-    "https://www.livemint.com/market/tsx-pulls-back-from-three-week-high-as-financials-metal-minersfall-11792441989054.html",
-    "https://www.livemint.com/market/stock-market-news/dussehra-2026-special-top-3-stocks-to-buy-icici-bank-adani-ports-reliance-industries-target-price-by-mahesh-m-ojha-11792481678492.html",
-    "https://www.livemint.com/market/stock-market-news/next-stock-market-holiday-2026-when-is-next-weekday-non-trading-day-at-nse-bse-check-calendar-oct-or-nov-11792486748549.html",
     "https://www.livemint.com/market/treasuries-fall-as-tech-shares-rebound-denting-haven-demand-11792444988693.html",
     "https://www.livemint.com/market/stock-market-news/crash-kospi-in-free-fall-south-korea-stock-market-down-another-5-tanks-40-from-record-high-what-s-driving-ai-rout-11792483921193.html",
     "https://www.livemint.com/market/multibagger-union-bank-of-india-shares-up-300-in-5-years-can-rally-accelerate-after-q2-results-what-systematix-say-11792490511697.html",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-rising-inflation-risks-from-west-asia-conflict-el-nino-despite-resilient-indian-economy/articleshow/135160910.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
+    "https://www.livemint.com/market/jio-platforms-ipo-draws-record-10-million-applications-amid-strong-investor-demand-11792763307947.html",
+    "https://www.livemint.com/market/stock-market-news/chennai-petroleum-vs-mrpl-which-psu-refinery-stock-wins-on-q2-profit-revenue-dividends-experts-weigh-in-on-outlook-11792771887198.html",
+    "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-allotment-date-listing-date-time-overall-subscription-status-qib-nii-retail-ril-11792812938496.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-24",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
     "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out",
     "Big-ticket IPOs have struggled to deliver bumper listing gains. Can Mukesh Ambani backed Reliance Jio buck the trend?",
     "Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%",
@@ -586,7 +585,8 @@
     "RBI net forex buys hit a record $43 billion in August, balances it with swaps",
     "Infosys guidance shock may hit stock despite numbers bounce",
     "Swiggy falls 16% to new low, Qcomm losses spook street",
-    "Adani Power profit surges 142% on strong demand amid weak rains"
+    "Adani Power profit surges 142% on strong demand amid weak rains",
+    "Reliance Jio Platforms IPO GMP, allotment date, listing date, time, overall subscription status; QIB, NII, Retail, RIL"
   ],
   "reels_posted": {
     "date": "2026-10-24",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792814596.5089073,
+    "fetched_at": 1792816124.8458316,
     "symbols": [
       "adanipower",
       "easemytrip",
