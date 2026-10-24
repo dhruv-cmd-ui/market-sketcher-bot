@@ -121,9 +121,10 @@ NEWS_AFTERNOON_POST_END_HOUR = int(os.getenv("NEWS_AFTERNOON_POST_END_HOUR", "14
 NEWS_EVENING_REEL_START_HOUR = int(os.getenv("NEWS_EVENING_REEL_START_HOUR", "18"))
 NEWS_EVENING_REEL_END_HOUR = int(os.getenv("NEWS_EVENING_REEL_END_HOUR", "20"))
 
-# FII/DII polling window (IST hours, weekdays).
+# FII/DII polling window (IST hours, weekdays). NSE's provisional report
+# sometimes lands well after 9 PM, so this stays open late to not miss it.
 FII_WINDOW_START_HOUR = int(os.getenv("FII_WINDOW_START_HOUR", "17"))
-FII_WINDOW_END_HOUR = int(os.getenv("FII_WINDOW_END_HOUR", "21"))
+FII_WINDOW_END_HOUR = int(os.getenv("FII_WINDOW_END_HOUR", "23"))
 
 # Generated cards/reels in images/ older than this are deleted daily.
 MEDIA_RETENTION_DAYS = int(os.getenv("MEDIA_RETENTION_DAYS", "7"))

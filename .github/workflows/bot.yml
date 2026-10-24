@@ -5,8 +5,9 @@ on:
     # Times are UTC (IST = UTC+5:30). Odd minutes avoid GitHub's busy top-of-hour queue.
     # News: every 30 min, 05:37-23:07 IST; the code itself only posts 06:00-23:00 IST.
     - cron: "7,37 0-17 * * *"
-    # FII/DII: every 15 min, 16:32-21:17 IST Mon-Fri; the code only posts 17:00-21:00 IST.
-    - cron: "2,17,32,47 11-15 * * 1-5"
+    # FII/DII: every 15 min, 16:32-23:17 IST Mon-Fri; the code only posts 17:00-23:00 IST.
+    # (NSE's provisional report can land well after 9 PM, so this stays open late.)
+    - cron: "2,17,32,47 11-17 * * 1-5"
   workflow_dispatch:
     inputs:
       task:
@@ -46,7 +47,7 @@ jobs:
         id: pick
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then t="${{ inputs.task }}"
-          elif [ "${{ github.event.schedule }}" = "2,17,32,47 11-15 * * 1-5" ]; then t=fii
+          elif [ "${{ github.event.schedule }}" = "2,17,32,47 11-17 * * 1-5" ]; then t=fii
           else t=news; fi
           echo "task=$t" >> "$GITHUB_OUTPUT"
           echo "Running: $t"
