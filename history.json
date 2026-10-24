@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path-11792456762808.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-catl-third-quarter-profit-growth-slowest-in-nearly-two-years-as-competition-intensifies/articleshow/135070675.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/chinas-catl-third-quarter-profit-growth-slowest-in-nearly-two-years-as-competition-intensifies/articleshow/135070675.cms",
-    "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-decline-in-break-from-us-chip-rally/articleshow/135059346.cms",
     "https://economictimes.indiatimes.com/markets/commodities/news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks/articleshow/135059323.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-net-profit-jumps-448-to-rs-394-crore/articleshow/135059308.cms",
@@ -499,15 +495,18 @@
     "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
     "https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html",
     "https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-to-win-the-investing-game-charles-ellis-says-make-fewer-mistakes-focus-on-long-term-goals/articleshow/135163554.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-to-win-the-investing-game-charles-ellis-says-make-fewer-mistakes-focus-on-long-term-goals/articleshow/135163554.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/private-sector-activity-hits-four-month-high-in-october/articleshow/135161114.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/target-reached-but-asset-monetisation-to-continue-dipam-secretary-arunish-chawla/articleshow/135160884.cms",
+    "https://www.livemint.com/market/commodities/gold-rates-in-chennai-city-crash-this-week-can-yellow-metal-rebound-ahead-of-diwali-key-levels-to-watch-in-future-11792820547953.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-24",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Aerospace and military contractors raise 2026 profit forecasts",
     "Stock recommendations for 21 October from MarketSmith India",
     "European Gas Prices Slump After Climbing to Four-Year Highs",
     "AI debutant\u2019s flameout stokes fears boom is ending",
@@ -586,7 +585,8 @@
     "Growth, value stocks set for reshuffle as S&P adopts new rules",
     "Goldman Sachs Ola Electric Downgrade: Why stock rating changed to sell; 23% downside seen - New target price, rationale",
     "Jio IPO breaks multiple records: From fundraising to investor demand, how the mega issue rewrote India\u2019s IPO history",
-    "How to win the investing game? Charles Ellis says make fewer mistakes, focus on long-term goals"
+    "How to win the investing game? Charles Ellis says make fewer mistakes, focus on long-term goals",
+    "Gold rates in Chennai city crash this week: Can yellow metal rebound ahead of Diwali - Key levels to watch in future?"
   ],
   "reels_posted": {
     "date": "2026-10-24",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792823466.861888,
+    "fetched_at": 1792826034.8911242,
     "symbols": [
       "adanipower",
       "easemytrip",
