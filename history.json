@@ -1,12 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-    "https://www.livemint.com/market/stock-market-news/whats-the-future-of-ai-stock-sk-hynix-shares-crash-to-lowest-level-since-apr-as-sell-off-deepens-down-31-in-oct-2026-11792493870676.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135058877.cms",
-    "https://www.livemint.com/market/ipo/jio-platforms-ipo-preview-analysis-11792390573415.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/metas-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results/articleshow/135068976.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
     "https://www.livemint.com/market/stock-market-news/bajaj-finance-vs-ireda-vs-reliances-jio-financial-top-financial-stock-to-buy-after-q2-results-2026-for-best-returns-11792493516210.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/steelmakers-may-outperform-non-ferrous-peers-in-q2-as-higher-volumes-support-earnings/articleshow/135059274.cms",
@@ -499,15 +492,21 @@
     "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-allotment-date-listing-date-time-overall-subscription-status-qib-nii-retail-ril-11792812938496.html",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms",
     "https://www.livemint.com/market/stock-market-news/supreme-petrochem-q2-results-dividend-2026-check-amount-record-date-yield-history-stock-returns-11792772862871.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/growth-value-stocks-set-for-reshuffle-as-sp-adopts-new-rules/articleshow/135161737.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/growth-value-stocks-set-for-reshuffle-as-sp-adopts-new-rules/articleshow/135161737.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms",
+    "https://www.livemint.com/market/stock-market-news/ipo-subscription-status-comparison-reliance-jio-ipo-vs-hyundai-ipo-vs-nse-ipo-who-won-the-race-11792769886858.html",
+    "https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html",
+    "https://www.business-standard.com/markets/news/jio-platforms-ipo-rides-institutional-demand-to-22-19-times-subscription-126102301595_1.html",
+    "https://www.business-standard.com/markets/news/tumultuous-week-midcaps-and-smallcaps-suffer-worst-losses-in-20-months-126102301443_1.html",
+    "https://www.business-standard.com/markets/news/stalled-housing-project-running-emis-what-are-homebuyers-legal-options-126102301659_1.html",
+    "https://www.livemint.com/market/stock-market-news/goldman-sachs-ola-electric-downgrade-why-stock-rating-changed-to-sell-23-downside-seen-new-target-price-rationale-11792817294346.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-24",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "Big-ticket IPOs have struggled to deliver bumper listing gains. Can Mukesh Ambani backed Reliance Jio buck the trend?",
     "Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%",
     "Ahead of Market: 10 things that will decide stock market action on Wednesday",
     "Aerospace and military contractors raise 2026 profit forecasts",
@@ -586,7 +585,8 @@
     "Swiggy falls 16% to new low, Qcomm losses spook street",
     "Adani Power profit surges 142% on strong demand amid weak rains",
     "Reliance Jio Platforms IPO GMP, allotment date, listing date, time, overall subscription status; QIB, NII, Retail, RIL",
-    "Growth, value stocks set for reshuffle as S&P adopts new rules"
+    "Growth, value stocks set for reshuffle as S&P adopts new rules",
+    "Goldman Sachs Ola Electric Downgrade: Why stock rating changed to sell; 23% downside seen - New target price, rationale"
   ],
   "reels_posted": {
     "date": "2026-10-24",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792818053.5737686,
+    "fetched_at": 1792819582.1312037,
     "symbols": [
       "adanipower",
       "easemytrip",
