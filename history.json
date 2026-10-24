@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/ipo/jio-platforms-ipo-draws-rs-8-110-crore-in-anchor-investor-bids-11792433576473.html",
-    "https://www.livemint.com/market/stock-market-news/jio-platforms-raises-rs-8-110-crore-from-212-anchor-investors-ahead-ipo-lic-new-world-fund-among-top-investors-11792432643541.html",
-    "https://www.business-standard.com/markets/ipo/jio-ipo-anchor-book-sees-over-30x-demand-draws-record-bids-worth-2-5-trn-126101901316_1.html",
-    "https://www.livemint.com/market/stock-market-news/hindustan-zinc-shares-experts-bullish-on-anil-agarwal-led-metal-stock-after-robust-q2-results-2026-target-stoploss-11792474520524.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hedge-funds-retreat-from-tech-at-fastest-pace-in-a-decade-as-ai-trade-weakens/articleshow/135055531.cms",
     "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-can-reliance-overtake-tata-group-as-india-s-largest-conglomerate-by-market-cap-details-11792431816751.html",
     "https://www.livemint.com/market/stock-market-news/spacex-shares-down-35-from-ipo-listing-peak-elon-musk-firm-to-declare-earnings-today-when-where-to-check-online-11792477309523.html",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-does-not-target-any-specific-rupee-level-focuses-on-curbing-volatility-says-governor-sanjay-malhotra/articleshow/135148201.cms",
     "https://www.livemint.com/market/stock-market-news/1647-return-in-5-years-welspun-corp-wins-rs-5-500-crore-us-gas-pipeline-order-whats-next-for-this-multibagger-stock-11792756720441.html",
     "https://www.business-standard.com/economy/news/govt-bonds-log-worst-losing-streak-in-30-years-as-crude-us-yields-rise-126102301399_1.html",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms"
+    "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms",
+    "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-overall-subscription-status-gmp-day-1-2-3-details-allotment-listing-date-share-price-prediction-11792766738298.html",
+    "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-earnings-strengthen-but-stocks-lose-ground-11792761423089.html",
+    "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-56000-kg-from-august-peak-gold-slides-23000-10-grams-what-s-driving-the-selloff-in-precious-metals-11792763090890.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-guidance-shock-may-hit-stock-despite-numbers-bounce/articleshow/135160426.cms"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-24",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% in Oct 2026",
     "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
     "Bajaj Finance vs IREDA vs Reliance's Jio Financial: Top financial stock to buy after Q2 results 2026 for best returns?",
     "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
@@ -586,11 +585,12 @@
     "Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%",
     "Rs 9,000 crore wiped out in a day: Why Swiggy investors are losing patience with Instamart",
     "Top 3 stocks to buy: Eternal, Apollo Hospitals, Maruti Suzuki by Sumeet Bagadia | Target price, stoploss, market outlook",
-    "RBI net forex buys hit a record $43 billion in August, balances it with swaps"
+    "RBI net forex buys hit a record $43 billion in August, balances it with swaps",
+    "Infosys guidance shock may hit stock despite numbers bounce"
   ],
   "reels_posted": {
-    "date": "2026-10-23",
-    "count": 16
+    "date": "2026-10-24",
+    "count": 1
   },
   "meta_token_checked_on": "2026-10-24",
   "nse_holidays": {
@@ -625,11 +625,11 @@
     "next": "reel"
   },
   "news_reels_posted": {
-    "date": "2026-10-23",
-    "count": 5
+    "date": "2026-10-24",
+    "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792808880.4373207,
+    "fetched_at": 1792810946.897491,
     "symbols": [
       "adanipower",
       "easemytrip",
@@ -654,5 +654,6 @@
     ]
   },
   "news_evening_reel_date": "2026-10-23",
-  "fii_cta_index": 1
+  "fii_cta_index": 1,
+  "news_morning_reel_date": "2026-10-24"
 }
