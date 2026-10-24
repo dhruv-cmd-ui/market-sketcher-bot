@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/bigticket-ipos-have-struggled-to-deliver-bumper-listing-gains-can-mukesh-ambani-backed-reliance-jio-buck-the-trend-11792505293980.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-warned-about-stock-valuations-but-berkshire-hathaway-is-aggressively-purchasing-stocks/articleshow/135051738.cms",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
     "https://www.business-standard.com/markets/news/sebi-short-selling-slb-ai-sandbox-market-making-tuhin-kanta-pandey-126102400650_1.html",
     "https://www.livemint.com/market/stock-market-news/power-stock-to-buy-despite-almost-20-fall-in-1-month-deven-choksey-research-sees-72-returns-ahead-do-you-own-11792833005751.html",
-    "https://www.livemint.com/market/stock-market-news/it-stocks-q2-results-analysis-infosys-vs-tcs-vs-wipro-vs-hcl-vs-techm-who-wins-profit-revenue-dividend-ai-race-11792836774239.html"
+    "https://www.livemint.com/market/stock-market-news/it-stocks-q2-results-analysis-infosys-vs-tcs-vs-wipro-vs-hcl-vs-techm-who-wins-profit-revenue-dividend-ai-race-11792836774239.html",
+    "https://www.livemint.com/market/stock-market-news/godrej-properties-q2-profit-falls-62-to-rs-154-crore-real-estate-stock-down-6-5-in-1-week-what-s-next-for-investors-11792839670974.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-24",
-    "count": 18
+    "count": 19
   },
   "recent_titles": [
-    "Dividend record date today! 2:1 bonus shares history, 500% returns in 5 years; do you own this multibagger stock?",
     "How Reliance Jio IPO is acting as shot in the arm for RIL shares \u2014 Will Mukesh Ambani company stock fly more? Buy now?",
     "Multibagger stock: PC Jeweller shares jump 5% after surging 40% in 2 weeks | Q2 beat, bulk deal in focus | Key levels",
     "South Indian Bank shares: Already up 15% in Oct, hit 52-week high - What is driving rally? More rise ahead? Expert view",
@@ -586,7 +585,8 @@
     "Dividend, split, rights issue, buyback next week: Hexaware Tech, Cyient, RailTel to Sagility - Check record dates",
     "Sebi reviews short selling, SLB rules; plans AI sandbox, bond market-making",
     "Power stock to buy: Despite almost 20% fall in 1 month, Deven Choksey Research sees 72% returns ahead - Do you own?",
-    "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?"
+    "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
+    "Godrej Properties Q2 profit plunges 62% to  \u20b9154 crore, real estate stock down 6.5% in 1 week - What next for investors"
   ],
   "reels_posted": {
     "date": "2026-10-24",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792839530.958243,
+    "fetched_at": 1792841113.9042354,
     "symbols": [
       "adanipower",
       "easemytrip",
