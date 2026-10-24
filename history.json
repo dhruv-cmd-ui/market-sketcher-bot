@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/wall-street-rebounds-from-lows-as-upbeat-earnings-falling-oil-prices-lift-sentiment-micron-intel-up-2-11792507459852.html",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-secures-rs-652-cr-from-anchor-investors-ipo-to-open-on-oct-21/articleshow/135061692.cms",
     "https://www.livemint.com/market/stock-market-news/why-should-you-buy-vedanta-shares-despite-strong-hindustan-zinc-q2-results-2026-experts-views-target-price-stoploss-11792469059843.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
     "https://www.livemint.com/market/stock-market-news/five-indian-stocks-offering-dividend-yields-up-to-10-11792769464534.html",
     "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-listing-date-and-time-share-price-prediction-for-nse-bse-debut-details-11792848439962.html",
-    "https://www.livemint.com/market/stock-market-news/cables-and-wires-stock-turned-multibagger-with-318-return-in-5-years-incred-sees-29-upside-do-you-own-target-price-11792836482555.html"
+    "https://www.livemint.com/market/stock-market-news/cables-and-wires-stock-turned-multibagger-with-318-return-in-5-years-incred-sees-29-upside-do-you-own-target-price-11792836482555.html",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/friday-blockbuster-for-jio-ipo-rs-7-4-lakh-crore-bids-22x-subscription/articleshow/135160249.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcap-indices-post-worst-weekly-decline-in-two-years/articleshow/135160009.cms",
+    "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-24",
-    "count": 24
+    "count": 25
   },
   "recent_titles": [
-    "Down 25% in 3 months, but market expert Sumeet Bagadia sees recovery, gains in Fortis - Check target price, stop-loss",
     "Reliance Jio IPO creates history with fastest-ever full subscription - Will listing set more records? Check latest GMP",
     "Hero Motors, SML Mahindra, Wheels India locked at 10% lower circuits",
     "SpaceX Q3 2026 results: Shares jump 8% in pre-market after $4.4 billion profit; what Musk said on SpaceX-Tesla merger",
@@ -586,7 +585,8 @@
     "Silver price has broken below  \u20b92 lakh for the first time since December 2025: Is this the right time to buy for returns?",
     "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
     "Reliance Jio Platforms IPO GMP, listing date and time, share price prediction for NSE, BSE debut - Details",
-    "Cables and wires stock turned multibagger with 318% return in 5 years; InCred sees 29% upside - Do you own? Target price"
+    "Cables and wires stock turned multibagger with 318% return in 5 years; InCred sees 29% upside - Do you own? Target price",
+    "Big action! Who is Avadhut Sathe? Why SEBI ordered Avadhut Sathe Trading Academy to refund  \u20b9546 cr - What he did?"
   ],
   "reels_posted": {
     "date": "2026-10-24",
@@ -629,7 +629,7 @@
     "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792851874.1023662,
+    "fetched_at": 1792853942.4277494,
     "symbols": [
       "adanipower",
       "easemytrip",
