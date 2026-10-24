@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-secures-rs-652-cr-from-anchor-investors-ipo-to-open-on-oct-21/articleshow/135061692.cms",
-    "https://www.livemint.com/market/stock-market-news/why-should-you-buy-vedanta-shares-despite-strong-hindustan-zinc-q2-results-2026-experts-views-target-price-stoploss-11792469059843.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
     "https://economictimes.indiatimes.com/markets/bonds/french-bond-yields-near-24-year-high-as-new-protests-loom/articleshow/135068905.cms",
     "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/number-of-branded-housing-projects-in-india-set-to-jump-over-2-fold-in-6-years-savills/articleshow/135068870.cms",
@@ -499,7 +495,11 @@
     "https://www.livemint.com/market/stock-market-news/cables-and-wires-stock-turned-multibagger-with-318-return-in-5-years-incred-sees-29-upside-do-you-own-target-price-11792836482555.html",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/friday-blockbuster-for-jio-ipo-rs-7-4-lakh-crore-bids-22x-subscription/articleshow/135160249.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcap-indices-post-worst-weekly-decline-in-two-years/articleshow/135160009.cms",
-    "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html"
+    "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/indias-net-fdi-inflows-falls-to-3-billion-in-august/articleshow/135160936.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/bse-begins-hunt-for-md-ceo-successor-ahead-of-2027-exit/articleshow/135160663.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-posts-rs-1242-crore-net-profit-on-lower-provisions/articleshow/135160532.cms"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
@@ -629,7 +629,7 @@
     "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792853942.4277494,
+    "fetched_at": 1792855518.7469802,
     "symbols": [
       "adanipower",
       "easemytrip",
