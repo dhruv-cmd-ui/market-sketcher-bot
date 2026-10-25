@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/it-fmcg-stocks-defensive-investment-strategy-11792424725693.html",
     "https://www.business-standard.com/finance/personal-finance/form-141-replaces-4-tds-forms-what-property-buyers-tenants-must-know-126102000376_1.html",
     "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-21-october-from-marketsmith-india-11792418627840.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/hilton-to-move-stock-listing-to-nasdaq/articleshow/135070768.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/413-returns-in-1-year-gold-jewellery-stock-offers-bonus-shares-do-you-own-check-ratio-record-date-11792858197650.html",
     "https://www.business-standard.com/markets/news/demand-supply-mismatch-to-drive-revenue-growth-gains-for-indian-hotels-126102500052_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bears-tighten-grip-as-crude-geopolitical-risks-fii-outflows-mount-5-factors-to-decide-d-streets-fate-next-week/articleshow/135182716.cms",
-    "https://www.livemint.com/market/ipo/reliancebacked-jio-platforms-ipo-focus-shifts-to-allotment-date-gmp-hints-22-listing-pop-step-by-step-guide-to-check-11792897616327.html"
+    "https://www.livemint.com/market/ipo/reliancebacked-jio-platforms-ipo-focus-shifts-to-allotment-date-gmp-hints-22-listing-pop-step-by-step-guide-to-check-11792897616327.html",
+    "https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-crash-39-from-52-week-high-can-q2-results-2026-bring-a-bounce-back-experts-views-target-sl-11792898990972.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
     "Jio IPO has a flying start, shares subscribed over three times",
     "PC Jeweller share price to be in focus as Q2 net profit jumps 58%; can the stock extend its 482% rally in 3 years?",
     "Tech Mahindra bonus issue: A sweet deal or market trap",
@@ -586,7 +585,8 @@
     "413% returns in 1 year: Gold jewellery stock offers bonus shares - Do you own? Check Ratio, record date",
     "Demand-supply mismatch to drive revenue growth gains for Indian Hotels",
     "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street\u2019s fate next week",
-    "Reliance-backed Jio Platforms IPO: GMP hints 22% listing gains; all eyes on allotment; status check online guide by PAN"
+    "Reliance-backed Jio Platforms IPO: GMP hints 22% listing gains; all eyes on allotment; status check online guide by PAN",
+    "Suzlon Energy shares crash 39% from 52-week high \u2014 can Q2 results 2026 bring a bounce back? Experts' views, target, SL"
   ],
   "reels_posted": {
     "date": "2026-10-25",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792902747.4013815,
+    "fetched_at": 1792904654.2776318,
     "symbols": [
       "adanipower",
       "easemytrip",
