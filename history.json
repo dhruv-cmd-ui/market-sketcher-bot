@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-large-cap-stocks-cross-below-their-200-dmas/slideshow/135080058.cms",
-    "https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-21-oct-2026/liveblog/135080172.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-ireda-yes-bank-trent-and-hindustan-zinc/articleshow/135074022.cms",
     "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-eternal-adani-green-indian-hotels-among-38-firms-to-announce-quarterly-earnings-full-list-11792550102736.html",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/news/top-10-firms-lose-1-55-trillion-in-mcap-as-hdfc-bank-bajaj-finance-fall-126102500268_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
     "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/peter-lynch-on-stock-picking-you-shouldnt-own-a-stock-if-you-cant/articleshow/135188450.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/peter-lynch-on-stock-picking-you-shouldnt-own-a-stock-if-you-cant/articleshow/135188450.cms",
+    "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
+    "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 17
+    "count": 18
   },
   "recent_titles": [
-    "Vodafone Idea shares: Up 20% in 6 months! Will Q2 results 2026 fuel this rally? Experts' views, target price, stop-loss",
     "Freefall! eMudhra shares crash 34% in just 3 sessions, near 52-week low - Why is stock plunging? What market experts say",
     "NCDEX launches NDEX, FINNDEX in push to become multi-segment exchange",
     "UltraTech Cement shares down 11% in a year: InCred Equities says recovery ahead | Check target, upside, rationale",
@@ -586,7 +585,8 @@
     "Best auto stocks to buy ahead of Diwali 2026: Nuvama bets big on Eicher Motors, Hyundai and Tata Motors PV - Here's why",
     "Top 10 firms lose \u20b91.55  trillion in mcap as HDFC Bank, Bajaj Finance fall",
     "Jio Platforms IPO allotment status check online by PAN number guide for KFin Tech Registrar Portal on ris.kfintech.com",
-    "Peter Lynch on stock picking: 'You shouldn't own a stock if you can't\u2026'"
+    "Peter Lynch on stock picking: 'You shouldn't own a stock if you can't\u2026'",
+    "Bond yields rise nearly 30 bps in Oct, to raise govt's interest burden"
   ],
   "reels_posted": {
     "date": "2026-10-25",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792923893.6153421,
+    "fetched_at": 1792925925.8214922,
     "symbols": [
       "adanipower",
       "easemytrip",
