@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/eas-sarma-idbi-disinvestment-letter-what-he-wrote-idbi-bank-shares-in-focus-after-massive-52-878-crore-fairfax-deal-11792480203630.html",
     "https://www.livemint.com/market/stock-market-news/dividend-stocks-check-elecon-eng-icici-prudential-mangalore-refinery-record-date-on-21-oct-amount-yield-history-11792476558518.html",
     "https://www.livemint.com/market/commodities/gold-price-outlook-yellow-metal-prices-cool-26-from-record-high-what-indian-buyers-are-doing-this-dussehra-diwali-11792472642371.html",
     "https://www.livemint.com/market/stock-market-news/it-fmcg-stocks-defensive-investment-strategy-11792424725693.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-ipo-allotment-status-check-online-by-pan-number-on-nse-india-bse-websites-direct-link-steps-11792816097296.html",
     "https://www.livemint.com/market/ipo/upcoming-ipo-mk-sons-fine-jewels-rs-275-cr-opening-next-week-company-profile-key-dates-share-price-band-and-more-11792858838153.html",
     "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-under-rs-100-niva-bupa-gmr-airports-restaurant-brands-by-sumeet-bagadia-target-price-stoploss-11792862655967.html",
-    "https://www.livemint.com/market/stock-market-news/413-returns-in-1-year-gold-jewellery-stock-offers-bonus-shares-do-you-own-check-ratio-record-date-11792858197650.html"
+    "https://www.livemint.com/market/stock-market-news/413-returns-in-1-year-gold-jewellery-stock-offers-bonus-shares-do-you-own-check-ratio-record-date-11792858197650.html",
+    "https://www.business-standard.com/markets/news/demand-supply-mismatch-to-drive-revenue-growth-gains-for-indian-hotels-126102500052_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Sky Gold and Diamonds among 5 stocks that hit 52-week highs and rallied up to 45% in a month",
     "Reliance Jio IPO subscription status day 1: QIB, NII, Retail, Employees, RIL Shareholders; category wise investor detail",
     "Netflix shares slide 4% as slowing sales growth raises fresh concerns",
     "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
@@ -586,11 +585,12 @@
     "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
     "Upcoming IPO: MK Sons Fine Jewels\u2019  \u20b9275 cr opening next week \u2013 Company profile, key dates, share price band and more",
     "Top 3 stocks to buy under  \u20b9100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss",
-    "413% returns in 1 year: Gold jewellery stock offers bonus shares - Do you own? Check Ratio, record date"
+    "413% returns in 1 year: Gold jewellery stock offers bonus shares - Do you own? Check Ratio, record date",
+    "Demand-supply mismatch to drive revenue growth gains for Indian Hotels"
   ],
   "reels_posted": {
-    "date": "2026-10-24",
-    "count": 3
+    "date": "2026-10-25",
+    "count": 1
   },
   "meta_token_checked_on": "2026-10-25",
   "nse_holidays": {
@@ -625,11 +625,11 @@
     "next": "reel"
   },
   "news_reels_posted": {
-    "date": "2026-10-24",
-    "count": 2
+    "date": "2026-10-25",
+    "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792893768.4757903,
+    "fetched_at": 1792895407.9668887,
     "symbols": [
       "adanipower",
       "easemytrip",
@@ -655,6 +655,6 @@
   },
   "news_evening_reel_date": "2026-10-24",
   "fii_cta_index": 1,
-  "news_morning_reel_date": "2026-10-24",
+  "news_morning_reel_date": "2026-10-25",
   "news_afternoon_post_date": "2026-10-24"
 }
