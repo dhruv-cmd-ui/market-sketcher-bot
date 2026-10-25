@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-eternal-adani-green-indian-hotels-among-38-firms-to-announce-quarterly-earnings-full-list-11792550102736.html",
     "https://www.livemint.com/market/stock-market-news/expert-view-developed-markets-now-offer-higher-growth-and-higher-roe-says-waterfield-advisors-md-11792553607694.html",
     "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
     "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms",
-    "https://www.livemint.com/market/ipo/upcoming-ipo-gmp-eaaa-india-vs-sfc-environmental-vs-bls-polymers-vs-mk-sons-fine-jewels-vs-bombay-coated-special-steels-11792924594395.html"
+    "https://www.livemint.com/market/ipo/upcoming-ipo-gmp-eaaa-india-vs-sfc-environmental-vs-bls-polymers-vs-mk-sons-fine-jewels-vs-bombay-coated-special-steels-11792924594395.html",
+    "https://www.livemint.com/market/stock-market-news/dividend-stock-split-resolution-plans-record-date-oct-26-hexaware-midaas-talwalkars-better-value-ashapura-fashion-11792927230500.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 20
+    "count": 21
   },
   "recent_titles": [
-    "UltraTech Cement shares down 11% in a year: InCred Equities says recovery ahead | Check target, upside, rationale",
     "Eternal's growth engines are firing, as it doubles down on Blinkit expansion",
     "Silver ETFs dip nearly 3% as rate hike fears overshadow safe-haven appeal",
     "Multibagger defence stock commissions new unit; up 3200% in 5-Yrs \u2014 has dividend, stock-split history | should you buy?",
@@ -586,11 +585,12 @@
     "Peter Lynch on stock picking: 'You shouldn't own a stock if you can't\u2026'",
     "Bond yields rise nearly 30 bps in Oct, to raise govt's interest burden",
     "Ahead of Market: 10 things that will decide stock market action on Monday",
-    "Upcoming IPO GMP: EAAA India vs SFC Environmental vs BLS Polymers vs MK Sons Fine Jewels vs Bombay Coated Special Steels"
+    "Upcoming IPO GMP: EAAA India vs SFC Environmental vs BLS Polymers vs MK Sons Fine Jewels vs Bombay Coated Special Steels",
+    "Dividend, stock split, resolution plans record date Oct 26: Hexaware, Midaas, Talwalkars Better Value, Ashapura Fashion"
   ],
   "reels_posted": {
     "date": "2026-10-25",
-    "count": 2
+    "count": 3
   },
   "meta_token_checked_on": "2026-10-25",
   "nse_holidays": {
@@ -626,10 +626,10 @@
   },
   "news_reels_posted": {
     "date": "2026-10-25",
-    "count": 1
+    "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792929418.1908464,
+    "fetched_at": 1792931382.1439214,
     "symbols": [
       "adanipower",
       "easemytrip",
@@ -653,7 +653,7 @@
       "zetwerk"
     ]
   },
-  "news_evening_reel_date": "2026-10-24",
+  "news_evening_reel_date": "2026-10-25",
   "fii_cta_index": 1,
   "news_morning_reel_date": "2026-10-25",
   "news_afternoon_post_date": "2026-10-25"
