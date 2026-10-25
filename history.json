@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/dividend-record-date-today-2-1-bonus-shares-history-500-returns-in-5-years-do-you-own-this-multibagger-stock-11792553236502.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7111-of-2026-filed-by-bidish-das_105307.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/dividend-stock-split-resolution-plans-record-date-oct-26-hexaware-midaas-talwalkars-better-value-ashapura-fashion-11792927230500.html",
     "https://www.livemint.com/market/ipo/ipo-gmp-subscription-race-reliance-jio-platforms-vs-paras-healthcare-grey-market-premium-qib-nii-retail-details-11792926098381.html",
     "https://www.business-standard.com/markets/news/gold-silver-face-fresh-test-as-oil-surge-puts-fed-policy-decision-in-focus-126102500493_1.html",
-    "https://www.livemint.com/market/ipo/reliances-jio-platforms-ipo-allotment-on-wed-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots-11792937452744.html"
+    "https://www.livemint.com/market/ipo/reliances-jio-platforms-ipo-allotment-on-wed-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots-11792937452744.html",
+    "https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 24
+    "count": 25
   },
   "recent_titles": [
-    "Reliance Industries shares: Monarch sees 20% upside in 3\u20134 months - Reveals buy range, targets for Mukesh Ambani stock",
     "Sebi eases margin rules for trades post EPI",
     "Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
     "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
@@ -586,7 +585,8 @@
     "Dividend, stock split, resolution plans record date Oct 26: Hexaware, Midaas, Talwalkars Better Value, Ashapura Fashion",
     "IPO GMP, subscription race: Reliance Jio Platforms vs Paras Healthcare - Grey market premium, QIB, NII, Retail details",
     "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
-    "Reliance\u2019s Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?"
+    "Reliance\u2019s Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?",
+    "Senco Gold to acquire 68% stake in August Jewellery for \u20b968 crore"
   ],
   "reels_posted": {
     "date": "2026-10-25",
@@ -629,7 +629,7 @@
     "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792938278.2385898,
+    "fetched_at": 1792940905.6357718,
     "symbols": [
       "adanipower",
       "easemytrip",
