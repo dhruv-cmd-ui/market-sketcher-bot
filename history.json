@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-ireda-yes-bank-trent-and-hindustan-zinc/articleshow/135074022.cms",
     "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-eternal-adani-green-indian-hotels-among-38-firms-to-announce-quarterly-earnings-full-list-11792550102736.html",
     "https://www.livemint.com/market/stock-market-news/expert-view-developed-markets-now-offer-higher-growth-and-higher-roe-says-waterfield-advisors-md-11792553607694.html",
     "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/peter-lynch-on-stock-picking-you-shouldnt-own-a-stock-if-you-cant/articleshow/135188450.cms",
     "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
     "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms",
+    "https://www.livemint.com/market/ipo/upcoming-ipo-gmp-eaaa-india-vs-sfc-environmental-vs-bls-polymers-vs-mk-sons-fine-jewels-vs-bombay-coated-special-steels-11792924594395.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 19
+    "count": 20
   },
   "recent_titles": [
-    "NCDEX launches NDEX, FINNDEX in push to become multi-segment exchange",
     "UltraTech Cement shares down 11% in a year: InCred Equities says recovery ahead | Check target, upside, rationale",
     "Eternal's growth engines are firing, as it doubles down on Blinkit expansion",
     "Silver ETFs dip nearly 3% as rate hike fears overshadow safe-haven appeal",
@@ -586,7 +585,8 @@
     "Jio Platforms IPO allotment status check online by PAN number guide for KFin Tech Registrar Portal on ris.kfintech.com",
     "Peter Lynch on stock picking: 'You shouldn't own a stock if you can't\u2026'",
     "Bond yields rise nearly 30 bps in Oct, to raise govt's interest burden",
-    "Ahead of Market: 10 things that will decide stock market action on Monday"
+    "Ahead of Market: 10 things that will decide stock market action on Monday",
+    "Upcoming IPO GMP: EAAA India vs SFC Environmental vs BLS Polymers vs MK Sons Fine Jewels vs Bombay Coated Special Steels"
   ],
   "reels_posted": {
     "date": "2026-10-25",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792927477.6772547,
+    "fetched_at": 1792929418.1908464,
     "symbols": [
       "adanipower",
       "easemytrip",
