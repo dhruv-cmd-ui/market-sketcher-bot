@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms",
     "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-large-cap-stocks-cross-below-their-200-dmas/slideshow/135080058.cms",
     "https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html",
@@ -499,15 +497,16 @@
     "https://www.livemint.com/market/stock-market-news/gold-price-crashes-over-rs-38-600-from-record-high-whatll-happen-amid-diwali-2026-fervour-right-time-to-buy-decoded-11792910366849.html",
     "https://www.livemint.com/market/stock-market-news/stocks-to-buy-ganesh-dongre-of-anand-rathi-recommends-3-shares-eternal-bob-apollo-hospitals-target-stoploss-11792913759094.html",
     "https://www.livemint.com/market/stock-market-news/best-auto-stocks-to-buy-ahead-of-diwali-2026-nuvama-bets-big-on-eicher-motors-hyundai-and-tata-motors-pv-heres-why-11792915931068.html",
-    "https://www.business-standard.com/markets/news/top-10-firms-lose-1-55-trillion-in-mcap-as-hdfc-bank-bajaj-finance-fall-126102500268_1.html"
+    "https://www.business-standard.com/markets/news/top-10-firms-lose-1-55-trillion-in-mcap-as-hdfc-bank-bajaj-finance-fall-126102500268_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
+    "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
-    "Why is stock market down today? Sensex drops over 700 points - Top 3 reasons explained",
     "Reliance Industries share price: Jio IPO gets blockbuster response, but stock near 52-week low; what should you do?",
     "Vodafone Idea shares: Up 20% in 6 months! Will Q2 results 2026 fuel this rally? Experts' views, target price, stop-loss",
     "Freefall! eMudhra shares crash 34% in just 3 sessions, near 52-week low - Why is stock plunging? What market experts say",
@@ -586,7 +585,8 @@
     "Gold price crashes over  \u20b938,600 from record high \u2014 What'll happen amid Diwali 2026 fervour? Right time to buy? Decoded",
     "Stocks to buy: Ganesh Dongre of Anand Rathi recommends 3 shares \u2014 Eternal, BoB, Apollo Hospitals | Target, stop-loss",
     "Best auto stocks to buy ahead of Diwali 2026: Nuvama bets big on Eicher Motors, Hyundai and Tata Motors PV - Here's why",
-    "Top 10 firms lose \u20b91.55  trillion in mcap as HDFC Bank, Bajaj Finance fall"
+    "Top 10 firms lose \u20b91.55  trillion in mcap as HDFC Bank, Bajaj Finance fall",
+    "Jio Platforms IPO allotment status check online by PAN number guide for KFin Tech Registrar Portal on ris.kfintech.com"
   ],
   "reels_posted": {
     "date": "2026-10-25",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792920388.6309261,
+    "fetched_at": 1792922369.2061856,
     "symbols": [
       "adanipower",
       "easemytrip",
