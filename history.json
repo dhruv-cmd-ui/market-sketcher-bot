@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
     "https://www.livemint.com/market/stock-market-news/dividend-record-date-today-2-1-bonus-shares-history-500-returns-in-5-years-do-you-own-this-multibagger-stock-11792553236502.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms",
     "https://www.livemint.com/market/ipo/upcoming-ipo-gmp-eaaa-india-vs-sfc-environmental-vs-bls-polymers-vs-mk-sons-fine-jewels-vs-bombay-coated-special-steels-11792924594395.html",
     "https://www.livemint.com/market/stock-market-news/dividend-stock-split-resolution-plans-record-date-oct-26-hexaware-midaas-talwalkars-better-value-ashapura-fashion-11792927230500.html",
-    "https://www.livemint.com/market/ipo/ipo-gmp-subscription-race-reliance-jio-platforms-vs-paras-healthcare-grey-market-premium-qib-nii-retail-details-11792926098381.html"
+    "https://www.livemint.com/market/ipo/ipo-gmp-subscription-race-reliance-jio-platforms-vs-paras-healthcare-grey-market-premium-qib-nii-retail-details-11792926098381.html",
+    "https://www.business-standard.com/markets/news/gold-silver-face-fresh-test-as-oil-surge-puts-fed-policy-decision-in-focus-126102500493_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 22
+    "count": 23
   },
   "recent_titles": [
-    "Silver ETFs dip nearly 3% as rate hike fears overshadow safe-haven appeal",
     "Multibagger defence stock commissions new unit; up 3200% in 5-Yrs \u2014 has dividend, stock-split history | should you buy?",
     "Reliance Industries shares: Monarch sees 20% upside in 3\u20134 months - Reveals buy range, targets for Mukesh Ambani stock",
     "Sebi eases margin rules for trades post EPI",
@@ -586,7 +585,8 @@
     "Ahead of Market: 10 things that will decide stock market action on Monday",
     "Upcoming IPO GMP: EAAA India vs SFC Environmental vs BLS Polymers vs MK Sons Fine Jewels vs Bombay Coated Special Steels",
     "Dividend, stock split, resolution plans record date Oct 26: Hexaware, Midaas, Talwalkars Better Value, Ashapura Fashion",
-    "IPO GMP, subscription race: Reliance Jio Platforms vs Paras Healthcare - Grey market premium, QIB, NII, Retail details"
+    "IPO GMP, subscription race: Reliance Jio Platforms vs Paras Healthcare - Grey market premium, QIB, NII, Retail details",
+    "Gold, silver face fresh test as oil surge puts Fed policy decision in focus"
   ],
   "reels_posted": {
     "date": "2026-10-25",
@@ -629,7 +629,7 @@
     "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792933812.554155,
+    "fetched_at": 1792936716.2116768,
     "symbols": [
       "adanipower",
       "easemytrip",
