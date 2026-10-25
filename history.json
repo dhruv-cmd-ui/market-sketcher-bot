@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/european-gas-prices-slump-after-climbing-to-four-year-highs-11792543623675.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/ipo/eaaa-india-alternatives-ipo-review-price-band-valuation-financials-11792899549025.html",
     "https://www.livemint.com/market/stock-market-news/kec-international-shares-in-focus-on-monday-oct-28-after-rs-2872-cr-pgcil-order-win-ytd-orders-mark-crosses-rs-13-5k-cr-11792904618194.html",
     "https://economictimes.indiatimes.com/markets/expert-view/swiggymayrebound-to-rs-190-butchartsdonotsignal-a-trendreversal-lkps-vatsalbhuva/articleshow/135184363.cms",
-    "https://www.livemint.com/market/stock-market-news/gold-price-crashes-over-rs-38-600-from-record-high-whatll-happen-amid-diwali-2026-fervour-right-time-to-buy-decoded-11792910366849.html"
+    "https://www.livemint.com/market/stock-market-news/gold-price-crashes-over-rs-38-600-from-record-high-whatll-happen-amid-diwali-2026-fervour-right-time-to-buy-decoded-11792910366849.html",
+    "https://www.livemint.com/market/stock-market-news/stocks-to-buy-ganesh-dongre-of-anand-rathi-recommends-3-shares-eternal-bob-apollo-hospitals-target-stoploss-11792913759094.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Dip in the dollar takes a breather with Fed in focus",
     "Gold, global equities, largecaps, midcaps and smallcaps: Samco CEO Jimet Modi\u2019s five-way portfolio formula",
     "Indian shares seen opening lower as high oil prices fuel inflation worries",
     "Why is stock market down today? Sensex drops over 700 points - Top 3 reasons explained",
@@ -586,7 +585,8 @@
     "Stable fees, volatile earnings: What investors should know about EAAA IPO",
     "KEC International shares in focus on Monday Oct 26 after  \u20b92872 cr PGCIL order win; YTD orders mark crosses  \u20b913.5k cr",
     "Swiggy may rebound to Rs 190, but charts do not signal a trend reversal: LKP\u2019s Vatsal Bhuva",
-    "Gold price crashes over  \u20b938,600 from record high \u2014 What'll happen amid Diwali 2026 fervour? Right time to buy? Decoded"
+    "Gold price crashes over  \u20b938,600 from record high \u2014 What'll happen amid Diwali 2026 fervour? Right time to buy? Decoded",
+    "Stocks to buy: Ganesh Dongre of Anand Rathi recommends 3 shares \u2014 Eternal, BoB, Apollo Hospitals | Target, stop-loss"
   ],
   "reels_posted": {
     "date": "2026-10-25",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792915326.1186755,
+    "fetched_at": 1792916801.2870018,
     "symbols": [
       "adanipower",
       "easemytrip",
