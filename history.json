@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/titan-q2-results-2026-date-check-rekha-jhujhunwala-portfolio-stock-returns-target-support-should-you-buy-11792495713454.html",
     "https://www.livemint.com/market/stock-market-news/multibagger-stock-announces-1-4-bonus-shares-up-550-in-5-yrs-with-1-5-stock-split-dividend-history-record-date-soon-11792487388023.html",
     "https://www.livemint.com/market/stock-market-news/eas-sarma-idbi-disinvestment-letter-what-he-wrote-idbi-bank-shares-in-focus-after-massive-52-878-crore-fairfax-deal-11792480203630.html",
     "https://www.livemint.com/market/stock-market-news/dividend-stocks-check-elecon-eng-icici-prudential-mangalore-refinery-record-date-on-21-oct-amount-yield-history-11792476558518.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-13-stocks-decline-for-5-consecutive-sessions/slideshow/135164244.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-today-grey-market-signals-over-22-listing-gains-check-allotment-listing-date/articleshow/135163795.cms",
     "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-ipo-allotment-status-check-online-by-pan-number-on-nse-india-bse-websites-direct-link-steps-11792816097296.html",
-    "https://www.livemint.com/market/ipo/upcoming-ipo-mk-sons-fine-jewels-rs-275-cr-opening-next-week-company-profile-key-dates-share-price-band-and-more-11792858838153.html"
+    "https://www.livemint.com/market/ipo/upcoming-ipo-mk-sons-fine-jewels-rs-275-cr-opening-next-week-company-profile-key-dates-share-price-band-and-more-11792858838153.html",
+    "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-under-rs-100-niva-bupa-gmr-airports-restaurant-brands-by-sumeet-bagadia-target-price-stoploss-11792862655967.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "177% returns in 5 yrs! ICICI Sec sees 51% upside potential in this small finance bank stock; do you own? Target price",
     "SFC Environmental Technologies IPO opens Oct 27, price band at \u20b9313-330",
     "Sky Gold and Diamonds among 5 stocks that hit 52-week highs and rallied up to 45% in a month",
     "Reliance Jio IPO subscription status day 1: QIB, NII, Retail, Employees, RIL Shareholders; category wise investor detail",
@@ -586,7 +585,8 @@
     "Crisil shareholders alerts!  \u20b917 per share dividend, record date announced in Q2 results; stock gained 7% in 2 weeks",
     "High dividend, low price: 4 stocks under  \u20b9200 with high yield - IOCL, PTC India, Central Bank, PTL Enterprises",
     "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
-    "Upcoming IPO: MK Sons Fine Jewels\u2019  \u20b9275 cr opening next week \u2013 Company profile, key dates, share price band and more"
+    "Upcoming IPO: MK Sons Fine Jewels\u2019  \u20b9275 cr opening next week \u2013 Company profile, key dates, share price band and more",
+    "Top 3 stocks to buy under  \u20b9100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss"
   ],
   "reels_posted": {
     "date": "2026-10-24",
@@ -629,7 +629,7 @@
     "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792888328.4425342,
+    "fetched_at": 1792890686.1421447,
     "symbols": [
       "adanipower",
       "easemytrip",
