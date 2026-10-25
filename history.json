@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-s-policytwin-prototype-wins-first-place-at-the-c-dir-global-agentic-regulator-hackathon_105265.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-for-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105263.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/confirmatory-order-in-the-matter-of-rajesh-exports-limited_105261.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105259.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/it-stocks-dividend-record-date-this-week-cyient-lt-tech-hexaware-hypersoft-sagility-who-pays-most-amount-return-11792938159348.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-cr/articleshow/135182984.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/post-jio-boost-5-ipos-to-raise-rs-2581-crore-next-week-alongside-indias-biggest-listing/articleshow/135182846.cms",
-    "https://www.livemint.com/market/stock-market-news/dividend-buzz-dalmia-bharat-mazagon-dock-coal-india-ntpc-2-others-to-consider-payouts-this-week-11792943992658.html"
+    "https://www.livemint.com/market/stock-market-news/dividend-buzz-dalmia-bharat-mazagon-dock-coal-india-ntpc-2-others-to-consider-payouts-this-week-11792943992658.html",
+    "https://www.livemint.com/market/stock-market-news/psu-q2-results-2026-preview-bel-coal-india-igl-earnings-estimate-brokerage-target-price-returns-potential-11792946740816.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-25",
-    "count": 28
+    "count": 29
   },
   "recent_titles": [
-    "Sebi warns investors against fraudulent WhatsApp stock tip groups",
     "Calliope Capital Ola Electric Investment: How many rights entitlements has the firm applied for?",
     "\u20b948,000 crore FPI retreat leaves tech stocks as lone bright spot",
     "Apple stock rises 28% in 2026 as AI stocks wobble: Why investors are betting on the iPhone maker",
@@ -586,7 +585,8 @@
     "Senco Gold to acquire 68% stake in August Jewellery for \u20b968 crore",
     "Bertie fights off the song of turbo-charged returns",
     "IT stocks dividend record date this week: Cyient, LT Tech, Hexaware, Hypersoft, Sagility - Who pays most? Amount, return",
-    "Dividend buzz: Dalmia Bharat, Mazagon Dock, Coal India, NTPC, others to consider payouts this week - Check full list"
+    "Dividend buzz: Dalmia Bharat, Mazagon Dock, Coal India, NTPC, others to consider payouts this week - Check full list",
+    "PSU Q2 results 2026 preview: BEL, Coal India, IGL - Earnings estimate, brokerage target price, returns potential"
   ],
   "reels_posted": {
     "date": "2026-10-25",
@@ -629,7 +629,7 @@
     "count": 2
   },
   "nse_most_active": {
-    "fetched_at": 1792945567.1688101,
+    "fetched_at": 1792947574.6132538,
     "symbols": [
       "adanipower",
       "easemytrip",
