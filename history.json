@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1578-2026-issued-against-s-giridharan-in-the-matter-of-edserv-softsystems-ltd-under-recovery-certificate-no-6598-of-2023-_105350.html",
-    "https://www.business-standard.com/markets/news/stock-market-live-october-21-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-platforms-ipo-today-hd-fire-protect-share-price-126102100078_1.html",
-    "https://www.business-standard.com/markets/news/ncc-j-k-bank-vrl-logistics-top-stock-picks-by-anand-james-of-geojit-126102100079_1.html",
     "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-red-sea-shipping-risks-threats-to-saudi-oil-sites-126102100052_1.html",
     "https://www.business-standard.com/markets/news/here-s-why-shrikant-chouhan-is-bullish-on-jsw-steel-groww-126102100071_1.html",
     "https://www.business-standard.com/markets/news/consumer-durables-demand-mixed-prefer-lg-electronics-polycab-india-motilal-oswal-126102100068_1.html",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/live-blog/jio-platforms-ipo-allotment-status-live-updates-reliance-jio-ipo-gmp-subscription-price-band-listing-date-latest-news/liveblog/135202107.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1577-2026-issued-against-annaswamy-venkatramani-pan-aabpv3960f-under-recovery-certificate-nos-2976-of-2020-3197-of-2020-and-6606-of-2023_105345.html",
-    "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-share-price-jumps-10-after-q2-results-stock-up-44-in-2026-check-resistance-support-levels-11792987859346.html"
+    "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-share-price-jumps-10-after-q2-results-stock-up-44-in-2026-check-resistance-support-levels-11792987859346.html",
+    "https://www.livemint.com/market/us-stock-markets-this-week-wall-street-gears-up-for-fed-rate-decision-q3-earnings-from-alphabet-microsoft-amazon-11792944787786.html",
+    "https://www.business-standard.com/markets/news/apollo-micro-systems-share-price-rallies-10-after-record-q2-performance-126102600208_1.html",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-record-india-ipo-falls-short-of-record-payday-for-bankers/articleshow/135203965.cms"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-26",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "OMC stocks in troubled waters? BPCL, HPCL, IOCL shares slump up to 2%; Brent at $114/barrel | What should investors do?",
     "Tata Teleservices shares crash 11% after Q2 result 2026 - What's next for the stock? Expert view",
     "Swiggy shares crash 14%, hit 52-week low after Q2 results. Here\u2019s why Jefferies, Nomura, Bernstein cut target price",
     "Swiggy shares hit 52-week low, down 35% in 1 month- should investors buy the stock after Q2 results? Expert view",
@@ -586,7 +585,8 @@
     "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
     "Top stocks to buy: Adani Energy, AU Small Finance Bank, BPCL, IDFC First Bank \u2014 Jefferies sees up to 62% upside | Target",
     "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
-    "Apollo Micro Systems share price jumps 10% after Q2 results; stock up 44% in 2026 \u2014 check resistance, support levels"
+    "Apollo Micro Systems share price jumps 10% after Q2 results; stock up 44% in 2026 \u2014 check resistance, support levels",
+    "Jio\u2019s record India IPO falls short of record payday for bankers"
   ],
   "reels_posted": {
     "date": "2026-10-26",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792991456.2099264,
+    "fetched_at": 1792994788.5435166,
     "symbols": [
       "apollo",
       "bharatcoal",
@@ -640,11 +640,11 @@
       "jyotistruc",
       "kotakbank",
       "liquidcase",
-      "moneyview",
       "mrpl",
       "olaelec",
       "olaelec-re",
       "pcjeweller",
+      "rpower",
       "suzlon",
       "swiggy",
       "tatagold",
