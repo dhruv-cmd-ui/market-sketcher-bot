@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-wipro-among-5-stock-recommendations-for-thursday/slideshow/135095527.cms",
-    "https://www.business-standard.com/markets/news/bajaj-finance-down-3-post-q2-analysts-stay-bullish-on-asset-quality-gains-126102100164_1.html",
-    "https://www.livemint.com/market/ipo/jio-platforms-ipo-has-a-flying-start-shares-subscribed-over-three-times-11792591212856.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
     "https://www.business-standard.com/markets/news/why-are-markets-rising-today-sensex-up-800-pts-intraday-nifty-tops-23-100-126102100246_1.html",
     "https://www.business-standard.com/markets/news/nifty-it-index-hits-8-month-high-ltts-zooms-15-on-wednesday-here-s-why-126102100228_1.html",
     "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-higher-crude-oil-prices-revive-rate-hike-concerns-126102100241_1.html",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/swiggy-shares-rise-6-after-4-session-down-episode-is-this-a-relief-rally-or-worst-is-over-experts-decode-target-sl-11792998360954.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-5-a-day-after-q2-results-sparked-a-17-crash-why-brokerages-remain-bullish-despite-target-price-cuts/articleshow/135205591.cms",
     "https://www.business-standard.com/markets/news/eternal-extends-rally-stock-soars-8-in-two-days-post-q2-results-126102600750_1.html",
-    "https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html"
+    "https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1579-2026-issued-against-r-senthil-kumar-under-recovery-certificate-nos-7902-of-2024-7904-of-2024-and-7905-of-2024-in-the-matter-of-trust-line-holdings-pvt-ltd-pms-and-trust-lin-_105432.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-dr-reddys-jsw-steel-shriram-finance-tata-consumer-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/135209828.cms",
+    "https://www.business-standard.com/specials/bs-events/si-arena-debuts-at-bfsi-summit-bringing-market-experts-closer-to-investors-126102301279_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-6-stocks-to-hit-52-week-lows-and-fall-up-to-32-in-a-month/slideshow/135212417.cms"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-26",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "IPO listings, share price today: Tonbo Imaging vs Zetwerk vs Bonfiglioli vs Sahajanand - Who won debut race on NSE, BSE?",
     "Why are mid, small-caps bleeding? Indices crash up to 4% - Swiggy, Meesho, Vedanta Aluminium, MCX lose big",
     "Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price",
     "Market wrap: Eternal, Apollo Hospital, Shriram Finance, Adani Enterprises among top gainers and losers on Nifty and Sensex on Friday",
@@ -586,7 +585,8 @@
     "Swiggy shares rise 6% after 4-session down episode; is this a relief rally or worst is over? Experts decode | Target, SL",
     "Swiggy shares jump 5% a day after Q2 results sparked a 17% crash. Why brokerages remain bullish despite target price cuts",
     "Eternal extends rally; stock soars 8% in two days post Q2 results",
-    "Mind-boggling Monday at Indian stock markets: Sensex, Nifty mirror life\u2019s ups and downs \u2014 October 26 trade details"
+    "Mind-boggling Monday at Indian stock markets: Sensex, Nifty mirror life\u2019s ups and downs \u2014 October 26 trade details",
+    "Yes Bank among 6 stocks to hit 52-week lows and fall up to 32% in a month"
   ],
   "reels_posted": {
     "date": "2026-10-26",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793013352.2893724,
+    "fetched_at": 1793022933.3698046,
     "symbols": [
       "apollo",
       "bharatcoal",
