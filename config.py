@@ -114,8 +114,12 @@ MAX_REELS_PER_DAY = int(os.getenv("MAX_REELS_PER_DAY", "25"))
 # windows (IST hours): a Reel in the morning, a Reel in the evening, a single
 # Image Post around midday. Outside these windows, news still posts to Telegram
 # as usual but nothing goes to Meta.
-NEWS_MORNING_REEL_START_HOUR = int(os.getenv("NEWS_MORNING_REEL_START_HOUR", "8"))
-NEWS_MORNING_REEL_END_HOUR = int(os.getenv("NEWS_MORNING_REEL_END_HOUR", "10"))
+NEWS_MORNING_REEL_START_HOUR = int(os.getenv("NEWS_MORNING_REEL_START_HOUR", "6"))
+NEWS_MORNING_REEL_END_HOUR = int(os.getenv("NEWS_MORNING_REEL_END_HOUR", "9"))
+# PAUSED: Instagram/Facebook currently get only the FII/DII Reel plus one morning
+# news Image Post (by 9 AM). Set META_FULL_SCHEDULE=true to restore the original
+# morning Reel (8-10), midday Post and evening Reel.
+META_FULL_SCHEDULE = os.getenv("META_FULL_SCHEDULE", "false").lower() == "true"
 NEWS_AFTERNOON_POST_START_HOUR = int(os.getenv("NEWS_AFTERNOON_POST_START_HOUR", "12"))
 NEWS_AFTERNOON_POST_END_HOUR = int(os.getenv("NEWS_AFTERNOON_POST_END_HOUR", "14"))
 NEWS_EVENING_REEL_START_HOUR = int(os.getenv("NEWS_EVENING_REEL_START_HOUR", "18"))

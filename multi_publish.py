@@ -54,11 +54,16 @@ def reels_left(kind: str = "news") -> int:
 
 
 # (window start hour, end hour, "reel"/"post", history_store key for "already used today")
-_NEWS_META_WINDOWS = [
-    (config.NEWS_MORNING_REEL_START_HOUR, config.NEWS_MORNING_REEL_END_HOUR, "reel", "news_morning_reel_date"),
-    (config.NEWS_AFTERNOON_POST_START_HOUR, config.NEWS_AFTERNOON_POST_END_HOUR, "post", "news_afternoon_post_date"),
-    (config.NEWS_EVENING_REEL_START_HOUR, config.NEWS_EVENING_REEL_END_HOUR, "reel", "news_evening_reel_date"),
-]
+if config.META_FULL_SCHEDULE:
+    _NEWS_META_WINDOWS = [
+        (8, config.NEWS_MORNING_REEL_END_HOUR + 1, "reel", "news_morning_reel_date"),
+        (config.NEWS_AFTERNOON_POST_START_HOUR, config.NEWS_AFTERNOON_POST_END_HOUR, "post", "news_afternoon_post_date"),
+        (config.NEWS_EVENING_REEL_START_HOUR, config.NEWS_EVENING_REEL_END_HOUR, "reel", "news_evening_reel_date"),
+    ]
+else:
+    _NEWS_META_WINDOWS = [
+        (config.NEWS_MORNING_REEL_START_HOUR, config.NEWS_MORNING_REEL_END_HOUR, "post", "news_morning_reel_date"),
+    ]
 
 
 def news_meta_action() -> tuple[str, str] | None:
