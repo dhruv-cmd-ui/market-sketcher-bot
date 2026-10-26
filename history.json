@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/jio-ipo-or-reliance-shares-whats-better-deal-for-future-money-gains-if-youve-rs-14000-to-invest-experts-suggest-11792576828761.html",
     "https://www.livemint.com/market/stock-market-news/187-returns-in-5-yrs-icici-direct-sees-51-upside-potential-in-this-small-finance-bank-stock-do-you-own-target-price-11792565850014.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1577-2026-issued-against-annaswamy-venkatramani-pan-aabpv3960f-under-recovery-certificate-nos-2976-of-2020-3197-of-2020-and-6606-of-2023_105345.html",
     "https://www.business-standard.com/markets/news/sfc-environmental-technologies-ipo-opens-oct-27-price-band-at-313-330-126102100484_1.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/indian-shares-on-track-for-muted-open-as-oil-concerns-persist-fed-in-focus-11792981672692.html",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-allotment-likely-today-gmp-signals-22-listing-gains-heres-how-to-check-status/articleshow/135201263.cms",
     "https://www.livemint.com/market/ipo/reliances-jio-platforms-ipo-allotment-today-26-oct-check-status-online-latest-gmp-price-share-listing-prediction-11792980669475.html",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html"
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-adani-energy-au-small-finance-bank-bpcl-idfc-first-bank-jefferies-sees-up-to-62-upside-target-11792982712174.html"
   ],
   "last_fii_dii_post_date": "2026-10-23",
   "news_posted": {
     "date": "2026-10-26",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Zetwerk Manufacturing Business shares to list today: Check GMP ahead of debut",
     "Stocks to watch: eMudhra, Infosys, Swiggy, HPCL, Havells, Sun Pharma, JSL",
     "IPO GMP comparison: Reliance Jio Platforms IPO vs Paras Healthcare - Last day to apply today - Listing price prediction",
     "OMC stocks in troubled waters? BPCL, HPCL, IOCL shares slump up to 2%; Brent at $114/barrel | What should investors do?",
@@ -586,7 +585,8 @@
     "Stock recommendations for 26 October from MarketSmith India",
     "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues",
     "Indian shares on track for muted open as oil concerns persist, Fed in focus",
-    "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list"
+    "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
+    "Top stocks to buy: Adani Energy, AU Small Finance Bank, BPCL, IDFC First Bank \u2014 Jefferies sees up to 62% upside | Target"
   ],
   "reels_posted": {
     "date": "2026-10-26",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1792984106.8443341,
+    "fetched_at": 1792985862.5020146,
     "symbols": [
       "adanipower",
       "easemytrip",
