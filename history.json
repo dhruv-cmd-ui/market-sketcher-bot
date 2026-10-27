@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/near-term-market-outlook-weak-drl-among-3-stocks-to-buy-today-ajit-mishra-126102200084_1.html",
-    "https://www.business-standard.com/markets/news/esds-advit-among-9-listings-with-up-to-220-rally-ytd-more-steam-left-126102200082_1.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html",
-    "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html",
     "https://www.business-standard.com/markets/interviews/mkt-re-rating-unlikely-amid-global-uncertainty-venugopal-manghat-hsbc-mf-126102200119_1.html",
     "https://www.business-standard.com/markets/news/sebi-warns-investors-against-fraudulent-whatsapp-stock-tip-groups-126102201541_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-investors-against-whatsapp-stock-tips-heres-how-you-can-avoid-such-traps/articleshow/135121957.cms",
@@ -499,15 +495,18 @@
     "https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html",
     "https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-last-chance-to-buy-for-rs-9-50-interim-dividend-record-date-dividend-yield-11793035793393.html",
     "https://www.business-standard.com/markets/news/stock-markets-rebound-after-4-day-slump-sensex-jumps-483-points-126102601657_1.html",
-    "https://www.business-standard.com/markets/commodities/gold-prices-fall-492-ahead-of-us-fed-meeting-silver-slips-2-004-126102700383_1.html"
+    "https://www.business-standard.com/markets/commodities/gold-prices-fall-492-ahead-of-us-fed-meeting-silver-slips-2-004-126102700383_1.html",
+    "https://www.livemint.com/market/sembcorp-industries-mulls-rs-3-750-cr-ipo-for-india-unit-in-dec-2026-firm-profile-top-details-investors-should-know-11793036451582.html",
+    "https://www.business-standard.com/specials/bs-events/tokenisation-offers-common-ledger-for-real-world-assets-says-edul-patel-126102601423_1.html",
+    "https://www.business-standard.com/specials/bs-events/retail-participation-has-been-very-strong-in-india-says-vikas-satija-126102601279_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-vodafone-idea-shares-can-soar-143-in-bull-case-scenario-3-reasons-why-brokerage-is-upbeat/articleshow/135227097.cms"
   ],
   "last_fii_dii_post_date": "2026-10-26",
   "news_posted": {
     "date": "2026-10-27",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "Swiggy falls 16% to new low, Qcomm losses spook street",
     "Adani Power profit surges 142% on strong demand amid weak rains",
     "Reliance Jio Platforms IPO GMP, allotment date, listing date, time, overall subscription status; QIB, NII, Retail, RIL",
     "Growth, value stocks set for reshuffle as S&P adopts new rules",
@@ -586,7 +585,8 @@
     "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
     "Paytm, Vodafone Idea, ITC Hotels, Sona BLW to Tata Consumer shares: Jefferies sees up to 41% upside | Target, rationale",
     "Apollo Micro Systems shares: Defence stock up 60% in 2026, soars 8% in Q2 rally - Key levels to watch \u200bnext",
-    "Gold prices fall \u20b9492 ahead of US Fed meeting, silver slips \u20b92,004"
+    "Gold prices fall \u20b9492 ahead of US Fed meeting, silver slips \u20b92,004",
+    "Jefferies says Vodafone Idea shares can soar 143% in bull case scenario. 3 reasons why brokerage is upbeat"
   ],
   "reels_posted": {
     "date": "2026-10-27",
@@ -629,12 +629,13 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793081343.7693691,
+    "fetched_at": 1793085839.6380482,
     "symbols": [
       "aequs",
       "apollo",
       "easemytrip",
       "empower",
+      "gtlinfra",
       "idea",
       "jisljaleqs",
       "jppower",
@@ -645,12 +646,11 @@
       "olaelec",
       "paracables",
       "pcjeweller",
-      "rhetan",
       "suzlon",
-      "tatagold",
       "tatsilv",
       "ttml",
-      "yesbank"
+      "yesbank",
+      "zetwerk"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
