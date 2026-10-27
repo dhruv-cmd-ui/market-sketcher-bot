@@ -501,7 +501,7 @@
     "https://www.business-standard.com/markets/news/gen-z-s-sip-competitor-is-lifestyle-sakchi-jain-on-growing-credit-culture-126102701404_1.html",
     "https://www.livemint.com/market/stock-market-news/jio-ipo-listing-gains-calculator-how-much-profit-can-you-expect-from-one-small-nii-and-big-nii-lot-after-allotment-11793105193943.html"
   ],
-  "last_fii_dii_post_date": "2026-10-26",
+  "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-27",
     "count": 15
@@ -590,7 +590,7 @@
   ],
   "reels_posted": {
     "date": "2026-10-27",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-10-27",
   "nse_holidays": {
@@ -654,7 +654,7 @@
     ]
   },
   "news_evening_reel_date": "2026-10-25",
-  "fii_cta_index": 2,
+  "fii_cta_index": 0,
   "news_morning_reel_date": "2026-10-27",
   "news_afternoon_post_date": "2026-10-26"
 }
