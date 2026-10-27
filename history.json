@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/nifty-psu-vs-private-bank-which-banking-index-looks-stronger-on-charts-126102200199_1.html",
     "https://www.business-standard.com/markets/news/48-000-crore-fpi-retreat-leaves-tech-stocks-as-lone-bright-spot-126102201471_1.html",
     "https://www.business-standard.com/markets/news/q2-result-impact-igil-shares-hit-10-upper-circuit-pat-up-43-to-185-cr-126102200363_1.html",
     "https://www.business-standard.com/markets/news/indian-hotels-share-price-gains-3-as-analysts-raise-earnings-estimates-target-post-q2-126102200329_1.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/a-banking-giant-a-battered-stock-can-hdfc-banks-new-chief-turn-the-tide/videoshow/135227258.cms",
     "https://www.livemint.com/market/stock-market-news/aequs-shares-crash-19-after-q2-2026-losses-widen-buy-sell-or-hold-brokerage-weighs-in-on-what-s-next-11793080303660.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-taurian-mps-ltd-_105452.html",
-    "https://www.business-standard.com/markets/news/gen-z-s-sip-competitor-is-lifestyle-sakchi-jain-on-growing-credit-culture-126102701404_1.html"
+    "https://www.business-standard.com/markets/news/gen-z-s-sip-competitor-is-lifestyle-sakchi-jain-on-growing-credit-culture-126102701404_1.html",
+    "https://www.livemint.com/market/stock-market-news/jio-ipo-listing-gains-calculator-how-much-profit-can-you-expect-from-one-small-nii-and-big-nii-lot-after-allotment-11793105193943.html"
   ],
   "last_fii_dii_post_date": "2026-10-26",
   "news_posted": {
     "date": "2026-10-27",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "How to win the investing game? Charles Ellis says make fewer mistakes, focus on long-term goals",
     "Gold rates in Chennai city crash this week: Can yellow metal rebound ahead of Diwali - Key levels to watch in future?",
     "Infosys shares: Should you buy the IT stock after Q2 results, dividend 2026 announcement? Expert view on what to do",
     "NSE reviewing network vulnerabilities as AI cyber threats rise: Chauhan",
@@ -586,7 +585,8 @@
     "Aerospace stock Aequs plunges 19% after Q2 results. Why are investors worried?",
     "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide?",
     "Aequs shares crash 19% after Q2 2026 losses widen; Buy, sell or hold? | Brokerage weighs in on what\u2019s next",
-    "Gen Z's SIP competitor is lifestyle: Sakchi Jain on growing credit culture"
+    "Gen Z's SIP competitor is lifestyle: Sakchi Jain on growing credit culture",
+    "Jio IPO listing gains calculator: How much profit can you expect from one Small NII and Big NII lot after allotment?"
   ],
   "reels_posted": {
     "date": "2026-10-27",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793109070.202211,
+    "fetched_at": 1793110914.0668352,
     "symbols": [
       "aequs",
       "apollo",
