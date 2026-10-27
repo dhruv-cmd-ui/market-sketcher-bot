@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/interviews/mkt-re-rating-unlikely-amid-global-uncertainty-venugopal-manghat-hsbc-mf-126102200119_1.html",
-    "https://www.business-standard.com/markets/news/sebi-warns-investors-against-fraudulent-whatsapp-stock-tip-groups-126102201541_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-investors-against-whatsapp-stock-tips-heres-how-you-can-avoid-such-traps/articleshow/135121957.cms",
     "https://www.business-standard.com/markets/news/multibagger-penny-stock-pc-jeweller-zooms-9-post-q2-nos-debt-free-status-126102200201_1.html",
     "https://www.business-standard.com/markets/news/eternal-share-price-gains-as-company-posts-strong-q2-result-for-fy27-126102200158_1.html",
@@ -499,15 +497,16 @@
     "https://www.livemint.com/market/sembcorp-industries-mulls-rs-3-750-cr-ipo-for-india-unit-in-dec-2026-firm-profile-top-details-investors-should-know-11793036451582.html",
     "https://www.business-standard.com/specials/bs-events/tokenisation-offers-common-ledger-for-real-world-assets-says-edul-patel-126102601423_1.html",
     "https://www.business-standard.com/specials/bs-events/retail-participation-has-been-very-strong-in-india-says-vikas-satija-126102601279_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-vodafone-idea-shares-can-soar-143-in-bull-case-scenario-3-reasons-why-brokerage-is-upbeat/articleshow/135227097.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-vodafone-idea-shares-can-soar-143-in-bull-case-scenario-3-reasons-why-brokerage-is-upbeat/articleshow/135227097.cms",
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html",
+    "https://www.livemint.com/market/stock-market-news/apollo-micro-paras-defence-bel-hal-defence-stocks-today-soar-up-to-9-as-dac-clears-rs-2-12-lakh-crore-proposals-11793081045775.html"
   ],
   "last_fii_dii_post_date": "2026-10-26",
   "news_posted": {
     "date": "2026-10-27",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "Adani Power profit surges 142% on strong demand amid weak rains",
     "Reliance Jio Platforms IPO GMP, allotment date, listing date, time, overall subscription status; QIB, NII, Retail, RIL",
     "Growth, value stocks set for reshuffle as S&P adopts new rules",
     "Goldman Sachs Ola Electric Downgrade: Why stock rating changed to sell; 23% downside seen - New target price, rationale",
@@ -586,7 +585,8 @@
     "Paytm, Vodafone Idea, ITC Hotels, Sona BLW to Tata Consumer shares: Jefferies sees up to 41% upside | Target, rationale",
     "Apollo Micro Systems shares: Defence stock up 60% in 2026, soars 8% in Q2 rally - Key levels to watch \u200bnext",
     "Gold prices fall \u20b9492 ahead of US Fed meeting, silver slips \u20b92,004",
-    "Jefferies says Vodafone Idea shares can soar 143% in bull case scenario. 3 reasons why brokerage is upbeat"
+    "Jefferies says Vodafone Idea shares can soar 143% in bull case scenario. 3 reasons why brokerage is upbeat",
+    "Apollo Micro, Paras Defence, BEL, HAL: Defence stocks today soar up to 9% as DAC clears  \u20b92.12 lakh crore proposals"
   ],
   "reels_posted": {
     "date": "2026-10-27",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793085839.6380482,
+    "fetched_at": 1793088901.0612042,
     "symbols": [
       "aequs",
       "apollo",
