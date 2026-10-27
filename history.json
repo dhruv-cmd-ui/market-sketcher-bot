@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/calliope-capital-ola-electric-investment-how-many-rights-entitlements-has-the-firm-applied-for-11792681740296.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135122517.cms",
     "https://www.business-standard.com/markets/news/fusion-cx-lists-at-5-premium-over-ipo-price-after-3-3x-subscription-126102200222_1.html",
     "https://www.business-standard.com/markets/news/nifty-psu-vs-private-bank-which-banking-index-looks-stronger-on-charts-126102200199_1.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/apollo-micro-paras-defence-bel-hal-defence-stocks-today-soar-up-to-9-as-dac-clears-rs-2-12-lakh-crore-proposals-11793081045775.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/hal-bel-paras-defence-other-stocks-in-focus-after-dac-clears-proposals-worth-rs-2-12-lakh-crore/articleshow/135223830.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/aerospace-stock-aequs-plunges-19-after-q2-results-why-are-investors-worried/articleshow/135224407.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/a-banking-giant-a-battered-stock-can-hdfc-banks-new-chief-turn-the-tide/videoshow/135227258.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/a-banking-giant-a-battered-stock-can-hdfc-banks-new-chief-turn-the-tide/videoshow/135227258.cms",
+    "https://www.livemint.com/market/stock-market-news/aequs-shares-crash-19-after-q2-2026-losses-widen-buy-sell-or-hold-brokerage-weighs-in-on-what-s-next-11793080303660.html"
   ],
   "last_fii_dii_post_date": "2026-10-26",
   "news_posted": {
     "date": "2026-10-27",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Goldman Sachs Ola Electric Downgrade: Why stock rating changed to sell; 23% downside seen - New target price, rationale",
     "Jio IPO breaks multiple records: From fundraising to investor demand, how the mega issue rewrote India\u2019s IPO history",
     "How to win the investing game? Charles Ellis says make fewer mistakes, focus on long-term goals",
     "Gold rates in Chennai city crash this week: Can yellow metal rebound ahead of Diwali - Key levels to watch in future?",
@@ -586,7 +585,8 @@
     "Jefferies says Vodafone Idea shares can soar 143% in bull case scenario. 3 reasons why brokerage is upbeat",
     "Apollo Micro, Paras Defence, BEL, HAL: Defence stocks today soar up to 9% as DAC clears  \u20b92.12 lakh crore proposals",
     "Aerospace stock Aequs plunges 19% after Q2 results. Why are investors worried?",
-    "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide?"
+    "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide?",
+    "Aequs shares crash 19% after Q2 2026 losses widen; Buy, sell or hold? | Brokerage weighs in on what\u2019s next"
   ],
   "reels_posted": {
     "date": "2026-10-27",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793099473.6257536,
+    "fetched_at": 1793102900.5847268,
     "symbols": [
       "aequs",
       "apollo",
