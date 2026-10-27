@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/certificate-no-rc9307-of-2026-notice-of-demand-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillion-finance-limited_105388.html",
     "https://www.business-standard.com/markets/commodities/asian-markets-slip-led-by-south-korea-despite-upbeat-us-tech-earnings-126102200097_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-bel-swiggy-eternal-ihcl-pc-jeweller-rbl-bank-srf-126102200104_1.html",
     "https://www.business-standard.com/markets/news/market-outlook-and-three-stock-trading-ideas-for-today-by-jatin-gedia-126102200090_1.html",
@@ -499,15 +497,16 @@
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-rishabh-tanwar-registered-research-analyst_105362.html",
     "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-regulations-2014-last-amended-on-october-16-2026-_105377.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/tata-consumer-shares-in-focus-as-q2-net-profit-rises-16-yoy-why-jefferies-other-brokerages-are-bullish-despite-target-price-cuts/articleshow/135223973.cms",
-    "https://www.livemint.com/market/stock-market-news/paytm-vodafone-idea-itc-hotels-sona-blw-to-tata-consumer-shares-jefferies-sees-up-to-34-upside-target-rationale-11793071569997.html"
+    "https://www.livemint.com/market/stock-market-news/paytm-vodafone-idea-itc-hotels-sona-blw-to-tata-consumer-shares-jefferies-sees-up-to-34-upside-target-rationale-11793071569997.html",
+    "https://www.livemint.com/market/stock-market-news/goldman-sachs-kospi-target-cut-why-south-korea-market-experts-lowered-target-to-9-000-from-12-000-explained-11793031984804.html",
+    "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-shares-defence-stock-up-60-in-2026-soars-8-in-q2-rally-key-levels-to-watch-next-11793076941368.html"
   ],
   "last_fii_dii_post_date": "2026-10-26",
   "news_posted": {
     "date": "2026-10-27",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "RBI net forex buys hit a record $43 billion in August, balances it with swaps",
     "Infosys guidance shock may hit stock despite numbers bounce",
     "Swiggy falls 16% to new low, Qcomm losses spook street",
     "Adani Power profit surges 142% on strong demand amid weak rains",
@@ -586,7 +585,8 @@
     "Indian shares seen lower as oil stays near six-month high, Fed in focus",
     "Q2 results 2026 today, schedule: L&T, Maruti Suzuki - 100 more firms to declare quarterly earnings; Oct 27 Tue list",
     "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
-    "Paytm, Vodafone Idea, ITC Hotels, Sona BLW to Tata Consumer shares: Jefferies sees up to 41% upside | Target, rationale"
+    "Paytm, Vodafone Idea, ITC Hotels, Sona BLW to Tata Consumer shares: Jefferies sees up to 41% upside | Target, rationale",
+    "Apollo Micro Systems shares: Defence stock up 60% in 2026, soars 8% in Q2 rally - Key levels to watch \u200bnext"
   ],
   "reels_posted": {
     "date": "2026-10-27",
@@ -629,15 +629,15 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793077656.6121688,
+    "fetched_at": 1793079425.5788403,
     "symbols": [
       "aequs",
       "apollo",
       "easemytrip",
       "empower",
-      "gtlinfra",
       "hdfcbse500",
       "idea",
+      "jisljaleqs",
       "jppower",
       "mahabank",
       "moneyview",
@@ -647,8 +647,8 @@
       "paracables",
       "pcjeweller",
       "rhetan",
-      "rpower",
       "suzlon",
+      "tatagold",
       "ttml",
       "yesbank"
     ]
