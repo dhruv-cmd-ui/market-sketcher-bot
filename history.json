@@ -1,13 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/hpcl-q2-results-profit-slips-6-yoy-to-rs-3625-crore-revenue-jumps-26/articleshow/135119002.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-lifespace-q2-profit-down-66-pc-to-rs-16-cr/articleshow/135118930.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/indias-jsw-paints-eyes-4-5-year-debt-to-refinance-acquisition-led-funding-bankers-say/articleshow/135118523.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-ai-stocks-nvidia-tesla-meta-stock-price-news-22nd-october-2026/liveblog/135118971.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bajaj-finance-cipla-nestle-india-eternal-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/135117923.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-banks-see-rising-corporate-loan-demand-ahead-of-boj-meeting/articleshow/135117826.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ubs-acquires-4-8-stake-in-wealth-manager-360-one-wam-through-warrant-exercise/articleshow/135117719.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-why-china-could-complicate-musks-tesla-spacex-merger-plans/articleshow/135117449.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q2-results-net-profit-rises-6-yoy-to-rs-173-crore-revenue-jumps-34/articleshow/135115540.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-lingjun-investment-attracts-300-million-from-overseas-investors/articleshow/135116219.cms",
@@ -499,15 +491,22 @@
     "https://www.business-standard.com/markets/news/finolex-cables-td-power-among-3-technical-stock-ideas-by-geojit-today-126102700090_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-buy-today-here-s-why-kotak-neo-recommends-buy-rating-on-icici-bank-add-nykaa-126102700085_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-october-27-tata-group-stocks-paytm-ather-energy-l-t-maruti-suzuki-126102700089_1.html",
-    "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html"
+    "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135239298.cms",
+    "https://www.business-standard.com/markets/news/grse-bel-defence-stocks-zoom-up-to-9-on-dac-nod-to-2-12-trn-proposals-126102700288_1.html",
+    "https://www.business-standard.com/markets/news/ather-energy-extends-rally-ev-stock-surges-20-in-2-days-here-s-why-126102700280_1.html",
+    "https://www.business-standard.com/markets/news/dalmia-bharat-shares-dive-6-to-hit-52-week-low-on-q2-loss-of-205-crore-126102700262_1.html",
+    "https://www.business-standard.com/markets/news/mankind-pharma-share-price-soars-11-in-2-days-on-strong-q2-earnings-brokerages-upbeat-126102700209_1.html",
+    "https://www.business-standard.com/markets/news/tata-consumer-products-share-price-gains-4-after-q2-show-margin-recovery-keenly-eyed-126102700202_1.html",
+    "https://www.business-standard.com/markets/news/hindalco-atgl-analyst-flags-weak-trend-amid-death-cross-formation-on-the-daily-charts-126102700191_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/allied-blenders-q2-results-profit-rises-9-7-to-rs-69-crore-revenue-up-6-8/articleshow/135240967.cms"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-27",
-    "count": 16
+    "count": 17
   },
   "recent_titles": [
-    "Infosys shares: Should you buy the IT stock after Q2 results, dividend 2026 announcement? Expert view on what to do",
     "NSE reviewing network vulnerabilities as AI cyber threats rise: Chauhan",
     "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore;  NII up 16%",
     "Dividend, split, rights issue, buyback next week: Hexaware Tech, Cyient, RailTel to Sagility - Check record dates",
@@ -586,7 +585,8 @@
     "Aequs shares crash 19% after Q2 2026 losses widen; Buy, sell or hold? | Brokerage weighs in on what\u2019s next",
     "Gen Z's SIP competitor is lifestyle: Sakchi Jain on growing credit culture",
     "Jio IPO listing gains calculator: How much profit can you expect from one Small NII and Big NII lot after allotment?",
-    "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI"
+    "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
+    "Allied Blenders Q2 Results: Profit rises 9.7% to Rs 69 crore, revenue up 6.8%"
   ],
   "reels_posted": {
     "date": "2026-10-27",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793114474.568603,
+    "fetched_at": 1793121513.1198852,
     "symbols": [
       "aequs",
       "apollo",
