@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/commodities/asian-markets-slip-led-by-south-korea-despite-upbeat-us-tech-earnings-126102200097_1.html",
-    "https://www.business-standard.com/markets/news/stocks-to-watch-bel-swiggy-eternal-ihcl-pc-jeweller-rbl-bank-srf-126102200104_1.html",
-    "https://www.business-standard.com/markets/news/market-outlook-and-three-stock-trading-ideas-for-today-by-jatin-gedia-126102200090_1.html",
-    "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-houthi-attacks-in-saudi-arabia-fuel-supply-concerns-126102200066_1.html",
-    "https://www.business-standard.com/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html",
     "https://www.business-standard.com/markets/news/near-term-market-outlook-weak-drl-among-3-stocks-to-buy-today-ajit-mishra-126102200084_1.html",
     "https://www.business-standard.com/markets/news/esds-advit-among-9-listings-with-up-to-220-rally-ytd-more-steam-left-126102200082_1.html",
     "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html",
@@ -499,15 +494,19 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/tata-consumer-shares-in-focus-as-q2-net-profit-rises-16-yoy-why-jefferies-other-brokerages-are-bullish-despite-target-price-cuts/articleshow/135223973.cms",
     "https://www.livemint.com/market/stock-market-news/paytm-vodafone-idea-itc-hotels-sona-blw-to-tata-consumer-shares-jefferies-sees-up-to-34-upside-target-rationale-11793071569997.html",
     "https://www.livemint.com/market/stock-market-news/goldman-sachs-kospi-target-cut-why-south-korea-market-experts-lowered-target-to-9-000-from-12-000-explained-11793031984804.html",
-    "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-shares-defence-stock-up-60-in-2026-soars-8-in-q2-rally-key-levels-to-watch-next-11793076941368.html"
+    "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-shares-defence-stock-up-60-in-2026-soars-8-in-q2-rally-key-levels-to-watch-next-11793076941368.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/certificate-no-rc9307-of-2026-notice-of-demand-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillion-finance-limited_105388.html",
+    "https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html",
+    "https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-last-chance-to-buy-for-rs-9-50-interim-dividend-record-date-dividend-yield-11793035793393.html",
+    "https://www.business-standard.com/markets/news/stock-markets-rebound-after-4-day-slump-sensex-jumps-483-points-126102601657_1.html",
+    "https://www.business-standard.com/markets/commodities/gold-prices-fall-492-ahead-of-us-fed-meeting-silver-slips-2-004-126102700383_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-26",
   "news_posted": {
     "date": "2026-10-27",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "Infosys guidance shock may hit stock despite numbers bounce",
     "Swiggy falls 16% to new low, Qcomm losses spook street",
     "Adani Power profit surges 142% on strong demand amid weak rains",
     "Reliance Jio Platforms IPO GMP, allotment date, listing date, time, overall subscription status; QIB, NII, Retail, RIL",
@@ -586,7 +585,8 @@
     "Q2 results 2026 today, schedule: L&T, Maruti Suzuki - 100 more firms to declare quarterly earnings; Oct 27 Tue list",
     "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
     "Paytm, Vodafone Idea, ITC Hotels, Sona BLW to Tata Consumer shares: Jefferies sees up to 41% upside | Target, rationale",
-    "Apollo Micro Systems shares: Defence stock up 60% in 2026, soars 8% in Q2 rally - Key levels to watch \u200bnext"
+    "Apollo Micro Systems shares: Defence stock up 60% in 2026, soars 8% in Q2 rally - Key levels to watch \u200bnext",
+    "Gold prices fall \u20b9492 ahead of US Fed meeting, silver slips \u20b92,004"
   ],
   "reels_posted": {
     "date": "2026-10-27",
@@ -629,13 +629,12 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793079425.5788403,
+    "fetched_at": 1793081343.7693691,
     "symbols": [
       "aequs",
       "apollo",
       "easemytrip",
       "empower",
-      "hdfcbse500",
       "idea",
       "jisljaleqs",
       "jppower",
@@ -649,6 +648,7 @@
       "rhetan",
       "suzlon",
       "tatagold",
+      "tatsilv",
       "ttml",
       "yesbank"
     ]
