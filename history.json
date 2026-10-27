@@ -1,14 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-jio-ipo-gets-blockbuster-response-but-stock-near-52-week-low-what-should-you-do-11792644127122.html",
-    "https://www.livemint.com/market/stock-market-news/it-mid-caps-vs-large-caps-tcs-infosys-wipro-vs-persistent-coforge-tata-tech-who-leads-the-q2-results-2026-race-11792600156200.html",
-    "https://www.livemint.com/market/stock-market-news/vodafone-idea-shares-up-20-in-6-months-will-q2-results-2026-fuel-this-rally-experts-views-target-price-stoploss-11792642677847.html",
-    "https://www.business-standard.com/markets/news/sundaram-mf-enters-sif-space-choice-mf-launches-first-active-equity-fund-126102101488_1.html",
-    "https://www.livemint.com/market/stock-market-news/freefall-emudhra-shares-crash-34-in-just-3-sessions-near-52-week-low-why-is-stock-plunging-what-market-experts-say-11792644922990.html",
-    "https://www.business-standard.com/markets/news/ncdex-ndex-finndex-equity-derivatives-market-launch-126102200427_1.html",
-    "https://www.livemint.com/market/stock-market-news/ultratech-cement-shares-down-11-in-a-year-incred-equities-says-recovery-ahead-check-target-upside-rationale-11792649432607.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/stock-crash-alert-emudhra-shares-plunge-37-in-just-two-sessions-whats-unfolding/articleshow/135112232.cms",
-    "https://www.livemint.com/market/mark-to-market/eternal-q2-results-blinkit-growth-dark-ai-launch-11792653186363.html",
     "https://www.business-standard.com/markets/news/silver-etfs-dip-nearly-3-as-rate-hike-fears-overshadow-safe-haven-appeal-126102200681_1.html",
     "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-commissions-new-unit-up-3200-in-5-years-strong-dividend-stock-split-history-do-you-own-11792659247664.html",
     "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-monarch-sees-20-upside-in-3-4-months-reveals-buy-range-targets-for-mukesh-ambani-stock-11792662864758.html",
@@ -499,15 +490,23 @@
     "https://www.business-standard.com/markets/ipo/anthropic-opens-books-on-ai-s-explosive-growth-and-staggering-costs-126102601298_1.html",
     "https://www.business-standard.com/markets/news/sips-multibaggers-and-financial-freedom-lessons-from-smart-investor-arena-126102601297_1.html",
     "https://www.business-standard.com/markets/news/govt-bond-yields-rise-to-four-year-high-as-crude-us-treasury-yields-weigh-126102601296_1.html",
-    "https://economictimes.indiatimes.com/markets/commodities/news/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive/articleshow/135222639.cms"
+    "https://economictimes.indiatimes.com/markets/commodities/news/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive/articleshow/135222639.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/mmt-reports-net-profit-of-1-8-million-in-q2-revenues-at-235-2-million/articleshow/135214497.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-maharashtra-q2-profit-jumps-41-5-as-bad-loans-decline/articleshow/135214440.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/the-rs-1-5-lakh-crore-mtf-problem-how-shrinking-leveraged-positions-are-deepening-indias-smallcap-sell-off/articleshow/135214401.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-5-jaw-dropping-numbers-investors-need-to-know-about-1-5-trillion-public-offer/articleshow/135214380.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/indias-outward-fdi-falls-14-to-4-34-billion-in-september-as-loans-guarantees-decline/articleshow/135222285.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-rising-costs-risks-rapid-growth-market-ai-frontrunner/articleshow/135213738.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-top-investors-include-amazon-google-fidelity-management/articleshow/135213715.cms",
+    "https://www.business-standard.com/markets/commodities/oil-eases-on-gulf-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-126102700075_1.html",
+    "https://www.livemint.com/market/indian-shares-seen-lower-as-oil-stays-near-six-month-high-fed-in-focus-11793068880920.html"
   ],
   "last_fii_dii_post_date": "2026-10-26",
   "news_posted": {
     "date": "2026-10-27",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Swiggy vs Eternal shares compared: Which is better stock to buy post Q2 results? Jefferies India explains | Target price",
     "Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%",
     "Rs 9,000 crore wiped out in a day: Why Swiggy investors are losing patience with Instamart",
     "Top 3 stocks to buy: Eternal, Apollo Hospitals, Maruti Suzuki by Sumeet Bagadia | Target price, stoploss, market outlook",
@@ -586,7 +585,8 @@
     "Brazil\u2019s Ibovespa plunges 17.3% as Lula defeats Bolsonaro in presidential runoff; biggest-ever one-day crash",
     "MRPL share price zooms 12% in muted market; among most active stocks on NSE",
     "Jio Platforms IPO allotment status finalised! Did you get shares - check from direct Kfin tech, NSE website links",
-    "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive"
+    "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
+    "Indian shares seen lower as oil stays near six-month high, Fed in focus"
   ],
   "reels_posted": {
     "date": "2026-10-27",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793066974.0468843,
+    "fetched_at": 1793070424.548168,
     "symbols": [
       "apollo",
       "bharatcoal",
