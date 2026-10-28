@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/only-15-of-midcap-stocks-above-50-dma-is-buying-the-dip-getting-riskier-jm-financial-spots-signs-of-leadership-shift/articleshow/135146815.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-selloff-wall-street-futures-telecom-stocks-spacex-meta-coreweave-earnings-treasury-bond-yield-news-23rd-october-2026/liveblog/135145607.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-falls-for-10th-week-in-record-slump/articleshow/135145225.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-adrs-crash-6-after-q2-results-as-revenue-guidance-cut-spooks-investors/articleshow/135145145.cms",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-becomes-first-public-issue-globally-to-cross-1-crore-applications-record-puts-spotlight-on-depth-of-indias-retail-investor-base/articleshow/135144742.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-midterm-elections-could-threaten-ai-trade-as-data-center-backlash-grows/articleshow/135144162.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/european-corporate-earnings-outlook-improves-as-energy-profits-surge/articleshow/135144116.cms",
@@ -499,15 +495,18 @@
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105466.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-motor-q2-results-profit-jumps-52-yoy-to-rs-1377-crore-revenue-rises-44/articleshow/135264582.cms",
     "https://www.business-standard.com/markets/interviews/knowledge-courage-patience-vijay-kedia-s-mantra-for-stock-market-success-126102801463_1.html",
-    "https://www.livemint.com/market/stock-market-news/jpl-share-price-jio-platforms-ipo-listing-gains-explained-how-much-profit-investors-made-on-debut-11793194946185.html"
+    "https://www.livemint.com/market/stock-market-news/jpl-share-price-jio-platforms-ipo-listing-gains-explained-how-much-profit-investors-made-on-debut-11793194946185.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-october-28-jio-platforms-hul-adani-enterprises-maruti-suzuki-l-t-126102800115_1.html",
+    "https://www.business-standard.com/markets/news/stocks-to-buy-today-bharti-airtel-mcx-laurus-labs-look-bullish-on-charts-chandan-taparia-126102800106_1.html",
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-signs-mou-with-boe-on-cooperation-and-exchange-of-information-related-to-sebi-recognised-clearing-corporations_105473.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "Crisil shareholders alerts!  \u20b917 per share dividend, record date announced in Q2 results; stock gained 7% in 2 weeks",
     "High dividend, low price: 4 stocks under  \u20b9200 with high yield - IOCL, PTC India, Central Bank, PTL Enterprises",
     "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
     "Upcoming IPO: MK Sons Fine Jewels\u2019  \u20b9275 cr opening next week \u2013 Company profile, key dates, share price band and more",
@@ -586,7 +585,8 @@
     "Maruti Suzuki\u2019s Q2 paradox: record volumes, shrinking margins",
     "From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day",
     "Knowledge, courage, patience: Vijay Kedia's mantra for stock market success",
-    "JPL share price: Jio Platforms IPO listing gains explained - How much profit investors made on debut"
+    "JPL share price: Jio Platforms IPO listing gains explained - How much profit investors made on debut",
+    "SEBI signs MoU with BoE on cooperation and exchange of information related to SEBI-recognised Clearing Corporations"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793195731.8779297,
+    "fetched_at": 1793199067.2265923,
     "symbols": [
       "empower",
       "gtlinfra",
