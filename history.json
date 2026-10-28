@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-reddys-q2-results-net-profit-falls-36-yoy-to-rs-913-crore-revenue-declines-marginally/articleshow/135147475.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/only-15-of-midcap-stocks-above-50-dma-is-buying-the-dip-getting-riskier-jm-financial-spots-signs-of-leadership-shift/articleshow/135146815.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-selloff-wall-street-futures-telecom-stocks-spacex-meta-coreweave-earnings-treasury-bond-yield-news-23rd-october-2026/liveblog/135145607.cms",
     "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-falls-for-10th-week-in-record-slump/articleshow/135145225.cms",
@@ -499,15 +498,15 @@
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/cancellation-of-recovery-certificate-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105460.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105466.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-motor-q2-results-profit-jumps-52-yoy-to-rs-1377-crore-revenue-rises-44/articleshow/135264582.cms",
-    "https://www.business-standard.com/markets/interviews/knowledge-courage-patience-vijay-kedia-s-mantra-for-stock-market-success-126102801463_1.html"
+    "https://www.business-standard.com/markets/interviews/knowledge-courage-patience-vijay-kedia-s-mantra-for-stock-market-success-126102801463_1.html",
+    "https://www.livemint.com/market/stock-market-news/jpl-share-price-jio-platforms-ipo-listing-gains-explained-how-much-profit-investors-made-on-debut-11793194946185.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "Reliance Jio IPO listing on Oct 28: Will Mukesh Ambani's firm be in top 5 m-cap? RIL to hold top spot",
     "Crisil shareholders alerts!  \u20b917 per share dividend, record date announced in Q2 results; stock gained 7% in 2 weeks",
     "High dividend, low price: 4 stocks under  \u20b9200 with high yield - IOCL, PTC India, Central Bank, PTL Enterprises",
     "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
@@ -586,7 +585,8 @@
     "US Fed meeting October 2026 today: Expectations, date and time, when & where to watch Kevin Warsh's speech",
     "Maruti Suzuki\u2019s Q2 paradox: record volumes, shrinking margins",
     "From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day",
-    "Knowledge, courage, patience: Vijay Kedia's mantra for stock market success"
+    "Knowledge, courage, patience: Vijay Kedia's mantra for stock market success",
+    "JPL share price: Jio Platforms IPO listing gains explained - How much profit investors made on debut"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793191581.2108173,
+    "fetched_at": 1793195731.8779297,
     "symbols": [
       "empower",
       "gtlinfra",
