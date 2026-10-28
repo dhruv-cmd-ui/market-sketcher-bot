@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-becomes-first-public-issue-globally-to-cross-1-crore-applications-record-puts-spotlight-on-depth-of-indias-retail-investor-base/articleshow/135144742.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-midterm-elections-could-threaten-ai-trade-as-data-center-backlash-grows/articleshow/135144162.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/european-corporate-earnings-outlook-improves-as-energy-profits-surge/articleshow/135144116.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-dividend-alert-it-major-announces-rs-26-per-share-dividend-check-record-date/articleshow/135143574.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q2-results-profit-rises-6-yoy-to-rs-7823-crore-co-lowers-revenue-guidance/articleshow/135143193.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q2-results-lender-posts-profit-of-rs-1176-crore-vs-rs-445-crore-loss-a-year-ago/articleshow/135142692.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-q2-results-automaker-swings-to-black-with-rs-1254-crore-profit-revenue-jumps-37-yoy/articleshow/135142700.cms",
@@ -499,15 +495,18 @@
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-october-28-jio-platforms-hul-adani-enterprises-maruti-suzuki-l-t-126102800115_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-buy-today-bharti-airtel-mcx-laurus-labs-look-bullish-on-charts-chandan-taparia-126102800106_1.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-signs-mou-with-boe-on-cooperation-and-exchange-of-information-related-to-sebi-recognised-clearing-corporations_105473.html"
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-signs-mou-with-boe-on-cooperation-and-exchange-of-information-related-to-sebi-recognised-clearing-corporations_105473.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms",
+    "https://www.business-standard.com/markets/ipo/ambani-looks-to-defy-market-headwinds-as-jio-makes-debut-after-record-ipo-126102800224_1.html",
+    "https://www.business-standard.com/markets/news/bse-lenskart-motilal-oswal-stock-ideas-across-large-mid-and-small-caps-126102800139_1.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
-    "High dividend, low price: 4 stocks under  \u20b9200 with high yield - IOCL, PTC India, Central Bank, PTL Enterprises",
     "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
     "Upcoming IPO: MK Sons Fine Jewels\u2019  \u20b9275 cr opening next week \u2013 Company profile, key dates, share price band and more",
     "Top 3 stocks to buy under  \u20b9100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss",
@@ -586,7 +585,8 @@
     "From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day",
     "Knowledge, courage, patience: Vijay Kedia's mantra for stock market success",
     "JPL share price: Jio Platforms IPO listing gains explained - How much profit investors made on debut",
-    "SEBI signs MoU with BoE on cooperation and exchange of information related to SEBI-recognised Clearing Corporations"
+    "SEBI signs MoU with BoE on cooperation and exchange of information related to SEBI-recognised Clearing Corporations",
+    "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793199067.2265923,
+    "fetched_at": 1793202449.3165414,
     "symbols": [
       "empower",
       "gtlinfra",
