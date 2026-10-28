@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/microcap-250-index-slips-2-aeroflex-rallis-bluestone-slide-up-to-8-126102300230_1.html",
-    "https://www.business-standard.com/markets/news/bonfiglioli-transmissions-shares-list-at-par-to-ipo-price-despite-46x-bids-126102300255_1.html",
-    "https://www.business-standard.com/markets/news/sahajanand-medical-shares-make-positive-debut-list-at-8-premium-126102300224_1.html",
     "https://www.business-standard.com/markets/commodities/silver-slips-below-2-lakh-amid-selling-pressure-gold-also-declines-126102300229_1.html",
     "https://www.business-standard.com/markets/news/havells-india-gain-nearly-2-after-q2-results-brokerages-split-on-outlook-126102300170_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-wiped-out-in-a-day-why-swiggy-investors-are-losing-patience-with-instamart/articleshow/135136399.cms",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-results-standalone-profit-falls-24-to-rs-1189-crore-but-revenue-gains-18-yoy/articleshow/135259321.cms",
     "https://www.livemint.com/market/stock-market-news/us-fed-meeting-october-2026-today-expectations-date-and-time-when-where-to-watch-kevin-warshs-speech-11793175022190.html",
     "https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-expectations-time-where-to-watch-kevin-warshs-speech-how-rate-decision-may-impact-gold-markets-11793157523493.html",
-    "https://www.livemint.com/market/mark-to-market/maruti-suzuki-s-q2-paradox-record-volumes-meet-dull-margin-11793179365333.html"
+    "https://www.livemint.com/market/mark-to-market/maruti-suzuki-s-q2-paradox-record-volumes-meet-dull-margin-11793179365333.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-avadhut-sathe-trading-academy-private-limited_105413.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/from-104-shareholders-to-nearly-80-lakh-jio-becomes-indias-most-widely-owned-stock-on-listing-day/articleshow/135262546.cms"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "Cables and wires stock turned multibagger with 318% return in 5 years; InCred sees 29% upside - Do you own? Target price",
     "Big action! Who is Avadhut Sathe? Why SEBI ordered Avadhut Sathe Trading Academy to refund  \u20b9546 cr - What he did?",
     "Reliance Jio IPO listing on Oct 28: Will Mukesh Ambani's firm be in top 5 m-cap? RIL to hold top spot",
     "Crisil shareholders alerts!  \u20b917 per share dividend, record date announced in Q2 results; stock gained 7% in 2 weeks",
@@ -586,7 +585,8 @@
     "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows",
     "Investor education must explain why beating benchmarks is tough: Experts",
     "US Fed meeting October 2026 today: Expectations, date and time, when & where to watch Kevin Warsh's speech",
-    "Maruti Suzuki\u2019s Q2 paradox: record volumes, shrinking margins"
+    "Maruti Suzuki\u2019s Q2 paradox: record volumes, shrinking margins",
+    "From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793184171.562341,
+    "fetched_at": 1793187635.6233878,
     "symbols": [
       "empower",
       "gtlinfra",
