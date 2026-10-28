@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/commodities/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-126102300065_1.html",
-    "https://www.business-standard.com/markets/news/stock-market-live-october-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-q2-results-today-126102300078_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-avadhut-sathe-trading-academy-private-limited_105413.html",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-it-stocks-soar-tcs-infosys-hcl-tech-wipro-nifty-it-up-over-3-today-jumps-22-from-july-low-11792729456440.html",
     "https://www.business-standard.com/markets/news/microcap-250-index-slips-2-aeroflex-rallis-bluestone-slide-up-to-8-126102300230_1.html",
@@ -499,15 +496,17 @@
     "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-regulatory-requirement-for-maintenance-of-call-records-of-institutional-clients-by-research-analysts-or-research-entities_105400.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
     "https://www.livemint.com/market/novogratz-says-credit-market-is-reaching-peak-nervousness-11793132883749.html",
-    "https://www.business-standard.com/specials/bs-events/investor-education-must-explain-why-beating-benchmarks-is-tough-experts-126102800751_1.html"
+    "https://www.business-standard.com/specials/bs-events/investor-education-must-explain-why-beating-benchmarks-is-tough-experts-126102800751_1.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-sumit-wadhwa-pan-aaopw8621r-pal-singh-pan-bdkps9758p-and-harleen-singh-pan-ankps5827l-defaulters-in-the-matter-of-unregistered-investment-adviser-under-certificate-no-786-_105411.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-results-standalone-profit-falls-24-to-rs-1189-crore-but-revenue-gains-18-yoy/articleshow/135259321.cms",
+    "https://www.livemint.com/market/stock-market-news/us-fed-meeting-october-2026-today-expectations-date-and-time-when-where-to-watch-kevin-warshs-speech-11793175022190.html"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
     "Reliance Jio Platforms IPO GMP, listing date and time, share price prediction for NSE, BSE debut - Details",
     "Cables and wires stock turned multibagger with 318% return in 5 years; InCred sees 29% upside - Do you own? Target price",
     "Big action! Who is Avadhut Sathe? Why SEBI ordered Avadhut Sathe Trading Academy to refund  \u20b9546 cr - What he did?",
@@ -586,7 +585,8 @@
     "Gold, silver prices slip ahead of US Fed decision, Israel election results",
     "Maruti Suzuki shares see target price cuts by Jefferies, Nomura, other brokerages after Q2 net profit drops 26% YoY. What\u2019s ahead?",
     "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows",
-    "Investor education must explain why beating benchmarks is tough: Experts"
+    "Investor education must explain why beating benchmarks is tough: Experts",
+    "US Fed meeting October 2026 today: Expectations, date and time, when & where to watch Kevin Warsh's speech"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793177315.0411441,
+    "fetched_at": 1793180682.5046663,
     "symbols": [
       "empower",
       "gtlinfra",
