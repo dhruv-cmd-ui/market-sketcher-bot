@@ -1,13 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/tonbo-imaging-shares-make-strong-debut-list-at-66-premium-over-ipo-price-126102300219_1.html",
-    "https://www.business-standard.com/markets/news/swiggy-slumps-10-to-new-low-as-q2-below-expectations-analysts-cut-targets-126102300185_1.html",
-    "https://www.livemint.com/market/stock-market-news/ipo-listings-share-price-today-tonbo-imaging-vs-zetwerk-vs-bonfiglioli-vs-sahajanand-who-won-debut-race-on-nse-bse-11792733810920.html",
-    "https://www.livemint.com/market/stock-market-news/why-are-mid-small-caps-bleeding-indices-crash-up-to-4-swiggy-meesho-vedanta-aluminium-mcx-lose-big-11792737065942.html",
-    "https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-eternal-apollo-hospital-shriram-finance-adani-enterprises-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135144888.cms",
-    "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-regulatory-requirement-for-maintenance-of-call-records-of-institutional-clients-by-research-analysts-or-research-entities_105400.html",
     "https://www.business-standard.com/markets/news/nifty-logs-third-longest-technical-correction-shallowest-in-its-history-126102300066_1.html",
     "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-sumit-wadhwa-pan-aaopw8621r-pal-singh-pan-bdkps9758p-and-harleen-singh-pan-ankps5827l-defaulters-in-the-matter-of-unregistered-investment-adviser-under-certificate-no-786-_105411.html",
@@ -499,15 +491,22 @@
     "https://www.business-standard.com/markets/news/infosys-draws-four-downgrades-in-a-day-on-weaker-annual-sales-outlook-126102701883_1.html",
     "https://www.business-standard.com/specials/bs-events/no-standardised-cas-template-worldwide-sebi-whole-time-member-k-v-r-murty-126102701754_1.html",
     "https://www.business-standard.com/markets/news/sensex-nifty-close-largely-unchanged-amid-selling-in-bank-it-stocks-elevated-crude-oil-prices-126102701164_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-see-target-price-cuts-by-jefferies-nomura-other-brokerages-after-q2-net-profit-drops-26-yoy-whats-ahead/articleshow/135254335.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-see-target-price-cuts-by-jefferies-nomura-other-brokerages-after-q2-net-profit-drops-26-yoy-whats-ahead/articleshow/135254335.cms",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-public-notice-to-rose-valley-depositors_105395.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-rally-6-after-q2-net-profit-jumps-33-yoy-why-jefferies-cut-target-price/articleshow/135252953.cms",
+    "https://www.livemint.com/market/stock-market-news/corporate-bond-market-liquidity-expands-across-us-and-europe-11793125772225.html",
+    "https://www.business-standard.com/specials/bs-events/crypto-investors-must-research-invest-only-what-they-can-lose-experts-126102701726_1.html",
+    "https://www.business-standard.com/specials/bs-events/know-your-risks-diversify-skip-tips-lessons-from-smart-investor-arena-126102701502_1.html",
+    "https://www.business-standard.com/specials/bs-events/derivatives-trading-may-need-more-guardrails-says-sebi-wtm-murty-126102701762_1.html",
+    "https://www.business-standard.com/specials/bs-events/sifs-offer-better-risk-adjusted-returns-rishi-kohli-jyotivardhan-jaipuria-126102701672_1.html",
+    "https://www.business-standard.com/markets/news/hdfc-bank-itc-hdfc-life-nestle-britannia-tamo-pv-hit-52-week-lows-126102800631_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "Govt of Singapore\u2019s India portfolio: 10 stocks rally up to 100% in FY27 so far",
     "Silver price has broken below  \u20b92 lakh for the first time since December 2025: Is this the right time to buy for returns?",
     "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
     "Reliance Jio Platforms IPO GMP, listing date and time, share price prediction for NSE, BSE debut - Details",
@@ -586,7 +585,8 @@
     "Jio IPO listing today LIVE updates: Mukesh Ambani-led Reliance company NSE, BSE debut at 10 am | Will there be profit?",
     "Jio Platforms lists at 21% premium, becomes India's 2nd-most valuable firm",
     "Gold, silver prices slip ahead of US Fed decision, Israel election results",
-    "Maruti Suzuki shares see target price cuts by Jefferies, Nomura, other brokerages after Q2 net profit drops 26% YoY. What\u2019s ahead?"
+    "Maruti Suzuki shares see target price cuts by Jefferies, Nomura, other brokerages after Q2 net profit drops 26% YoY. What\u2019s ahead?",
+    "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793169915.3117979,
+    "fetched_at": 1793174122.455317,
     "symbols": [
       "empower",
       "fcl",
@@ -646,11 +646,11 @@
       "pcjeweller",
       "pplpharma",
       "rpower",
-      "sagility",
       "suzlon",
       "tatagold",
       "visl",
-      "yesbank"
+      "yesbank",
+      "zeel"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
