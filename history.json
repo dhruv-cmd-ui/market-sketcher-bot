@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/ipo/ipo-gmp-comparison-reliance-jio-platforms-ipo-vs-paras-healthcare-last-day-to-apply-today-listing-price-prediction-11792723513212.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/emudhra-shares-crash-another-4-down-40-in-3-sessions-whats-behind-this-free-fall/articleshow/135134086.cms",
     "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html",
     "https://www.livemint.com/market/stock-market-news/bpcl-hpcl-to-iocl-omc-stocks-dip-up-to-2-as-brent-crude-price-touches-114-per-barrel-what-should-investors-do-11792728952014.html",
     "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-crash-11-after-q2-result-2026-whats-next-for-the-stock-expert-view-11792664691866.html",
@@ -499,15 +497,16 @@
     "https://www.livemint.com/market/stock-market-news/how-israel-elections-2026-results-will-impact-tel-aviv-stock-exchange-tase-the-bursa-impact-decoded-11793108578963.html",
     "https://www.livemint.com/market/ipo/jio-ipo-listing-today-live-updates-mukesh-ambani-led-reliance-company-nse-bse-debut-at-10-am-will-there-be-profit-11793157066670.html",
     "https://www.livemint.com/market/stock-market-news/onesource-specialty-pharma-shares-jump-14-after-q2-results-recover-50-from-recent-lows-11793115107385.html",
-    "https://www.business-standard.com/markets/news/jio-platforms-share-price-listing-21-premium-becomes-india-s-2nd-most-valuable-firm-126102800274_1.html"
+    "https://www.business-standard.com/markets/news/jio-platforms-share-price-listing-21-premium-becomes-india-s-2nd-most-valuable-firm-126102800274_1.html",
+    "https://www.business-standard.com/industry/aviation/spicejet-s-domestic-market-share-falls-below-star-air-for-the-first-time-126102701761_1.html",
+    "https://www.business-standard.com/markets/commodities/gold-silver-prices-slip-ahead-of-us-fed-decision-israel-election-results-126102800383_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
     "Godrej Properties Q2 profit plunges 62% to  \u20b9154 crore, real estate stock down 6.5% in 1 week - What next for investors",
     "Govt of Singapore\u2019s India portfolio: 10 stocks rally up to 100% in FY27 so far",
     "Silver price has broken below  \u20b92 lakh for the first time since December 2025: Is this the right time to buy for returns?",
@@ -586,7 +585,8 @@
     "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets",
     "Stock Market LIVE: GIFT Nifty tanks 150 points as oil tops $115; Jio Platforms listing in focus",
     "Jio IPO listing today LIVE updates: Mukesh Ambani-led Reliance company NSE, BSE debut at 10 am | Will there be profit?",
-    "Jio Platforms lists at 21% premium, becomes India's 2nd-most valuable firm"
+    "Jio Platforms lists at 21% premium, becomes India's 2nd-most valuable firm",
+    "Gold, silver prices slip ahead of US Fed decision, Israel election results"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,11 +629,12 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793162504.298555,
+    "fetched_at": 1793165969.9981928,
     "symbols": [
       "birlatotal",
       "empower",
       "fcl",
+      "gtlinfra",
       "hdfcbank",
       "idea",
       "jpl",
@@ -647,9 +648,8 @@
       "pplpharma",
       "rpower",
       "suzlon",
-      "ttml",
+      "tatagold",
       "visl",
-      "wipro",
       "yesbank"
     ]
   },
