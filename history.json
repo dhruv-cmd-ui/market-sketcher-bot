@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/bonfiglioli-transmissions-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131771.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sahajanand-medical-technologies-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131726.cms",
-    "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-8-590-per-kilo-to-7-month-low-gold-hits-2-month-low-what-s-driving-the-selloff-in-precious-metals-11792676479559.html",
-    "https://www.business-standard.com/markets/news/oil-price-surge-keeps-nifty-in-red-sensex-sheds-460-points-on-thursday-126102201522_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-emudhra-infosys-swiggy-hpcl-havells-sun-pharma-jsl-126102300089_1.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/articleshow/135121938.cms",
     "https://www.livemint.com/market/ipo/ipo-gmp-comparison-reliance-jio-platforms-ipo-vs-paras-healthcare-last-day-to-apply-today-listing-price-prediction-11792723513212.html",
@@ -499,15 +494,19 @@
     "https://economictimes.indiatimes.com/markets/bonds/global-bond-issuance-set-to-grow-at-slowest-pace-in-five-years-in-2027-sp-global-ratings-says/articleshow/135237268.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/jetblue-shares-surge-12-as-airline-seeks-to-calm-financial-concerns/articleshow/135237199.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-jio-platforms-ril-hul-adani-enterprises-shares-in-focus-on-wed-28-oct-full-list-11793152271100.html",
-    "https://www.business-standard.com/markets/news/stock-market-live-oct-28-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-iran-strikes-brent-crude-ipos-jio-listing-jio-share-price-it-stocks-maruti-share-price-q1-result-today-share-market-today-126102800114_1.html"
+    "https://www.business-standard.com/markets/news/stock-market-live-oct-28-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-iran-strikes-brent-crude-ipos-jio-listing-jio-share-price-it-stocks-maruti-share-price-q1-result-today-share-market-today-126102800114_1.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/us-fed-opens-two-day-meeting-with-markets-expecting-rate-hold/articleshow/135238252.cms",
+    "https://www.livemint.com/market/stock-market-news/how-israel-elections-2026-results-will-impact-tel-aviv-stock-exchange-tase-the-bursa-impact-decoded-11793108578963.html",
+    "https://www.livemint.com/market/ipo/jio-ipo-listing-today-live-updates-mukesh-ambani-led-reliance-company-nse-bse-debut-at-10-am-will-there-be-profit-11793157066670.html"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Sebi reviews short selling, SLB rules; plans AI sandbox, bond market-making",
     "Power stock to buy: Despite almost 20% fall in 1 month, Deven Choksey Research sees 72% returns ahead - Do you own?",
     "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
     "Godrej Properties Q2 profit plunges 62% to  \u20b9154 crore, real estate stock down 6.5% in 1 week - What next for investors",
@@ -586,7 +585,8 @@
     "Allied Blenders Q2 Results: Profit rises 9.7% to Rs 69 crore, revenue up 6.8%",
     "Stocks in news: Jio Platforms, RIL, Infosys, L&T, Tata Capital, Waaree Energies and Vedanta Iron",
     "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets",
-    "Stock Market LIVE: GIFT Nifty tanks 150 points as oil tops $115; Jio Platforms listing in focus"
+    "Stock Market LIVE: GIFT Nifty tanks 150 points as oil tops $115; Jio Platforms listing in focus",
+    "Jio IPO listing today LIVE updates: Mukesh Ambani-led Reliance company NSE, BSE debut at 10 am | Will there be profit?"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793155393.2419481,
+    "fetched_at": 1793158854.1047204,
     "symbols": [
-      "aequs",
-      "apollo",
-      "easemytrip",
-      "empower",
-      "hdfcbank",
+      "birlatotal",
+      "fmcgietf",
+      "growwpower",
+      "hdfcbse500",
+      "hdfcsml250",
       "idea",
-      "jisljaleqs",
-      "jppower",
-      "mahabank",
-      "moneyview",
-      "motisons",
-      "olaelec",
-      "paracables",
+      "itbees",
+      "liquidbees",
+      "liquidcase",
+      "metal",
+      "metalietf",
+      "midcapetf",
+      "modefence",
+      "momentum30",
+      "mosmall250",
+      "niftybees",
       "pcjeweller",
-      "suzlon",
-      "tatagold",
-      "tatsilv",
-      "ttml",
-      "yesbank",
-      "zetwerk"
+      "pharmabees",
+      "smallcap",
+      "sml100case"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
