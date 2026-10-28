@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/stocks-to-watch-emudhra-infosys-swiggy-hpcl-havells-sun-pharma-jsl-126102300089_1.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/articleshow/135121938.cms",
     "https://www.livemint.com/market/ipo/ipo-gmp-comparison-reliance-jio-platforms-ipo-vs-paras-healthcare-last-day-to-apply-today-listing-price-prediction-11792723513212.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/emudhra-shares-crash-another-4-down-40-in-3-sessions-whats-behind-this-free-fall/articleshow/135134086.cms",
     "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html",
@@ -499,15 +497,16 @@
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/us-fed-opens-two-day-meeting-with-markets-expecting-rate-hold/articleshow/135238252.cms",
     "https://www.livemint.com/market/stock-market-news/how-israel-elections-2026-results-will-impact-tel-aviv-stock-exchange-tase-the-bursa-impact-decoded-11793108578963.html",
-    "https://www.livemint.com/market/ipo/jio-ipo-listing-today-live-updates-mukesh-ambani-led-reliance-company-nse-bse-debut-at-10-am-will-there-be-profit-11793157066670.html"
+    "https://www.livemint.com/market/ipo/jio-ipo-listing-today-live-updates-mukesh-ambani-led-reliance-company-nse-bse-debut-at-10-am-will-there-be-profit-11793157066670.html",
+    "https://www.livemint.com/market/stock-market-news/onesource-specialty-pharma-shares-jump-14-after-q2-results-recover-50-from-recent-lows-11793115107385.html",
+    "https://www.business-standard.com/markets/news/jio-platforms-share-price-listing-21-premium-becomes-india-s-2nd-most-valuable-firm-126102800274_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Power stock to buy: Despite almost 20% fall in 1 month, Deven Choksey Research sees 72% returns ahead - Do you own?",
     "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
     "Godrej Properties Q2 profit plunges 62% to  \u20b9154 crore, real estate stock down 6.5% in 1 week - What next for investors",
     "Govt of Singapore\u2019s India portfolio: 10 stocks rally up to 100% in FY27 so far",
@@ -586,7 +585,8 @@
     "Stocks in news: Jio Platforms, RIL, Infosys, L&T, Tata Capital, Waaree Energies and Vedanta Iron",
     "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets",
     "Stock Market LIVE: GIFT Nifty tanks 150 points as oil tops $115; Jio Platforms listing in focus",
-    "Jio IPO listing today LIVE updates: Mukesh Ambani-led Reliance company NSE, BSE debut at 10 am | Will there be profit?"
+    "Jio IPO listing today LIVE updates: Mukesh Ambani-led Reliance company NSE, BSE debut at 10 am | Will there be profit?",
+    "Jio Platforms lists at 21% premium, becomes India's 2nd-most valuable firm"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793158854.1047204,
+    "fetched_at": 1793162504.298555,
     "symbols": [
       "birlatotal",
-      "fmcgietf",
-      "growwpower",
-      "hdfcbse500",
-      "hdfcsml250",
+      "empower",
+      "fcl",
+      "hdfcbank",
       "idea",
-      "itbees",
-      "liquidbees",
-      "liquidcase",
-      "metal",
-      "metalietf",
-      "midcapetf",
-      "modefence",
-      "momentum30",
-      "mosmall250",
-      "niftybees",
+      "jpl",
+      "jppower",
+      "jyotistruc",
+      "moneyview",
+      "motisons",
+      "mrpl",
+      "olaelec",
       "pcjeweller",
-      "pharmabees",
-      "smallcap",
-      "sml100case"
+      "pplpharma",
+      "rpower",
+      "suzlon",
+      "ttml",
+      "visl",
+      "wipro",
+      "yesbank"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
