@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q2-results-profit-rises-6-yoy-to-rs-7823-crore-co-lowers-revenue-guidance/articleshow/135143193.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q2-results-lender-posts-profit-of-rs-1176-crore-vs-rs-445-crore-loss-a-year-ago/articleshow/135142692.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-q2-results-automaker-swings-to-black-with-rs-1254-crore-profit-revenue-jumps-37-yoy/articleshow/135142700.cms",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q2-results-net-profit-rockets-225-yoy-to-rs-5279-crore-revenue-rises-21/articleshow/135141641.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-lower-as-kering-slumps-oil-prices-rise/articleshow/135141363.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-french-bond-selloff-raises-debt-concerns-across-europe-amid-social-unrest/articleshow/135141236.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/from-mercury-to-gold-this-san-francisco-startup-claims-it-can-produce-yellow-metal-at-will/articleshow/135140759.cms",
@@ -499,15 +493,20 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms",
     "https://www.business-standard.com/markets/ipo/ambani-looks-to-defy-market-headwinds-as-jio-makes-debut-after-record-ipo-126102800224_1.html",
     "https://www.business-standard.com/markets/news/bse-lenskart-motilal-oswal-stock-ideas-across-large-mid-and-small-caps-126102800139_1.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms",
+    "https://www.business-standard.com/markets/news/l-t-surges-6-sees-sharpest-intraday-rally-in-6-months-on-strong-q2-show-126102800267_1.html",
+    "https://www.business-standard.com/markets/news/nifty-f-o-rollovers-flag-neutral-bias-it-telecom-positive-analysts-126102800283_1.html",
+    "https://www.business-standard.com/markets/commodities/jewellers-hold-back-gold-purchases-betting-on-further-price-drops-126102800260_1.html",
+    "https://www.business-standard.com/markets/news/maruti-suzuki-share-price-dips-marginally-post-q2-amid-cost-pressures-analysts-remain-bullish-126102800247_1.html",
+    "https://www.business-standard.com/markets/news/carlsberg-india-files-updated-ipo-prospectus-for-86-42-million-shares-126102800133_1.html",
+    "https://www.livemint.com/market/potential-multibagger-vodafone-idea-shares-are-up-25-in-1-year-jefferies-sees-143-surge-in-bull-case-check-target-11793178437047.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 16
+    "count": 17
   },
   "recent_titles": [
-    "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
     "Upcoming IPO: MK Sons Fine Jewels\u2019  \u20b9275 cr opening next week \u2013 Company profile, key dates, share price band and more",
     "Top 3 stocks to buy under  \u20b9100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss",
     "413% returns in 1 year: Gold jewellery stock offers bonus shares - Do you own? Check Ratio, record date",
@@ -586,7 +585,8 @@
     "Knowledge, courage, patience: Vijay Kedia's mantra for stock market success",
     "JPL share price: Jio Platforms IPO listing gains explained - How much profit investors made on debut",
     "SEBI signs MoU with BoE on cooperation and exchange of information related to SEBI-recognised Clearing Corporations",
-    "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget"
+    "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget",
+    "Potential Multibagger? Vodafone Idea shares are up 25% in 1 year, Jefferies sees 143% surge in bull case - Check target"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793202449.3165414,
+    "fetched_at": 1793206022.50562,
     "symbols": [
       "empower",
       "gtlinfra",
