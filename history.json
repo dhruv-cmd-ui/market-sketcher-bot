@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/nifty-logs-third-longest-technical-correction-shallowest-in-its-history-126102300066_1.html",
-    "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-sumit-wadhwa-pan-aaopw8621r-pal-singh-pan-bdkps9758p-and-harleen-singh-pan-ankps5827l-defaulters-in-the-matter-of-unregistered-investment-adviser-under-certificate-no-786-_105411.html",
-    "https://www.business-standard.com/markets/news/asian-shares-slip-as-tech-rout-boosts-bonds-dents-rate-hike-bets-126102300074_1.html",
     "https://www.business-standard.com/markets/commodities/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-126102300065_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-october-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-q2-results-today-126102300078_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms",
@@ -499,15 +495,18 @@
     "https://www.business-standard.com/specials/bs-events/know-your-risks-diversify-skip-tips-lessons-from-smart-investor-arena-126102701502_1.html",
     "https://www.business-standard.com/specials/bs-events/derivatives-trading-may-need-more-guardrails-says-sebi-wtm-murty-126102701762_1.html",
     "https://www.business-standard.com/specials/bs-events/sifs-offer-better-risk-adjusted-returns-rishi-kohli-jyotivardhan-jaipuria-126102701672_1.html",
-    "https://www.business-standard.com/markets/news/hdfc-bank-itc-hdfc-life-nestle-britannia-tamo-pv-hit-52-week-lows-126102800631_1.html"
+    "https://www.business-standard.com/markets/news/hdfc-bank-itc-hdfc-life-nestle-britannia-tamo-pv-hit-52-week-lows-126102800631_1.html",
+    "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-regulatory-requirement-for-maintenance-of-call-records-of-institutional-clients-by-research-analysts-or-research-entities_105400.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
+    "https://www.livemint.com/market/novogratz-says-credit-market-is-reaching-peak-nervousness-11793132883749.html",
+    "https://www.business-standard.com/specials/bs-events/investor-education-must-explain-why-beating-benchmarks-is-tough-experts-126102800751_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "Silver price has broken below  \u20b92 lakh for the first time since December 2025: Is this the right time to buy for returns?",
     "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
     "Reliance Jio Platforms IPO GMP, listing date and time, share price prediction for NSE, BSE debut - Details",
     "Cables and wires stock turned multibagger with 318% return in 5 years; InCred sees 29% upside - Do you own? Target price",
@@ -586,7 +585,8 @@
     "Jio Platforms lists at 21% premium, becomes India's 2nd-most valuable firm",
     "Gold, silver prices slip ahead of US Fed decision, Israel election results",
     "Maruti Suzuki shares see target price cuts by Jefferies, Nomura, other brokerages after Q2 net profit drops 26% YoY. What\u2019s ahead?",
-    "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows"
+    "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows",
+    "Investor education must explain why beating benchmarks is tough: Experts"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,10 +629,9 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793174122.455317,
+    "fetched_at": 1793177315.0411441,
     "symbols": [
       "empower",
-      "fcl",
       "gtlinfra",
       "hdfcbank",
       "idea",
@@ -647,6 +646,7 @@
       "pplpharma",
       "rpower",
       "suzlon",
+      "syngene",
       "tatagold",
       "visl",
       "yesbank",
