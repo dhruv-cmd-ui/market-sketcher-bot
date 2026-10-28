@@ -1,13 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/sebi-allows-margin-relief-on-subsequent-trades-against-early-pay-in-126102201148_1.html",
-    "https://www.livemint.com/market/bitcoin-falls-below-83-000-as-ai-jitters-weigh-on-sentiment-11792719088220.html",
-    "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-launches-ndex-and-finndex-to-expand-into-equity-benchmarks/articleshow/135121233.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/creditaccess-grameen-q2-profit-jumps-fourfold-to-rs-502-crore/articleshow/135121186.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tesla-shares-slip-after-capex-cut-raises-doubts-over-musks-ai-and-robotics-push/articleshow/135121152.cms",
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/kolkata-home-registrations-dip-12-per-cent-in-jan-sep-larger-flats-gain-share/articleshow/135121131.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/hatsun-agro-product-q2-results-profit-rises-5-6-on-strong-sales/articleshow/135121117.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-deposit-rates-by-15-basis-points/articleshow/135131215.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-jitters-return-oil-rises/articleshow/135120582.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html",
@@ -499,15 +491,22 @@
     "https://www.business-standard.com/markets/news/us-aims-to-cool-oil-prices-ahead-of-midterm-dips-likely-to-be-short-lived-126102700505_1.html",
     "https://www.business-standard.com/markets/news/hindustan-unilever-slips-3-hits-over-6-year-low-ahead-of-q2-results-126102700471_1.html",
     "https://www.business-standard.com/markets/news/sona-blw-precision-share-price-zooms-9-stock-hits-new-high-on-record-q2-earnings-126102700463_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-platforms-ril-infosys-lt-tata-capital-waaree-energies-and-vedanta-iron/articleshow/135245790.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-platforms-ril-infosys-lt-tata-capital-waaree-energies-and-vedanta-iron/articleshow/135245790.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-pulls-back-ahead-of-fed-decision/articleshow/135236366.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/135236374.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-infrastructure-q2-results-net-profit-falls-11-to-rs-328-crore/articleshow/135236084.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-deadline-for-debenture-trustees-to-comply-with-norms-till-april-2027/articleshow/135235986.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/coca-cola-raises-profit-forecast-as-premium-drinks-sodas-hold-strong/articleshow/135235940.cms",
+    "https://www.livemint.com/market/ipo/jio-platforms-ipo-listing-today-check-exact-time-of-shares-trading-expected-debut-stock-price-at-nse-bse-11793147869799.html",
+    "https://www.business-standard.com/markets/news/sebi-may-consider-more-guardrails-for-derivatives-trading-says-murty-126102701292_1.html",
+    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-for-28-oct-sensex-nifty-prediction-jio-platforms-ipo-listing-gift-nifty-us-and-asian-markets-11793149578444.html"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore;  NII up 16%",
     "Dividend, split, rights issue, buyback next week: Hexaware Tech, Cyient, RailTel to Sagility - Check record dates",
     "Sebi reviews short selling, SLB rules; plans AI sandbox, bond market-making",
     "Power stock to buy: Despite almost 20% fall in 1 month, Deven Choksey Research sees 72% returns ahead - Do you own?",
@@ -586,7 +585,8 @@
     "Jio IPO listing gains calculator: How much profit can you expect from one Small NII and Big NII lot after allotment?",
     "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
     "Allied Blenders Q2 Results: Profit rises 9.7% to Rs 69 crore, revenue up 6.8%",
-    "Stocks in news: Jio Platforms, RIL, Infosys, L&T, Tata Capital, Waaree Energies and Vedanta Iron"
+    "Stocks in news: Jio Platforms, RIL, Infosys, L&T, Tata Capital, Waaree Energies and Vedanta Iron",
+    "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793148353.5161161,
+    "fetched_at": 1793152368.3938053,
     "symbols": [
       "aequs",
       "apollo",
