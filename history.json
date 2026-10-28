@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/commodities/silver-slips-below-2-lakh-amid-selling-pressure-gold-also-declines-126102300229_1.html",
-    "https://www.business-standard.com/markets/news/havells-india-gain-nearly-2-after-q2-results-brokerages-split-on-outlook-126102300170_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-wiped-out-in-a-day-why-swiggy-investors-are-losing-patience-with-instamart/articleshow/135136399.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-cards-q2-profit-jumps-75-yoy-to-rs-778-crore-as-bad-loan-costs-fall-sharply/articleshow/135147815.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-falling-dow-jones-crashes-over-700-points-as-ai-selloff-spacex-fears-hit-markets/articleshow/135147604.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-among-4-sensex-stocks-to-hit-52-week-lows-shares-fall-up-to-9-in-a-month/slideshow/135147674.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-reddys-q2-results-net-profit-falls-36-yoy-to-rs-913-crore-revenue-declines-marginally/articleshow/135147475.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/only-15-of-midcap-stocks-above-50-dma-is-buying-the-dip-getting-riskier-jm-financial-spots-signs-of-leadership-shift/articleshow/135146815.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-selloff-wall-street-futures-telecom-stocks-spacex-meta-coreweave-earnings-treasury-bond-yield-news-23rd-october-2026/liveblog/135145607.cms",
@@ -499,15 +493,20 @@
     "https://www.livemint.com/market/mark-to-market/maruti-suzuki-s-q2-paradox-record-volumes-meet-dull-margin-11793179365333.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-avadhut-sathe-trading-academy-private-limited_105413.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/from-104-shareholders-to-nearly-80-lakh-jio-becomes-indias-most-widely-owned-stock-on-listing-day/articleshow/135262546.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/from-104-shareholders-to-nearly-80-lakh-jio-becomes-indias-most-widely-owned-stock-on-listing-day/articleshow/135262546.cms",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-role-of-axis-capital-limited-in-providing-guarantee-to-the-ncds-of-sojo-infotel-pvt-ltd-_105464.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8456-of-2024-against-against-dollar-advisory-and-financial-service-in-the-matter-of-dollar-advisory-and-financial-services-pro-_105462.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/cancellation-of-recovery-certificate-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105460.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105466.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-motor-q2-results-profit-jumps-52-yoy-to-rs-1377-crore-revenue-rises-44/articleshow/135264582.cms",
+    "https://www.business-standard.com/markets/interviews/knowledge-courage-patience-vijay-kedia-s-mantra-for-stock-market-success-126102801463_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-27",
   "news_posted": {
     "date": "2026-10-28",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Big action! Who is Avadhut Sathe? Why SEBI ordered Avadhut Sathe Trading Academy to refund  \u20b9546 cr - What he did?",
     "Reliance Jio IPO listing on Oct 28: Will Mukesh Ambani's firm be in top 5 m-cap? RIL to hold top spot",
     "Crisil shareholders alerts!  \u20b917 per share dividend, record date announced in Q2 results; stock gained 7% in 2 weeks",
     "High dividend, low price: 4 stocks under  \u20b9200 with high yield - IOCL, PTC India, Central Bank, PTL Enterprises",
@@ -586,7 +585,8 @@
     "Investor education must explain why beating benchmarks is tough: Experts",
     "US Fed meeting October 2026 today: Expectations, date and time, when & where to watch Kevin Warsh's speech",
     "Maruti Suzuki\u2019s Q2 paradox: record volumes, shrinking margins",
-    "From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day"
+    "From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day",
+    "Knowledge, courage, patience: Vijay Kedia's mantra for stock market success"
   ],
   "reels_posted": {
     "date": "2026-10-28",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793187635.6233878,
+    "fetched_at": 1793191581.2108173,
     "symbols": [
       "empower",
       "gtlinfra",
