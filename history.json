@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/tumultuous-week-midcaps-and-smallcaps-suffer-worst-losses-in-20-months-126102301443_1.html",
-    "https://www.business-standard.com/markets/news/stalled-housing-project-running-emis-what-are-homebuyers-legal-options-126102301659_1.html",
-    "https://www.livemint.com/market/stock-market-news/goldman-sachs-ola-electric-downgrade-why-stock-rating-changed-to-sell-23-downside-seen-new-target-price-rationale-11792817294346.html",
-    "https://www.business-standard.com/markets/news/sebi-eases-call-recording-mandate-for-research-analysts-dealing-with-funds-126102301112_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms",
     "https://economictimes.indiatimes.com/markets/commodities/news/silver-hits-11-month-low-of-1-95-lakh-as-crude-stokes-inflation-fears/articleshow/135161699.cms",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/ola-electric-stock-jumps-11-in-week-rights-issue-fully-subscribed-ahead-of-closing-date-check-key-details-11793204693665.html",
     "https://www.livemint.com/market/stock-market-news/crompton-greaves-shares-rebound-4-after-recent-losses-can-the-beaten-down-stock-sustain-its-recovery-11793200606334.html",
     "https://www.business-standard.com/markets/news/jio-platforms-shares-extend-listing-day-gains-jump-5-m-cap-at-13-70-trn-126102900257_1.html",
-    "https://www.business-standard.com/markets/news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-126102900097_1.html"
+    "https://www.business-standard.com/markets/news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-126102900097_1.html",
+    "https://www.livemint.com/market/stock-market-news/big-adani-stocks-q2-comparison-adani-ports-vs-adani-power-vs-adani-green-energy-shares-who-delivered-beyond-estimates-11793206502960.html",
+    "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-2026-lower-taxes-may-bring-back-foreign-investors-126102801611_1.html",
+    "https://www.business-standard.com/specials/bs-events/bfsi-summit-2026-digital-access-could-widen-mf-investor-base-to-200-mn-126102801695_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-livestock-price-today-live-updates-29-oct-2026/liveblog/135287716.cms"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-29",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "Reliance-backed Jio Platforms IPO: GMP hints 22% listing gains; all eyes on allotment; status check online guide by PAN",
     "Suzlon Energy shares crash 39% from 52-week high \u2014 can Q2 results 2026 bring a bounce back? Experts' views, target, SL",
     "Jio IPO GMP today: All eyes on telecom major\u2019s mega listing this week. What is grey market premium signalling?",
     "Stable fees, volatile earnings: What investors should know about EAAA IPO",
@@ -586,7 +585,8 @@
     "Are these low-P/E bluechip stocks really a bargain?",
     "Jio Platforms shares: After 27% jump on IPO listing day, will Reliance group stock rise more today?",
     "Indian shares set for positive start after Fed holds rates steady; elevated oil weighs",
-    "Asian shares fall as Alphabet earnings miss drags Wall St futures lower"
+    "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
+    "Kotak Bank Share Price Live Updates: Kotak Bank Sets New 52-Week Record"
   ],
   "reels_posted": {
     "date": "2026-10-29",
@@ -629,26 +629,26 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793249038.4318416,
+    "fetched_at": 1793252488.6355503,
     "symbols": [
       "aeroflex",
       "bandhanbnk",
       "bsoft",
       "gtlinfra",
-      "heromotors",
       "idea",
       "jpl",
       "jppower",
       "jwl",
+      "jyotistruc",
+      "kotakbank",
       "moneyview",
-      "motisons",
       "olaelec",
       "pcjeweller",
       "pplpharma",
       "rpower",
+      "sakuma",
       "stlnetwork",
       "suzlon",
-      "tatacap",
       "unitech",
       "yesbank"
     ]
