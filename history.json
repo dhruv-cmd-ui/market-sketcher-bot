@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-rising-inflation-risks-from-west-asia-conflict-el-nino-despite-resilient-indian-economy/articleshow/135160910.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
     "https://www.livemint.com/market/jio-platforms-ipo-draws-record-10-million-applications-amid-strong-investor-demand-11792763307947.html",
     "https://www.livemint.com/market/stock-market-news/chennai-petroleum-vs-mrpl-which-psu-refinery-stock-wins-on-q2-profit-revenue-dividends-experts-weigh-in-on-outlook-11792771887198.html",
     "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-allotment-date-listing-date-time-overall-subscription-status-qib-nii-retail-ril-11792812938496.html",
@@ -499,15 +494,19 @@
     "https://www.livemint.com/market/stock-market-news/indiamart-management-expects-profitable-growth-despite-macro-headwinds-ai-could-drive-the-next-phase-11793190981255.html",
     "https://www.business-standard.com/markets/news/jio-platforms-ipo-surge-ends-tata-s-reign-as-india-s-most-valuable-group-126102801600_1.html",
     "https://www.business-standard.com/markets/news/india-not-yet-a-consensus-buy-amid-oil-tech-disruptions-global-brokerages-126102801498_1.html",
-    "https://www.livemint.com/market/stock-market-news/are-these-low-p-e-bluechip-stocks-really-a-bargain-11793187178454.html"
+    "https://www.livemint.com/market/stock-market-news/are-these-low-p-e-bluechip-stocks-really-a-bargain-11793187178454.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-fpi-compliance-norms-issue-consultation-paper-to-align-with-global-standards/articleshow/135269023.cms",
+    "https://www.livemint.com/market/stock-market-news/3400-rally-in-5-years-can-this-defence-multibagger-stock-extend-gains-after-q2-results-here-s-what-systematix-says-11793197827663.html",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-october-29-jio-platforms-meesho-hero-motocorp-pnb-housing-ola-126102900092_1.html",
+    "https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html",
+    "https://www.livemint.com/market/stock-market-news/jio-platforms-shares-after-27-jump-on-ipo-listing-day-will-reliance-group-stock-rise-more-today-11793239306452.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-29",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "413% returns in 1 year: Gold jewellery stock offers bonus shares - Do you own? Check Ratio, record date",
     "Demand-supply mismatch to drive revenue growth gains for Indian Hotels",
     "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street\u2019s fate next week",
     "Reliance-backed Jio Platforms IPO: GMP hints 22% listing gains; all eyes on allotment; status check online guide by PAN",
@@ -586,7 +585,8 @@
     "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget",
     "Potential Multibagger? Vodafone Idea shares are up 25% in 1 year, Jefferies sees 143% surge in bull case - Check target",
     "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
-    "Are these low-P/E bluechip stocks really a bargain?"
+    "Are these low-P/E bluechip stocks really a bargain?",
+    "Jio Platforms shares: After 27% jump on IPO listing day, will Reliance group stock rise more today?"
   ],
   "reels_posted": {
     "date": "2026-10-29",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793238832.775882,
+    "fetched_at": 1793241891.4082718,
     "symbols": [
       "empower",
       "gtlinfra",
