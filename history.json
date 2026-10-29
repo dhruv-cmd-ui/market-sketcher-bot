@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/drl-says-cap-on-trade-margins-a-positive-posts-36-dip-in-q2-pat/articleshow/135161325.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-posts-three-fold-jump-in-profit-lines-up-capacity-expansion/articleshow/135161181.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/135161184.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-consumer-sentiment-near-record-low-ahead-of-midterm-elections/articleshow/135161172.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-earnings-flood-fed-meeting-will-test-rickety-ai-market-rally/articleshow/135161141.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/indians-remit-2-7-billion-overseas-in-august-led-by-travel/articleshow/135161011.cms",
     "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-listing-on-oct-28-will-mukesh-ambanis-firm-be-in-top-5-m-cap-ril-to-hold-top-spot-11792854254054.html",
@@ -499,15 +495,18 @@
     "https://www.business-standard.com/markets/news/google-revenue-misses-estimates-despite-25-growth-alphabet-shares-fall-126102900051_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-results-profit-plunges-69-yoy-to-rs-394-crore-revenue-rises-26/articleshow/135304125.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135322160.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-among-2-stocks-to-buy-for-friday-for-healthy-returns/articleshow/135321713.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-among-2-stocks-to-buy-for-friday-for-healthy-returns/articleshow/135321713.cms",
+    "https://www.business-standard.com/markets/news/birlasoft-share-price-rallies-11-on-huge-volume-post-q2-results-126102900328_1.html",
+    "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-hopes-of-us-iran-peace-talks-ease-supply-fears-126102900085_1.html",
+    "https://www.business-standard.com/world-news/samsung-keeps-shattering-profit-records-as-ai-boom-lifts-chip-demand-126102900116_1.html",
+    "https://www.livemint.com/market/stock-market-news/jio-platforms-first-q2-results-after-bumper-listing-check-date-reliance-firm-s-earnings-in-focus-key-numbers-to-watch-11793290112398.html"
   ],
   "last_fii_dii_post_date": "2026-10-29",
   "news_posted": {
     "date": "2026-10-29",
-    "count": 16
+    "count": 17
   },
   "recent_titles": [
-    "Peter Lynch on stock picking: 'You shouldn't own a stock if you can't\u2026'",
     "Bond yields rise nearly 30 bps in Oct, to raise govt's interest burden",
     "Ahead of Market: 10 things that will decide stock market action on Monday",
     "Upcoming IPO GMP: EAAA India vs SFC Environmental vs BLS Polymers vs MK Sons Fine Jewels vs Bombay Coated Special Steels",
@@ -586,7 +585,8 @@
     "Top 3 stocks to buy tomorrow: Kotak Mahindra Bank, Nykaa, Eternal by market expert; check stop-loss, target price",
     "Yes Bank shares extend decline to 26% in October, hit a multi-year low. Why are investors turning cautious?",
     "Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore due to one-time deferred tax",
-    "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns"
+    "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns",
+    "Jio Platforms first Q2 results after bumper listing: check date; Reliance firm\u2019s earnings in focus; key numbers to watch"
   ],
   "reels_posted": {
     "date": "2026-10-29",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793289034.2113702,
+    "fetched_at": 1793292584.7281234,
     "symbols": [
       "aeroflex",
       "bsoft",
