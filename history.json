@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/jio-platforms-ipo-draws-record-10-million-applications-amid-strong-investor-demand-11792763307947.html",
-    "https://www.livemint.com/market/stock-market-news/chennai-petroleum-vs-mrpl-which-psu-refinery-stock-wins-on-q2-profit-revenue-dividends-experts-weigh-in-on-outlook-11792771887198.html",
-    "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-allotment-date-listing-date-time-overall-subscription-status-qib-nii-retail-ril-11792812938496.html",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms",
-    "https://www.livemint.com/market/stock-market-news/supreme-petrochem-q2-results-dividend-2026-check-amount-record-date-yield-history-stock-returns-11792772862871.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/growth-value-stocks-set-for-reshuffle-as-sp-adopts-new-rules/articleshow/135161737.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms",
     "https://www.livemint.com/market/stock-market-news/ipo-subscription-status-comparison-reliance-jio-ipo-vs-hyundai-ipo-vs-nse-ipo-who-won-the-race-11792769886858.html",
     "https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html",
@@ -499,15 +493,20 @@
     "https://www.livemint.com/market/stock-market-news/3400-rally-in-5-years-can-this-defence-multibagger-stock-extend-gains-after-q2-results-here-s-what-systematix-says-11793197827663.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-october-29-jio-platforms-meesho-hero-motocorp-pnb-housing-ola-126102900092_1.html",
     "https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html",
-    "https://www.livemint.com/market/stock-market-news/jio-platforms-shares-after-27-jump-on-ipo-listing-day-will-reliance-group-stock-rise-more-today-11793239306452.html"
+    "https://www.livemint.com/market/stock-market-news/jio-platforms-shares-after-27-jump-on-ipo-listing-day-will-reliance-group-stock-rise-more-today-11793239306452.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/weak-returns-at-home-fuel-indias-overseas-retail-investing-boom/articleshow/135271438.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms",
+    "https://www.livemint.com/market/ipo/ipo-gmp-comparison-bls-polymers-vs-sfc-environmental-vs-m-k-sons-vs-bombay-coated-check-listing-price-prediction-11793241604751.html",
+    "https://www.livemint.com/market/stock-market-news/67-rally-in-6-months-14-crash-in-a-week-what-changed-for-this-jewellery-stock-under-50-do-you-own-it-11793199612473.html",
+    "https://www.livemint.com/market/stock-market-news/vedanta-vs-vedanta-aluminium-q2-results-2026-compared-profit-revenue-ebitda-and-debt-explained-of-anil-agarwal-firms-11793198556956.html",
+    "https://www.livemint.com/market/stock-market-news/indian-shares-set-for-positive-start-after-fed-holds-rates-steady-elevated-oil-weighs-11793240729336.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-29",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Demand-supply mismatch to drive revenue growth gains for Indian Hotels",
     "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street\u2019s fate next week",
     "Reliance-backed Jio Platforms IPO: GMP hints 22% listing gains; all eyes on allotment; status check online guide by PAN",
     "Suzlon Energy shares crash 39% from 52-week high \u2014 can Q2 results 2026 bring a bounce back? Experts' views, target, SL",
@@ -586,7 +585,8 @@
     "Potential Multibagger? Vodafone Idea shares are up 25% in 1 year, Jefferies sees 143% surge in bull case - Check target",
     "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
     "Are these low-P/E bluechip stocks really a bargain?",
-    "Jio Platforms shares: After 27% jump on IPO listing day, will Reliance group stock rise more today?"
+    "Jio Platforms shares: After 27% jump on IPO listing day, will Reliance group stock rise more today?",
+    "Indian shares set for positive start after Fed holds rates steady; elevated oil weighs"
   ],
   "reels_posted": {
     "date": "2026-10-29",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793241891.4082718,
+    "fetched_at": 1793245417.2913632,
     "symbols": [
-      "empower",
-      "gtlinfra",
-      "hdfcbank",
-      "idea",
-      "jpl",
-      "jppower",
-      "jyotistruc",
-      "moneyview",
-      "motisons",
-      "mrpl",
-      "olaelec",
+      "birlatotal",
+      "cubeinvit",
+      "fmcgietf",
+      "hdfcsml250",
+      "healthy",
+      "indusinvit",
+      "itbees",
+      "liquidbees",
+      "liquidcase",
+      "lowvolietf",
+      "ltgiltbees",
+      "metalietf",
+      "mid150case",
+      "midcapetf",
+      "next50ietf",
+      "niftybees",
       "pcjeweller",
-      "pplpharma",
-      "rpower",
-      "suzlon",
-      "syngene",
-      "tatagold",
-      "visl",
-      "yesbank",
-      "zeel"
+      "pharmabees",
+      "pvtbanietf",
+      "sml100case"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
