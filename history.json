@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
-    "https://www.livemint.com/market/stock-market-news/dividend-split-rights-issue-buyback-next-week-hexaware-tech-cyient-railtel-to-sagility-check-record-dates-11792826529111.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
     "https://www.business-standard.com/markets/news/sebi-short-selling-slb-ai-sandbox-market-making-tuhin-kanta-pandey-126102400650_1.html",
     "https://www.livemint.com/market/stock-market-news/power-stock-to-buy-despite-almost-20-fall-in-1-month-deven-choksey-research-sees-72-returns-ahead-do-you-own-11792833005751.html",
     "https://www.livemint.com/market/stock-market-news/it-stocks-q2-results-analysis-infosys-vs-tcs-vs-wipro-vs-hcl-vs-techm-who-wins-profit-revenue-dividend-ai-race-11792836774239.html",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to-december-11793213973901.html",
     "https://www.business-standard.com/markets/ipo/jio-platforms-soars-on-debut-recasting-market-capitalisation-leaderboard-126102801887_1.html",
     "https://www.business-standard.com/markets/news/aeroflex-zooms-18-on-huge-volume-over-31-mn-shares-change-hands-126102900503_1.html",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-long-term-pankaj-pandey-of-icici-securities-suggests-crompton-greaves-kotak-bank-3-others-11793258859687.html"
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-long-term-pankaj-pandey-of-icici-securities-suggests-crompton-greaves-kotak-bank-3-others-11793258859687.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-steady-ahead-of-boj-policy-decision/articleshow/135298606.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q2-results-net-profit-tanks-90-yoy-to-rs-114-crore-revenue-rises-10/articleshow/135298817.cms",
+    "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-shares-vs-bharti-airtel-vs-vodafone-idea-top-telecom-stock-to-buy-what-experts-suggest-11793262195751.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-29",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "KEC International shares in focus on Monday Oct 26 after  \u20b92872 cr PGCIL order win; YTD orders mark crosses  \u20b913.5k cr",
     "Swiggy may rebound to Rs 190, but charts do not signal a trend reversal: LKP\u2019s Vatsal Bhuva",
     "Gold price crashes over  \u20b938,600 from record high \u2014 What'll happen amid Diwali 2026 fervour? Right time to buy? Decoded",
     "Stocks to buy: Ganesh Dongre of Anand Rathi recommends 3 shares \u2014 Eternal, BoB, Apollo Hospitals | Target, stop-loss",
@@ -586,7 +585,8 @@
     "Kotak Bank Share Price Live Updates: Kotak Bank Sets New 52-Week Record",
     "Bombay Coated & Special Steels IPO opens: Anand Rathi bullish; here's why",
     "Aeroflex zooms 18% on huge volume, over 31 mn shares change hands",
-    "Top stocks to buy for long term: Pankaj Pandey of ICICI Securities suggests Crompton Greaves, Kotak Bank, 3 others"
+    "Top stocks to buy for long term: Pankaj Pandey of ICICI Securities suggests Crompton Greaves, Kotak Bank, 3 others",
+    "Reliance Jio Platforms shares vs Bharti Airtel vs Vodafone Idea: Top telecom stock to buy? What experts suggest"
   ],
   "reels_posted": {
     "date": "2026-10-29",
@@ -629,27 +629,27 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793263827.8410506,
+    "fetched_at": 1793267231.166946,
     "symbols": [
       "aeroflex",
       "bsoft",
+      "equitasbnk",
       "eternal",
-      "gtlinfra",
+      "hdfcbank",
       "idea",
       "jpl",
       "jppower",
       "jwl",
       "kotakbank",
       "moneyview",
-      "motisons",
       "olaelec",
       "pcjeweller",
       "pinelabs",
-      "pplpharma",
+      "pnb",
       "rpower",
       "suzlon",
-      "tatagold",
       "tatsilv",
+      "vguard",
       "yesbank"
     ]
   },
