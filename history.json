@@ -1,14 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms",
-    "https://economictimes.indiatimes.com/markets/commodities/news/silver-hits-11-month-low-of-1-95-lakh-as-crude-stokes-inflation-fears/articleshow/135161699.cms",
-    "https://www.livemint.com/market/stock-market-news/mother-of-all-ipos-jio-platforms-shatters-many-existing-records-full-list-here-11792775064634.html",
-    "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
-    "https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html",
-    "https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-to-win-the-investing-game-charles-ellis-says-make-fewer-mistakes-focus-on-long-term-goals/articleshow/135163554.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/private-sector-activity-hits-four-month-high-in-october/articleshow/135161114.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/target-reached-but-asset-monetisation-to-continue-dipam-secretary-arunish-chawla/articleshow/135160884.cms",
     "https://www.livemint.com/market/commodities/gold-rates-in-chennai-city-crash-this-week-can-yellow-metal-rebound-ahead-of-diwali-key-levels-to-watch-in-future-11792820547953.html",
@@ -499,15 +490,23 @@
     "https://www.livemint.com/market/stock-market-news/big-adani-stocks-q2-comparison-adani-ports-vs-adani-power-vs-adani-green-energy-shares-who-delivered-beyond-estimates-11793206502960.html",
     "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-2026-lower-taxes-may-bring-back-foreign-investors-126102801611_1.html",
     "https://www.business-standard.com/specials/bs-events/bfsi-summit-2026-digital-access-could-widen-mf-investor-base-to-200-mn-126102801695_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-livestock-price-today-live-updates-29-oct-2026/liveblog/135287716.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-livestock-price-today-live-updates-29-oct-2026/liveblog/135287716.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-29-oct-2026/liveblog/135288700.cms",
+    "https://www.livemint.com/market/stock-market-news/how-can-us-fed-fomc-meeting-outcome-impact-indian-stock-market-sensex-nifty-to-rise-experts-decode-11793210662906.html",
+    "https://www.livemint.com/market/stock-market-news/us-fed-fomc-meeting-outcome-news-today-top-highlights-and-what-led-to-no-rate-hike-decision-11793209386525.html",
+    "https://www.livemint.com/market/stock-market-news/us-fed-meeting-outcome-news-fomc-decides-no-rate-hike-details-11793209848405.html",
+    "https://www.livemint.com/market/stock-market-news/amd-micron-among-chip-stocks-rising-up-to-5-as-sk-hynix-s-earnings-boost-ai-trade-microsoft-google-results-in-focus-11793205882825.html",
+    "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-sebi-explores-domestic-ai-model-for-securities-market-126102801985_1.html",
+    "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-sifs-new-pms-rules-to-democratise-wealth-management-126102801336_1.html",
+    "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-2026-value-investing-works-stock-selection-key-126102801835_1.html",
+    "https://www.business-standard.com/markets/ipo/bombay-coated-special-steels-ipo-opens-anand-rathi-bullish-here-s-why-126102900504_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-29",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Suzlon Energy shares crash 39% from 52-week high \u2014 can Q2 results 2026 bring a bounce back? Experts' views, target, SL",
     "Jio IPO GMP today: All eyes on telecom major\u2019s mega listing this week. What is grey market premium signalling?",
     "Stable fees, volatile earnings: What investors should know about EAAA IPO",
     "KEC International shares in focus on Monday Oct 26 after  \u20b92872 cr PGCIL order win; YTD orders mark crosses  \u20b913.5k cr",
@@ -586,7 +585,8 @@
     "Jio Platforms shares: After 27% jump on IPO listing day, will Reliance group stock rise more today?",
     "Indian shares set for positive start after Fed holds rates steady; elevated oil weighs",
     "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
-    "Kotak Bank Share Price Live Updates: Kotak Bank Sets New 52-Week Record"
+    "Kotak Bank Share Price Live Updates: Kotak Bank Sets New 52-Week Record",
+    "Bombay Coated & Special Steels IPO opens: Anand Rathi bullish; here's why"
   ],
   "reels_posted": {
     "date": "2026-10-29",
@@ -629,26 +629,26 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793252488.6355503,
+    "fetched_at": 1793256465.6645355,
     "symbols": [
+      "acevector",
       "aeroflex",
-      "bandhanbnk",
       "bsoft",
+      "eternal",
       "gtlinfra",
       "idea",
       "jpl",
       "jppower",
       "jwl",
-      "jyotistruc",
       "kotakbank",
       "moneyview",
       "olaelec",
       "pcjeweller",
       "pplpharma",
       "rpower",
-      "sakuma",
-      "stlnetwork",
       "suzlon",
+      "tatagold",
+      "tatsilv",
       "unitech",
       "yesbank"
     ]
