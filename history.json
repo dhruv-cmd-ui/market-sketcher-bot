@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/it-stocks-q2-results-analysis-infosys-vs-tcs-vs-wipro-vs-hcl-vs-techm-who-wins-profit-revenue-dividend-ai-race-11792836774239.html",
-    "https://www.livemint.com/market/stock-market-news/godrej-properties-q2-profit-falls-62-to-rs-154-crore-real-estate-stock-down-6-5-in-1-week-what-s-next-for-investors-11792839670974.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-10-stocks-rally-up-to-100-in-fy27-so-far/slideshow/135167433.cms",
-    "https://www.livemint.com/market/stock-market-news/silver-price-has-broken-below-2-lakh-for-the-first-time-since-december-2025-is-this-the-right-time-to-buy-for-returns-11792841534411.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
     "https://www.livemint.com/market/stock-market-news/five-indian-stocks-offering-dividend-yields-up-to-10-11792769464534.html",
     "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-listing-date-and-time-share-price-prediction-for-nse-bse-debut-details-11792848439962.html",
     "https://www.livemint.com/market/stock-market-news/cables-and-wires-stock-turned-multibagger-with-318-return-in-5-years-incred-sees-29-upside-do-you-own-target-price-11792836482555.html",
@@ -499,15 +494,19 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q2-results-net-profit-tanks-90-yoy-to-rs-114-crore-revenue-rises-10/articleshow/135298817.cms",
     "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-shares-vs-bharti-airtel-vs-vodafone-idea-top-telecom-stock-to-buy-what-experts-suggest-11793262195751.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-jump-7-as-q2-net-profit-soars-543-yoy-to-rs-39-crore/articleshow/135298034.cms",
-    "https://www.livemint.com/market/stock-market-news/aeroflex-industries-shares-surge-14-whats-behind-the-stock-rally-whats-next-for-the-stock-11793246758600.html"
+    "https://www.livemint.com/market/stock-market-news/aeroflex-industries-shares-surge-14-whats-behind-the-stock-rally-whats-next-for-the-stock-11793246758600.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7117-of-2026-filed-by-goutam-mohanta_105481.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7116-of-2026-filed-by-saroj-sharma_105480.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-dated-28-10-2026-against-chandrakant-a-parekh-pan-ahxpp5708j-defaulter-in-the-matter-of-ipo-irregularities-2003-2005-under-recovery-certificate-no-2001-of-2019_105484.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/godrej-consumer-q2-results-profit-rises-14-yoy-to-rs-523-crore-revenue-jumps-19-co-declares-rs-5/share-dividend/articleshow/135306134.cms",
+    "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-tomorrow-kotak-mahindra-bank-nykaa-eternal-by-market-expert-check-stop-loss-target-price-11793275019681.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-29",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Stocks to buy: Ganesh Dongre of Anand Rathi recommends 3 shares \u2014 Eternal, BoB, Apollo Hospitals | Target, stop-loss",
     "Best auto stocks to buy ahead of Diwali 2026: Nuvama bets big on Eicher Motors, Hyundai and Tata Motors PV - Here's why",
     "Top 10 firms lose \u20b91.55  trillion in mcap as HDFC Bank, Bajaj Finance fall",
     "Jio Platforms IPO allotment status check online by PAN number guide for KFin Tech Registrar Portal on ris.kfintech.com",
@@ -586,7 +585,8 @@
     "Top stocks to buy for long term: Pankaj Pandey of ICICI Securities suggests Crompton Greaves, Kotak Bank, 3 others",
     "Reliance Jio Platforms shares vs Bharti Airtel vs Vodafone Idea: Top telecom stock to buy? What experts suggest",
     "Pine Labs shares jump 7% as Q2 net profit soars 543% YoY to Rs 39 crore",
-    "Aeroflex Industries shares surge 18% - What's behind the stock rally? What's next for the stock?"
+    "Aeroflex Industries shares surge 18% - What's behind the stock rally? What's next for the stock?",
+    "Top 3 stocks to buy tomorrow: Kotak Mahindra Bank, Nykaa, Eternal by market expert; check stop-loss, target price"
   ],
   "reels_posted": {
     "date": "2026-10-29",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793273983.9652333,
+    "fetched_at": 1793278050.3110118,
     "symbols": [
       "aeroflex",
       "bsoft",
