@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/private-sector-activity-hits-four-month-high-in-october/articleshow/135161114.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/target-reached-but-asset-monetisation-to-continue-dipam-secretary-arunish-chawla/articleshow/135160884.cms",
-    "https://www.livemint.com/market/commodities/gold-rates-in-chennai-city-crash-this-week-can-yellow-metal-rebound-ahead-of-diwali-key-levels-to-watch-in-future-11792820547953.html",
-    "https://www.livemint.com/market/stock-market-news/infosys-shares-should-you-buy-the-it-stock-after-q2-results-dividend-2026-announcement-experts-views-on-what-to-do-11792825142690.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
     "https://www.business-standard.com/markets/news/nse-ai-cybersecurity-network-vulnerabilities-ashishkumar-chauhan-126102400408_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
     "https://www.livemint.com/market/stock-market-news/dividend-split-rights-issue-buyback-next-week-hexaware-tech-cyient-railtel-to-sagility-check-record-dates-11792826529111.html",
@@ -499,15 +494,19 @@
     "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-sebi-explores-domestic-ai-model-for-securities-market-126102801985_1.html",
     "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-sifs-new-pms-rules-to-democratise-wealth-management-126102801336_1.html",
     "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-2026-value-investing-works-stock-selection-key-126102801835_1.html",
-    "https://www.business-standard.com/markets/ipo/bombay-coated-special-steels-ipo-opens-anand-rathi-bullish-here-s-why-126102900504_1.html"
+    "https://www.business-standard.com/markets/ipo/bombay-coated-special-steels-ipo-opens-anand-rathi-bullish-here-s-why-126102900504_1.html",
+    "https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html",
+    "https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html",
+    "https://www.livemint.com/market/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to-december-11793213973901.html",
+    "https://www.business-standard.com/markets/ipo/jio-platforms-soars-on-debut-recasting-market-capitalisation-leaderboard-126102801887_1.html",
+    "https://www.business-standard.com/markets/news/aeroflex-zooms-18-on-huge-volume-over-31-mn-shares-change-hands-126102900503_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-28",
   "news_posted": {
     "date": "2026-10-29",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "Jio IPO GMP today: All eyes on telecom major\u2019s mega listing this week. What is grey market premium signalling?",
     "Stable fees, volatile earnings: What investors should know about EAAA IPO",
     "KEC International shares in focus on Monday Oct 26 after  \u20b92872 cr PGCIL order win; YTD orders mark crosses  \u20b913.5k cr",
     "Swiggy may rebound to Rs 190, but charts do not signal a trend reversal: LKP\u2019s Vatsal Bhuva",
@@ -586,7 +585,8 @@
     "Indian shares set for positive start after Fed holds rates steady; elevated oil weighs",
     "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
     "Kotak Bank Share Price Live Updates: Kotak Bank Sets New 52-Week Record",
-    "Bombay Coated & Special Steels IPO opens: Anand Rathi bullish; here's why"
+    "Bombay Coated & Special Steels IPO opens: Anand Rathi bullish; here's why",
+    "Aeroflex zooms 18% on huge volume, over 31 mn shares change hands"
   ],
   "reels_posted": {
     "date": "2026-10-29",
@@ -629,11 +629,11 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793256465.6645355,
+    "fetched_at": 1793260679.5487752,
     "symbols": [
-      "acevector",
       "aeroflex",
       "bsoft",
+      "easemytrip",
       "eternal",
       "gtlinfra",
       "idea",
@@ -644,10 +644,10 @@
       "moneyview",
       "olaelec",
       "pcjeweller",
+      "pinelabs",
       "pplpharma",
       "rpower",
       "suzlon",
-      "tatagold",
       "tatsilv",
       "unitech",
       "yesbank"
