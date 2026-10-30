@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/swiggy-shares-rise-6-after-4-session-down-episode-is-this-a-relief-rally-or-worst-is-over-experts-decode-target-sl-11792998360954.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-5-a-day-after-q2-results-sparked-a-17-crash-why-brokerages-remain-bullish-despite-target-price-cuts/articleshow/135205591.cms",
-    "https://www.business-standard.com/markets/news/eternal-extends-rally-stock-soars-8-in-two-days-post-q2-results-126102600750_1.html",
-    "https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1579-2026-issued-against-r-senthil-kumar-under-recovery-certificate-nos-7902-of-2024-7904-of-2024-and-7905-of-2024-in-the-matter-of-trust-line-holdings-pvt-ltd-pms-and-trust-lin-_105432.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-dr-reddys-jsw-steel-shriram-finance-tata-consumer-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/135209828.cms",
     "https://www.business-standard.com/specials/bs-events/si-arena-debuts-at-bfsi-summit-bringing-market-experts-closer-to-investors-126102301279_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-6-stocks-to-hit-52-week-lows-and-fall-up-to-32-in-a-month/slideshow/135212417.cms",
@@ -499,15 +494,19 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-fall-4-as-nuvama-others-slash-target-prices-after-q2-margins-disappoint-what-lies-ahead/articleshow/135342553.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-30-oct-2026/liveblog/135340952.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-today-live-30-oct-2026/liveblog/135340665.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-turn-lower-broader-markets-crash-as-oil-tops-116/barrel-what-lies-ahead/articleshow/135345897.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-turn-lower-broader-markets-crash-as-oil-tops-116/barrel-what-lies-ahead/articleshow/135345897.cms",
+    "https://www.livemint.com/market/sugar-prices-rise-amid-rains-in-brazil-arabica-coffee-hits-one-month-low-11793299359063.html",
+    "https://www.livemint.com/market/wall-street-slides-as-alphabet-revenue-miss-revives-ai-capex-jitters-11793298623792.html",
+    "https://www.livemint.com/market/stock-market-news/sagility-block-deal-promoter-to-offload-12-stake-at-rs-42-45-apiece-deal-size-rs-2-377-crore-11793296092921.html",
+    "https://www.business-standard.com/markets/news/emudhra-stock-recovers-slightly-after-sharp-fall-over-security-concerns-126102901616_1.html",
+    "https://www.business-standard.com/markets/news/silver-may-slide-to-48-as-momentum-selling-deepens-mirae-asset-sharekhan-126103000503_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-29",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Reliance\u2019s Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?",
     "Senco Gold to acquire 68% stake in August Jewellery for \u20b968 crore",
     "Bertie fights off the song of turbo-charged returns",
     "IT stocks dividend record date this week: Cyient, LT Tech, Hexaware, Hypersoft, Sagility - Who pays most? Amount, return",
@@ -586,7 +585,8 @@
     "Indian shares seen opening higher after earnings-led rebound; higher oil to cap gains",
     "Sensex, Nifty may gain 5-8% if external headwinds recede: Baldev Prakash",
     "Suzlon Energy shares fall 4% as Nuvama, others slash target prices after Q2 margins disappoint. What lies ahead?",
-    "Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?"
+    "Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?",
+    "Silver may slide to $48 as momentum selling deepens: Mirae Asset Sharekhan"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,23 +629,23 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793338910.313247,
+    "fetched_at": 1793342926.4487665,
     "symbols": [
       "empower",
       "equitasbnk",
       "eternal",
-      "heromotors",
       "idea",
       "jppower",
-      "lotusdev",
       "marsons",
       "moneyview",
+      "network18",
       "olaelec",
       "paradeep",
       "pcjeweller",
       "rpower",
       "sagility",
       "suzlon",
+      "tatagold",
       "tatsilv",
       "vedpower",
       "visl",
