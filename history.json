@@ -1,12 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/fpis-withdraw-48-056-crore-from-equities-in-oct-amid-elevated-oil-prices-126102500122_1.html",
-    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-26-october-from-marketsmith-india-11792823161033.html",
-    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-26-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11792975256498.html",
-    "https://www.livemint.com/market/stock-market-news/indian-shares-on-track-for-muted-open-as-oil-concerns-persist-fed-in-focus-11792981672692.html",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-allotment-likely-today-gmp-signals-22-listing-gains-heres-how-to-check-status/articleshow/135201263.cms",
-    "https://www.livemint.com/market/ipo/reliances-jio-platforms-ipo-allotment-today-26-oct-check-status-online-latest-gmp-price-share-listing-prediction-11792980669475.html",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-adani-energy-au-small-finance-bank-bpcl-idfc-first-bank-jefferies-sees-up-to-62-upside-target-11792982712174.html",
     "https://economictimes.indiatimes.com/markets/stocks/live-blog/jio-platforms-ipo-allotment-status-live-updates-reliance-jio-ipo-gmp-subscription-price-band-listing-date-latest-news/liveblog/135202107.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
@@ -499,15 +492,21 @@
     "https://www.livemint.com/market/nifty-premium-slips-as-traders-brace-for-renewed-west-asia-tensions-11793267602939.html",
     "https://www.business-standard.com/markets/news/india-s-pharma-healthcare-deal-volumes-rise-23-in-q3-2026-report-126102901515_1.html",
     "https://www.business-standard.com/markets/news/nse-flags-broker-lapses-in-margin-trading-client-funds-and-cybersecurity-126102901449_1.html",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/sfc-environmental-technologies-ipo-subscribed-9-5-times-on-final-day/articleshow/135337977.cms"
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/sfc-environmental-technologies-ipo-subscribed-9-5-times-on-final-day/articleshow/135337977.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-profit-up-1-3-revenue-rises-26/articleshow/135338430.cms",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/bls-polymers-ipo-subscribed-241-times-on-final-day-of-bidding/articleshow/135337874.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/brigade-group-reports-29-growth-in-q2-net-profit-at-rs-219-crore/articleshow/135320326.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/google-shares-crash-13-after-9-billion-cash-burn-sparks-ai-spending-fears/articleshow/135319102.cms",
+    "https://www.livemint.com/market/stock-market-news/20-crash-in-2026-this-fmcg-stock-is-on-track-for-its-biggest-annual-drop-in-22-years-should-investors-be-worried-11793278361272.html",
+    "https://www.business-standard.com/markets/news/sensex-nifty-rise-over-1-as-q2-earnings-easing-crude-boost-sentiment-126102901533_1.html",
+    "https://www.livemint.com/market/stock-market-news/indian-shares-seen-opening-higher-after-earnings-led-rebound-higher-oil-to-cap-gains-11793327632640.html"
   ],
   "last_fii_dii_post_date": "2026-10-29",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Upcoming IPO GMP: EAAA India vs SFC Environmental vs BLS Polymers vs MK Sons Fine Jewels vs Bombay Coated Special Steels",
     "Dividend, stock split, resolution plans record date Oct 26: Hexaware, Midaas, Talwalkars Better Value, Ashapura Fashion",
     "IPO GMP, subscription race: Reliance Jio Platforms vs Paras Healthcare - Grey market premium, QIB, NII, Retail details",
     "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
@@ -586,7 +585,8 @@
     "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns",
     "Jio Platforms first Q2 results after bumper listing: check date; Reliance firm\u2019s earnings in focus; key numbers to watch",
     "Kotak Bank shares gain 30% since April as earnings outlook brightens",
-    "SFC Environmental Technologies IPO subscribed 9.5 times on final day"
+    "SFC Environmental Technologies IPO subscribed 9.5 times on final day",
+    "Indian shares seen opening higher after earnings-led rebound; higher oil to cap gains"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793325264.539499,
+    "fetched_at": 1793328278.090638,
     "symbols": [
       "aeroflex",
       "bsoft",
