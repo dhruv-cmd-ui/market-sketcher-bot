@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-adani-energy-au-small-finance-bank-bpcl-idfc-first-bank-jefferies-sees-up-to-62-upside-target-11792982712174.html",
-    "https://economictimes.indiatimes.com/markets/stocks/live-blog/jio-platforms-ipo-allotment-status-live-updates-reliance-jio-ipo-gmp-subscription-price-band-listing-date-latest-news/liveblog/135202107.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1577-2026-issued-against-annaswamy-venkatramani-pan-aabpv3960f-under-recovery-certificate-nos-2976-of-2020-3197-of-2020-and-6606-of-2023_105345.html",
-    "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-share-price-jumps-10-after-q2-results-stock-up-44-in-2026-check-resistance-support-levels-11792987859346.html",
     "https://www.livemint.com/market/us-stock-markets-this-week-wall-street-gears-up-for-fed-rate-decision-q3-earnings-from-alphabet-microsoft-amazon-11792944787786.html",
     "https://www.business-standard.com/markets/news/apollo-micro-systems-share-price-rallies-10-after-record-q2-performance-126102600208_1.html",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-record-india-ipo-falls-short-of-record-payday-for-bankers/articleshow/135203965.cms",
@@ -499,15 +494,19 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/google-shares-crash-13-after-9-billion-cash-burn-sparks-ai-spending-fears/articleshow/135319102.cms",
     "https://www.livemint.com/market/stock-market-news/20-crash-in-2026-this-fmcg-stock-is-on-track-for-its-biggest-annual-drop-in-22-years-should-investors-be-worried-11793278361272.html",
     "https://www.business-standard.com/markets/news/sensex-nifty-rise-over-1-as-q2-earnings-easing-crude-boost-sentiment-126102901533_1.html",
-    "https://www.livemint.com/market/stock-market-news/indian-shares-seen-opening-higher-after-earnings-led-rebound-higher-oil-to-cap-gains-11793327632640.html"
+    "https://www.livemint.com/market/stock-market-news/indian-shares-seen-opening-higher-after-earnings-led-rebound-higher-oil-to-cap-gains-11793327632640.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-profit-slumps-90-on-higher-costs-high-previous-year-base/articleshow/135320851.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/milky-mist-q2-revenue-surges-42-yoy-ebitda-soars-54/articleshow/135320553.cms",
+    "https://www.livemint.com/market/stock-market-news/alphabet-shares-plunge-13-set-for-biggest-1-day-drop-in-over-20-years-why-is-google-parent-falling-after-q3-results-11793284509177.html",
+    "https://www.livemint.com/market/stock-market-news/coal-india-dividend-2026-declared-check-amount-psu-quarterly-profit-up-57-when-is-record-date-11793283032165.html",
+    "https://www.business-standard.com/markets/interviews/sensex-nifty-may-gain-5-8-if-external-headwinds-recede-baldev-prakash-126103000105_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-29",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Dividend, stock split, resolution plans record date Oct 26: Hexaware, Midaas, Talwalkars Better Value, Ashapura Fashion",
     "IPO GMP, subscription race: Reliance Jio Platforms vs Paras Healthcare - Grey market premium, QIB, NII, Retail details",
     "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
     "Reliance\u2019s Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?",
@@ -586,7 +585,8 @@
     "Jio Platforms first Q2 results after bumper listing: check date; Reliance firm\u2019s earnings in focus; key numbers to watch",
     "Kotak Bank shares gain 30% since April as earnings outlook brightens",
     "SFC Environmental Technologies IPO subscribed 9.5 times on final day",
-    "Indian shares seen opening higher after earnings-led rebound; higher oil to cap gains"
+    "Indian shares seen opening higher after earnings-led rebound; higher oil to cap gains",
+    "Sensex, Nifty may gain 5-8% if external headwinds recede: Baldev Prakash"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793328278.090638,
+    "fetched_at": 1793331868.013351,
     "symbols": [
-      "aeroflex",
-      "bsoft",
-      "easemytrip",
+      "bankbeta",
+      "bankietf",
+      "empower",
       "equitasbnk",
-      "eternal",
-      "hdfcbank",
-      "idea",
-      "jpl",
-      "jppower",
-      "jwl",
-      "kotakbank",
-      "moneyview",
-      "olaelec",
-      "pcjeweller",
-      "pinelabs",
-      "pnb",
-      "rpower",
-      "suzlon",
-      "tatsilv",
-      "yesbank"
+      "fmcgietf",
+      "hdfcbse500",
+      "healthy",
+      "insureietf",
+      "itbees",
+      "liquidbees",
+      "liquidcase",
+      "ltgiltbees",
+      "metal",
+      "metalietf",
+      "midcapetf",
+      "niftybees",
+      "pharmabees",
+      "psubnkbees",
+      "setfgold",
+      "suzlon"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
