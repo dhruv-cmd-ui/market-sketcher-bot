@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-record-india-ipo-falls-short-of-record-payday-for-bankers/articleshow/135203965.cms",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1578-2026-issued-against-s-giridharan-in-the-matter-of-edserv-softsystems-ltd-under-recovery-certificate-no-6598-of-2023-_105350.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-edge-higher-ahead-of-key-central-bank-meetings/articleshow/135204344.cms",
     "https://www.livemint.com/market/stock-market-news/swiggy-shares-rise-6-after-4-session-down-episode-is-this-a-relief-rally-or-worst-is-over-experts-decode-target-sl-11792998360954.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-5-a-day-after-q2-results-sparked-a-17-crash-why-brokerages-remain-bullish-despite-target-price-cuts/articleshow/135205591.cms",
     "https://www.business-standard.com/markets/news/eternal-extends-rally-stock-soars-8-in-two-days-post-q2-results-126102600750_1.html",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/stock-market-news/coal-india-dividend-2026-declared-check-amount-psu-quarterly-profit-up-57-when-is-record-date-11793283032165.html",
     "https://www.business-standard.com/markets/interviews/sensex-nifty-may-gain-5-8-if-external-headwinds-recede-baldev-prakash-126103000105_1.html",
     "https://www.livemint.com/market/stock-market-news/october-dividend-champions-infosys-colgate-hul-chennai-petro-coal-india-announce-big-payouts-check-amount-record-11793286004751.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-fall-4-as-nuvama-others-slash-target-prices-after-q2-margins-disappoint-what-lies-ahead/articleshow/135342553.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-fall-4-as-nuvama-others-slash-target-prices-after-q2-margins-disappoint-what-lies-ahead/articleshow/135342553.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-30-oct-2026/liveblog/135340952.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-today-live-30-oct-2026/liveblog/135340665.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-turn-lower-broader-markets-crash-as-oil-tops-116/barrel-what-lies-ahead/articleshow/135345897.cms"
   ],
   "last_fii_dii_post_date": "2026-10-29",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
     "Reliance\u2019s Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?",
     "Senco Gold to acquire 68% stake in August Jewellery for \u20b968 crore",
     "Bertie fights off the song of turbo-charged returns",
@@ -586,7 +585,8 @@
     "SFC Environmental Technologies IPO subscribed 9.5 times on final day",
     "Indian shares seen opening higher after earnings-led rebound; higher oil to cap gains",
     "Sensex, Nifty may gain 5-8% if external headwinds recede: Baldev Prakash",
-    "Suzlon Energy shares fall 4% as Nuvama, others slash target prices after Q2 margins disappoint. What lies ahead?"
+    "Suzlon Energy shares fall 4% as Nuvama, others slash target prices after Q2 margins disappoint. What lies ahead?",
+    "Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,9 +629,8 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793335442.858852,
+    "fetched_at": 1793338910.313247,
     "symbols": [
-      "easemytrip",
       "empower",
       "equitasbnk",
       "eternal",
@@ -642,13 +641,14 @@
       "marsons",
       "moneyview",
       "olaelec",
+      "paradeep",
       "pcjeweller",
       "rpower",
       "sagility",
       "suzlon",
-      "tatagold",
       "tatsilv",
       "vedpower",
+      "visl",
       "vogl",
       "yesbank"
     ]
