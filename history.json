@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/stocks-to-buy-choice-broking-positive-on-chennai-petro-ask-automotive-here-s-why-126102600056_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-october-26-nse-bse-sensex-today-nifty50-gift-nifty-brent-crude-oil-prices-eaa-india-ipo-126102600053_1.html",
     "https://www.livemint.com/market/stock-market-news/brazils-ibovespa-plunges-17-3-as-lula-defeats-bolsonaro-in-presidential-runoff-biggest-ever-one-day-crash-11793026757972.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135215629.cms",
@@ -499,15 +498,15 @@
     "https://www.business-standard.com/markets/news/mid-smallcaps-under-pressure-suzlon-swiggy-stl-hfcl-slip-up-to-10-126103000657_1.html",
     "https://www.livemint.com/market/stock-market-news/crash-suzlon-energy-share-price-stock-tanks-10-to-52-week-low-after-weak-q2-results-2026-buy-or-avoid-target-price-11793334115728.html",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/gail-q2-results-profit-zooms-139-yoy-to-rs-4720-crore-revenue-rises-33-board-approves-gail-gas-ipo/articleshow/135356210.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-blue-chips-set-for-strongest-earnings-in-four-years/articleshow/135356294.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-blue-chips-set-for-strongest-earnings-in-four-years/articleshow/135356294.cms",
+    "https://www.business-standard.com/markets/news/suzlon-energy-shares-sink-8-after-q2-results-miss-margin-expectations-126103000583_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-29",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "PSU Q2 results 2026 preview: BEL, Coal India, IGL - Earnings estimate, brokerage target price, returns potential",
     "Stock market prediction for Monday Oct 26: Sensex, Nifty levels, top stocks to watch - Will bulls dance again?",
     "Stock recommendations for 26 October from MarketSmith India",
     "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues",
@@ -586,7 +585,8 @@
     "Eternal rallies 6% in two days, stock nears record high; here's why",
     "Mid-, small-caps under pressure; Suzlon, Swiggy, STL, HFCL plunge up to 10%",
     "Crash! Suzlon Energy share price: Stock tanks 10% to 52-week low after weak Q2 results 2026: Buy or avoid? Target price",
-    "Global Market: European blue-chips set for strongest earnings in four years"
+    "Global Market: European blue-chips set for strongest earnings in four years",
+    "Suzlon Energy shares sink 8% after Q2 results miss margin expectations"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793357074.6531277,
+    "fetched_at": 1793360146.7360451,
     "symbols": [
       "empower",
       "equitasbnk",
@@ -643,8 +643,8 @@
       "pinelabs",
       "rpower",
       "sagility",
-      "silverbees",
       "suzlon",
+      "swiggy",
       "tatagold",
       "tatsilv",
       "vedpower",
