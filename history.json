@@ -501,7 +501,7 @@
     "https://www.business-standard.com/markets/news/suzlon-energy-shares-sink-8-after-q2-results-miss-margin-expectations-126103000583_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-results-standalone-profit-jumps-36-yoy-to-rs-6532-crore-nii-up-9/articleshow/135359927.cms"
   ],
-  "last_fii_dii_post_date": "2026-10-29",
+  "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-30",
     "count": 13
@@ -590,7 +590,7 @@
   ],
   "reels_posted": {
     "date": "2026-10-30",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-10-30",
   "nse_holidays": {
@@ -654,7 +654,7 @@
     ]
   },
   "news_evening_reel_date": "2026-10-25",
-  "fii_cta_index": 2,
+  "fii_cta_index": 0,
   "news_morning_reel_date": "2026-10-30",
   "news_afternoon_post_date": "2026-10-26"
 }
