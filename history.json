@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/up-170-in-1-year-monolithisch-india-shares-jump-11-intraday-reason-behind-stock-rally-can-it-rise-further-11793005631095.html",
-    "https://www.livemint.com/market/ipo/from-lic-nse-to-hyundai-can-jio-platforms-ipo-break-india-s-mega-listing-jinx-on-28-oct-wed-what-market-experts-say-11793004649102.html",
-    "https://www.livemint.com/market/commodities/why-is-gold-price-under-pressure-ahead-of-dhanteras-diwali-what-should-interested-buyers-do-expertss-views-target-11793002314682.html",
-    "https://www.livemint.com/market/mark-to-market/tata-motors-commercial-vehicles-q2-results-margin-pressure-11792998314361.html",
-    "https://www.livemint.com/market/stock-market-news/multibagger-stock-sakar-healthcare-rises-4-5-after-q2-results-2026-up-500-in-5-years-will-rally-continue-11792998905646.html",
-    "https://www.livemint.com/market/stock-market-news/sebi-margin-rules-share-sale-proceeds-same-day-trading-11792993978282.html",
     "https://www.livemint.com/market/stock-market-news/indusind-bank-shares-rise-over-2-after-q2-results-should-you-buy-sell-or-hold-brokerages-weigh-in-check-target-price-11792997282785.html",
     "https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-shares-rise-2-as-top-nifty-gainer-is-it-right-time-to-book-profits-or-wait-target-stop-loss-11792995247655.html",
     "https://www.livemint.com/market/stock-market-news/seshasayee-paper-and-boards-shares-jump-10-after-q2-results-but-technicals-remain-weak-whats-next-for-investors-11792995208934.html",
@@ -499,15 +493,20 @@
     "https://www.business-standard.com/markets/news/asian-shares-trade-mixed-as-concerns-about-ai-related-issues-grow-126103000110_1.html",
     "https://www.business-standard.com/markets/news/milky-mist-rises-5-as-q2-pat-zooms-174-revenue-ebitda-hit-new-highs-126103000237_1.html",
     "https://www.business-standard.com/markets/news/coal-india-falls-3-post-q2-results-but-brokerages-upbeat-on-psu-stock-126103000146_1.html",
-    "https://www.business-standard.com/markets/news/trent-shares-jump-over-6-on-strong-q2-nos-brokerages-stay-bullish-126103000100_1.html"
+    "https://www.business-standard.com/markets/news/trent-shares-jump-over-6-on-strong-q2-nos-brokerages-stay-bullish-126103000100_1.html",
+    "https://www.livemint.com/market/stock-market-news/reliance-q2-results-2026-today-ril-near-52-week-low-buy-mukesh-ambani-owned-stock-experts-sees-23-yoy-profit-growth-11793333789585.html",
+    "https://www.livemint.com/market/stock-market-news/flying-high-vedanta-oil-and-gas-vedanta-power-vedanta-iron-steel-why-vedanta-shares-jumped-up-to-135-11793335496479.html",
+    "https://www.business-standard.com/markets/news/breakout-stocks-adani-ports-nykaa-saregama-on-radar-analyst-tells-why-126103000358_1.html",
+    "https://www.business-standard.com/markets/news/laurus-labs-share-price-rallies-19-in-4-days-zooms-111-ytd-what-s-driving-cdmo-stock-126103000255_1.html",
+    "https://www.business-standard.com/markets/news/equitas-sfb-share-price-tanks-17-as-ceo-exit-mars-q2-show-down-27-in-2-days-126103000283_1.html",
+    "https://www.livemint.com/market/stock-market-news/moneyview-shares-give-30-returns-to-allottees-within-a-month-of-ipo-listing-buy-sell-or-hold-experts-views-target-11793339745244.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 16
+    "count": 17
   },
   "recent_titles": [
-    "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
     "Top stocks to buy: Adani Energy, AU Small Finance Bank, BPCL, IDFC First Bank \u2014 Jefferies sees up to 62% upside | Target",
     "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
     "Apollo Micro Systems share price jumps 10% after Q2 results; stock up 44% in 2026 \u2014 check resistance, support levels",
@@ -586,7 +585,8 @@
     "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9",
     "Ease of Compliance for FPIs \u2013 Rationalisation of KYC Review Periodicity",
     "Bengaluru matches Tokyo with 11.5% office rent growth in Q3: Knight Frank",
-    "Extension of timeline with respect to compliance of Digital Accessibility Circulars"
+    "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
+    "Moneyview shares give 30% returns to allottees within a month of IPO listing | Buy, sell or hold? Experts' views, target"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793377271.602537,
+    "fetched_at": 1793380522.1470597,
     "symbols": [
       "empower",
       "equitasbnk",
