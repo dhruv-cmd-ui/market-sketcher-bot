@@ -1,12 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/bonds/chinas-central-bank-sets-up-non-bank-financial-institution-bond-market-swap-facility/articleshow/135210676.cms",
-    "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-80000-and-ethereum-tests-2300-as-macro-and-geopolitical-risks-weigh-on-crypto-markets/articleshow/135210501.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-hotels-reports-revenues-of-rs-1054-cr-for-q2-pat-at-rs-203-cr/articleshow/135210456.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/global-market-european-shares-flat-as-investors-assess-earnings-france-turmoil/articleshow/135209743.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/asia-focused-banks-face-bond-market-risks-ahead-of-q3-earnings/articleshow/135209404.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-skyrocket-19-after-ev-maker-swings-to-rs-1-26-crore-profit-in-q2/articleshow/135209355.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/softbank-sells-1-21-crore-ola-electric-rights-entitlements-as-ev-maker-seeks-to-raise-rs-1000-crore/articleshow/135209308.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/the-war-bump-is-a-false-victory-for-sp-500-profits/articleshow/135209183.cms",
     "https://economictimes.indiatimes.com/markets/forex/rupee-weakens-for-third-session-as-importers-step-up-dollar-bids-foreign-outflows-bite/articleshow/135208766.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/michael-burrys-top-10-life-lessons-for-genz-buy-half-the-house-you-can-afford/articleshow/135208206.cms",
@@ -499,15 +492,21 @@
     "https://www.livemint.com/market/cryptocurrency/binance-hack-tether-circle-freeze-2-4-billion-in-crypto-assets-bitcoin-tumbles-below-79-000-heres-what-happened-11793321650037.html",
     "https://www.livemint.com/market/polymarket-users-lose-2-7-million-in-suspected-debugbear-linked-cyberattack-how-it-unfolded-what-we-know-11793320690407.html",
     "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-30-october-11793320052124.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/ease-of-compliance-for-fpis-rationalisation-of-kyc-review-periodicity_105522.html"
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/ease-of-compliance-for-fpis-rationalisation-of-kyc-review-periodicity_105522.html",
+    "https://www.sebi.gov.in/legal/circulars/oct-2026/rationalisation-of-periodicity-of-kyc-review-for-fpis_105504.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-q2-results-profit-rises-14-yoy-to-rs-8389-crore-revenue-up-11/articleshow/135364558.cms",
+    "https://www.livemint.com/market/stock-market-news/reliance-industries-q2-results-2026-today-preview-should-you-buy-sell-or-hold-ahead-of-earnings-experts-views-11793325321666.html",
+    "https://www.business-standard.com/markets/news/can-sensex-nifty-extend-rally-on-friday-here-s-what-market-analysts-say-126103000078_1.html",
+    "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html",
+    "https://www.business-standard.com/markets/cryptocurrency/binance-s-possible-hack-triggers-3-billion-freeze-in-crypto-assets-126103000072_1.html",
+    "https://www.business-standard.com/industry/news/bengaluru-matches-tokyo-with-11-5-office-rent-growth-in-q3-knight-frank-126103001568_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues",
     "Indian shares on track for muted open as oil concerns persist, Fed in focus",
     "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
     "Top stocks to buy: Adani Energy, AU Small Finance Bank, BPCL, IDFC First Bank \u2014 Jefferies sees up to 62% upside | Target",
@@ -586,7 +585,8 @@
     "Global Market: European blue-chips set for strongest earnings in four years",
     "Suzlon Energy shares sink 8% after Q2 results miss margin expectations",
     "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9",
-    "Ease of Compliance for FPIs \u2013 Rationalisation of KYC Review Periodicity"
+    "Ease of Compliance for FPIs \u2013 Rationalisation of KYC Review Periodicity",
+    "Bengaluru matches Tokyo with 11.5% office rent growth in Q3: Knight Frank"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793367651.0938332,
+    "fetched_at": 1793370546.170528,
     "symbols": [
       "empower",
       "equitasbnk",
