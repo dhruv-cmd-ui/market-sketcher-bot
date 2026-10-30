@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/us-stock-markets-this-week-wall-street-gears-up-for-fed-rate-decision-q3-earnings-from-alphabet-microsoft-amazon-11792944787786.html",
-    "https://www.business-standard.com/markets/news/apollo-micro-systems-share-price-rallies-10-after-record-q2-performance-126102600208_1.html",
     "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-record-india-ipo-falls-short-of-record-payday-for-bankers/articleshow/135203965.cms",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1578-2026-issued-against-s-giridharan-in-the-matter-of-edserv-softsystems-ltd-under-recovery-certificate-no-6598-of-2023-_105350.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-edge-higher-ahead-of-key-central-bank-meetings/articleshow/135204344.cms",
@@ -499,15 +497,16 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/milky-mist-q2-revenue-surges-42-yoy-ebitda-soars-54/articleshow/135320553.cms",
     "https://www.livemint.com/market/stock-market-news/alphabet-shares-plunge-13-set-for-biggest-1-day-drop-in-over-20-years-why-is-google-parent-falling-after-q3-results-11793284509177.html",
     "https://www.livemint.com/market/stock-market-news/coal-india-dividend-2026-declared-check-amount-psu-quarterly-profit-up-57-when-is-record-date-11793283032165.html",
-    "https://www.business-standard.com/markets/interviews/sensex-nifty-may-gain-5-8-if-external-headwinds-recede-baldev-prakash-126103000105_1.html"
+    "https://www.business-standard.com/markets/interviews/sensex-nifty-may-gain-5-8-if-external-headwinds-recede-baldev-prakash-126103000105_1.html",
+    "https://www.livemint.com/market/stock-market-news/october-dividend-champions-infosys-colgate-hul-chennai-petro-coal-india-announce-big-payouts-check-amount-record-11793286004751.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-fall-4-as-nuvama-others-slash-target-prices-after-q2-margins-disappoint-what-lies-ahead/articleshow/135342553.cms"
   ],
   "last_fii_dii_post_date": "2026-10-29",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "IPO GMP, subscription race: Reliance Jio Platforms vs Paras Healthcare - Grey market premium, QIB, NII, Retail details",
     "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
     "Reliance\u2019s Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?",
     "Senco Gold to acquire 68% stake in August Jewellery for \u20b968 crore",
@@ -586,7 +585,8 @@
     "Kotak Bank shares gain 30% since April as earnings outlook brightens",
     "SFC Environmental Technologies IPO subscribed 9.5 times on final day",
     "Indian shares seen opening higher after earnings-led rebound; higher oil to cap gains",
-    "Sensex, Nifty may gain 5-8% if external headwinds recede: Baldev Prakash"
+    "Sensex, Nifty may gain 5-8% if external headwinds recede: Baldev Prakash",
+    "Suzlon Energy shares fall 4% as Nuvama, others slash target prices after Q2 margins disappoint. What lies ahead?"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793331868.013351,
+    "fetched_at": 1793335442.858852,
     "symbols": [
-      "bankbeta",
-      "bankietf",
+      "easemytrip",
       "empower",
       "equitasbnk",
-      "fmcgietf",
-      "hdfcbse500",
-      "healthy",
-      "insureietf",
-      "itbees",
-      "liquidbees",
-      "liquidcase",
-      "ltgiltbees",
-      "metal",
-      "metalietf",
-      "midcapetf",
-      "niftybees",
-      "pharmabees",
-      "psubnkbees",
-      "setfgold",
-      "suzlon"
+      "eternal",
+      "heromotors",
+      "idea",
+      "jppower",
+      "lotusdev",
+      "marsons",
+      "moneyview",
+      "olaelec",
+      "pcjeweller",
+      "rpower",
+      "sagility",
+      "suzlon",
+      "tatagold",
+      "tatsilv",
+      "vedpower",
+      "vogl",
+      "yesbank"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
