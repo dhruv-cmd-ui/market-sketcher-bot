@@ -44,6 +44,7 @@ YOUTUBE_CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET", "")
 YOUTUBE_REFRESH_TOKEN = os.getenv("YOUTUBE_REFRESH_TOKEN", "")
 YOUTUBE_PRIVACY_STATUS = os.getenv("YOUTUBE_PRIVACY_STATUS", "public")
 YOUTUBE_CATEGORY_ID = os.getenv("YOUTUBE_CATEGORY_ID", "25")  # News & Politics
+YOUTUBE_CHANNEL_TAG = os.getenv("YOUTUBE_CHANNEL_TAG", "Market Sketch Book")  # added to every Short
 
 # --- Branding ---
 # Telegram cards point to the Telegram channel; Reels go to Instagram/Facebook.

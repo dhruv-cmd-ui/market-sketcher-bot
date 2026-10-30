@@ -40,13 +40,27 @@ def _access_token() -> str:
     return data["access_token"]
 
 
+_TAGS_CHAR_LIMIT = 480  # YouTube's combined-tags limit is 500; multi-word tags count +2 for quotes
+
+
+def _finalize_tags(tags: list[str]) -> list[str]:
+    """Channel tag always first (so it is never trimmed), dedupe, then fit the 500-char limit."""
+    final, total = [], 0
+    for tag in dict.fromkeys([config.YOUTUBE_CHANNEL_TAG, *tags]):
+        total += len(tag) + 1 + (2 if " " in tag else 0)
+        if total > _TAGS_CHAR_LIMIT:
+            break
+        final.append(tag)
+    return final
+
+
 def upload_short(local_video_path: str, title: str, description: str, tags: list[str]) -> str:
     token = _access_token()
     metadata = {
         "snippet": {
             "title": title[:100],
             "description": description,
-            "tags": tags,
+            "tags": _finalize_tags(tags),
             "categoryId": config.YOUTUBE_CATEGORY_ID,
         },
         "status": {

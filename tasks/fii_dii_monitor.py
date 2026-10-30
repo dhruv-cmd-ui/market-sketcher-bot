@@ -39,6 +39,69 @@ def _next_cta() -> str:
     return _CTAS[idx]
 
 
+# Ordered by search value (vidIQ keyword research, Oct 2026: fii dii data analysis, nifty 50 and
+# live nifty are growing; "stock market news today" is large). Prediction/"tomorrow" tags are
+# deliberately left out -- the reel only shows buy/sell/net figures, and tags for content the
+# video doesn't contain breach YouTube's metadata policy. The channel tag is added in
+# publishers/youtube.py for every Short.
+_YT_TAGS = [
+    "FII DII data today", "FII DII data analysis", "FII DII", "FII DII activity",
+    "FII buying selling today", "DII buying today", "FII DII kya hai", "Nifty 50", "Nifty 50 live",
+    "live Nifty", "Nifty today", "Sensex today", "stock market news today",
+    "Indian stock market news today", "stock market India", "Indian stock market",
+    "share market news", "stock market news today in india hindi", "NSE India",
+    "institutional investors",
+]
+_YT_TOPICS = [
+    "FII DII data today", "FII DII data analysis", "FII DII activity", "FII buying selling today",
+    "DII buying today", "FII DII kya hai", "Nifty 50", "live Nifty", "Nifty today", "Sensex today",
+    "stock market news today", "Indian stock market news today", "stock market India",
+    "share market news", "NSE India", "institutional investors",
+]
+_YT_HASHTAGS = "#Shorts #FIIDII #Nifty #StockMarket #Sensex"
+
+
+def _flow(net: float) -> str:
+    return "Net Buy" if net >= 0 else "Net Sell"
+
+
+def _youtube_metadata(content: dict, values: dict, report_date: datetime.date, hook_stat: str,
+                      hook_question: str, cta: str) -> tuple[str, str, list[str]]:
+    """Search-optimised YouTube title/description/tags built from the real NSE figures.
+    Deterministic on purpose so title, description Topics line and tags always match each
+    other; Gemini's youtube_tags are only appended as extras if there is room."""
+    date_str = report_date.strftime("%d %b %Y")
+    fii, dii = values["fii"], values["dii"]
+
+    title = (f"FII DII Data Today: FII {_flow(fii['net'])} ₹{abs(fii['net']):,.0f} Cr, "
+             f"DII {_flow(dii['net'])} ₹{abs(dii['net']):,.0f} Cr | {date_str}")
+    if len(title) > 100:
+        title = f"FII DII Data Today: {hook_stat.replace('NET BUY', 'Net Buy').replace('NET SELL', 'Net Sell')} | {date_str}"
+    title = title[:100]
+
+    def _line(name: str, v: dict) -> str:
+        return (f"{name} {_flow(v['net'])} ₹{abs(v['net']):,.0f} Cr "
+                f"(Buy ₹{v['buy']:,.0f} Cr, Sell ₹{v['sell']:,.0f} Cr)")
+
+    description = (
+        f"FII DII data today ({date_str}): {_line('FII', fii)}; {_line('DII', dii)} "
+        f"(provisional NSE data). Dekhiye FII DII data analysis aur Nifty 50 par iska asar.\n\n"
+        f"{hook_question}\n\n"
+        "FII DII kya hai? FII yaani foreign institutional investors aur DII yaani domestic "
+        "institutional investors. Inki buying selling se Indian stock market ka trend samajhne "
+        "mein madad milti hai.\n\n"
+        f"{cta}\n"
+        "Roz ka FII DII data aur stock market news today ke liye channel ko Follow/Subscribe karein 🔔\n\n"
+        f"Topics: {', '.join(_YT_TOPICS)}\n\n"
+        "Disclaimer: Ye video sirf educational purpose ke liye hai. Ye investment advice nahi hai. "
+        "Invest karne se pehle apne financial advisor se salah lein.\n\n"
+        f"{_YT_HASHTAGS}"
+    )
+
+    tags = list(dict.fromkeys([*_YT_TAGS, *(content.get("youtube_tags") or [])]))
+    return title, description, tags
+
+
 def _in_scrape_window(now_ist: datetime.datetime) -> bool:
     if now_ist.weekday() > 4:  # Mon=0 ... Sun=6
         return False
@@ -183,9 +246,9 @@ def run() -> None:
         logger.warning("FII/DII Monitor: no reel to upload; skipping YouTube.")
     else:
         try:
-            yt_title = f"{hook_stat} Today | FII DII Data {report_date.strftime('%d %b %Y')}"[:100]
-            yt_description = f"{hook_stat}\n{hook_question}\n\n{cta}\n\n{hashtags} #Shorts"
-            yt_tags = content.get("youtube_tags") or ["FII DII data", "Nifty", "Sensex", "Indian stock market"]
+            yt_title, yt_description, yt_tags = _youtube_metadata(
+                content, values, report_date, hook_stat, hook_question, cta)
+            logger.info("FII/DII Monitor: YouTube title=%r tags=%s", yt_title, yt_tags)
             post_video_to_youtube(reel_path, yt_title, yt_description, yt_tags, thumbnail_path=local_path)
         except Exception:
             logger.warning("FII/DII Monitor: YouTube post failed.", exc_info=True)
