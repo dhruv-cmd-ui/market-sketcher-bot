@@ -1,21 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-cr/articleshow/135182984.cms",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/post-jio-boost-5-ipos-to-raise-rs-2581-crore-next-week-alongside-indias-biggest-listing/articleshow/135182846.cms",
-    "https://www.livemint.com/market/stock-market-news/dividend-buzz-dalmia-bharat-mazagon-dock-coal-india-ntpc-2-others-to-consider-payouts-this-week-11792943992658.html",
-    "https://www.livemint.com/market/stock-market-news/psu-q2-results-2026-preview-bel-coal-india-igl-earnings-estimate-brokerage-target-price-returns-potential-11792946740816.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/dividends-stock-splits-lt-tech-shriram-finance-among-24-stocks-turning-ex-record-date-this-week-do-you-own/articleshow/135183913.cms",
-    "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-monday-oct-26-sensex-nifty-levels-top-stocks-to-watch-will-bulls-dance-again-11792934825551.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/warren-buffetts-6-golden-rules-for-investors-after-retirement/articleshow/135186407.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-surged-up-to-180-in-3-months-do-you-own-any/slideshow/135185427.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-48056-cr-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices/articleshow/135185267.cms",
-    "https://www.livemint.com/market/stock-market-news/bank-nifty-tumbles-nearly-3-slips-below-55k-more-selling-pressure-ahead-for-banking-stocks-check-key-levels-to-watch-11792920838777.html",
-    "https://www.livemint.com/market/stock-market-news/bonus-share-alert-after-677-return-in-1-year-multibagger-stock-declares-issue-do-you-own-ratio-record-date-update-11792915994762.html",
-    "https://www.livemint.com/market/stock-market-news/trump-hints-at-an-iran-attack-or-deal-impact-on-india-stock-market-sensex-nifty-gold-decoded-top-10-stocks-to-watch-11792906667676.html",
-    "https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-shares-in-focus-on-mon-oct-26-after-q2-results-2026-should-you-buy-sell-or-hold-experts-weigh-in-11792905299621.html",
-    "https://www.business-standard.com/markets/news/five-ipos-to-raise-nearly-2-600-crore-as-primary-market-stays-active-126102500208_1.html",
-    "https://www.business-standard.com/markets/news/q2-results-us-fed-decision-crude-oil-may-drive-stock-markets-this-week-126102500192_1.html",
     "https://www.business-standard.com/markets/news/fpis-withdraw-48-056-crore-from-equities-in-oct-amid-elevated-oil-prices-126102500122_1.html",
     "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-26-october-from-marketsmith-india-11792823161033.html",
     "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-26-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11792975256498.html",
@@ -499,15 +483,30 @@
     "https://www.business-standard.com/markets/news/crompton-greaves-share-price-down-38-from-2026-high-stock-may-see-pullback-analyst-126102900385_1.html",
     "https://www.business-standard.com/markets/news/meesho-shares-gain-2-as-q2-loss-narrows-cm-expands-brokerages-upbeat-126102900387_1.html",
     "https://www.business-standard.com/markets/commodities/gold-silver-open-weak-after-fed-keeps-rates-unchanged-prices-volatile-126102900370_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-soar-to-record-high-amid-improving-growth-prospects-earnings-expectations/articleshow/135336078.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-soar-to-record-high-amid-improving-growth-prospects-earnings-expectations/articleshow/135336078.cms",
+    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/et-explainer-what-do-the-new-reit-regulation-amendments-mean-for-investors/articleshow/135317911.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-alphabet-results-reignite-ai-spending-fears/articleshow/135317765.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/euro-nudges-lower-after-ecb-holds-steady-stocks-inch-up/articleshow/135317787.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/us-inflation-heats-up-in-september-consumer-spending-rises/articleshow/135317736.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/equitas-small-finance-bank-chief-pn-vasudevan-plans-exit-over-perceived-conflict-involving-daughters-nbfc/articleshow/135337853.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/ecb-keeps-rates-unchanged-but-points-to-mounting-inflation-risk/articleshow/135317600.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/pnb-suspends-12-employees-files-cbi-case-over-alleged-bank-fraud-involving-10-crore/articleshow/135337561.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/motilal-oswal-q2-results-pat-nearly-quadruples-to-rs-1070-crore-revenue-up-20/articleshow/135316998.cms",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-jio-platforms-trent-bel-rvnl-shares-in-focus-on-friday-30-oct-full-list-11793323032394.html",
+    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-29-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793320853972.html",
+    "https://www.livemint.com/market/stock-market-news/avadhut-sathe-case-why-asta-may-challenge-sebi-order-before-sat-over-grey-areas-in-stock-market-education-rules-11793276521913.html",
+    "https://www.livemint.com/market/stock-market-news/us-fed-chair-kevin-warsh-to-bring-major-change-to-fomc-s-2027-meeting-schedule-what-does-it-mean-for-rate-decisions-11793278201836.html",
+    "https://www.livemint.com/market/nifty-premium-slips-as-traders-brace-for-renewed-west-asia-tensions-11793267602939.html",
+    "https://www.business-standard.com/markets/news/india-s-pharma-healthcare-deal-volumes-rise-23-in-q3-2026-report-126102901515_1.html",
+    "https://www.business-standard.com/markets/news/nse-flags-broker-lapses-in-margin-trading-client-funds-and-cybersecurity-126102901449_1.html",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/sfc-environmental-technologies-ipo-subscribed-9-5-times-on-final-day/articleshow/135337977.cms"
   ],
   "last_fii_dii_post_date": "2026-10-29",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Ahead of Market: 10 things that will decide stock market action on Monday",
     "Upcoming IPO GMP: EAAA India vs SFC Environmental vs BLS Polymers vs MK Sons Fine Jewels vs Bombay Coated Special Steels",
     "Dividend, stock split, resolution plans record date Oct 26: Hexaware, Midaas, Talwalkars Better Value, Ashapura Fashion",
     "IPO GMP, subscription race: Reliance Jio Platforms vs Paras Healthcare - Grey market premium, QIB, NII, Retail details",
@@ -586,7 +585,8 @@
     "Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore due to one-time deferred tax",
     "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns",
     "Jio Platforms first Q2 results after bumper listing: check date; Reliance firm\u2019s earnings in focus; key numbers to watch",
-    "Kotak Bank shares gain 30% since April as earnings outlook brightens"
+    "Kotak Bank shares gain 30% since April as earnings outlook brightens",
+    "SFC Environmental Technologies IPO subscribed 9.5 times on final day"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793321309.7005897,
+    "fetched_at": 1793325264.539499,
     "symbols": [
       "aeroflex",
       "bsoft",
