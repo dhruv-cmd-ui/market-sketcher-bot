@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/the-war-bump-is-a-false-victory-for-sp-500-profits/articleshow/135209183.cms",
-    "https://economictimes.indiatimes.com/markets/forex/rupee-weakens-for-third-session-as-importers-step-up-dollar-bids-foreign-outflows-bite/articleshow/135208766.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/michael-burrys-top-10-life-lessons-for-genz-buy-half-the-house-you-can-afford/articleshow/135208206.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sbi-chairman-cs-setty-sees-discretionary-credit-demand-moderating-expects-50-bps-rate-hike-in-december/articleshow/135222275.cms",
-    "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-are-tarnished-but-not-forgotten-why-hsbc-thinks-gains-in-white-metal-may-be-limited/articleshow/135207313.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/sumitomo-life-to-remain-cautious-on-jgb-yields-keep-investment-pace-unchanged-from-h1/articleshow/135207033.cms",
     "https://economictimes.indiatimes.com/markets/bonds/french-bond-selloff-eases-as-country-spared-ratings-downgrade/articleshow/135206922.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-nears-historic-inflation-milestone-shifts-focus-to-rate-hikes/articleshow/135206926.cms",
     "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-27-october-from-marketsmith-india-11793021378923.html",
@@ -499,15 +493,20 @@
     "https://www.business-standard.com/markets/news/can-sensex-nifty-extend-rally-on-friday-here-s-what-market-analysts-say-126103000078_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html",
     "https://www.business-standard.com/markets/cryptocurrency/binance-s-possible-hack-triggers-3-billion-freeze-in-crypto-assets-126103000072_1.html",
-    "https://www.business-standard.com/industry/news/bengaluru-matches-tokyo-with-11-5-office-rent-growth-in-q3-knight-frank-126103001568_1.html"
+    "https://www.business-standard.com/industry/news/bengaluru-matches-tokyo-with-11-5-office-rent-growth-in-q3-knight-frank-126103001568_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
+    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-crude-oil-prices-to-fpi-inflows-triggers-that-could-reverse-trend-in-sensex-nifty-50-11793327449431.html",
+    "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-houthis-attack-saudi-arabia-126103000085_1.html",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-october-30-ril-jio-platforms-bob-equitas-sfb-trent-coal-india-126103000076_1.html",
+    "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-30",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
-    "Indian shares on track for muted open as oil concerns persist, Fed in focus",
     "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
     "Top stocks to buy: Adani Energy, AU Small Finance Bank, BPCL, IDFC First Bank \u2014 Jefferies sees up to 62% upside | Target",
     "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
@@ -586,7 +585,8 @@
     "Suzlon Energy shares sink 8% after Q2 results miss margin expectations",
     "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9",
     "Ease of Compliance for FPIs \u2013 Rationalisation of KYC Review Periodicity",
-    "Bengaluru matches Tokyo with 11.5% office rent growth in Q3: Knight Frank"
+    "Bengaluru matches Tokyo with 11.5% office rent growth in Q3: Knight Frank",
+    "Extension of timeline with respect to compliance of Digital Accessibility Circulars"
   ],
   "reels_posted": {
     "date": "2026-10-30",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793370546.170528,
+    "fetched_at": 1793373772.7598653,
     "symbols": [
       "empower",
       "equitasbnk",
