@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/mankind-pharma-share-price-soars-11-in-2-days-on-strong-q2-earnings-brokerages-upbeat-126102700209_1.html",
-    "https://www.business-standard.com/markets/news/tata-consumer-products-share-price-gains-4-after-q2-show-margin-recovery-keenly-eyed-126102700202_1.html",
-    "https://www.business-standard.com/markets/news/hindalco-atgl-analyst-flags-weak-trend-amid-death-cross-formation-on-the-daily-charts-126102700191_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/allied-blenders-q2-results-profit-rises-9-7-to-rs-69-crore-revenue-up-6-8/articleshow/135240967.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-energies-q2-results-profit-falls-15-yoy-to-rs-719-crore-revenue-rises-24/articleshow/135239084.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bharti-airtel-tata-consumer-asian-paints-coal-india-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/135234189.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q2-results-profit-jumps-51-to-rs-1660-crore-nii-up-23/articleshow/135234003.cms",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/ril-jpl-q2-results-2026-impact-reliance-industries-jio-platforms-shares-in-focus-on-monday-2-nov-what-to-expect-11793373081405.html",
     "https://www.business-standard.com/world-news/binance-hit-by-record-6-3-bn-crypto-theft-north-korea-suspected-126103001944_1.html",
     "https://www.business-standard.com/markets/news/markets-hit-6-month-high-in-oct-on-it-rally-jio-platforms-ipo-frenzy-126103001606_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-sbi-securities-lists-11-stocks-with-up-to-22-upside-potential-do-you-own-any/slideshow/135388727.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-sbi-securities-lists-11-stocks-with-up-to-22-upside-potential-do-you-own-any/slideshow/135388727.cms",
+    "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
+    "https://www.livemint.com/market/stock-market-news/chip-stocks-crash-intel-plunges-30-amd-drops-12-nvidia-and-broadcom-also-slide-whats-driving-the-selloff-11793380373861.html",
+    "https://www.business-standard.com/markets/news/sebi-imposes-1-crore-fine-on-cdsl-for-multiple-compliance-lapses-126103001384_1.html",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-value-fashion-retailer-ratnadeep-retail-gets-sebi-nod-to-raise-funds-through-public-issue/articleshow/135389668.cms"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-31",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Swiggy shares jump 5% a day after Q2 results sparked a 17% crash. Why brokerages remain bullish despite target price cuts",
     "Eternal extends rally; stock soars 8% in two days post Q2 results",
     "Mind-boggling Monday at Indian stock markets: Sensex, Nifty mirror life\u2019s ups and downs \u2014 October 26 trade details",
     "Yes Bank among 6 stocks to hit 52-week lows and fall up to 32% in a month",
@@ -586,7 +585,8 @@
     "Raw sugar gains nearly 10% in October; robusta coffee 6% down",
     "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets",
     "Binance crypto exchange's $6.3 bn heist rattles crypto, draws scrutiny",
-    "Diwali stock picks: SBI Securities lists 11 stocks with up to 22% upside potential. Do you own any?"
+    "Diwali stock picks: SBI Securities lists 11 stocks with up to 22% upside potential. Do you own any?",
+    "IPO ahead: Value-fashion retailer Ratnadeep Retail gets Sebi nod to raise funds through public issue"
   ],
   "reels_posted": {
     "date": "2026-10-31",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793425036.3517463,
+    "fetched_at": 1793427302.7213047,
     "symbols": [
       "empower",
       "equitasbnk",
