@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/upi-mdr-an-additional-earnings-opportunity-not-paytms-business-model-foundation-brokerages/articleshow/135232857.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/paypal-raises-2026-profit-forecast-as-turnaround-gains-traction/articleshow/135232771.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/wework-india-h1fy27-net-profit-rockets-150-revenue-surges-30/articleshow/135232672.cms",
     "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-near-79000-as-fed-rate-uncertainty-selling-pressure-weigh-on-crypto-markets/articleshow/135232578.cms",
@@ -499,15 +498,15 @@
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/final-order-in-the-matter-of-eki-energy-services-ltd-_105524.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
     "https://www.business-standard.com/markets/news/sebi-aims-to-make-capital-markets-more-accessible-resilient-chairman-126103100530_1.html",
-    "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms"
+    "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
+    "https://www.business-standard.com/markets/cryptocurrency/binance-hack-exposes-unsolvable-crypto-risk-billions-can-vanish-overnight-126103100205_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-31",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "MRPL share price zooms 12% in muted market; among most active stocks on NSE",
     "Jio Platforms IPO allotment status finalised! Did you get shares - check from direct Kfin tech, NSE website links",
     "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
     "Indian shares seen lower as oil stays near six-month high, Fed in focus",
@@ -586,7 +585,8 @@
     "Stocks to buy: Sumeet Bagadia's top 3 stock recommendations \u2014 Sun Pharma, IndiGo, Infosys | Target price, stop-loss",
     "Binance's $6.3 bn hack signals the start of a risky era for crypto security",
     "Sebi aims to make capital markets more accessible, resilient: Chairman",
-    "Silver loses more than half its value from record high: What went wrong and will it recover?"
+    "Silver loses more than half its value from record high: What went wrong and will it recover?",
+    "Binance hack exposes unsolvable crypto risk: Billions can vanish overnight"
   ],
   "reels_posted": {
     "date": "2026-10-31",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793441448.2300212,
+    "fetched_at": 1793444698.1635892,
     "symbols": [
       "empower",
       "equitasbnk",
