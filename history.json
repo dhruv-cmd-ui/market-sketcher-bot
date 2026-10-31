@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/larsen-toubro-q2-results-profit-surges-33-yoy-to-rs-5202-crore-revenue-grows-16/articleshow/135233297.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/raymond-q2-results-net-profit-jumps-130-yoy-to-rs-32-crore-revenue-rises-24/articleshow/135233071.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/greece-raises-500-million-from-three-month-t-bills-yield-rises/articleshow/135232989.cms",
     "https://economictimes.indiatimes.com/markets/bonds/uk-bonds-britain-issues-costliest-5-year-debt-since-2008-before-budget/articleshow/135232907.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/upi-mdr-an-additional-earnings-opportunity-not-paytms-business-model-foundation-brokerages/articleshow/135232857.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/paypal-raises-2026-profit-forecast-as-turnaround-gains-traction/articleshow/135232771.cms",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/wall-street-slides-as-ai-cash-burn-worries-spark-tech-selloff-11793385103163.html",
     "https://www.livemint.com/market/stock-market-news/stocks-to-buy-sumeet-bagadias-top-3-stock-recommendations-sun-pharma-indigo-infosys-target-price-stoploss-11793428189400.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms",
-    "https://www.business-standard.com/markets/cryptocurrency/binance-s-6-3-bn-hack-signals-the-start-of-a-risky-era-for-crypto-security-126103100424_1.html"
+    "https://www.business-standard.com/markets/cryptocurrency/binance-s-6-3-bn-hack-signals-the-start-of-a-risky-era-for-crypto-security-126103100424_1.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/final-order-in-the-matter-of-eki-energy-services-ltd-_105524.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
+    "https://www.business-standard.com/markets/news/sebi-aims-to-make-capital-markets-more-accessible-resilient-chairman-126103100530_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-31",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "Yes Bank among 6 stocks to hit 52-week lows and fall up to 32% in a month",
     "Brazil\u2019s Ibovespa plunges 17.3% as Lula defeats Bolsonaro in presidential runoff; biggest-ever one-day crash",
     "MRPL share price zooms 12% in muted market; among most active stocks on NSE",
     "Jio Platforms IPO allotment status finalised! Did you get shares - check from direct Kfin tech, NSE website links",
@@ -586,7 +585,8 @@
     "Diwali stock picks: SBI Securities lists 11 stocks with up to 22% upside potential. Do you own any?",
     "IPO ahead: Value-fashion retailer Ratnadeep Retail gets Sebi nod to raise funds through public issue",
     "Stocks to buy: Sumeet Bagadia's top 3 stock recommendations \u2014 Sun Pharma, IndiGo, Infosys | Target price, stop-loss",
-    "Binance's $6.3 bn hack signals the start of a risky era for crypto security"
+    "Binance's $6.3 bn hack signals the start of a risky era for crypto security",
+    "Sebi aims to make capital markets more accessible, resilient: Chairman"
   ],
   "reels_posted": {
     "date": "2026-10-31",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793434628.44068,
+    "fetched_at": 1793438081.5014167,
     "symbols": [
       "empower",
       "equitasbnk",
