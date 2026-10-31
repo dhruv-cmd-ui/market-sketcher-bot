@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html",
-    "https://www.livemint.com/market/stock-market-news/apollo-micro-paras-defence-bel-hal-defence-stocks-today-soar-up-to-9-as-dac-clears-rs-2-12-lakh-crore-proposals-11793081045775.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/hal-bel-paras-defence-other-stocks-in-focus-after-dac-clears-proposals-worth-rs-2-12-lakh-crore/articleshow/135223830.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/aerospace-stock-aequs-plunges-19-after-q2-results-why-are-investors-worried/articleshow/135224407.cms",
     "https://economictimes.indiatimes.com/markets/stocks/a-banking-giant-a-battered-stock-can-hdfc-banks-new-chief-turn-the-tide/videoshow/135227258.cms",
     "https://www.livemint.com/market/stock-market-news/aequs-shares-crash-19-after-q2-2026-losses-widen-buy-sell-or-hold-brokerage-weighs-in-on-what-s-next-11793080303660.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-taurian-mps-ltd-_105452.html",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/reliance-industries-q2-results-2026-ril-quarterly-earnings-announced-check-profit-revenue-ebitda-11793369864628.html",
     "https://www.livemint.com/market/stock-market-news/india-stock-market-shares-nse-bse-nifty-sensex-crude-oil-forex-fii-equities-jio-ipo-reliance-11793364836080.html",
     "https://www.livemint.com/market/stock-market-news/after-ipo-listing-jio-platforms-q2-results-2026-announced-check-arpu-profit-revenue-ebitda-subscriber-base-details-11793367854729.html",
-    "https://www.livemint.com/market/raw-sugar-gains-nearly-10-in-october-robusta-coffee-6-down-11793391327507.html"
+    "https://www.livemint.com/market/raw-sugar-gains-nearly-10-in-october-robusta-coffee-6-down-11793391327507.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/record-earnings-5-big-takeaways-from-ril-q2-results-investors-should-watch-for-monday-trading/articleshow/135367917.cms",
+    "https://www.livemint.com/market/stock-market-news/vijay-kedias-portfolio-stock-under-rs-150-this-textile-stock-adds-rs-3-7-crore-to-his-wealth-since-ipo-do-you-own-11793366185526.html",
+    "https://www.livemint.com/market/stock-market-news/silver-price-crash-deepens-as-oct-losses-hit-rs-45-000-kg-gold-falls-to-7-month-low-why-are-precious-metals-sinking-11793368770318.html",
+    "https://www.livemint.com/market/nasdaq-100-hits-third-correction-of-2026-on-unwinding-tech-stock-bets-11793388066834.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-31",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Jio\u2019s record India IPO falls short of record payday for bankers",
     "Global Market: Japan bond yields edge higher ahead of key central bank meetings",
     "Swiggy shares rise 6% after 4-session down episode; is this a relief rally or worst is over? Experts decode | Target, SL",
     "Swiggy shares jump 5% a day after Q2 results sparked a 17% crash. Why brokerages remain bullish despite target price cuts",
@@ -586,7 +585,8 @@
     "Moneyview shares give 30% returns to allottees within a month of IPO listing | Buy, sell or hold? Experts' views, target",
     "Global tech giants' spending spooks investors and drives bonds rally",
     "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
-    "Raw sugar gains nearly 10% in October; robusta coffee 6% down"
+    "Raw sugar gains nearly 10% in October; robusta coffee 6% down",
+    "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets"
   ],
   "reels_posted": {
     "date": "2026-10-31",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793414663.86447,
+    "fetched_at": 1793418060.864311,
     "symbols": [
       "empower",
       "equitasbnk",
