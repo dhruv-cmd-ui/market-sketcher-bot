@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-suzuki-q2-results-profit-falls-26-yoy-to-rs-2466-crore-but-revenue-rises-26/articleshow/135230515.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-net-profit-falls-35-to-rs-878-crore-revenue-dips-2/articleshow/135230643.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/indian-lenders-defer-dollar-debt-sale-plan-as-rates-turn-expensive/articleshow/135230457.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q2-results-profit-jumps-35-yoy-to-rs-3354-crore-revenue-up-34/articleshow/135230311.cms",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms",
     "https://www.livemint.com/market/stock-market-news/jio-platforms-up-27-8-since-ipo-listing-but-how-ril-jio-fin-alok-ind-network-18-lotus-shares-fared-in-3-years-11793451564192.html",
     "https://www.livemint.com/market/stock-market-news/ntpc-vs-ntpc-green-energy-q2-results-2026-compared-which-psu-wins-on-q2-profit-revenue-ebitda-dividend-details-11793422791057.html",
-    "https://www.livemint.com/market/inflation-inequality-and-debt-the-charts-scaring-wall-street-11793452322227.html"
+    "https://www.livemint.com/market/inflation-inequality-and-debt-the-charts-scaring-wall-street-11793452322227.html",
+    "https://www.livemint.com/market/stock-market-news/stock-market-prediction-nov-2-6-week-nifty-sensex-rebound-from-losses-will-bulls-deliver-a-diwali-bonanza-outlook-11793459177658.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-31",
-    "count": 18
+    "count": 19
   },
   "recent_titles": [
-    "Apollo Micro Systems shares: Defence stock up 60% in 2026, soars 8% in Q2 rally - Key levels to watch \u200bnext",
     "Gold prices fall \u20b9492 ahead of US Fed meeting, silver slips \u20b92,004",
     "Jefferies says Vodafone Idea shares can soar 143% in bull case scenario. 3 reasons why brokerage is upbeat",
     "Apollo Micro, Paras Defence, BEL, HAL: Defence stocks today soar up to 9% as DAC clears  \u20b92.12 lakh crore proposals",
@@ -586,7 +585,8 @@
     "Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey",
     "Jio Platforms up 27.8% since IPO listing but how RIL, Jio Fin, Alok Ind, Network 18, Lotus shares fared in 3 years?",
     "NTPC vs NTPC Green Energy Q2 results 2026 compared: Which PSU wins on Q2 profit, revenue, EBITDA, dividend? Details",
-    "Inflation, Inequality and Debt: The Charts Scaring Wall Street"
+    "Inflation, Inequality and Debt: The Charts Scaring Wall Street",
+    "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook"
   ],
   "reels_posted": {
     "date": "2026-10-31",
