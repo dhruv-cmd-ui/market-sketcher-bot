@@ -1,13 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-net-profit-falls-35-to-rs-878-crore-revenue-dips-2/articleshow/135230643.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/indian-lenders-defer-dollar-debt-sale-plan-as-rates-turn-expensive/articleshow/135230457.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q2-results-profit-jumps-35-yoy-to-rs-3354-crore-revenue-up-34/articleshow/135230311.cms",
-    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-28-october-from-marketsmith-india-11793111732152.html",
-    "https://www.livemint.com/market/stock-market-news/united-breweries-q2-results-profit-jumps-190-revenue-rises-24-as-premium-beer-volumes-surge-kingfisher-sales-up-44-11793120558435.html",
-    "https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-16-biggest-1-day-gain-since-april-why-is-the-stock-rallying-despite-brokerage-downgrades-11793103468902.html",
-    "https://www.livemint.com/market/ipo/jio-platforms-ipo-share-price-gmp-market-cap-11793102563152.html",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-cdsl-zydus-lifesciences-sun-pharma-by-jay-thakkar-for-near-term-check-targets-11793100938012.html",
     "https://www.livemint.com/market/european-stocks-erase-losses-as-iran-comments-feed-peace-hopes-11793102726539.html",
     "https://www.livemint.com/market/stock-market-news/defence-stocks-to-buy-systematix-initiates-coverage-for-astra-microwave-data-patterns-sees-up-to-66-upside-11793096961267.html",
     "https://www.livemint.com/market/acts-of-god-meet-acts-of-ai-in-private-equity-s-new-debt-play-11793101262942.html",
@@ -499,15 +491,22 @@
     "https://www.livemint.com/market/stock-market-news/jio-platforms-up-27-8-since-ipo-listing-but-how-ril-jio-fin-alok-ind-network-18-lotus-shares-fared-in-3-years-11793451564192.html",
     "https://www.livemint.com/market/stock-market-news/ntpc-vs-ntpc-green-energy-q2-results-2026-compared-which-psu-wins-on-q2-profit-revenue-ebitda-dividend-details-11793422791057.html",
     "https://www.livemint.com/market/inflation-inequality-and-debt-the-charts-scaring-wall-street-11793452322227.html",
-    "https://www.livemint.com/market/stock-market-news/stock-market-prediction-nov-2-6-week-nifty-sensex-rebound-from-losses-will-bulls-deliver-a-diwali-bonanza-outlook-11793459177658.html"
+    "https://www.livemint.com/market/stock-market-news/stock-market-prediction-nov-2-6-week-nifty-sensex-rebound-from-losses-will-bulls-deliver-a-diwali-bonanza-outlook-11793459177658.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-profit-sinks-40-yoy-in-q2-but-revenue-rises-on-fifa-subscription-growth/articleshow/135387331.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-profit-rises-28-yoy-to-rs-1013-crore-in-sept-quarter/articleshow/135387254.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-takes-a-hit-on-exceptional-items/articleshow/135387152.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/varun-beverages-q3-net-profit-rises-13-yoy-but-margins-fall/articleshow/135387006.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-stumble-at-end-of-best-month-since-june-on-ai-worries/articleshow/135386838.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-midterm-us-elections-earnings-jobs-data-loom-for-ai-wary-stock-market/articleshow/135386687.cms",
+    "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
+    "https://www.business-standard.com/markets/cryptocurrency/binance-says-90-of-assets-stolen-in-record-hack-have-been-replenished-126103101242_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-31",
-    "count": 19
+    "count": 20
   },
   "recent_titles": [
-    "Gold prices fall \u20b9492 ahead of US Fed meeting, silver slips \u20b92,004",
     "Jefferies says Vodafone Idea shares can soar 143% in bull case scenario. 3 reasons why brokerage is upbeat",
     "Apollo Micro, Paras Defence, BEL, HAL: Defence stocks today soar up to 9% as DAC clears  \u20b92.12 lakh crore proposals",
     "Aerospace stock Aequs plunges 19% after Q2 results. Why are investors worried?",
@@ -586,7 +585,8 @@
     "Jio Platforms up 27.8% since IPO listing but how RIL, Jio Fin, Alok Ind, Network 18, Lotus shares fared in 3 years?",
     "NTPC vs NTPC Green Energy Q2 results 2026 compared: Which PSU wins on Q2 profit, revenue, EBITDA, dividend? Details",
     "Inflation, Inequality and Debt: The Charts Scaring Wall Street",
-    "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook"
+    "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook",
+    "Binance says 90% of assets stolen in record hack have been replenished"
   ],
   "reels_posted": {
     "date": "2026-10-31",
