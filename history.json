@@ -1,16 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/european-stocks-erase-losses-as-iran-comments-feed-peace-hopes-11793102726539.html",
-    "https://www.livemint.com/market/stock-market-news/defence-stocks-to-buy-systematix-initiates-coverage-for-astra-microwave-data-patterns-sees-up-to-66-upside-11793096961267.html",
-    "https://www.livemint.com/market/acts-of-god-meet-acts-of-ai-in-private-equity-s-new-debt-play-11793101262942.html",
-    "https://www.livemint.com/market/stock-market-news/newly-listed-stock-has-27-upside-potential-jm-financial-issues-buy-call-check-target-price-and-key-triggers-11793097853945.html",
-    "https://www.livemint.com/market/stock-market-news/already-up-65-ytd-motilal-oswal-sees-a-further-36-upside-in-this-power-stock-check-target-price-11793097602268.html",
-    "https://www.livemint.com/market/stock-market-news/nifty-fmcg-down-22-in-2026-diwali-shopping-opportunity-for-investors-experts-decode-support-levels-and-recovery-bets-11793095230786.html",
-    "https://www.livemint.com/market/stock-market-news/amazon-stock-target-raised-by-morgan-stanley-ubs-ahead-of-q3-results-what-are-the-key-catalysts-know-here-11793095491619.html",
-    "https://www.livemint.com/market/stock-market-news/up-580-in-5-years-multibagger-stock-acutaas-chemicals-shares-jump-13-today-heres-why-q2-results-highlights-11793096150787.html",
-    "https://www.livemint.com/market/stock-market-news/this-tata-group-stock-jumps-7-today-after-q2-results-is-it-a-stock-to-buy-now-experts-decode-11793081896140.html",
-    "https://www.livemint.com/market/stock-market-news/netweb-technologies-shares-multibagger-stock-jumps-780-against-ipo-price-in-3-years-experts-see-more-upside-target-11793091172244.html",
-    "https://www.livemint.com/market/stock-market-news/top-diwali-2026-muhurat-stocks-to-buy-axis-securities-lists-9-shares-for-samvat-2083-check-target-upside-11793090694908.html",
     "https://www.livemint.com/market/amundi-says-worst-is-behind-us-as-gold-flirts-with-4000-11793092640404.html",
     "https://www.livemint.com/market/stock-market-news/best-steel-stocks-to-buy-jsw-steel-sail-why-aditya-birla-capital-is-betting-on-capacity-growth-and-margin-recovery-11793090058300.html",
     "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
@@ -499,15 +488,25 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-stumble-at-end-of-best-month-since-june-on-ai-worries/articleshow/135386838.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-midterm-us-elections-earnings-jobs-data-loom-for-ai-wary-stock-market/articleshow/135386687.cms",
     "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
-    "https://www.business-standard.com/markets/cryptocurrency/binance-says-90-of-assets-stolen-in-record-hack-have-been-replenished-126103101242_1.html"
+    "https://www.business-standard.com/markets/cryptocurrency/binance-says-90-of-assets-stolen-in-record-hack-have-been-replenished-126103101242_1.html",
+    "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-soar-14-in-october-to-end-at-6-month-high-as-us-weighs-fresh-attacks-after-midterm-elections-more-upside-ahead/articleshow/135388221.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/lic-housing-fin-q2-net-profit-grows-12-yoy/articleshow/135388049.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/new-india-slips-into-red-with-1267-cr-loss-in-q2/articleshow/135387922.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-barodas-q2-profit-surges-36-yoy-on-nse-stake-sale/articleshow/135387894.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-profit-takes-a-hit-on-qcomm-push/articleshow/135387788.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-profit-zooms-14-on-healthy-user-mix-digital-play/articleshow/135387627.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/airtel-africa-q2-profit-rises-16-to-254-million/articleshow/135387563.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/gail-q2-profit-surges-over-two-fold-yoy-to-4650-cr-despite-global-disruptions/articleshow/135387433.cms",
+    "https://www.livemint.com/market/stock-market-news/three-stocks-with-strong-order-books-to-watch-amid-indias-data-centre-boom-11793421808978.html",
+    "https://www.business-standard.com/markets/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty-126103101347_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-10-31",
-    "count": 20
+    "count": 21
   },
   "recent_titles": [
-    "Jefferies says Vodafone Idea shares can soar 143% in bull case scenario. 3 reasons why brokerage is upbeat",
     "Apollo Micro, Paras Defence, BEL, HAL: Defence stocks today soar up to 9% as DAC clears  \u20b92.12 lakh crore proposals",
     "Aerospace stock Aequs plunges 19% after Q2 results. Why are investors worried?",
     "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide?",
@@ -586,7 +585,8 @@
     "NTPC vs NTPC Green Energy Q2 results 2026 compared: Which PSU wins on Q2 profit, revenue, EBITDA, dividend? Details",
     "Inflation, Inequality and Debt: The Charts Scaring Wall Street",
     "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook",
-    "Binance says 90% of assets stolen in record hack have been replenished"
+    "Binance says 90% of assets stolen in record hack have been replenished",
+    "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty"
   ],
   "reels_posted": {
     "date": "2026-10-31",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793454144.5956938,
+    "fetched_at": 1793466464.7491977,
     "symbols": [
       "empower",
       "equitasbnk",
