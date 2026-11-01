@@ -1,23 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/amundi-says-worst-is-behind-us-as-gold-flirts-with-4000-11793092640404.html",
-    "https://www.livemint.com/market/stock-market-news/best-steel-stocks-to-buy-jsw-steel-sail-why-aditya-birla-capital-is-betting-on-capacity-growth-and-margin-recovery-11793090058300.html",
-    "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
-    "https://www.livemint.com/market/stock-market-news/ather-energy-shares-125-ytd-returns-experts-give-portfolio-stock-tag-after-q2-results-2026-target-stoploss-11793080902497.html",
-    "https://www.livemint.com/market/chinese-households-are-buying-gold-s-dip-as-prices-test-4000-11793089165184.html",
-    "https://www.business-standard.com/specials/bs-events/crypto-boom-or-risk-trap-experts-explain-what-young-investors-need-to-know-126102700935_1.html",
-    "https://www.business-standard.com/markets/news/jio-platforms-shares-trade-at-22-premium-in-grey-market-ahead-of-ipo-debut-126102701879_1.html",
-    "https://www.business-standard.com/markets/news/herd-mentality-fomo-among-biggest-risks-for-genz-investors-experts-126102701126_1.html",
-    "https://www.business-standard.com/specials/bs-events/crypto-industry-leaders-flag-tax-hurdles-seek-regulatory-clarity-in-india-126102701067_1.html",
-    "https://www.business-standard.com/markets/news/laurus-labs-rallies-4-for-2nd-straight-day-stock-hits-new-high-126102700817_1.html",
-    "https://www.business-standard.com/markets/news/india-to-give-above-average-market-returns-in-next-2-years-devina-mehra-126102700818_1.html",
-    "https://www.business-standard.com/markets/news/acutaas-chemicals-rallies-13-hits-record-high-on-strong-q2-results-126102700730_1.html",
-    "https://www.business-standard.com/markets/news/gold-etfs-silver-etfs-under-pressure-sink-up-to-53-from-52-week-highs-silver-hits-11-month-low-126102700687_1.html",
-    "https://www.business-standard.com/markets/interviews/money-best-way-to-buy-your-freedom-gain-choices-in-life-ankur-warikoo-126102700683_1.html",
-    "https://www.business-standard.com/markets/news/bharti-airtel-share-price-up-3-rallies-12-in-october-outperforms-market-126102700623_1.html",
-    "https://www.business-standard.com/markets/news/bls-polymers-ipo-subscribed-3-9-times-on-day-1-gets-bullish-brokerage-nod-126102700516_1.html",
-    "https://www.business-standard.com/markets/news/us-aims-to-cool-oil-prices-ahead-of-midterm-dips-likely-to-be-short-lived-126102700505_1.html",
-    "https://www.business-standard.com/markets/news/hindustan-unilever-slips-3-hits-over-6-year-low-ahead-of-q2-results-126102700471_1.html",
     "https://www.business-standard.com/markets/news/sona-blw-precision-share-price-zooms-9-stock-hits-new-high-on-record-q2-earnings-126102700463_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-platforms-ril-infosys-lt-tata-capital-waaree-energies-and-vedanta-iron/articleshow/135245790.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-pulls-back-ahead-of-fed-decision/articleshow/135236366.cms",
@@ -499,15 +481,32 @@
     "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/gail-q2-profit-surges-over-two-fold-yoy-to-4650-cr-despite-global-disruptions/articleshow/135387433.cms",
     "https://www.livemint.com/market/stock-market-news/three-stocks-with-strong-order-books-to-watch-amid-indias-data-centre-boom-11793421808978.html",
-    "https://www.business-standard.com/markets/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty-126103101347_1.html"
+    "https://www.business-standard.com/markets/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty-126103101347_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q2-cons-profit-jumps-36-yoy-to-rs-3278-crore/articleshow/135401237.cms",
+    "https://economictimes.indiatimes.com/markets/bonds/us-bonds-rally-sending-yields-to-biggest-monthly-decline-since-2023/articleshow/135400137.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q2-results-net-profit-jumps-24-yoy-to-rs-173-crore-revenue-up-24/articleshow/135397659.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/turnaround-story-8-stocks-shift-from-loss-to-profit-in-september-26-quarter/slideshow/135395511.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-pushes-for-resilient-capital-markets-focuses-on-investor-protection-chairman/articleshow/135393379.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-that-gain-for-5-days-in-a-row/slideshow/135392399.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
+    "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-big-break-above-23200-can-open-doors-for-23500-for-nifty-sudeep-shah-picks-6-stocks-ahead-of-diwali/articleshow/135390885.cms",
+    "https://www.livemint.com/market/stock-market-news/tata-motors-pv-vs-maruti-suzuki-shares-which-auto-stock-to-buy-after-q2-results-2026-experts-views-target-price-11793433708273.html",
+    "https://www.livemint.com/market/stock-market-news/garware-hi-tech-doubles-investors-money-in-1-year-rs-1-lakh-grows-to-nearly-rs-2-lakh-more-returns-ahead-target-11793441493314.html",
+    "https://www.livemint.com/market/stock-market-news/mukesh-ambani-stocks-reliance-industries-vs-jio-platforms-shares-compared-ril-or-jpl-what-to-buy-experts-views-11793435085388.html",
+    "https://www.livemint.com/market/stock-market-news/shares-down-28-in-6-months-but-incred-is-bullish-on-this-stock-with-58-future-returns-do-you-own-check-target-price-11793435762387.html",
+    "https://www.livemint.com/market/germany-rebuffs-italy-s-blame-over-rising-european-gas-prices-11793434098007.html",
+    "https://www.livemint.com/market/commodities/gold-rate-in-india-today-mcx-gold-falls-2-5-in-a-week-buy-at-low-price-or-avoid-ahead-of-diwali-dhanteras-2026-11793431585848.html",
+    "https://www.livemint.com/market/stock-market-news/dividend-stock-split-bonus-record-date-alert-2-8-nov-week-infosys-mazagon-dock-coal-india-sanofi-and-other-shares-11793425425443.html",
+    "https://www.business-standard.com/world-news/us-probing-possible-north-korean-link-to-6-3-bn-binance-hack-trump-126103100220_1.html",
+    "https://www.livemint.com/market/stock-market-news/why-did-investors-dump-technology-stocks-this-week-ai-spending-concerns-trigger-wall-street-selloff-11793468909464.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
-    "date": "2026-10-31",
-    "count": 21
+    "date": "2026-11-01",
+    "count": 1
   },
   "recent_titles": [
-    "Apollo Micro, Paras Defence, BEL, HAL: Defence stocks today soar up to 9% as DAC clears  \u20b92.12 lakh crore proposals",
     "Aerospace stock Aequs plunges 19% after Q2 results. Why are investors worried?",
     "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide?",
     "Aequs shares crash 19% after Q2 2026 losses widen; Buy, sell or hold? | Brokerage weighs in on what\u2019s next",
@@ -586,13 +585,14 @@
     "Inflation, Inequality and Debt: The Charts Scaring Wall Street",
     "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook",
     "Binance says 90% of assets stolen in record hack have been replenished",
-    "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty"
+    "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
+    "Why did investors dump technology stocks this week? AI spending concerns trigger Wall Street sell-off"
   ],
   "reels_posted": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "count": 1
   },
-  "meta_token_checked_on": "2026-10-31",
+  "meta_token_checked_on": "2026-11-01",
   "nse_holidays": {
     "year": 2026,
     "fetched_on": "2026-10-26",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793466464.7491977,
+    "fetched_at": 1793494589.5393534,
     "symbols": [
       "empower",
       "equitasbnk",
@@ -655,6 +655,6 @@
   },
   "news_evening_reel_date": "2026-10-25",
   "fii_cta_index": 0,
-  "news_morning_reel_date": "2026-10-31",
+  "news_morning_reel_date": "2026-11-01",
   "news_afternoon_post_date": "2026-10-26"
 }
