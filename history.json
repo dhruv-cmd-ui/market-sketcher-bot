@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/jio-platforms-share-price-listing-21-premium-becomes-india-s-2nd-most-valuable-firm-126102800274_1.html",
     "https://www.business-standard.com/industry/aviation/spicejet-s-domestic-market-share-falls-below-star-air-for-the-first-time-126102701761_1.html",
     "https://www.business-standard.com/markets/commodities/gold-silver-prices-slip-ahead-of-us-fed-decision-israel-election-results-126102800383_1.html",
     "https://www.livemint.com/market/wall-street-rises-on-revived-ai-momentum-as-earnings-season-picks-up-11793126566676.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/cash-rewards-coming-pfc-concor-rites-pfc-to-sonata-these-firms-to-announce-dividend-with-q2-results-2026-this-week-11793537407103.html",
     "https://www.livemint.com/market/stock-market-news/tax-twist-for-omc-stocks-indian-oil-bpcl-hpcl-shares-in-2-nov-focus-after-this-decision-by-govt-on-petrol-diesel-11793531837968.html",
     "https://www.livemint.com/market/stock-market-news/itc-q2-results-2026-preview-will-cigarette-business-drive-growth-profit-revenue-expectations-share-price-target-11793540718182.html",
-    "https://www.business-standard.com/markets/news/gold-silver-may-extend-losses-as-us-vote-jobs-data-test-sentiment-126110100670_1.html"
+    "https://www.business-standard.com/markets/news/gold-silver-may-extend-losses-as-us-vote-jobs-data-test-sentiment-126110100670_1.html",
+    "https://www.business-standard.com/markets/news/india-s-10-year-bond-yield-may-ease-to-6-75-7-by-march-sbi-research-126110100657_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-01",
-    "count": 18
+    "count": 19
   },
   "recent_titles": [
-    "Maruti Suzuki\u2019s Q2 paradox: record volumes, shrinking margins",
     "From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day",
     "Knowledge, courage, patience: Vijay Kedia's mantra for stock market success",
     "JPL share price: Jio Platforms IPO listing gains explained - How much profit investors made on debut",
@@ -586,7 +585,8 @@
     "Cash rewards coming? PFC, CONCOR, RITES, to Sonata- These firms to announce dividend with Q2 results 2026 this week",
     "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel",
     "ITC Q2 results 2026 preview: Will cigarette business drive growth? Profit, revenue expectations - share price target",
-    "Gold, silver may extend losses as US vote, jobs data test sentiment"
+    "Gold, silver may extend losses as US vote, jobs data test sentiment",
+    "India's 10-year bond yield may ease to 6.75-7% by March: SBI Research"
   ],
   "reels_posted": {
     "date": "2026-11-01",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793549183.3854299,
+    "fetched_at": 1793551142.3127778,
     "symbols": [
       "empower",
       "equitasbnk",
