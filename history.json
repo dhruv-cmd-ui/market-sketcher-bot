@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/how-israel-elections-2026-results-will-impact-tel-aviv-stock-exchange-tase-the-bursa-impact-decoded-11793108578963.html",
     "https://www.livemint.com/market/ipo/jio-ipo-listing-today-live-updates-mukesh-ambani-led-reliance-company-nse-bse-debut-at-10-am-will-there-be-profit-11793157066670.html",
     "https://www.livemint.com/market/stock-market-news/onesource-specialty-pharma-shares-jump-14-after-q2-results-recover-50-from-recent-lows-11793115107385.html",
     "https://www.business-standard.com/markets/news/jio-platforms-share-price-listing-21-premium-becomes-india-s-2nd-most-valuable-firm-126102800274_1.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms",
     "https://www.livemint.com/market/stock-market-news/from-wall-street-to-d-street-what-history-suggests-for-s-p-500-returns-impact-on-india-stock-market-sensex-nifty-11793526487765.html",
     "https://www.livemint.com/market/stock-market-news/sun-pharma-shares-gain-despite-q2-profit-slips-36-yoy-should-you-buy-sell-or-hold-what-brokerage-says-target-price-11793533331740.html",
-    "https://www.livemint.com/market/stock-market-news/cash-rewards-coming-pfc-concor-rites-pfc-to-sonata-these-firms-to-announce-dividend-with-q2-results-2026-this-week-11793537407103.html"
+    "https://www.livemint.com/market/stock-market-news/cash-rewards-coming-pfc-concor-rites-pfc-to-sonata-these-firms-to-announce-dividend-with-q2-results-2026-this-week-11793537407103.html",
+    "https://www.livemint.com/market/stock-market-news/tax-twist-for-omc-stocks-indian-oil-bpcl-hpcl-shares-in-2-nov-focus-after-this-decision-by-govt-on-petrol-diesel-11793531837968.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-01",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
-    "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows",
     "Investor education must explain why beating benchmarks is tough: Experts",
     "US Fed meeting October 2026 today: Expectations, date and time, when & where to watch Kevin Warsh's speech",
     "Maruti Suzuki\u2019s Q2 paradox: record volumes, shrinking margins",
@@ -586,7 +585,8 @@
     "Global beverage majors Carlsberg, Pernod, Coca-Cola advance India IPO plans",
     "From Wall Street to D-Street: What history suggests for S&P 500 returns, impact on India stock market, Sensex, Nifty",
     "Sun Pharma shares gain despite Q2 profit slips 36% YoY | Should you buy, sell or hold? What brokerage says, target price",
-    "Cash rewards coming? PFC, CONCOR, RITES, to Sonata- These firms to announce dividend with Q2 results 2026 this week"
+    "Cash rewards coming? PFC, CONCOR, RITES, to Sonata- These firms to announce dividend with Q2 results 2026 this week",
+    "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel"
   ],
   "reels_posted": {
     "date": "2026-11-01",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793540661.7403164,
+    "fetched_at": 1793543642.414022,
     "symbols": [
       "empower",
       "equitasbnk",
