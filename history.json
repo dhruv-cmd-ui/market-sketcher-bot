@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/135236374.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-infrastructure-q2-results-net-profit-falls-11-to-rs-328-crore/articleshow/135236084.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-deadline-for-debenture-trustees-to-comply-with-norms-till-april-2027/articleshow/135235986.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/coca-cola-raises-profit-forecast-as-premium-drinks-sodas-hold-strong/articleshow/135235940.cms",
     "https://www.livemint.com/market/ipo/jio-platforms-ipo-listing-today-check-exact-time-of-shares-trading-expected-debut-stock-price-at-nse-bse-11793147869799.html",
@@ -499,15 +497,16 @@
     "https://www.livemint.com/market/stock-market-news/why-did-investors-dump-technology-stocks-this-week-ai-spending-concerns-trigger-wall-street-selloff-11793468909464.html",
     "https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-under-rs-100-sumeet-bagadia-recommends-3-shares-to-buy-sjvn-nhpc-bank-of-maharashtra-targets-11793466108474.html",
     "https://www.livemint.com/market/carlyle-kkr-get-ready-to-snatch-up-bargain-loans-11793474974693.html",
-    "https://www.livemint.com/market/cryptocurrency/binance-crypto-theft-heres-how-north-korean-hackers-perfected-the-heist-stole-6-3-billion-in-20-minutes-details-11793500918241.html"
+    "https://www.livemint.com/market/cryptocurrency/binance-crypto-theft-heres-how-north-korean-hackers-perfected-the-heist-stole-6-3-billion-in-20-minutes-details-11793500918241.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty/articleshow/135416947.cms",
+    "https://www.livemint.com/market/stock-market-news/reliance-shares-buy-sell-or-hold-after-q2-results-2026-ril-stock-up-384-in-10-yrs-brokerages-advice-to-investors-11793504303710.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-01",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Gen Z's SIP competitor is lifestyle: Sakchi Jain on growing credit culture",
     "Jio IPO listing gains calculator: How much profit can you expect from one Small NII and Big NII lot after allotment?",
     "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
     "Allied Blenders Q2 Results: Profit rises 9.7% to Rs 69 crore, revenue up 6.8%",
@@ -586,7 +585,8 @@
     "Why did investors dump technology stocks this week? AI spending concerns trigger Wall Street sell-off",
     "Best stocks to buy under  \u20b9100: Sumeet Bagadia recommends 3 shares to buy \u2014 SJVN, NHPC, Bank of Maharashtra | Targets",
     "Carlyle, KKR Get Ready to Snatch Up Bargain Loans",
-    "Binance crypto theft: Here's how North Korean hackers perfected the heist, stole $6.3 billion in 20 minutes | Details"
+    "Binance crypto theft: Here's how North Korean hackers perfected the heist, stole $6.3 billion in 20 minutes | Details",
+    "Reliance shares: Buy, sell or hold after Q2 results 2026? RIL stock up 384% in 10 yrs! Brokerages advice to investors"
   ],
   "reels_posted": {
     "date": "2026-11-01",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793504879.8581016,
+    "fetched_at": 1793508445.5973763,
     "symbols": [
       "empower",
       "equitasbnk",
