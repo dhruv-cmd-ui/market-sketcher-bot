@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/ipo/jio-platforms-ipo-listing-today-check-exact-time-of-shares-trading-expected-debut-stock-price-at-nse-bse-11793147869799.html",
-    "https://www.business-standard.com/markets/news/sebi-may-consider-more-guardrails-for-derivatives-trading-says-murty-126102701292_1.html",
-    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-for-28-oct-sensex-nifty-prediction-jio-platforms-ipo-listing-gift-nifty-us-and-asian-markets-11793149578444.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/advent-international-30-billion-fundraise-india-biggest-market-asia-private-equity-investments/articleshow/135248816.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q2-results-on-october-30-board-to-also-consider-fundraising/articleshow/135237289.cms",
     "https://economictimes.indiatimes.com/markets/bonds/global-bond-issuance-set-to-grow-at-slowest-pace-in-five-years-in-2027-sp-global-ratings-says/articleshow/135237268.cms",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty/articleshow/135416947.cms",
     "https://www.livemint.com/market/stock-market-news/reliance-shares-buy-sell-or-hold-after-q2-results-2026-ril-stock-up-384-in-10-yrs-brokerages-advice-to-investors-11793504303710.html",
     "https://www.livemint.com/market/stock-market-news/jio-platforms-vs-bharti-airtel-shares-which-telecom-stock-to-buy-after-reliance-arm-s-ipo-listing-experts-suggestions-11793507858149.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-infosys-asian-paints-among-over-40-stocks-turning-ex-date-this-week/articleshow/135418410.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-infosys-asian-paints-among-over-40-stocks-turning-ex-date-this-week/articleshow/135418410.cms",
+    "https://www.livemint.com/market/cryptocurrency/binance-replaces-90-of-stolen-crypto-after-record-6-3-billion-hack-pledges-to-cover-remaining-losses-11793469971870.html",
+    "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-all-eyes-on-us-midterm-elections-jobs-data-earnings-from-apple-amd-and-palantir-also-in-focus-11793462491155.html",
+    "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-sbi-britannia-biocon-by-ganesh-dongre-of-anand-rathi-targets-stop-loss-stock-market-views-11793467488582.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-01",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
     "Allied Blenders Q2 Results: Profit rises 9.7% to Rs 69 crore, revenue up 6.8%",
     "Stocks in news: Jio Platforms, RIL, Infosys, L&T, Tata Capital, Waaree Energies and Vedanta Iron",
     "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets",
@@ -586,7 +585,8 @@
     "Carlyle, KKR Get Ready to Snatch Up Bargain Loans",
     "Binance crypto theft: Here's how North Korean hackers perfected the heist, stole $6.3 billion in 20 minutes | Details",
     "Reliance shares: Buy, sell or hold after Q2 results 2026? RIL stock up 384% in 10 yrs! Brokerages advice to investors",
-    "Bonus issues, stock splits, dividends: Infosys, Asian Paints among over 40 stocks turning ex-date this week"
+    "Bonus issues, stock splits, dividends: Infosys, Asian Paints among over 40 stocks turning ex-date this week",
+    "Best 3 stocks to buy: SBI, Britannia, Biocon by Ganesh Dongre of Anand Rathi | Targets, stop-loss, stock market views"
   ],
   "reels_posted": {
     "date": "2026-11-01",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793511758.504229,
+    "fetched_at": 1793515825.6373534,
     "symbols": [
       "empower",
       "equitasbnk",
