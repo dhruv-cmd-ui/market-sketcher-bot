@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/jetblue-shares-surge-12-as-airline-seeks-to-calm-financial-concerns/articleshow/135237199.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-jio-platforms-ril-hul-adani-enterprises-shares-in-focus-on-wed-28-oct-full-list-11793152271100.html",
     "https://www.business-standard.com/markets/news/stock-market-live-oct-28-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-iran-strikes-brent-crude-ipos-jio-listing-jio-share-price-it-stocks-maruti-share-price-q1-result-today-share-market-today-126102800114_1.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-sbi-britannia-biocon-by-ganesh-dongre-of-anand-rathi-targets-stop-loss-stock-market-views-11793467488582.html",
     "https://www.livemint.com/market/stock-market-news/bonus-share-just-single-issue-with-record-date-this-week-pharma-firms-free-shares-with-68-returns-since-ipo-ratio-11793517001201.html",
     "https://www.livemint.com/market/commodities/gold-silver-rates-approaching-dec-2025-levels-energy-prices-inflation-fed-weighing-on-investor-sentiments-details-11793521144409.html",
-    "https://www.livemint.com/market/stock-market-news/bonus-share-by-multibagger-gold-stock-shares-surge-over-300-in-2026-check-issue-ratio-as-record-date-awaited-11793517790006.html"
+    "https://www.livemint.com/market/stock-market-news/bonus-share-by-multibagger-gold-stock-shares-surge-over-300-in-2026-check-issue-ratio-as-record-date-awaited-11793517790006.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/good-intentions-unintended-consequences-the-cost-of-regulation/articleshow/135422850.cms"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-01",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Stock Market LIVE: GIFT Nifty tanks 150 points as oil tops $115; Jio Platforms listing in focus",
     "Jio IPO listing today LIVE updates: Mukesh Ambani-led Reliance company NSE, BSE debut at 10 am | Will there be profit?",
     "Jio Platforms lists at 21% premium, becomes India's 2nd-most valuable firm",
     "Gold, silver prices slip ahead of US Fed decision, Israel election results",
@@ -586,7 +585,8 @@
     "Best 3 stocks to buy: SBI, Britannia, Biocon by Ganesh Dongre of Anand Rathi | Targets, stop-loss, stock market views",
     "Bonus share: Just single issue with record date this week: Pharma firm's free shares with 68% returns since IPO; ratio",
     "Gold, silver rates approaching Dec 2025 levels; energy prices, inflation, Fed weighing on investor sentiments - Details",
-    "Bonus share by multibagger gold stock: Shares surge over 300% in 2026 - Check issue ratio as record date awaited"
+    "Bonus share by multibagger gold stock: Shares surge over 300% in 2026 - Check issue ratio as record date awaited",
+    "Good intentions, unintended consequences: The cost of regulation"
   ],
   "reels_posted": {
     "date": "2026-11-01",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793526056.8606775,
+    "fetched_at": 1793529422.205485,
     "symbols": [
       "empower",
       "equitasbnk",
