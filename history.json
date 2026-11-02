@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/specials/bs-events/investor-education-must-explain-why-beating-benchmarks-is-tough-experts-126102800751_1.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-sumit-wadhwa-pan-aaopw8621r-pal-singh-pan-bdkps9758p-and-harleen-singh-pan-ankps5827l-defaulters-in-the-matter-of-unregistered-investment-adviser-under-certificate-no-786-_105411.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-results-standalone-profit-falls-24-to-rs-1189-crore-but-revenue-gains-18-yoy/articleshow/135259321.cms",
     "https://www.livemint.com/market/stock-market-news/us-fed-meeting-october-2026-today-expectations-date-and-time-when-where-to-watch-kevin-warshs-speech-11793175022190.html",
     "https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-expectations-time-where-to-watch-kevin-warshs-speech-how-rate-decision-may-impact-gold-markets-11793157523493.html",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/news/geopolitical-risks-crude-oil-and-earnings-to-steer-markets-this-week-126110100474_1.html",
     "https://www.business-standard.com/markets/news/sebi-working-to-delist-companies-with-no-economic-activity-chairman-126110100260_1.html",
     "https://www.business-standard.com/markets/news/sebi-extends-digital-accessibility-compliance-deadline-to-january-31-126110100272_1.html",
-    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-2-november-from-marketsmith-india-11793437081567.html"
+    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-2-november-from-marketsmith-india-11793437081567.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-regulator-plans-ai-based-surveillance-of-such-firms/articleshow/135441629.cms",
+    "https://www.business-standard.com/markets/news/how-will-us-midterms-impact-indian-equities-bond-yields-crude-oil-126110100199_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-02",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Knowledge, courage, patience: Vijay Kedia's mantra for stock market success",
     "JPL share price: Jio Platforms IPO listing gains explained - How much profit investors made on debut",
     "SEBI signs MoU with BoE on cooperation and exchange of information related to SEBI-recognised Clearing Corporations",
     "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget",
@@ -586,7 +585,8 @@
     "ITC Q2 results 2026 preview: Will cigarette business drive growth? Profit, revenue expectations - share price target",
     "Gold, silver may extend losses as US vote, jobs data test sentiment",
     "India's 10-year bond yield may ease to 6.75-7% by March: SBI Research",
-    "Stock recommendations for 2 November from MarketSmith India"
+    "Stock recommendations for 2 November from MarketSmith India",
+    "How will US midterms impact Indian equities, bond yields, crude oil?"
   ],
   "reels_posted": {
     "date": "2026-11-02",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793580937.883752,
+    "fetched_at": 1793584720.9309797,
     "symbols": [
       "empower",
       "equitasbnk",
