@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/ipo/anthropic-ipo-can-indian-investors-get-a-slice-of-the-ai-boom-what-to-know-about-access-and-risks-experts-explain-11793181602766.html",
-    "https://www.livemint.com/market/stock-market-news/reliance-vs-tata-group-market-cap-jio-platforms-share-price-11793181248458.html",
-    "https://www.livemint.com/market/stock-market-news/sona-blw-shares-surge-85-in-2026-hit-record-high-for-second-straight-session-what-s-driving-the-rally-buy-or-hold-11793175696706.html",
-    "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-share-price-after-robust-listing-how-much-more-can-mukesh-ambani-led-stock-rally-check-targets-11793171128870.html",
-    "https://www.livemint.com/market/mark-to-market/lt-products-profitability-semiconductor-industrial-electronics-scale-11793171059377.html",
     "https://www.livemint.com/market/stock-market-news/jio-platforms-share-price-what-rs-100-movement-in-new-reliance-group-stock-means-for-ril-shares-experts-explain-11793168654042.html",
     "https://www.business-standard.com/markets/news/stock-tips-mis-selling-sanjay-kathuria-flags-key-investment-traps-126102801246_1.html",
     "https://www.business-standard.com/specials/bs-events/value-investing-still-works-but-stock-selection-is-key-fund-managers-126102801015_1.html",
@@ -499,7 +494,12 @@
     "https://www.business-standard.com/markets/news/muthoot-finance-rebounds-up-9-from-52-week-low-as-stock-reacts-to-q2-nos-126110200210_1.html",
     "https://www.business-standard.com/markets/news/eaaa-india-alternatives-makes-muted-debut-lists-at-less-than-1-premium-126110200209_1.html",
     "https://www.business-standard.com/markets/news/ril-s-q2-beat-lifts-earnings-outlook-even-as-brokerages-pare-price-targets-126110200168_1.html",
-    "https://www.livemint.com/market/stock-market-news/itc-shares-to-be-in-focus-on-tuesday-as-q2-net-profit-drops-18-5-on-higher-cigarette-taxes-11793631186838.html"
+    "https://www.livemint.com/market/stock-market-news/itc-shares-to-be-in-focus-on-tuesday-as-q2-net-profit-drops-18-5-on-higher-cigarette-taxes-11793631186838.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-steel-among-5-stocks-to-buy-on-tuesday-for-healthy-returns/articleshow/135467317.cms",
+    "https://www.livemint.com/market/stock-market-news/after-bumper-ipo-listing-jio-platforms-shares-jump-3-post-strong-q2-results-should-you-buy-sell-or-hold-11793594781381.html",
+    "https://www.livemint.com/market/stock-market-news/jio-financial-shares-surge-4-but-fall-28-in-2026-can-stock-break-out-of-its-prolonged-downtrend-check-key-levels-11793594330626.html",
+    "https://www.business-standard.com/markets/news/gold-silver-rebound-after-sharp-losses-as-crude-oil-prices-soften-126110200293_1.html",
+    "https://www.business-standard.com/markets/news/why-is-the-stock-market-rising-sensex-extends-rally-jumps-1-030-pts-intraday-6-reasons-126110200234_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793637230.2898629,
+    "fetched_at": 1793640350.6398985,
     "symbols": [
       "easemytrip",
       "goldbees",
