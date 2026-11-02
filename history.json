@@ -1,21 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/bse-lenskart-motilal-oswal-stock-ideas-across-large-mid-and-small-caps-126102800139_1.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms",
-    "https://www.business-standard.com/markets/news/l-t-surges-6-sees-sharpest-intraday-rally-in-6-months-on-strong-q2-show-126102800267_1.html",
-    "https://www.business-standard.com/markets/news/nifty-f-o-rollovers-flag-neutral-bias-it-telecom-positive-analysts-126102800283_1.html",
-    "https://www.business-standard.com/markets/commodities/jewellers-hold-back-gold-purchases-betting-on-further-price-drops-126102800260_1.html",
-    "https://www.business-standard.com/markets/news/maruti-suzuki-share-price-dips-marginally-post-q2-amid-cost-pressures-analysts-remain-bullish-126102800247_1.html",
-    "https://www.business-standard.com/markets/news/carlsberg-india-files-updated-ipo-prospectus-for-86-42-million-shares-126102800133_1.html",
-    "https://www.livemint.com/market/potential-multibagger-vodafone-idea-shares-are-up-25-in-1-year-jefferies-sees-143-surge-in-bull-case-check-target-11793178437047.html",
-    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-woes-come-up-against-short-covering/articleshow/135265739.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/bandhan-bank-q2-profit-jumps-5-6-times-as-asset-quality-improves/articleshow/135265654.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/meesho-q2-results-loss-narrows-to-rs-132-crore-yoy-revenue-rises-34/articleshow/135265538.cms",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/tuborg-maker-carlsberg-india-moves-closer-to-ipo-files-updated-drhp-for-complete-ofs-issue/articleshow/135265478.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-profit-falls-24-despite-record-sales/articleshow/135264974.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/israeli-stocks-fall-shekel-weakens-as-netanyahu-bloc-beats-election-forecasts/articleshow/135264785.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/anant-raj-q2-results-profit-rises-13-to-rs-156-crore/articleshow/135264738.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-cut-news-28th-oct/liveblog/135265171.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-quarterly-profit-more-than-doubles-on-high-prices-record-production/articleshow/135264708.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/cholamandalam-investment-q2-results-profit-surges-41-to-rs-1630-crore-co-plans-to-raise-rs-500o-crore-via-qip/articleshow/135264678.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/jio-debuts-on-d-street-indias-biggest-ipos-delivered-negative-returns-over-one-month-after-listing-will-jio-break-the-curse/articleshow/135263845.cms",
@@ -499,7 +483,23 @@
     "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-flying-massive-monday-jump-for-ril-stock-6-surge-strong-q2-results-book-profit-or-wait-11793591404819.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-rally-6-after-q2-results-heres-why-jefferies-others-analysts-see-up-to-47-upside/articleshow/135444361.cms",
     "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-signs-mou-with-boe-on-cooperation-and-exchange-of-information-related-to-sebi-recognised-clearing-corporations_105473.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/missed-reliance-industries-historic-8-one-day-rally-heres-what-technical-analysts-are-saying/articleshow/135451322.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/missed-reliance-industries-historic-8-one-day-rally-heres-what-technical-analysts-are-saying/articleshow/135451322.cms",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7131-of-2026-filed-by-ramapati-kuar_105556.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7130-of-2026-filed-by-mohammad-akbar_105554.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7129-of-2026-filed-by-nikul-prajapati_105552.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7128-of-2026-filed-by-p-sachithanantham_105550.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7127-of-2026-filed-by-himanshu-soni_105549.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7126-of-2026-filed-by-suriyanarayanan-ramachandran_105546.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7125-of-2026-filed-by-kamal-naini-sharma_105545.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7124-of-2026-filed-by-bhupinder-singh_105544.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7123-of-2026-filed-by-bhupinder-singh_105543.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7122-of-2026-filed-by-amit-vilas-jadhav_105542.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7121-of-2026-filed-by-kshipra-sawant_105541.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-praveg-limited-formerly-known-as-praveg-communications-india-limited_105536.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-order-dated-november-02-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105534.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793620181.2943306,
+    "fetched_at": 1793624291.798573,
     "symbols": [
       "easemytrip",
       "goldbees",
