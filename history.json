@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/mark-to-market/maruti-suzuki-s-q2-paradox-record-volumes-meet-dull-margin-11793179365333.html",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-avadhut-sathe-trading-academy-private-limited_105413.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/from-104-shareholders-to-nearly-80-lakh-jio-becomes-indias-most-widely-owned-stock-on-listing-day/articleshow/135262546.cms",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-role-of-axis-capital-limited-in-providing-guarantee-to-the-ncds-of-sojo-infotel-pvt-ltd-_105464.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8456-of-2024-against-against-dollar-advisory-and-financial-service-in-the-matter-of-dollar-advisory-and-financial-services-pro-_105462.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/cancellation-of-recovery-certificate-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105460.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105466.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-motor-q2-results-profit-jumps-52-yoy-to-rs-1377-crore-revenue-rises-44/articleshow/135264582.cms",
@@ -499,15 +493,20 @@
     "https://www.business-standard.com/markets/news/how-will-us-midterms-impact-indian-equities-bond-yields-crude-oil-126110100199_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/indias-consumers-are-back-its-stocks-arent-srinivasan-sivabalan/articleshow/135442582.cms",
     "https://www.livemint.com/market/stock-market-news/emami-vs-dabur-fmcg-shares-q2-results-preview-profit-revenue-expectations-dividend-announcements-in-focus-11793546880029.html",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-industries-jio-platforms-ntpc-itc-shares-in-focus-on-monday-2-nov-full-list-11793583063816.html"
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-industries-jio-platforms-ntpc-itc-shares-in-focus-on-monday-2-nov-full-list-11793583063816.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-02-nov-2026/liveblog/135443558.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-02-nov-2026/liveblog/135443435.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-updates-02-nov-2026/liveblog/135443325.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-today-live-02-nov-2026/liveblog/135443300.cms",
+    "https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html",
+    "https://www.business-standard.com/markets/news/delhivery-shares-rally-9-as-company-swings-to-41-crore-profit-in-q2fy27-126110200257_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-02",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget",
     "Potential Multibagger? Vodafone Idea shares are up 25% in 1 year, Jefferies sees 143% surge in bull case - Check target",
     "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
     "Are these low-P/E bluechip stocks really a bargain?",
@@ -586,7 +585,8 @@
     "Stock recommendations for 2 November from MarketSmith India",
     "How will US midterms impact Indian equities, bond yields, crude oil?",
     "India\u2019s consumers are back, its stocks aren\u2019t: Srinivasan Sivabalan",
-    "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov | Full list"
+    "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov | Full list",
+    "Delhivery shares rally 9% as company swings to \u20b941 crore profit in Q2FY27"
   ],
   "reels_posted": {
     "date": "2026-11-02",
@@ -629,12 +629,12 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793591499.2590566,
+    "fetched_at": 1793595379.5688968,
     "symbols": [
-      "empower",
-      "equitasbnk",
+      "avance",
+      "goldbees",
       "idea",
-      "ioc",
+      "ifci",
       "jppower",
       "moneyview",
       "msumi",
@@ -642,11 +642,11 @@
       "pcjeweller",
       "reliance",
       "rpower",
+      "silveradd",
+      "sjvn",
       "suzlon",
       "tatagold",
-      "tatasteel",
       "tatsilv",
-      "tfciltd",
       "vedpower",
       "vogl",
       "welspunliv",
