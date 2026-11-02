@@ -1,16 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/ambani-blue-chip-bet-gets-bigger-investors-mark-82-of-traded-shares-for-holding-beyond-listing/articleshow/135258717.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-enterprises-q2-results-revenue-spikes-75-yoy-to-rs-37216-crore-profit-at-rs-1492-crore/articleshow/135257734.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
-    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-29-october-from-marketsmith-india-11793209356671.html",
-    "https://www.livemint.com/market/stock-market-news/syngene-international-shares-surge-12-biggest-1-day-gain-in-6-years-what-drove-the-rally-despite-a-q2-profit-drop-11793186513787.html",
-    "https://www.livemint.com/market/smallcap-stock-under-rs-50-jumps-7-despite-weak-trends-on-dalal-street-heres-why-target-price-stoploss-11793188520488.html",
-    "https://www.livemint.com/market/stock-market-news/top-5-ipos-listing-jio-platforms-ipo-vs-hyundai-paytm-lic-and-others-how-reliance-company-outshone-others-in-gains-11793186868452.html",
-    "https://www.livemint.com/market/stock-market-news/expert-view-expect-mid-teens-earnings-growth-for-nifty-companies-in-fy27-and-fy28-says-bajaj-life-cio-11793186627848.html",
-    "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-zydus-life-whirlpool-by-nagaraj-shetti-check-stop-loss-targets-11793185099843.html",
-    "https://www.livemint.com/market/stock-market-news/us-fed-rate-decision-today-what-investors-should-watch-in-gold-silver-prices-and-market-outlook-11793183747846.html",
-    "https://www.livemint.com/market/stock-market-news/naukri-brand-parent-info-edge-shares-dip-after-rs-3-per-share-dividend-move-check-payment-record-date-history-yield-11793178605612.html",
     "https://www.livemint.com/market/ipo/anthropic-ipo-can-indian-investors-get-a-slice-of-the-ai-boom-what-to-know-about-access-and-risks-experts-explain-11793181602766.html",
     "https://www.livemint.com/market/stock-market-news/reliance-vs-tata-group-market-cap-jio-platforms-share-price-11793181248458.html",
     "https://www.livemint.com/market/stock-market-news/sona-blw-shares-surge-85-in-2026-hit-record-high-for-second-straight-session-what-s-driving-the-rally-buy-or-hold-11793175696706.html",
@@ -499,15 +488,25 @@
     "https://www.business-standard.com/markets/news/coforge-icici-bank-kpr-mill-3-technical-ideas-by-choice-equity-126110200057_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-ril-jio-platforms-ntpc-muthoot-finance-bank-of-baroda-126110200060_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html",
-    "https://www.sebi.gov.in/legal/circulars/nov-2026/cooling-off-period-for-offer-for-sale-by-private-listed-invits_105539.html"
+    "https://www.sebi.gov.in/legal/circulars/nov-2026/cooling-off-period-for-offer-for-sale-by-private-listed-invits_105539.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-cuts-cooling-off-period-for-ofs-by-privately-listed-illiquid-invits-to-8-weeks/articleshow/135465856.cms",
+    "https://www.livemint.com/market/oaktrees-howard-marks-says-ai-stumbles-boosted-skepticism-11793594025170.html",
+    "https://www.livemint.com/market/citi-cuts-lithium-forecasts-on-worsening-battery-demand-outlook-11793593646141.html",
+    "https://www.livemint.com/market/china-stocks-rise-on-report-of-regulator-market-support-meeting-11793593456360.html",
+    "https://www.livemint.com/market/stock-market-news/best-mukesh-ambani-stock-to-buy-ril-vs-jio-platforms-vs-jio-financial-shares-investors-guide-as-sensex-nifty-soar-11793591542012.html",
+    "https://www.livemint.com/market/mark-to-market/ril-growth-baton-o2c-new-energy-retail-business-11793588534566.html",
+    "https://www.livemint.com/market/stock-market-news/why-is-stock-market-up-today-bulls-are-back-with-monday-motivation-as-sensex-nifty-soar-over-1-each-top-3-reasons-11793591431834.html",
+    "https://www.business-standard.com/markets/news/muthoot-finance-rebounds-up-9-from-52-week-low-as-stock-reacts-to-q2-nos-126110200210_1.html",
+    "https://www.business-standard.com/markets/news/eaaa-india-alternatives-makes-muted-debut-lists-at-less-than-1-premium-126110200209_1.html",
+    "https://www.business-standard.com/markets/news/ril-s-q2-beat-lifts-earnings-outlook-even-as-brokerages-pare-price-targets-126110200168_1.html",
+    "https://www.livemint.com/market/stock-market-news/itc-shares-to-be-in-focus-on-tuesday-as-q2-net-profit-drops-18-5-on-higher-cigarette-taxes-11793631186838.html"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
     "date": "2026-11-02",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "Aeroflex zooms 18% on huge volume, over 31 mn shares change hands",
     "Top stocks to buy for long term: Pankaj Pandey of ICICI Securities suggests Crompton Greaves, Kotak Bank, 3 others",
     "Reliance Jio Platforms shares vs Bharti Airtel vs Vodafone Idea: Top telecom stock to buy? What experts suggest",
     "Pine Labs shares jump 7% as Q2 net profit soars 543% YoY to Rs 39 crore",
@@ -586,7 +585,8 @@
     "Reliance Industries shares rally 6% after Q2 results. Here\u2019s why Jefferies, others analysts see up to 47% upside",
     "Missed Reliance Industries\u2019 historic 12% one-day rally? Here\u2019s what technical analysts are saying",
     "Massive surge! Reliance Industries shares up 12% after Q2; add  \u20b92 lakh cr in mcap \u2014 when did RIL last rally this much?",
-    "Cooling off period for offer for sale by Private listed InvITs"
+    "Cooling off period for offer for sale by Private listed InvITs",
+    "ITC shares to be in focus on Tuesday as Q2 net profit drops 18.5% on higher cigarette taxes"
   ],
   "reels_posted": {
     "date": "2026-11-02",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793633602.5357795,
+    "fetched_at": 1793637230.2898629,
     "symbols": [
       "easemytrip",
       "goldbees",
