@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-signs-mou-with-boe-on-cooperation-and-exchange-of-information-related-to-sebi-recognised-clearing-corporations_105473.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms",
     "https://www.business-standard.com/markets/ipo/ambani-looks-to-defy-market-headwinds-as-jio-makes-debut-after-record-ipo-126102800224_1.html",
     "https://www.business-standard.com/markets/news/bse-lenskart-motilal-oswal-stock-ideas-across-large-mid-and-small-caps-126102800139_1.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-set-for-biggest-single-day-jump-since-april-2020-as-q2-earnings-spark-rs-1-lakh-crore-rally/articleshow/135447021.cms",
     "https://www.livemint.com/market/stock-market-news/top-power-stocks-jaiprakash-power-vs-suzlon-vs-vedanta-power-vs-reliance-power-vs-inox-wind-experts-views-target-11793602441883.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html",
-    "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-flying-massive-monday-jump-for-ril-stock-6-surge-strong-q2-results-book-profit-or-wait-11793591404819.html"
+    "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-flying-massive-monday-jump-for-ril-stock-6-surge-strong-q2-results-book-profit-or-wait-11793591404819.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-rally-6-after-q2-results-heres-why-jefferies-others-analysts-see-up-to-47-upside/articleshow/135444361.cms"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-02",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "Indian shares set for positive start after Fed holds rates steady; elevated oil weighs",
     "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
     "Kotak Bank Share Price Live Updates: Kotak Bank Sets New 52-Week Record",
     "Bombay Coated & Special Steels IPO opens: Anand Rathi bullish; here's why",
@@ -586,7 +585,8 @@
     "Reliance soars 7% post Q2 results; sees sharpest intraday rally in 3 years",
     "Reliance Industries shares set for biggest-single day jump since April 2020 as Q2 earnings spark Rs 1 lakh crore rally",
     "Top power stocks: Jaiprakash Power vs Suzlon vs Vedanta Power vs Reliance Power vs Inox Wind | Experts' views, target",
-    "Reliance Industries shares flying! Massive Monday jump for RIL stock - 6% surge strong Q2 results | Book profit or wait?"
+    "Reliance Industries shares flying! Massive Monday jump for RIL stock - 6% surge strong Q2 results | Book profit or wait?",
+    "Reliance Industries shares rally 6% after Q2 results. Here\u2019s why Jefferies, others analysts see up to 47% upside"
   ],
   "reels_posted": {
     "date": "2026-11-02",
@@ -629,8 +629,9 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793613504.8302968,
+    "fetched_at": 1793616977.8104982,
     "symbols": [
+      "easemytrip",
       "goldbees",
       "gtlinfra",
       "idea",
@@ -646,7 +647,6 @@
       "sjvn",
       "suzlon",
       "tatagold",
-      "tatsilv",
       "vedpower",
       "vogl",
       "welspunliv",
