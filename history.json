@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-quarterly-profit-more-than-doubles-on-high-prices-record-production/articleshow/135264708.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/cholamandalam-investment-q2-results-profit-surges-41-to-rs-1630-crore-co-plans-to-raise-rs-500o-crore-via-qip/articleshow/135264678.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/jio-debuts-on-d-street-indias-biggest-ipos-delivered-negative-returns-over-one-month-after-listing-will-jio-break-the-curse/articleshow/135263845.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms",
@@ -499,15 +498,15 @@
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7121-of-2026-filed-by-kshipra-sawant_105541.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-praveg-limited-formerly-known-as-praveg-communications-india-limited_105536.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-order-dated-november-02-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105534.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html"
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+    "https://www.livemint.com/market/stock-market-news/massive-surge-reliance-industries-shares-up-12-after-q2-add-rs-2-lakh-cr-in-mcap-when-did-ril-last-rally-this-much-11793618055937.html"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
     "date": "2026-11-02",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "Kotak Bank Share Price Live Updates: Kotak Bank Sets New 52-Week Record",
     "Bombay Coated & Special Steels IPO opens: Anand Rathi bullish; here's why",
     "Aeroflex zooms 18% on huge volume, over 31 mn shares change hands",
     "Top stocks to buy for long term: Pankaj Pandey of ICICI Securities suggests Crompton Greaves, Kotak Bank, 3 others",
@@ -586,7 +585,8 @@
     "Top power stocks: Jaiprakash Power vs Suzlon vs Vedanta Power vs Reliance Power vs Inox Wind | Experts' views, target",
     "Reliance Industries shares flying! Massive Monday jump for RIL stock - 6% surge strong Q2 results | Book profit or wait?",
     "Reliance Industries shares rally 6% after Q2 results. Here\u2019s why Jefferies, others analysts see up to 47% upside",
-    "Missed Reliance Industries\u2019 historic 12% one-day rally? Here\u2019s what technical analysts are saying"
+    "Missed Reliance Industries\u2019 historic 12% one-day rally? Here\u2019s what technical analysts are saying",
+    "Massive surge! Reliance Industries shares up 12% after Q2; add  \u20b92 lakh cr in mcap \u2014 when did RIL last rally this much?"
   ],
   "reels_posted": {
     "date": "2026-11-02",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793624291.798573,
+    "fetched_at": 1793628865.331639,
     "symbols": [
       "easemytrip",
       "goldbees",
