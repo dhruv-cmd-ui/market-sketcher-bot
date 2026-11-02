@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/cancellation-of-recovery-certificate-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105460.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105466.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-motor-q2-results-profit-jumps-52-yoy-to-rs-1377-crore-revenue-rises-44/articleshow/135264582.cms",
-    "https://www.business-standard.com/markets/interviews/knowledge-courage-patience-vijay-kedia-s-mantra-for-stock-market-success-126102801463_1.html",
     "https://www.livemint.com/market/stock-market-news/jpl-share-price-jio-platforms-ipo-listing-gains-explained-how-much-profit-investors-made-on-debut-11793194946185.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-october-28-jio-platforms-hul-adani-enterprises-maruti-suzuki-l-t-126102800115_1.html",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-updates-02-nov-2026/liveblog/135443325.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-today-live-02-nov-2026/liveblog/135443300.cms",
     "https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html",
-    "https://www.business-standard.com/markets/news/delhivery-shares-rally-9-as-company-swings-to-41-crore-profit-in-q2fy27-126110200257_1.html"
+    "https://www.business-standard.com/markets/news/delhivery-shares-rally-9-as-company-swings-to-41-crore-profit-in-q2fy27-126110200257_1.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-role-of-axis-capital-limited-in-providing-guarantee-to-the-ncds-of-sojo-infotel-pvt-ltd-_105464.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8456-of-2024-against-against-dollar-advisory-and-financial-service-in-the-matter-of-dollar-advisory-and-financial-services-pro-_105462.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stocks-to-buy-8-stocks-with-upside-potential-of-up-to-52/slideshow/135446725.cms",
+    "https://www.business-standard.com/markets/news/reliance-soars-7-post-q2-results-sees-sharpest-intraday-rally-in-3-years-126110200237_1.html"
   ],
   "last_fii_dii_post_date": "2026-10-30",
   "news_posted": {
     "date": "2026-11-02",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "Potential Multibagger? Vodafone Idea shares are up 25% in 1 year, Jefferies sees 143% surge in bull case - Check target",
     "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
     "Are these low-P/E bluechip stocks really a bargain?",
     "Jio Platforms shares: After 27% jump on IPO listing day, will Reliance group stock rise more today?",
@@ -586,7 +585,8 @@
     "How will US midterms impact Indian equities, bond yields, crude oil?",
     "India\u2019s consumers are back, its stocks aren\u2019t: Srinivasan Sivabalan",
     "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov | Full list",
-    "Delhivery shares rally 9% as company swings to \u20b941 crore profit in Q2FY27"
+    "Delhivery shares rally 9% as company swings to \u20b941 crore profit in Q2FY27",
+    "Reliance soars 7% post Q2 results; sees sharpest intraday rally in 3 years"
   ],
   "reels_posted": {
     "date": "2026-11-02",
@@ -629,14 +629,13 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793595379.5688968,
+    "fetched_at": 1793599051.7380745,
     "symbols": [
-      "avance",
       "goldbees",
       "idea",
-      "ifci",
+      "inoxwind",
+      "jisljaleqs",
       "jppower",
-      "moneyview",
       "msumi",
       "olaelec",
       "pcjeweller",
@@ -650,7 +649,8 @@
       "vedpower",
       "vogl",
       "welspunliv",
-      "yesbank"
+      "yesbank",
+      "zeel"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
