@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7117-of-2026-filed-by-goutam-mohanta_105481.html",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7116-of-2026-filed-by-saroj-sharma_105480.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-dated-28-10-2026-against-chandrakant-a-parekh-pan-ahxpp5708j-defaulter-in-the-matter-of-ipo-irregularities-2003-2005-under-recovery-certificate-no-2001-of-2019_105484.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/godrej-consumer-q2-results-profit-rises-14-yoy-to-rs-523-crore-revenue-jumps-19-co-declares-rs-5/share-dividend/articleshow/135306134.cms",
-    "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-tomorrow-kotak-mahindra-bank-nykaa-eternal-by-market-expert-check-stop-loss-target-price-11793275019681.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-power-q2-results-company-swings-to-profit-at-rs-83-crore-revenue-rises-38-yoy/articleshow/135317122.cms",
     "https://www.livemint.com/market/stock-market-news/yes-bank-shares-extend-decline-to-26-in-october-hit-a-multi-year-low-why-are-investors-turning-cautious-11793273761294.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-29-2026-issued-under-rc-no-9308-of-2026-drawn-against-niranjan-d-agarwal-in-the-matter-of-kalahridhaan-trendz-limited_105487.html",
     "https://www.business-standard.com/markets/news/ajit-mishra-bullish-on-airtel-bse-tvs-motor-wary-on-nifty-below-22-825-126102900093_1.html",
@@ -499,15 +493,20 @@
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-sbi-nse-itc-sun-pharma-idbi-bank-shares-in-focus-on-tuesday-3-nov-full-list-11793668822019.html",
     "https://www.livemint.com/market/stock-market-news/finally-psu-stock-jumps-9-after-4-months-of-losses-logs-biggest-1-day-gain-in-14-months-what-sparked-the-rally-11793625642488.html",
     "https://www.business-standard.com/companies/news/coal-india-files-drhp-to-sell-10-stake-in-subsidiary-secl-through-ipo-126110201248_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-reits-invits-to-tap-overseas-investors-through-depository-receipts/articleshow/135478239.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-reits-invits-to-tap-overseas-investors-through-depository-receipts/articleshow/135478239.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/fusion-finance-swings-to-rs-86-5-crore-profit-as-asset-quality-improves/articleshow/135465579.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-ai-trade-steadies-oil-falls/articleshow/135465480.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/high-yield-us-stocks-10-companies-offering-dividend-yields-of-up-to-16-65/articleshow/135464561.cms",
+    "https://www.livemint.com/market/stock-market-news/sensex-nifty-tomorrow-3-nov-will-stock-market-jump-on-sebis-12-5-foreign-investors-ltcg-tax-removal-recommendation-11793629514612.html",
+    "https://www.business-standard.com/markets/news/sebi-cuts-ofs-cooling-off-for-privately-listed-illiquid-invits-to-8-weeks-126110201342_1.html",
+    "https://www.business-standard.com/markets/news/reliance-industries-takes-the-wheel-surges-12-to-steer-benchmarks-higher-126110201415_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
     "date": "2026-11-03",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Pine Labs shares jump 7% as Q2 net profit soars 543% YoY to Rs 39 crore",
     "Aeroflex Industries shares surge 18% - What's behind the stock rally? What's next for the stock?",
     "Top 3 stocks to buy tomorrow: Kotak Mahindra Bank, Nykaa, Eternal by market expert; check stop-loss, target price",
     "Yes Bank shares extend decline to 26% in October, hit a multi-year low. Why are investors turning cautious?",
@@ -586,7 +585,8 @@
     "Cooling off period for offer for sale by Private listed InvITs",
     "ITC shares to be in focus on Tuesday as Q2 net profit drops 18.5% on higher cigarette taxes",
     "Reliance surges 11.6% as strong Q2 earnings add Rs 1.83 lakh crore in market value",
-    "Sebi allows REITs, InvITs to tap overseas investors through depository receipts"
+    "Sebi allows REITs, InvITs to tap overseas investors through depository receipts",
+    "Reliance Industries takes the wheel, surges 12% to steer benchmarks higher"
   ],
   "reels_posted": {
     "date": "2026-11-03",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793671094.1643972,
+    "fetched_at": 1793674020.8832173,
     "symbols": [
       "easemytrip",
       "goldbees",
