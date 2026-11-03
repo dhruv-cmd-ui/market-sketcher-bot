@@ -1,12 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/diwali-stocks-2026-tata-steel-mcx-ihcl-and-8-more-to-add-sparkle-to-shares-portfolio-in-samvat-2083-full-list-11793263311455.html",
-    "https://www.livemint.com/market/stock-market-news/zensar-technologies-shares-on-a-roll-it-stock-jumps-8-up-25-in-month-whats-fuelling-the-rally-11793265934817.html",
-    "https://www.livemint.com/market/stock-market-news/us-fed-fomc-pauses-interest-rates-can-nifty-bulls-take-charge-or-will-rbi-hike-spoil-the-rally-investors-guide-11793260941657.html",
-    "https://www.livemint.com/market/stock-market-news/on-fast-lane-highway-infra-stock-jumps-65-in-a-month-whats-behind-momentum-experts-views-target-price-stoploss-11793261466516.html",
-    "https://www.business-standard.com/content/press-releases-ani/unocoin-launches-india-s-first-bitcoin-lending-service-with-multisig-wallet-security-126102901265_1.html",
-    "https://www.business-standard.com/markets/news/ril-q2-results-preview-2026-double-digit-ebitda-growth-seen-fundraising-update-eyed-126102900822_1.html",
-    "https://www.business-standard.com/markets/news/adani-group-stocks-rally-led-by-adani-enterprises-adani-ports-post-q2-show-126102900780_1.html",
     "https://www.business-standard.com/markets/news/choosing-the-right-credit-card-start-with-your-spending-habits-and-lifestyle-126102900740_1.html",
     "https://www.business-standard.com/markets/news/india-bonds-seen-attracting-buyers-as-10-year-yield-nears-2022-levels-126102900690_1.html",
     "https://www.business-standard.com/companies/news/sbi-mutual-fund-s-aum-rises-10-to-13-1-trn-h1-operating-profit-up-11-126102900707_1.html",
@@ -499,15 +492,21 @@
     "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/memorandum-of-understanding-between-securities-and-exchange-board-of-india-sebi-and-digital-india-bhashini-division-dibd-_105575.html",
     "https://www.business-standard.com/markets/news/ril-stock-in-focus-what-next-after-near-12-surge-analyst-decodes-history-126110300118_1.html",
     "https://www.business-standard.com/markets/news/jio-platforms-listing-a-re-rating-catalyst-for-telecom-sector-mofsl-126110300116_1.html",
-    "https://www.livemint.com/market/stock-market-news/reliance-shares-after-massive-12-surge-mukesh-ambanis-ril-stock-slips-from-biggest-single-day-rally-since-2020-buy-11793684679227.html"
+    "https://www.livemint.com/market/stock-market-news/reliance-shares-after-massive-12-surge-mukesh-ambanis-ril-stock-slips-from-biggest-single-day-rally-since-2020-buy-11793684679227.html",
+    "https://www.livemint.com/market/stock-market-news/tamilnadu-petroproducts-shares-surge-7-after-q2-results-stock-already-up-37-in-2026-key-levels-to-watch-11793678628599.html",
+    "https://www.livemint.com/market/stock-market-news/vrl-logistics-shares-surge-14-to-52-week-high-as-q2-pat-doubles-up-40-from-year-low-check-results-buyback-details-11793678795009.html",
+    "https://www.livemint.com/market/stock-market-news/nifty-expiry-today-prediction-3-nov-bulls-back-in-action-check-support-resistance-levels-what-should-investors-do-11793677088858.html",
+    "https://www.business-standard.com/markets/news/bls-polymers-ipo-investors-gain-65-as-shares-make-strong-debut-on-bourses-126110300366_1.html",
+    "https://www.business-standard.com/markets/news/balrampur-chini-triveni-surge-up-to-9-what-s-driving-sugar-stocks-126110300313_1.html",
+    "https://www.business-standard.com/markets/news/marico-shares-spurt-6-on-robust-q2-earnings-positive-revision-in-guidance-126110300266_1.html",
+    "https://www.livemint.com/market/stock-market-news/how-itc-shares-are-performing-after-q2-results-should-you-buy-sell-or-hold-brokerages-give-targets-key-levels-11793688619420.html"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-03",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?",
     "Silver may slide to $48 as momentum selling deepens: Mirae Asset Sharekhan",
     "Eternal rallies 6% in two days, stock nears record high; here's why",
     "Mid-, small-caps under pressure; Suzlon, Swiggy, STL, HFCL plunge up to 10%",
@@ -586,7 +585,8 @@
     "Reliance shares see volume breakout: Is a trend reversal around the corner? Here\u2019s what history shows",
     "Exemption Order in the matter of Emmbi Industries Limited",
     "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
-    "Reliance shares: After massive 12% surge, Mukesh Ambani's RIL stock slips from biggest single-day rally since 2020; buy?"
+    "Reliance shares: After massive 12% surge, Mukesh Ambani's RIL stock slips from biggest single-day rally since 2020; buy?",
+    "How ITC shares are performing after Q2 results? Should you buy, sell or hold? Brokerages give targets, key levels"
   ],
   "reels_posted": {
     "date": "2026-11-03",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793720819.4499156,
+    "fetched_at": 1793724744.6658573,
     "symbols": [
       "blspoly",
       "empower",
