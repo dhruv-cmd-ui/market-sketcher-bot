@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/world-news/samsung-keeps-shattering-profit-records-as-ai-boom-lifts-chip-demand-126102900116_1.html",
-    "https://www.livemint.com/market/stock-market-news/jio-platforms-first-q2-results-after-bumper-listing-check-date-reliance-firm-s-earnings-in-focus-key-numbers-to-watch-11793290112398.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ril-jio-trent-suzlon-energy-indigo-vedanta-power-and-rvnl/articleshow/135324704.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/shukra-medtech-laurus-labs-among-4-healthcare-stocks-to-hit-52-week-highs-and-rally-up-to-26-in-a-month/slideshow/135311397.cms",
     "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-80000-after-fed-holds-rates-signals-possibility-of-further-tightening/articleshow/135309957.cms",
     "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/mahindra-lifespace-developers-pre-sales-rise-66-to-nearly-rs-2000-cr-in-apr-sep/articleshow/135309551.cms",
     "https://economictimes.indiatimes.com/markets/bonds/companies-with-high-credit-ratings-shifting-to-bond-market-as-bank-loans-become-dearer/articleshow/135309264.cms",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/sbi-q2-results-2026-today-schedule-preview-expectations-should-you-buy-ahead-of-earnings-announcement-11793673875014.html",
     "https://www.livemint.com/market/stock-market-news/november-2-gold-silver-rates-gold-silver-prices-rebound-from-multi-month-lows-as-crude-oil-retreats-11793635178579.html",
     "https://www.livemint.com/market/sitharaman-recognises-the-voice-of-investors-will-fm-slash-equity-taxes-in-next-budget-amid-heavy-fpi-outflows-11793631070177.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-among-8-stocks-showing-rsi-trending-up/slideshow/135481838.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-among-8-stocks-showing-rsi-trending-up/slideshow/135481838.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-stocks-to-buy-this-diwali-5-stocks-with-upside-potential-of-up-to-37-do-you-own-any/slideshow/135483093.cms",
+    "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-unit-south-eastern-coalfields-files-papers-how-much-funds-to-be-raised-and-other-key-facts-11793636533876.html",
+    "https://www.business-standard.com/markets/news/ipo-fundraising-rises-30-to-record-84-400-crore-in-h1fy27-report-126110201078_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/trident-shares-rally-13-after-q2-net-profit-jumps-93-to-rs-175-crore-firm-plans-rs-4650-crore-capex/articleshow/135483244.cms"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
     "date": "2026-11-03",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "Yes Bank shares extend decline to 26% in October, hit a multi-year low. Why are investors turning cautious?",
     "Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore due to one-time deferred tax",
     "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns",
     "Jio Platforms first Q2 results after bumper listing: check date; Reliance firm\u2019s earnings in focus; key numbers to watch",
@@ -586,7 +585,8 @@
     "Sebi allows REITs, InvITs to tap overseas investors through depository receipts",
     "Reliance Industries takes the wheel, surges 12% to steer benchmarks higher",
     "SBI Q2 results 2026 today schedule, preview, expectations | Should you buy ahead of earnings announcement?",
-    "Reliance Industries among 8 stocks showing RSI Trending Up"
+    "Reliance Industries among 8 stocks showing RSI Trending Up",
+    "Trident shares rally 13% after Q2 net profit jumps 93% to Rs 175 crore; firm plans Rs 4,650 crore capex"
   ],
   "reels_posted": {
     "date": "2026-11-03",
@@ -629,14 +629,14 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793681464.8226852,
+    "fetched_at": 1793685067.7956238,
     "symbols": [
       "avance",
       "blspoly",
       "empower",
+      "groww",
       "hdfcbank",
       "idea",
-      "iti",
       "jppower",
       "moneyview",
       "msumi",
