@@ -1,15 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html",
-    "https://www.livemint.com/market/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to-december-11793213973901.html",
-    "https://www.business-standard.com/markets/ipo/jio-platforms-soars-on-debut-recasting-market-capitalisation-leaderboard-126102801887_1.html",
-    "https://www.business-standard.com/markets/news/aeroflex-zooms-18-on-huge-volume-over-31-mn-shares-change-hands-126102900503_1.html",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-long-term-pankaj-pandey-of-icici-securities-suggests-crompton-greaves-kotak-bank-3-others-11793258859687.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-steady-ahead-of-boj-policy-decision/articleshow/135298606.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q2-results-net-profit-tanks-90-yoy-to-rs-114-crore-revenue-rises-10/articleshow/135298817.cms",
-    "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-shares-vs-bharti-airtel-vs-vodafone-idea-top-telecom-stock-to-buy-what-experts-suggest-11793262195751.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-jump-7-as-q2-net-profit-soars-543-yoy-to-rs-39-crore/articleshow/135298034.cms",
-    "https://www.livemint.com/market/stock-market-news/aeroflex-industries-shares-surge-14-whats-behind-the-stock-rally-whats-next-for-the-stock-11793246758600.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7117-of-2026-filed-by-goutam-mohanta_105481.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7116-of-2026-filed-by-saroj-sharma_105480.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-dated-28-10-2026-against-chandrakant-a-parekh-pan-ahxpp5708j-defaulter-in-the-matter-of-ipo-irregularities-2003-2005-under-recovery-certificate-no-2001-of-2019_105484.html",
@@ -499,15 +489,24 @@
     "https://www.business-standard.com/markets/news/13x-rise-in-q2-pat-resilient-margins-lift-welspun-living-shares-by-11-126110200352_1.html",
     "https://www.business-standard.com/companies/news/coal-india-unit-south-eastern-coalfields-files-for-800-million-ipo-126110200334_1.html",
     "https://www.business-standard.com/markets/news/psu-cpse-stocks-in-demand-iti-engineers-india-zoom-up-to-19-here-s-why-126110200309_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-surges-11-6-as-strong-q2-earnings-add-rs-1-83-lakh-crore-in-market-value/articleshow/135477257.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-surges-11-6-as-strong-q2-earnings-add-rs-1-83-lakh-crore-in-market-value/articleshow/135477257.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-profit-falls-18-to-rs-4229-crore-revenue-rises-5/articleshow/135464317.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-15-in-a-month/slideshow/135463866.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-us-midterm-elections-ai-stocks-tech-stocks-openai-anthropic-intel-amd-apple-alphabet-spacex-earnings-oil-prices-treasury-yields-news-2nd-november-2026/liveblog/135463461.cms",
+    "https://economictimes.indiatimes.com/markets/bonds/oil-slide-hands-indias-10-year-bond-its-best-day-since-early-april/articleshow/135463185.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-rise-as-ai-stocks-catch-their-breath-midterms-in-focus/articleshow/135463127.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-ril-tata-steel-infosys-icici-bank-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/135462862.cms",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-sbi-nse-itc-sun-pharma-idbi-bank-shares-in-focus-on-tuesday-3-nov-full-list-11793668822019.html",
+    "https://www.livemint.com/market/stock-market-news/finally-psu-stock-jumps-9-after-4-months-of-losses-logs-biggest-1-day-gain-in-14-months-what-sparked-the-rally-11793625642488.html",
+    "https://www.business-standard.com/companies/news/coal-india-files-drhp-to-sell-10-stake-in-subsidiary-secl-through-ipo-126110201248_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-reits-invits-to-tap-overseas-investors-through-depository-receipts/articleshow/135478239.cms"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
     "date": "2026-11-03",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Reliance Jio Platforms shares vs Bharti Airtel vs Vodafone Idea: Top telecom stock to buy? What experts suggest",
     "Pine Labs shares jump 7% as Q2 net profit soars 543% YoY to Rs 39 crore",
     "Aeroflex Industries shares surge 18% - What's behind the stock rally? What's next for the stock?",
     "Top 3 stocks to buy tomorrow: Kotak Mahindra Bank, Nykaa, Eternal by market expert; check stop-loss, target price",
@@ -586,7 +585,8 @@
     "Massive surge! Reliance Industries shares up 12% after Q2; add  \u20b92 lakh cr in mcap \u2014 when did RIL last rally this much?",
     "Cooling off period for offer for sale by Private listed InvITs",
     "ITC shares to be in focus on Tuesday as Q2 net profit drops 18.5% on higher cigarette taxes",
-    "Reliance surges 11.6% as strong Q2 earnings add Rs 1.83 lakh crore in market value"
+    "Reliance surges 11.6% as strong Q2 earnings add Rs 1.83 lakh crore in market value",
+    "Sebi allows REITs, InvITs to tap overseas investors through depository receipts"
   ],
   "reels_posted": {
     "date": "2026-11-03",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793667231.0096564,
+    "fetched_at": 1793671094.1643972,
     "symbols": [
       "easemytrip",
       "goldbees",
