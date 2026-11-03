@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-80000-after-fed-holds-rates-signals-possibility-of-further-tightening/articleshow/135309957.cms",
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/mahindra-lifespace-developers-pre-sales-rise-66-to-nearly-rs-2000-cr-in-apr-sep/articleshow/135309551.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/companies-with-high-credit-ratings-shifting-to-bond-market-as-bank-loans-become-dearer/articleshow/135309264.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-has-best-day-in-3-months-on-treasury-rally-easing-oil/articleshow/135308975.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-alphabet-microsoft-nvidia-intel-amazon-fortinet-servicenow-earnings-alphabet-google-ai-spending-fears-fed-rate-decision-pce-inflation-gdp-data-treasury-yield-news-29th-october-2026/liveblog/135310262.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-seen-attracting-buyers-as-10-year-yield-nears-2022-levels/articleshow/135308662.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-ports-sez-adani-ent-trent-maruti-suzuki-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/135307738.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/esaf-small-finance-bank-posts-rs-160-crore-q2-profit-as-asset-quality-improves/articleshow/135303972.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/trent-q2-results-profit-jumps-25-yoy-to-rs-468-crore-revenue-climbs-22/articleshow/135302253.cms",
@@ -499,7 +493,13 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-stocks-to-buy-this-diwali-5-stocks-with-upside-potential-of-up-to-37-do-you-own-any/slideshow/135483093.cms",
     "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-unit-south-eastern-coalfields-files-papers-how-much-funds-to-be-raised-and-other-key-facts-11793636533876.html",
     "https://www.business-standard.com/markets/news/ipo-fundraising-rises-30-to-record-84-400-crore-in-h1fy27-report-126110201078_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/trident-shares-rally-13-after-q2-net-profit-jumps-93-to-rs-175-crore-firm-plans-rs-4650-crore-capex/articleshow/135483244.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/trident-shares-rally-13-after-q2-net-profit-jumps-93-to-rs-175-crore-firm-plans-rs-4650-crore-capex/articleshow/135483244.cms",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-rc9307-of-2026-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillon-finance-limited_105568.html",
+    "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html",
+    "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-invits-_105557.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/krbl-shares-rally-9-after-q2-net-profit-jumps-51-yoy/articleshow/135484252.cms",
+    "https://www.livemint.com/market/stock-market-news/us-midterm-elections-how-a-democratic-victory-could-impact-defence-healthcare-crypto-and-ai-stocks-11793640093379.html",
+    "https://www.livemint.com/market/stock-market-news/dividend-bonus-issue-last-chance-to-buy-today-godrej-consumer-coal-india-asian-paints-and-others-11793640245000.html"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793685067.7956238,
+    "fetched_at": 1793689192.4150784,
     "symbols": [
       "avance",
       "blspoly",
@@ -643,7 +643,7 @@
       "olaelec",
       "pcjeweller",
       "reliance",
-      "sfctech",
+      "sagility",
       "suzlon",
       "tatagold",
       "tatsilv",
