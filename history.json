@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/msci-rejig-lic-meesho-likely-to-enter-india-standard-index-ofss-siemens-energy-may-be-dropped-11793271137051.html",
-    "https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-shares-gain-over-4-hit-highest-level-since-april-2025-here-s-what-you-should-know-11793266996926.html",
-    "https://www.livemint.com/market/stock-market-news/working-with-rbi-to-make-process-of-bringing-foreign-investors-into-indian-markets-faster-and-easier-sebi-chief-11793268804709.html",
     "https://www.livemint.com/market/stock-market-news/diwali-stocks-2026-tata-steel-mcx-ihcl-and-8-more-to-add-sparkle-to-shares-portfolio-in-samvat-2083-full-list-11793263311455.html",
     "https://www.livemint.com/market/stock-market-news/zensar-technologies-shares-on-a-roll-it-stock-jumps-8-up-25-in-month-whats-fuelling-the-rally-11793265934817.html",
     "https://www.livemint.com/market/stock-market-news/us-fed-fomc-pauses-interest-rates-can-nifty-bulls-take-charge-or-will-rbi-hike-spoil-the-rally-investors-guide-11793260941657.html",
@@ -499,15 +496,17 @@
     "https://www.business-standard.com/markets/news/stock-market-live-november-3-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110300101_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-buy-today-mankind-pharma-dr-lal-shrikant-chouhan-bullish-on-2-healthcare-stocks-126110300097_1.html",
     "https://www.business-standard.com/markets/commodities/oil-prices-rise-after-report-of-us-strikes-on-iran-s-qeshm-island-126110300096_1.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/memorandum-of-understanding-between-securities-and-exchange-board-of-india-sebi-and-digital-india-bhashini-division-dibd-_105575.html"
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/memorandum-of-understanding-between-securities-and-exchange-board-of-india-sebi-and-digital-india-bhashini-division-dibd-_105575.html",
+    "https://www.business-standard.com/markets/news/ril-stock-in-focus-what-next-after-near-12-surge-analyst-decodes-history-126110300118_1.html",
+    "https://www.business-standard.com/markets/news/jio-platforms-listing-a-re-rating-catalyst-for-telecom-sector-mofsl-126110300116_1.html",
+    "https://www.livemint.com/market/stock-market-news/reliance-shares-after-massive-12-surge-mukesh-ambanis-ril-stock-slips-from-biggest-single-day-rally-since-2020-buy-11793684679227.html"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-03",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "Suzlon Energy shares fall 4% as Nuvama, others slash target prices after Q2 margins disappoint. What lies ahead?",
     "Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?",
     "Silver may slide to $48 as momentum selling deepens: Mirae Asset Sharekhan",
     "Eternal rallies 6% in two days, stock nears record high; here's why",
@@ -586,7 +585,8 @@
     "Textile, garment stocks in demand; Kitex, Trident, Gokaldas rally up to 18%",
     "Reliance shares see volume breakout: Is a trend reversal around the corner? Here\u2019s what history shows",
     "Exemption Order in the matter of Emmbi Industries Limited",
-    "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)"
+    "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
+    "Reliance shares: After massive 12% surge, Mukesh Ambani's RIL stock slips from biggest single-day rally since 2020; buy?"
   ],
   "reels_posted": {
     "date": "2026-11-03",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793717771.3482244,
+    "fetched_at": 1793720819.4499156,
     "symbols": [
       "blspoly",
       "empower",
