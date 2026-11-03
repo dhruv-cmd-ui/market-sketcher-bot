@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-ahead-of-ecb-policy-decision/articleshow/135301472.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/tatapower-jswenergy-torrentpower-ambitseesbuyingopportunity-in-powerstocksaftervaluationreset/articleshow/135301267.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-electricals-exec-chairman-shekhar-bajaj-to-become-non-executive-board-member-from-january/articleshow/135300503.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-microsoft-oracle-outshine-alphabet-as-investors-demand-ai-returns/articleshow/135300442.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dean-of-valuation-aswath-damodaran-pegs-anthropics-worth-at-1-475-trillion-ahead-of-mega-ipo/articleshow/135300228.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-six-weeks/articleshow/135299602.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-preview-profit-outlook-brightens-as-o2c-business-set-to-drive-growth/articleshow/135299167.cms",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-gains-3-today-heres-why-is-the-worst-over-after-a-27-one-year-fall-what-experts-say-11793688821749.html",
     "https://www.business-standard.com/markets/news/nifty-private-bank-index-gains-2-hdfc-bank-icici-bank-axis-bank-shine-126110300965_1.html",
     "https://www.business-standard.com/markets/news/textile-garment-stocks-in-demand-kitex-trident-gokaldas-rally-up-to-18-126110300776_1.html",
-    "https://www.livemint.com/market/stock-market-news/reliance-shares-see-volume-breakout-is-a-trend-reversal-around-the-corner-here-s-what-history-shows-11793706073307.html"
+    "https://www.livemint.com/market/stock-market-news/reliance-shares-see-volume-breakout-is-a-trend-reversal-around-the-corner-here-s-what-history-shows-11793706073307.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-front-running-of-the-trades-of-axis-mutual-fund_105574.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-_105572.html",
+    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-3-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-taiwan-cues-11793666426237.html",
+    "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
     "date": "2026-11-03",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "Indian shares seen opening higher after earnings-led rebound; higher oil to cap gains",
     "Sensex, Nifty may gain 5-8% if external headwinds recede: Baldev Prakash",
     "Suzlon Energy shares fall 4% as Nuvama, others slash target prices after Q2 margins disappoint. What lies ahead?",
     "Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?",
@@ -586,7 +585,8 @@
     "HDFC Bank share price gains 3% today: Here's why - Is the worst over after a 27% one-year fall? What experts say",
     "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
     "Textile, garment stocks in demand; Kitex, Trident, Gokaldas rally up to 18%",
-    "Reliance shares see volume breakout: Is a trend reversal around the corner? Here\u2019s what history shows"
+    "Reliance shares see volume breakout: Is a trend reversal around the corner? Here\u2019s what history shows",
+    "Exemption Order in the matter of Emmbi Industries Limited"
   ],
   "reels_posted": {
     "date": "2026-11-03",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793708392.8117096,
+    "fetched_at": 1793713260.0923996,
     "symbols": [
       "blspoly",
       "empower",
