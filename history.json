@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-among-2-stocks-to-buy-for-friday-for-healthy-returns/articleshow/135321713.cms",
-    "https://www.business-standard.com/markets/news/birlasoft-share-price-rallies-11-on-huge-volume-post-q2-results-126102900328_1.html",
-    "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-hopes-of-us-iran-peace-talks-ease-supply-fears-126102900085_1.html",
     "https://www.business-standard.com/world-news/samsung-keeps-shattering-profit-records-as-ai-boom-lifts-chip-demand-126102900116_1.html",
     "https://www.livemint.com/market/stock-market-news/jio-platforms-first-q2-results-after-bumper-listing-check-date-reliance-firm-s-earnings-in-focus-key-numbers-to-watch-11793290112398.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ril-jio-trent-suzlon-energy-indigo-vedanta-power-and-rvnl/articleshow/135324704.cms",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/ipo-bound-stockgros-profit-jumps-3-fold-to-rs-113-cr-in-fy26-on-strong-revenue-growth/articleshow/135465910.cms",
     "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sri-lotus-developers-and-realty-promoters-to-sell-2-38-cr-shares-via-ofs/articleshow/135465830.cms",
     "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sebi-issues-rules-for-depositary-receipts-on-reits-invits-units/articleshow/135465653.cms",
-    "https://www.livemint.com/market/stock-market-news/sbi-q2-results-2026-today-schedule-preview-expectations-should-you-buy-ahead-of-earnings-announcement-11793673875014.html"
+    "https://www.livemint.com/market/stock-market-news/sbi-q2-results-2026-today-schedule-preview-expectations-should-you-buy-ahead-of-earnings-announcement-11793673875014.html",
+    "https://www.livemint.com/market/stock-market-news/november-2-gold-silver-rates-gold-silver-prices-rebound-from-multi-month-lows-as-crude-oil-retreats-11793635178579.html",
+    "https://www.livemint.com/market/sitharaman-recognises-the-voice-of-investors-will-fm-slash-equity-taxes-in-next-budget-amid-heavy-fpi-outflows-11793631070177.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-among-8-stocks-showing-rsi-trending-up/slideshow/135481838.cms"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
     "date": "2026-11-03",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Top 3 stocks to buy tomorrow: Kotak Mahindra Bank, Nykaa, Eternal by market expert; check stop-loss, target price",
     "Yes Bank shares extend decline to 26% in October, hit a multi-year low. Why are investors turning cautious?",
     "Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore due to one-time deferred tax",
     "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns",
@@ -586,7 +585,8 @@
     "Reliance surges 11.6% as strong Q2 earnings add Rs 1.83 lakh crore in market value",
     "Sebi allows REITs, InvITs to tap overseas investors through depository receipts",
     "Reliance Industries takes the wheel, surges 12% to steer benchmarks higher",
-    "SBI Q2 results 2026 today schedule, preview, expectations | Should you buy ahead of earnings announcement?"
+    "SBI Q2 results 2026 today schedule, preview, expectations | Should you buy ahead of earnings announcement?",
+    "Reliance Industries among 8 stocks showing RSI Trending Up"
   ],
   "reels_posted": {
     "date": "2026-11-03",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793677817.701758,
+    "fetched_at": 1793681464.8226852,
     "symbols": [
       "avance",
+      "blspoly",
       "empower",
       "hdfcbank",
-      "hfcl",
       "idea",
       "iti",
       "jppower",
-      "motherson",
+      "moneyview",
       "msumi",
       "olaelec",
       "pcjeweller",
       "reliance",
+      "sfctech",
       "suzlon",
       "tatagold",
       "tatsilv",
-      "tfciltd",
       "trident",
       "vedpower",
-      "yesbank",
-      "zeel"
+      "welspunliv",
+      "yesbank"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
