@@ -501,7 +501,7 @@
     "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-3-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-taiwan-cues-11793666426237.html",
     "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf"
   ],
-  "last_fii_dii_post_date": "2026-11-02",
+  "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-03",
     "count": 12
@@ -590,7 +590,7 @@
   ],
   "reels_posted": {
     "date": "2026-11-03",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-11-03",
   "nse_holidays": {
@@ -654,7 +654,7 @@
     ]
   },
   "news_evening_reel_date": "2026-10-25",
-  "fii_cta_index": 1,
+  "fii_cta_index": 2,
   "news_morning_reel_date": "2026-11-03",
   "news_afternoon_post_date": "2026-10-26"
 }
