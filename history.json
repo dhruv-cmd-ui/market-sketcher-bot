@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/10-defence-stocks-rally-up-to-500-in-fy27-so-far-5-turn-multibaggers/slideshow/135303076.cms",
     "https://economictimes.indiatimes.com/markets/forex/rupee-rises-3-paise-to-close-at-95-25-against-us-dollar/articleshow/135302143.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-q2-results-loss-narrows-yoy-to-rs-1879-crore-revenue-rises-26/articleshow/135301474.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-ahead-of-ecb-policy-decision/articleshow/135301472.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/dividend-bonus-issue-last-chance-to-buy-today-godrej-consumer-coal-india-asian-paints-and-others-11793640245000.html",
     "https://www.business-standard.com/markets/news/itc-up-1-after-weak-q2-analysts-see-gradual-recovery-in-cigarette-biz-126110300289_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-standalone-profit-rises-14-yoy-to-rs-23038-crore-nii-jumps-15/articleshow/135489000.cms",
-    "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-gains-3-today-heres-why-is-the-worst-over-after-a-27-one-year-fall-what-experts-say-11793688821749.html"
+    "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-gains-3-today-heres-why-is-the-worst-over-after-a-27-one-year-fall-what-experts-say-11793688821749.html",
+    "https://www.business-standard.com/markets/news/nifty-private-bank-index-gains-2-hdfc-bank-icici-bank-axis-bank-shine-126110300965_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-02",
   "news_posted": {
     "date": "2026-11-03",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "Jio Platforms first Q2 results after bumper listing: check date; Reliance firm\u2019s earnings in focus; key numbers to watch",
     "Kotak Bank shares gain 30% since April as earnings outlook brightens",
     "SFC Environmental Technologies IPO subscribed 9.5 times on final day",
     "Indian shares seen opening higher after earnings-led rebound; higher oil to cap gains",
@@ -586,7 +585,8 @@
     "Reliance Industries among 8 stocks showing RSI Trending Up",
     "Trident shares rally 13% after Q2 net profit jumps 93% to Rs 175 crore; firm plans Rs 4,650 crore capex",
     "ITC up 1% after weak Q2; analysts see gradual recovery in cigarette biz",
-    "HDFC Bank share price gains 3% today: Here's why - Is the worst over after a 27% one-year fall? What experts say"
+    "HDFC Bank share price gains 3% today: Here's why - Is the worst over after a 27% one-year fall? What experts say",
+    "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine"
   ],
   "reels_posted": {
     "date": "2026-11-03",
@@ -629,16 +629,16 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793697792.328857,
+    "fetched_at": 1793701670.3895636,
     "symbols": [
       "blspoly",
       "empower",
       "groww",
       "hdfcbank",
       "idea",
+      "itc",
       "jppower",
       "moneyview",
-      "mtnl",
       "olaelec",
       "pcjeweller",
       "reliance",
