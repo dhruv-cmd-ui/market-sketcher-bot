@@ -501,7 +501,7 @@
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/order-in-the-matter-of-certain-investment-advisers_105587.html",
     "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html"
   ],
-  "last_fii_dii_post_date": "2026-11-03",
+  "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-04",
     "count": 12
@@ -590,7 +590,7 @@
   ],
   "reels_posted": {
     "date": "2026-11-04",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-11-04",
   "nse_holidays": {
@@ -654,7 +654,7 @@
     ]
   },
   "news_evening_reel_date": "2026-10-25",
-  "fii_cta_index": 2,
+  "fii_cta_index": 0,
   "news_morning_reel_date": "2026-11-04",
   "news_afternoon_post_date": "2026-10-26"
 }
