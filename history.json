@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
     "https://www.livemint.com/market/stock-market-news/why-sterlite-technologies-shares-hit-5-lower-circuit-today-down-9-in-3-days-whats-driving-the-crash-buy-or-sell-11793333205379.html",
     "https://www.livemint.com/market/stock-market-news/trent-share-price-tata-group-stock-jumps-6-after-q2-results-should-you-buy-or-sell-check-target-upside-11793332422704.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/sugar-slides-to-five-week-low-as-high-indian-output-jolts-market-11793731217079.html",
     "https://www.livemint.com/market/stock-market-news/down-38-in-2026-aditya-birla-real-estate-gets-buy-rating-from-anand-rathi-30-upside-see-11793728248414.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-jump-6-in-two-days-after-q2-results-more-upside-ahead/articleshow/135526058.cms",
-    "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-in-focus-60-jump-in-mtf-book-dethrones-hdfc-bank-should-you-buy-sell-or-hold-11793758986934.html"
+    "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-in-focus-60-jump-in-mtf-book-dethrones-hdfc-bank-should-you-buy-sell-or-hold-11793758986934.html",
+    "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "Bengaluru matches Tokyo with 11.5% office rent growth in Q3: Knight Frank",
     "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
     "Moneyview shares give 30% returns to allottees within a month of IPO listing | Buy, sell or hold? Experts' views, target",
     "Global tech giants' spending spooks investors and drives bonds rally",
@@ -586,7 +585,8 @@
     "ITC shares continue to rise after Q2 results 2026; jumps 3% today | More rally to come? Check target, upside, returns",
     "HDFC Bank Share Price Live Updates: HDFC Bank Achieves New High Above 100-Day SMA",
     "ITC shares jump 6% in two days after Q2 results. More upside ahead?",
-    "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell?"
+    "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell?",
+    "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What\u2019s happening?"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793780383.7053468,
+    "fetched_at": 1793784521.6017408,
     "symbols": [
       "blspoly",
       "empower",
