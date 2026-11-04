@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-6-stocks-hitting-52-week-highs-rally-up-to-20-in-a-month/slideshow/135359688.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-with-over-100-profit-growth-in-q2fy27/slideshow/135358493.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-capital-q2-profit-rises-38-to-rs-1288-cr/articleshow/135357711.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-shriram-finance-nestle-india-trent-interglobe-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135357312.cms",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/commodities/oil-prices-edge-down-as-investors-await-us-midterm-election-results-126110400110_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-s-medium-term-momentum-improves-24k-next-resistance-hdfc-securities-126110400112_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-nse-bata-india-hindustan-zinc-nykaa-ask-automotive-126110400118_1.html",
-    "https://www.business-standard.com/markets/news/suppliers-charging-vendors-extra-for-upi-payments-before-mdr-isb-survey-126110401916_1.html"
+    "https://www.business-standard.com/markets/news/suppliers-charging-vendors-extra-for-upi-payments-before-mdr-isb-survey-126110401916_1.html",
+    "https://www.business-standard.com/markets/news/sbi-shares-strong-nii-improving-margins-drive-analysts-optimism-after-q2-126110400412_1.html",
+    "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets",
     "Binance crypto exchange's $6.3 bn heist rattles crypto, draws scrutiny",
     "Diwali stock picks: SBI Securities lists 11 stocks with up to 22% upside potential. Do you own any?",
     "IPO ahead: Value-fashion retailer Ratnadeep Retail gets Sebi nod to raise funds through public issue",
@@ -586,7 +585,8 @@
     "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
     "Review of Know Your Client process for individual Person Resident Outside India clients",
     "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research",
-    "Suppliers charging vendors extra for UPI payments before MDR: ISB survey"
+    "Suppliers charging vendors extra for UPI payments before MDR: ISB survey",
+    "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793805706.6713073,
+    "fetched_at": 1793809561.1408098,
     "symbols": [
       "blspoly",
       "empower",
