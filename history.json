@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/flying-high-vedanta-oil-and-gas-vedanta-power-vedanta-iron-steel-why-vedanta-shares-jumped-up-to-135-11793335496479.html",
-    "https://www.business-standard.com/markets/news/breakout-stocks-adani-ports-nykaa-saregama-on-radar-analyst-tells-why-126103000358_1.html",
     "https://www.business-standard.com/markets/news/laurus-labs-share-price-rallies-19-in-4-days-zooms-111-ytd-what-s-driving-cdmo-stock-126103000255_1.html",
     "https://www.business-standard.com/markets/news/equitas-sfb-share-price-tanks-17-as-ceo-exit-mars-q2-show-down-27-in-2-days-126103000283_1.html",
     "https://www.livemint.com/market/stock-market-news/moneyview-shares-give-30-returns-to-allottees-within-a-month-of-ipo-listing-buy-sell-or-hold-experts-views-target-11793339745244.html",
@@ -499,15 +497,16 @@
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-swastika-investmart-limited_105600.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-som-distilleries-and-breweries-ltd_105598.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/order-in-the-matter-of-certain-investment-advisers_105587.html",
-    "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html"
+    "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html",
+    "https://www.business-standard.com/markets/news/breakout-stocks-chandan-taparia-bets-on-bharti-airtel-paytm-divi-s-lab-126110400106_1.html",
+    "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-eternal-icici-l-t-titan-to-radico-11-stocks-shriram-research-is-bullish-on-in-samvat-2083-11793796674218.html"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
     "Raw sugar gains nearly 10% in October; robusta coffee 6% down",
     "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets",
     "Binance crypto exchange's $6.3 bn heist rattles crypto, draws scrutiny",
@@ -586,7 +585,8 @@
     "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What\u2019s happening?",
     "US midterm elections impact on gold, silver prices in India: How Donald Trump's loss is affecting precious metals rates?",
     "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
-    "Review of Know Your Client process for individual Person Resident Outside India clients"
+    "Review of Know Your Client process for individual Person Resident Outside India clients",
+    "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793796987.682945,
+    "fetched_at": 1793801599.9853165,
     "symbols": [
       "blspoly",
       "empower",
