@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-30-october-11793320052124.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/ease-of-compliance-for-fpis-rationalisation-of-kyc-review-periodicity_105522.html",
-    "https://www.sebi.gov.in/legal/circulars/oct-2026/rationalisation-of-periodicity-of-kyc-review-for-fpis_105504.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-q2-results-profit-rises-14-yoy-to-rs-8389-crore-revenue-up-11/articleshow/135364558.cms",
     "https://www.livemint.com/market/stock-market-news/reliance-industries-q2-results-2026-today-preview-should-you-buy-sell-or-hold-ahead-of-earnings-experts-views-11793325321666.html",
     "https://www.business-standard.com/markets/news/can-sensex-nifty-extend-rally-on-friday-here-s-what-market-analysts-say-126103000078_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-2026-date-today-what-trumps-loss-mean-for-gold-sensex-nifty-global-markets-us-bonds-11793715305962.html",
     "https://www.livemint.com/market/stock-market-news/apple-shares-fall-4-despite-revenue-beat-in-first-earnings-under-ceo-john-ternus-whats-next-for-the-iphone-maker-11793716805295.html",
     "https://www.livemint.com/market/stock-market-news/stocks-are-at-their-highest-in-two-months-analysts-flagging-caution-nifty-sensex-markets-11793706245094.html",
-    "https://www.business-standard.com/markets/news/bharti-airtel-q2-results-preview-analysts-see-double-digit-revenue-growth-arpu-in-focus-126110400151_1.html"
+    "https://www.business-standard.com/markets/news/bharti-airtel-q2-results-preview-analysts-see-double-digit-revenue-growth-arpu-in-focus-126110400151_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-among-4-stocks-showing-rsi-trending-up/slideshow/135522358.cms",
+    "https://www.livemint.com/market/bls-international-q2-results-record-revenue-on-digital-services-growth-but-can-strong-earnings-revive-shares-11793718530166.html",
+    "https://www.livemint.com/market/stock-market-news/nse-q2-earnings-prop-traders-sebi-cas-rules-stock-markets-india-11793719260733.html",
+    "https://www.livemint.com/market/stock-market-news/itc-shares-continue-to-rise-after-q2-results-2026-jumps-3-today-more-rally-to-come-check-target-upside-returns-11793764869079.html"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Global Market: European blue-chips set for strongest earnings in four years",
     "Suzlon Energy shares sink 8% after Q2 results miss margin expectations",
     "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9",
     "Ease of Compliance for FPIs \u2013 Rationalisation of KYC Review Periodicity",
@@ -586,7 +585,8 @@
     "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
     "Are large-cap stocks reclaiming their strategic leadership? Analysts' view",
     "Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4",
-    "Airtel Q2 preview: Analysts see double-digit revenue growth; ARPU in focus"
+    "Airtel Q2 preview: Analysts see double-digit revenue growth; ARPU in focus",
+    "ITC shares continue to rise after Q2 results 2026; jumps 3% today | More rally to come? Check target, upside, returns"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,12 +629,13 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793764127.5894945,
+    "fetched_at": 1793768107.2539258,
     "symbols": [
-      "bhel",
       "blspoly",
       "empower",
-      "groww",
+      "equitasbnk",
+      "goldadd",
+      "gtlinfra",
       "hdfcbank",
       "idea",
       "itc",
@@ -642,14 +643,13 @@
       "moneyview",
       "olaelec",
       "pcjeweller",
-      "relinfra",
-      "rpower",
-      "sbin",
+      "sagility",
       "sfctech",
-      "subexltd",
       "suzlon",
       "tatagold",
-      "trident",
+      "tatsilv",
+      "vedpower",
+      "welspunliv",
       "yesbank"
     ]
   },
