@@ -1,20 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/silver-may-slide-to-48-as-momentum-selling-deepens-mirae-asset-sharekhan-126103000503_1.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1579-2026-issued-against-r-senthil-kumar-under-recovery-certificate-nos-7902-of-2024-7904-of-2024-and-7905-of-2024-in-the-matter-of-trust-line-holdings-pvt-ltd-pms-and-trust-lin-_105432.html",
-    "https://www.livemint.com/market/warshs-forward-silence-risks-bigger-treasury-market-swings-11793303519987.html",
-    "https://www.livemint.com/market/loonie-hits-six-week-high-as-canada-us-yield-gap-narrows-11793300668225.html",
-    "https://www.business-standard.com/markets/news/eternal-share-price-rallies-6-in-two-days-stock-nears-record-high-here-s-why-126103000553_1.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-8484-of-2024-against-narendrabhai-amin-pan-amgpa3864q-in-the-matter-of-m-s-austral-coke-and-projects-limited-ii_105441.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-general-remittance-order-dated-26-10-2026-in-recovery-certificate-no-8511-of-2025-issued-against-add-life-pharma-ltd-in-the-matter-of-add-life-pharma-ltd-_105439.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8484-of-2024-against-narendrabhai-amin-pan-amgpa3864q-in-the-matter-of-m-s-austral-coke-and-projects-limited-ii_105437.html",
-    "https://www.livemint.com/market/shanghai-exchange-halts-duty-free-metal-delivery-against-futures-11793306332325.html",
-    "https://www.business-standard.com/markets/news/mid-smallcaps-under-pressure-suzlon-swiggy-stl-hfcl-slip-up-to-10-126103000657_1.html",
-    "https://www.livemint.com/market/stock-market-news/crash-suzlon-energy-share-price-stock-tanks-10-to-52-week-low-after-weak-q2-results-2026-buy-or-avoid-target-price-11793334115728.html",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/gail-q2-results-profit-zooms-139-yoy-to-rs-4720-crore-revenue-rises-33-board-approves-gail-gas-ipo/articleshow/135356210.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-blue-chips-set-for-strongest-earnings-in-four-years/articleshow/135356294.cms",
-    "https://www.business-standard.com/markets/news/suzlon-energy-shares-sink-8-after-q2-results-miss-margin-expectations-126103000583_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-results-standalone-profit-jumps-36-yoy-to-rs-6532-crore-nii-up-9/articleshow/135359927.cms",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-inspection-of-veena-sharma-proprietor-research-guru-investment-adviser_105519.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-integra-switchgear-limited_105517.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-sunitadevi-niranjan-agarwal-pan-adrps3295h-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9311-of-2026_105515.html",
@@ -499,15 +484,29 @@
     "https://www.business-standard.com/markets/news/crude-sensitive-stocks-gain-as-oil-stays-below-105-hpcl-indigo-rise-126110300400_1.html",
     "https://www.business-standard.com/markets/news/small-cap-stock-kitex-garments-zooms-over-17-as-firm-swings-to-black-in-q2-126110300398_1.html",
     "https://www.business-standard.com/markets/news/sfc-environment-technologies-shares-list-at-7-5-premium-over-ipo-price-126110300378_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-40-lakh-penalty-on-two-brokers-in-axis-mutual-fund-front-running-case/articleshow/135516888.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-40-lakh-penalty-on-two-brokers-in-axis-mutual-fund-front-running-case/articleshow/135516888.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-levies-rs-40-lakh-penalty-on-four-entities-in-axis-mf-front-running-case/articleshow/135506148.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/bata-india-q2-results-profit-rises-30-at-rs-18-crore-revenue-rises-to-rs-862-crore/articleshow/135502156.cms",
+    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-tad-higher-on-softer-oil/articleshow/135501245.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-mixed-as-apple-falls-on-margin-warning-midterm-results-awaited/articleshow/135501177.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-apple-palantir-nvidia-midterm-elections-us-iran-war-crude-oil-prices-ai-stocks-treasury-yields-earnings-news-3rd-november-2026/liveblog/135501430.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/happiest-minds-q2-results-profit-rises-15-to-rs-62-crore-revenue-up-12-to-rs-645-crore/articleshow/135501133.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/emcure-pharma-q2-results-profit-jumps-29-to-rs-325-crore/articleshow/135501062.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/nexus-select-trust-q2-net-operating-income-rises-8-pc-to-rs-504-cr/articleshow/135501009.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/v-mart-retail-q2-loss-widens-to-rs-16-crore/articleshow/135500943.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/minda-corp-q2-results-net-profit-jumps-68-to-rs-143-crore-on-strong-revenue-growth/articleshow/135500886.cms",
+    "https://www.livemint.com/market/stock-market-news/nse-q2-results-profit-rises-23-ebitda-doubles-in-first-post-ipo-earnings-how-has-stock-fared-since-listing-11793711653586.html",
+    "https://www.business-standard.com/markets/news/nse-q2fy27-net-profit-rises-23-to-2-578-crore-revenue-grows-10-6-126110301688_1.html",
+    "https://www.business-standard.com/markets/news/nseix-extends-trading-to-23-5-hours-offers-near-round-the-clock-access-126110301668_1.html",
+    "https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html",
+    "https://www.business-standard.com/markets/news/are-large-cap-stocks-reclaiming-their-strategic-leadership-analysts-view-126110400087_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Eternal rallies 6% in two days, stock nears record high; here's why",
     "Mid-, small-caps under pressure; Suzlon, Swiggy, STL, HFCL plunge up to 10%",
     "Crash! Suzlon Energy share price: Stock tanks 10% to 52-week low after weak Q2 results 2026: Buy or avoid? Target price",
     "Global Market: European blue-chips set for strongest earnings in four years",
@@ -586,7 +585,8 @@
     "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
     "Reliance shares: After massive 12% surge, Mukesh Ambani's RIL stock slips from biggest single-day rally since 2020; buy?",
     "How ITC shares are performing after Q2 results? Should you buy, sell or hold? Brokerages give targets, key levels",
-    "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case"
+    "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
+    "Are large-cap stocks reclaiming their strategic leadership? Analysts' view"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793753706.4884958,
+    "fetched_at": 1793757351.9472086,
     "symbols": [
       "blspoly",
       "empower",
