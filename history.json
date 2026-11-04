@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/trent-share-price-tata-group-stock-jumps-6-after-q2-results-should-you-buy-or-sell-check-target-upside-11793332422704.html",
     "https://www.livemint.com/market/stock-market-news/jio-platforms-shares-q2-results-2026-date-expectations-to-preview-should-you-buy-or-wait-experts-views-target-11793330021276.html",
     "https://www.livemint.com/market/yen-holds-gains-against-dollar-after-boj-keeps-rates-steady-11793331858764.html",
     "https://www.business-standard.com/markets/news/asian-shares-trade-mixed-as-concerns-about-ai-related-issues-grow-126103000110_1.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-in-focus-60-jump-in-mtf-book-dethrones-hdfc-bank-should-you-buy-sell-or-hold-11793758986934.html",
     "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
     "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
-    "https://www.livemint.com/market/stock-market-news/us-midterm-elections-impact-on-gold-silver-prices-in-india-how-donald-trumps-loss-is-affecting-precious-metals-rates-11793785627674.html"
+    "https://www.livemint.com/market/stock-market-news/us-midterm-elections-impact-on-gold-silver-prices-in-india-how-donald-trumps-loss-is-affecting-precious-metals-rates-11793785627674.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q2-results-pat-soars-207-yoy-to-rs-101-crore-revenue-up-28-co-to-acquire-82-stake-in-simply-nam/articleshow/135537436.cms"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Moneyview shares give 30% returns to allottees within a month of IPO listing | Buy, sell or hold? Experts' views, target",
     "Global tech giants' spending spooks investors and drives bonds rally",
     "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
     "Raw sugar gains nearly 10% in October; robusta coffee 6% down",
@@ -586,7 +585,8 @@
     "ITC shares jump 6% in two days after Q2 results. More upside ahead?",
     "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell?",
     "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What\u2019s happening?",
-    "US midterm elections impact on gold, silver prices in India: How Donald Trump's loss is affecting precious metals rates?"
+    "US midterm elections impact on gold, silver prices in India: How Donald Trump's loss is affecting precious metals rates?",
+    "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793788705.778341,
+    "fetched_at": 1793793300.173749,
     "symbols": [
       "blspoly",
       "empower",
