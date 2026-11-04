@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/stocks-to-watch-october-30-ril-jio-platforms-bob-equitas-sfb-trent-coal-india-126103000076_1.html",
     "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
     "https://www.livemint.com/market/stock-market-news/why-sterlite-technologies-shares-hit-5-lower-circuit-today-down-9-in-3-days-whats-driving-the-crash-buy-or-sell-11793333205379.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-04-nov-2026/liveblog/135522861.cms",
     "https://www.livemint.com/market/sugar-slides-to-five-week-low-as-high-indian-output-jolts-market-11793731217079.html",
     "https://www.livemint.com/market/stock-market-news/down-38-in-2026-aditya-birla-real-estate-gets-buy-rating-from-anand-rathi-30-upside-see-11793728248414.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-jump-6-in-two-days-after-q2-results-more-upside-ahead/articleshow/135526058.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-jump-6-in-two-days-after-q2-results-more-upside-ahead/articleshow/135526058.cms",
+    "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-in-focus-60-jump-in-mtf-book-dethrones-hdfc-bank-should-you-buy-sell-or-hold-11793758986934.html"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "Ease of Compliance for FPIs \u2013 Rationalisation of KYC Review Periodicity",
     "Bengaluru matches Tokyo with 11.5% office rent growth in Q3: Knight Frank",
     "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
     "Moneyview shares give 30% returns to allottees within a month of IPO listing | Buy, sell or hold? Experts' views, target",
@@ -586,7 +585,8 @@
     "Airtel Q2 preview: Analysts see double-digit revenue growth; ARPU in focus",
     "ITC shares continue to rise after Q2 results 2026; jumps 3% today | More rally to come? Check target, upside, returns",
     "HDFC Bank Share Price Live Updates: HDFC Bank Achieves New High Above 100-Day SMA",
-    "ITC shares jump 6% in two days after Q2 results. More upside ahead?"
+    "ITC shares jump 6% in two days after Q2 results. More upside ahead?",
+    "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell?"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793775879.398768,
+    "fetched_at": 1793780383.7053468,
     "symbols": [
       "blspoly",
       "empower",
@@ -641,6 +641,7 @@
       "itc",
       "jppower",
       "moneyview",
+      "olaelec",
       "pcjeweller",
       "sagility",
       "silverbees",
@@ -648,7 +649,6 @@
       "tatagold",
       "tatsilv",
       "vedpower",
-      "welspunliv",
       "yesbank",
       "zeel"
     ]
