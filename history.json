@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/laurus-labs-share-price-rallies-19-in-4-days-zooms-111-ytd-what-s-driving-cdmo-stock-126103000255_1.html",
-    "https://www.business-standard.com/markets/news/equitas-sfb-share-price-tanks-17-as-ceo-exit-mars-q2-show-down-27-in-2-days-126103000283_1.html",
-    "https://www.livemint.com/market/stock-market-news/moneyview-shares-give-30-returns-to-allottees-within-a-month-of-ipo-listing-buy-sell-or-hold-experts-views-target-11793339745244.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-dividends-bigger-losses-the-hidden-risk-in-wall-streets-highest-yielding-stocks/articleshow/135362488.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-buckle-for-fourth-straight-month-on-oils-climb/articleshow/135361502.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-6-stocks-hitting-52-week-highs-rally-up-to-20-in-a-month/slideshow/135359688.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-with-over-100-profit-growth-in-q2fy27/slideshow/135358493.cms",
@@ -499,15 +494,19 @@
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/order-in-the-matter-of-certain-investment-advisers_105587.html",
     "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html",
     "https://www.business-standard.com/markets/news/breakout-stocks-chandan-taparia-bets-on-bharti-airtel-paytm-divi-s-lab-126110400106_1.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-eternal-icici-l-t-titan-to-radico-11-stocks-shriram-research-is-bullish-on-in-samvat-2083-11793796674218.html"
+    "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-eternal-icici-l-t-titan-to-radico-11-stocks-shriram-research-is-bullish-on-in-samvat-2083-11793796674218.html",
+    "https://www.business-standard.com/markets/news/fiis-cover-shorts-net-buy-4-711-cr-index-futures-on-tue-a-4-month-record-126110400135_1.html",
+    "https://www.business-standard.com/markets/commodities/oil-prices-edge-down-as-investors-await-us-midterm-election-results-126110400110_1.html",
+    "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-s-medium-term-momentum-improves-24k-next-resistance-hdfc-securities-126110400112_1.html",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-nse-bata-india-hindustan-zinc-nykaa-ask-automotive-126110400118_1.html",
+    "https://www.business-standard.com/markets/news/suppliers-charging-vendors-extra-for-upi-payments-before-mdr-isb-survey-126110401916_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "Raw sugar gains nearly 10% in October; robusta coffee 6% down",
     "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets",
     "Binance crypto exchange's $6.3 bn heist rattles crypto, draws scrutiny",
     "Diwali stock picks: SBI Securities lists 11 stocks with up to 22% upside potential. Do you own any?",
@@ -586,7 +585,8 @@
     "US midterm elections impact on gold, silver prices in India: How Donald Trump's loss is affecting precious metals rates?",
     "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
     "Review of Know Your Client process for individual Person Resident Outside India clients",
-    "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research"
+    "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research",
+    "Suppliers charging vendors extra for UPI payments before MDR: ISB survey"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793801599.9853165,
+    "fetched_at": 1793805706.6713073,
     "symbols": [
       "blspoly",
       "empower",
