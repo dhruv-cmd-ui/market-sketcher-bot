@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
-    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-crude-oil-prices-to-fpi-inflows-triggers-that-could-reverse-trend-in-sensex-nifty-50-11793327449431.html",
-    "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-houthis-attack-saudi-arabia-126103000085_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-october-30-ril-jio-platforms-bob-equitas-sfb-trent-coal-india-126103000076_1.html",
     "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-titan-eternal-bse-to-adani-ports-10-long-term-bets-by-motilal-oswal-with-up-to-41-upside-11793724057631.html",
     "https://www.business-standard.com/world-news/binance-s-6-3-billion-hack-creates-windfall-for-crypto-arbitrage-traders-126110302014_1.html",
     "https://www.business-standard.com/markets/news/markets-extend-gains-for-fourth-day-fpi-buying-highest-in-a-year-126110301699_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-04-nov-2026/liveblog/135520287.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-04-nov-2026/liveblog/135520287.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-04-nov-2026/liveblog/135522861.cms",
+    "https://www.livemint.com/market/sugar-slides-to-five-week-low-as-high-indian-output-jolts-market-11793731217079.html",
+    "https://www.livemint.com/market/stock-market-news/down-38-in-2026-aditya-birla-real-estate-gets-buy-rating-from-anand-rathi-30-upside-see-11793728248414.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-jump-6-in-two-days-after-q2-results-more-upside-ahead/articleshow/135526058.cms"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9",
     "Ease of Compliance for FPIs \u2013 Rationalisation of KYC Review Periodicity",
     "Bengaluru matches Tokyo with 11.5% office rent growth in Q3: Knight Frank",
     "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
@@ -586,7 +585,8 @@
     "Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4",
     "Airtel Q2 preview: Analysts see double-digit revenue growth; ARPU in focus",
     "ITC shares continue to rise after Q2 results 2026; jumps 3% today | More rally to come? Check target, upside, returns",
-    "HDFC Bank Share Price Live Updates: HDFC Bank Achieves New High Above 100-Day SMA"
+    "HDFC Bank Share Price Live Updates: HDFC Bank Achieves New High Above 100-Day SMA",
+    "ITC shares jump 6% in two days after Q2 results. More upside ahead?"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,13 +629,13 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793771703.8619034,
+    "fetched_at": 1793775879.398768,
     "symbols": [
       "blspoly",
       "empower",
       "equitasbnk",
       "goldadd",
-      "gtlinfra",
+      "goldbees",
       "hdfcbank",
       "idea",
       "itc",
@@ -647,10 +647,10 @@
       "suzlon",
       "tatagold",
       "tatsilv",
-      "tfciltd",
       "vedpower",
       "welspunliv",
-      "yesbank"
+      "yesbank",
+      "zeel"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
