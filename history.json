@@ -1,13 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-inspection-of-veena-sharma-proprietor-research-guru-investment-adviser_105519.html",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-integra-switchgear-limited_105517.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-sunitadevi-niranjan-agarwal-pan-adrps3295h-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9311-of-2026_105515.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-aditya-n-agarwal-pan-aktpa4024b-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9310-of-2026_105513.html",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7120-of-2026-filed-by-rahul-bagrecha_105509.html",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7119-of-2026-filed-by-furkan-salmani_105508.html",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7118-of-2026-filed-by-priya_105506.html",
-    "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-inspection-of-central-depository-services-india-limited-conducted-during-fy-2023-24_105499.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-issued-under-rc-no-9309-of-2026-drawn-against-m-s-arihant-securities-proprietor-pravin-kumar-jain-in-the-matter-of-betala-global-securities-limited_105511.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9194-of-2026-against-trdez-investment-private-limited-pan-aajct5451g-in-the-matter-of-trdez-investment-private-limited_105503.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-9194-of-2026-against-trdez-investment-private-limited-pan-aajct5451g-in-the-matter-of-trdez-investment-private-limited_105501.html",
@@ -499,15 +491,22 @@
     "https://www.business-standard.com/markets/news/nse-q2fy27-net-profit-rises-23-to-2-578-crore-revenue-grows-10-6-126110301688_1.html",
     "https://www.business-standard.com/markets/news/nseix-extends-trading-to-23-5-hours-offers-near-round-the-clock-access-126110301668_1.html",
     "https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html",
-    "https://www.business-standard.com/markets/news/are-large-cap-stocks-reclaiming-their-strategic-leadership-analysts-view-126110400087_1.html"
+    "https://www.business-standard.com/markets/news/are-large-cap-stocks-reclaiming-their-strategic-leadership-analysts-view-126110400087_1.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-prices-extend-declines-midterms-on-tap/articleshow/135503356.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/dupont-raises-annual-profit-forecasts-on-strong-healthcare-aerospace-demand/articleshow/135502681.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/ferrari-nudges-up-full-year-forecasts-after-beating-consensus-in-q3/articleshow/135502546.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-face-us-midterms-test-as-election-bets-soar/articleshow/135502488.cms",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-bse-nykaa-nse-sbi-iex-shares-in-focus-on-wednesday-4-nov-full-list-11793755813757.html",
+    "https://www.business-standard.com/markets/news/what-will-new-samvat-bring-for-investors-experts-to-discuss-at-bs-webinar-126110301735_1.html",
+    "https://www.business-standard.com/markets/news/rupee-extends-gains-for-third-day-settles-at-94-75-against-the-dollar-126110301693_1.html",
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-will-gold-bounce-back-on-wednesday-check-outlook-for-november-4/articleshow/135518967.cms"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Mid-, small-caps under pressure; Suzlon, Swiggy, STL, HFCL plunge up to 10%",
     "Crash! Suzlon Energy share price: Stock tanks 10% to 52-week low after weak Q2 results 2026: Buy or avoid? Target price",
     "Global Market: European blue-chips set for strongest earnings in four years",
     "Suzlon Energy shares sink 8% after Q2 results miss margin expectations",
@@ -586,7 +585,8 @@
     "Reliance shares: After massive 12% surge, Mukesh Ambani's RIL stock slips from biggest single-day rally since 2020; buy?",
     "How ITC shares are performing after Q2 results? Should you buy, sell or hold? Brokerages give targets, key levels",
     "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
-    "Are large-cap stocks reclaiming their strategic leadership? Analysts' view"
+    "Are large-cap stocks reclaiming their strategic leadership? Analysts' view",
+    "Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793757351.9472086,
+    "fetched_at": 1793760374.5839353,
     "symbols": [
       "blspoly",
       "empower",
