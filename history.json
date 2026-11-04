@@ -1,15 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-with-over-100-profit-growth-in-q2fy27/slideshow/135358493.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-capital-q2-profit-rises-38-to-rs-1288-cr/articleshow/135357711.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-shriram-finance-nestle-india-trent-interglobe-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135357312.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-issues-final-order-against-axis-capital-imposes-regulatory-censure-axis-bank-shares-fall-over-1/articleshow/135357153.cms",
-    "https://economictimes.indiatimes.com/markets/forex/rupee-rises-33-paise-to-close-at-94-93-against-us-dollar/articleshow/135357047.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/asian-paints-consolidated-profit-jumps-7-5-yoy-in-q2/articleshow/135356862.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-308-points-nifty-above-23000-even-as-broader-markets-crash-will-d-street-bulls-extend-recovery-next-week/articleshow/135356125.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-futures-tumble-over-2-as-amazon-intel-stoke-ai-spending-concerns/articleshow/135356130.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/fiis-hold-717-billion-worth-of-indian-stocks-but-trim-exposure-across-56-of-nifty-500-companies-where-are-they-investing/articleshow/135353242.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-results-profit-falls-36-yoy-to-rs-1989-crore-on-exceptional-charges/articleshow/135352681.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-automakers-get-earnings-boost-as-chinese-competition-weighs-on-recovery/articleshow/135352780.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/varun-beverages-shares-fall-over-4-as-q3-margin-pressure-weighs-despite-a-33-yoy-revenue-growth/articleshow/135352713.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-binance-breach-rekindles-fears-over-cryptocurrency-security/articleshow/135351569.cms",
@@ -499,15 +489,24 @@
     "https://www.business-standard.com/markets/news/stocks-to-watch-nse-bata-india-hindustan-zinc-nykaa-ask-automotive-126110400118_1.html",
     "https://www.business-standard.com/markets/news/suppliers-charging-vendors-extra-for-upi-payments-before-mdr-isb-survey-126110401916_1.html",
     "https://www.business-standard.com/markets/news/sbi-shares-strong-nii-improving-margins-drive-analysts-optimism-after-q2-126110400412_1.html",
-    "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html"
+    "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html",
+    "https://www.business-standard.com/markets/news/equitas-sfb-shares-surge-9-after-19-fall-in-4-days-as-lender-names-interim-ceo-126110400487_1.html",
+    "https://www.business-standard.com/markets/news/titan-q2-preview-brokerages-see-up-to-27-pat-growth-led-by-jewellery-biz-126110400475_1.html",
+    "https://www.business-standard.com/markets/news/indigo-asian-paints-ioc-analyst-view-on-crude-sensitives-shares-as-crude-oil-price-dips-13-126110400466_1.html",
+    "https://www.business-standard.com/markets/news/bhel-rallies-6-on-securing-large-project-works-from-adani-power-126110400467_1.html",
+    "https://www.business-standard.com/markets/commodities/gold-prices-show-mixed-trend-falls-on-mcx-rises-in-global-market-126110400456_1.html",
+    "https://www.business-standard.com/markets/news/mcx-share-price-falls-7-despite-two-fold-jump-in-q2-profit-here-s-why-126110400449_1.html",
+    "https://www.business-standard.com/markets/news/emcure-pharma-share-price-surges-10-stock-hits-new-high-on-strong-outlook-126110400404_1.html",
+    "https://www.business-standard.com/markets/news/us-midterms-impact-on-trump-s-political-authority-market-implications-126110400441_1.html",
+    "https://www.business-standard.com/markets/news/m-k-sons-fine-jewels-lists-at-6-premium-in-line-with-expectations-126110400423_1.html",
+    "https://www.livemint.com/market/stock-market-news/sbi-vs-sbi-life-vs-sbi-cards-which-sbi-group-stock-emerged-as-the-q2-results-2026-winner-check-analyst-targets-11793811829732.html"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
-    "Binance crypto exchange's $6.3 bn heist rattles crypto, draws scrutiny",
     "Diwali stock picks: SBI Securities lists 11 stocks with up to 22% upside potential. Do you own any?",
     "IPO ahead: Value-fashion retailer Ratnadeep Retail gets Sebi nod to raise funds through public issue",
     "Stocks to buy: Sumeet Bagadia's top 3 stock recommendations \u2014 Sun Pharma, IndiGo, Infosys | Target price, stop-loss",
@@ -586,7 +585,8 @@
     "Review of Know Your Client process for individual Person Resident Outside India clients",
     "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research",
     "Suppliers charging vendors extra for UPI payments before MDR: ISB survey",
-    "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List"
+    "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List",
+    "SBI vs SBI Life vs SBI Cards: Which SBI Group stock emerged as the Q2 results 2026 winner? Check technical targets"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793809561.1408098,
+    "fetched_at": 1793813084.9859104,
     "symbols": [
       "blspoly",
       "empower",
