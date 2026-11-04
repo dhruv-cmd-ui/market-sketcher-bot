@@ -1,14 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-issued-under-rc-no-9309-of-2026-drawn-against-m-s-arihant-securities-proprietor-pravin-kumar-jain-in-the-matter-of-betala-global-securities-limited_105511.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9194-of-2026-against-trdez-investment-private-limited-pan-aajct5451g-in-the-matter-of-trdez-investment-private-limited_105503.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-9194-of-2026-against-trdez-investment-private-limited-pan-aajct5451g-in-the-matter-of-trdez-investment-private-limited_105501.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-29-2026-issued-under-rc-no-7544-of-2024-drawn-against-rajesh-nath-and-shubham-rai-in-the-matter-of-unregistered-investment-advisory_105497.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15759-and-15760-of-2026-dated-october-28-2026-against-aahuti-rasik-mistry-pan-akspm8453-_105521.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-green-energy-q2-results-profit-jumps-56-yoy-to-rs-137-crore-revenue-rises-53/articleshow/135363615.cms",
-    "https://www.livemint.com/market/stock-market-news/fiis-and-diis-are-piling-into-these-four-pharma-stocks-should-you-follow-11793276132883.html",
-    "https://www.livemint.com/market/cryptocurrency/binance-hack-tether-circle-freeze-2-4-billion-in-crypto-assets-bitcoin-tumbles-below-79-000-heres-what-happened-11793321650037.html",
-    "https://www.livemint.com/market/polymarket-users-lose-2-7-million-in-suspected-debugbear-linked-cyberattack-how-it-unfolded-what-we-know-11793320690407.html",
     "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-30-october-11793320052124.html",
     "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/ease-of-compliance-for-fpis-rationalisation-of-kyc-review-periodicity_105522.html",
     "https://www.sebi.gov.in/legal/circulars/oct-2026/rationalisation-of-periodicity-of-kyc-review-for-fpis_105504.html",
@@ -499,15 +490,23 @@
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-bse-nykaa-nse-sbi-iex-shares-in-focus-on-wednesday-4-nov-full-list-11793755813757.html",
     "https://www.business-standard.com/markets/news/what-will-new-samvat-bring-for-investors-experts-to-discuss-at-bs-webinar-126110301735_1.html",
     "https://www.business-standard.com/markets/news/rupee-extends-gains-for-third-day-settles-at-94-75-against-the-dollar-126110301693_1.html",
-    "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-will-gold-bounce-back-on-wednesday-check-outlook-for-november-4/articleshow/135518967.cms"
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-will-gold-bounce-back-on-wednesday-check-outlook-for-november-4/articleshow/135518967.cms",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-inspection-of-veena-sharma-proprietor-research-guru-investment-adviser_105519.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-integra-switchgear-limited_105517.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-sunitadevi-niranjan-agarwal-pan-adrps3295h-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9311-of-2026_105515.html",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q2-results-profit-rockets-130-yoy-to-rs-455-crore-revenue-jumps-114/articleshow/135504568.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-financial-services-announces-leadership-rejig-appoints-new-heads-across-businesses/articleshow/135504517.cms",
+    "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-2026-date-today-what-trumps-loss-mean-for-gold-sensex-nifty-global-markets-us-bonds-11793715305962.html",
+    "https://www.livemint.com/market/stock-market-news/apple-shares-fall-4-despite-revenue-beat-in-first-earnings-under-ceo-john-ternus-whats-next-for-the-iphone-maker-11793716805295.html",
+    "https://www.livemint.com/market/stock-market-news/stocks-are-at-their-highest-in-two-months-analysts-flagging-caution-nifty-sensex-markets-11793706245094.html",
+    "https://www.business-standard.com/markets/news/bharti-airtel-q2-results-preview-analysts-see-double-digit-revenue-growth-arpu-in-focus-126110400151_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-03",
   "news_posted": {
     "date": "2026-11-04",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Crash! Suzlon Energy share price: Stock tanks 10% to 52-week low after weak Q2 results 2026: Buy or avoid? Target price",
     "Global Market: European blue-chips set for strongest earnings in four years",
     "Suzlon Energy shares sink 8% after Q2 results miss margin expectations",
     "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9",
@@ -586,7 +585,8 @@
     "How ITC shares are performing after Q2 results? Should you buy, sell or hold? Brokerages give targets, key levels",
     "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
     "Are large-cap stocks reclaiming their strategic leadership? Analysts' view",
-    "Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4"
+    "Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4",
+    "Airtel Q2 preview: Analysts see double-digit revenue growth; ARPU in focus"
   ],
   "reels_posted": {
     "date": "2026-11-04",
@@ -629,8 +629,9 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793760374.5839353,
+    "fetched_at": 1793764127.5894945,
     "symbols": [
+      "bhel",
       "blspoly",
       "empower",
       "groww",
@@ -641,15 +642,14 @@
       "moneyview",
       "olaelec",
       "pcjeweller",
-      "reliance",
-      "sagility",
-      "silverbees",
+      "relinfra",
+      "rpower",
+      "sbin",
+      "sfctech",
+      "subexltd",
       "suzlon",
       "tatagold",
-      "tatsilv",
       "trident",
-      "vedpower",
-      "welspunliv",
       "yesbank"
     ]
   },
