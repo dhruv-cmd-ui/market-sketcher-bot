@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/gail-q2-profit-surges-over-two-fold-yoy-to-4650-cr-despite-global-disruptions/articleshow/135387433.cms",
     "https://www.livemint.com/market/stock-market-news/three-stocks-with-strong-order-books-to-watch-amid-indias-data-centre-boom-11793421808978.html",
     "https://www.business-standard.com/markets/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty-126103101347_1.html",
@@ -499,15 +498,15 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135556727.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-05-nov-2026/liveblog/135556653.cms",
     "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-finds-its-footing-as-oil-worries-cool-traders-watch-flow-momentum/articleshow/135569527.cms",
-    "https://www.livemint.com/market/stock-market-news/ashok-leyland-shares-jump-over-10-in-biggest-single-day-gain-since-april-heres-what-lifted-the-stock-11793875257087.html"
+    "https://www.livemint.com/market/stock-market-news/ashok-leyland-shares-jump-over-10-in-biggest-single-day-gain-since-april-heres-what-lifted-the-stock-11793875257087.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-slip-as-democratic-sweep-clouds-expansion-plans/articleshow/135572604.cms"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-05",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "NTPC vs NTPC Green Energy Q2 results 2026 compared: Which PSU wins on Q2 profit, revenue, EBITDA, dividend? Details",
     "Inflation, Inequality and Debt: The Charts Scaring Wall Street",
     "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook",
     "Binance says 90% of assets stolen in record hack have been replenished",
@@ -586,7 +585,8 @@
     "India bonds climb in step with Treasuries as oil sinks",
     "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?",
     "Rupee finds its footing as oil worries cool, traders watch flow momentum",
-    "Ashok Leyland shares jump over 10% in biggest single-day gain since April; here's what lifted the stock"
+    "Ashok Leyland shares jump over 10% in biggest single-day gain since April; here's what lifted the stock",
+    "AI, data-center stocks slip as Democratic sweep clouds expansion plans"
   ],
   "reels_posted": {
     "date": "2026-11-05",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793878054.205755,
+    "fetched_at": 1793881545.6148741,
     "symbols": [
       "ashokley",
       "goldadd",
