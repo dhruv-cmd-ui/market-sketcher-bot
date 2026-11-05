@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/markets-hit-6-month-high-in-oct-on-it-rally-jio-platforms-ipo-frenzy-126103001606_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-sbi-securities-lists-11-stocks-with-up-to-22-upside-potential-do-you-own-any/slideshow/135388727.cms",
-    "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
-    "https://www.livemint.com/market/stock-market-news/chip-stocks-crash-intel-plunges-30-amd-drops-12-nvidia-and-broadcom-also-slide-whats-driving-the-selloff-11793380373861.html",
-    "https://www.business-standard.com/markets/news/sebi-imposes-1-crore-fine-on-cdsl-for-multiple-compliance-lapses-126103001384_1.html",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-value-fashion-retailer-ratnadeep-retail-gets-sebi-nod-to-raise-funds-through-public-issue/articleshow/135389668.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
     "https://www.livemint.com/market/arini-gets-bids-on-junk-debt-from-pimco-oaktree-as-losses-mount-11793386281843.html",
     "https://www.livemint.com/market/wall-street-slides-as-ai-cash-burn-worries-spark-tech-selloff-11793385103163.html",
@@ -499,15 +493,20 @@
     "https://www.business-standard.com/finance/personal-finance/crypto-exchange-hacks-how-to-stay-safe-and-protect-your-investments-126110401757_1.html",
     "https://www.business-standard.com/markets/news/sebi-forms-working-group-to-review-innovators-growth-platform-framework-126110401649_1.html",
     "https://www.business-standard.com/companies/news/bse-q2-net-profit-jumps-45-to-809-crore-board-clears-bkc-plot-proposal-126110401578_1.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html"
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-soars-1000-points-at-open-as-democrats-win-congress-data-center-stocks-slide/articleshow/135542698.cms",
+    "https://www.livemint.com/market/stock-market-news/539-return-in-5-years-by-gmdc-gujarat-mineral-development-corporation-share-price-rallies-10-what-s-fuelling-the-psu-11793801117537.html",
+    "https://www.livemint.com/market/stock-market-news/how-saregama-india-shares-turned-music-to-the-ears-for-investors-after-13-price-jump-how-stock-rallied-in-2026-11793800037045.html",
+    "https://www.business-standard.com/markets/news/new-samvat-brings-opportunities-in-mutual-funds-equities-and-gold-experts-126110401842_1.html",
+    "https://www.business-standard.com/markets/news/bond-yields-fall-11-bps-rupee-gains-as-oil-prices-slide-after-us-midterms-126110401818_1.html",
+    "https://www.business-standard.com/markets/interviews/how-to-invest-1-lakh-in-samvat-2083-mofsl-s-siddhartha-khemka-answers-126110400835_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-05",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Stocks to buy: Sumeet Bagadia's top 3 stock recommendations \u2014 Sun Pharma, IndiGo, Infosys | Target price, stop-loss",
     "Binance's $6.3 bn hack signals the start of a risky era for crypto security",
     "Sebi aims to make capital markets more accessible, resilient: Chairman",
     "Silver loses more than half its value from record high: What went wrong and will it recover?",
@@ -586,7 +585,8 @@
     "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List",
     "SBI vs SBI Life vs SBI Cards: Which SBI Group stock emerged as the Q2 results 2026 winner? Check technical targets",
     "Raja Venkatraman recommends three stocks for 5 November",
-    "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework"
+    "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
+    "How to invest \u20b91 lakh in Samvat 2083? MOFSL's Siddhartha Khemka answers"
   ],
   "reels_posted": {
     "date": "2026-11-05",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793844371.387645,
+    "fetched_at": 1793847285.172274,
     "symbols": [
       "blspoly",
       "empower",
