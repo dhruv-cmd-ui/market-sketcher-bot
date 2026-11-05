@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/ntpc-q2-results-2026-brings-good-news-of-1st-interim-dividend-for-investors-check-amount-record-date-profit-details-11793443410726.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms",
-    "https://www.livemint.com/market/stock-market-news/jio-platforms-up-27-8-since-ipo-listing-but-how-ril-jio-fin-alok-ind-network-18-lotus-shares-fared-in-3-years-11793451564192.html",
-    "https://www.livemint.com/market/stock-market-news/ntpc-vs-ntpc-green-energy-q2-results-2026-compared-which-psu-wins-on-q2-profit-revenue-ebitda-dividend-details-11793422791057.html",
-    "https://www.livemint.com/market/inflation-inequality-and-debt-the-charts-scaring-wall-street-11793452322227.html",
-    "https://www.livemint.com/market/stock-market-news/stock-market-prediction-nov-2-6-week-nifty-sensex-rebound-from-losses-will-bulls-deliver-a-diwali-bonanza-outlook-11793459177658.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-profit-sinks-40-yoy-in-q2-but-revenue-rises-on-fifa-subscription-growth/articleshow/135387331.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-profit-rises-28-yoy-to-rs-1013-crore-in-sept-quarter/articleshow/135387254.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-takes-a-hit-on-exceptional-items/articleshow/135387152.cms",
@@ -499,15 +493,20 @@
     "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
     "https://www.livemint.com/market/stock-market-news/us-markets-why-qualcomm-shares-are-in-top-focus-today-with-quarterly-earnings-growth-outlook-amid-ai-costs-concerns-11793799657674.html",
     "https://www.livemint.com/market/stock-market-news/us-market-nasdaq-dow-ai-stocks-after-us-midterm-election-results-11793804138598.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/articleshow/135557308.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/articleshow/135557308.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-05-nov-2026/liveblog/135557239.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-05-nov-2026/liveblog/135557166.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-05-nov-2026/liveblog/135556633.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-live-updates-05-nov-2026/liveblog/135556494.cms",
+    "https://www.livemint.com/market/stock-market-news/wall-street-cheers-us-midterm-results-as-dow-jones-jumps-1300-points-amazon-apple-microsoft-among-top-gainers-11793807617877.html",
+    "https://www.business-standard.com/markets/news/lenskart-shares-gain-11-post-q2-up-90-from-ipo-price-more-gains-ahead-126110500529_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-05",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Sebi aims to make capital markets more accessible, resilient: Chairman",
     "Silver loses more than half its value from record high: What went wrong and will it recover?",
     "Binance hack exposes unsolvable crypto risk: Billions can vanish overnight",
     "Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?",
@@ -586,7 +585,8 @@
     "Raja Venkatraman recommends three stocks for 5 November",
     "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
     "How to invest \u20b91 lakh in Samvat 2083? MOFSL's Siddhartha Khemka answers",
-    "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers"
+    "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
+    "Lenskart shares gain 11% post Q2, up 90% from IPO price; more gains ahead?"
   ],
   "reels_posted": {
     "date": "2026-11-05",
@@ -629,23 +629,23 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793850715.703487,
+    "fetched_at": 1793854539.8095858,
     "symbols": [
       "ashokley",
       "easemytrip",
+      "goldbees",
       "groww",
       "gtlinfra",
       "hdfcbank",
       "idea",
-      "ioc",
       "jppower",
       "liquidcase",
       "moneyview",
+      "motherson",
       "nhpc",
       "olaelec",
       "pcjeweller",
       "pwl",
-      "silverbees",
       "suzlon",
       "tatagold",
       "tatsilv",
