@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-stumble-at-end-of-best-month-since-june-on-ai-worries/articleshow/135386838.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-midterm-us-elections-earnings-jobs-data-loom-for-ai-wary-stock-market/articleshow/135386687.cms",
-    "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
-    "https://www.business-standard.com/markets/cryptocurrency/binance-says-90-of-assets-stolen-in-record-hack-have-been-replenished-126103101242_1.html",
     "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-soar-14-in-october-to-end-at-6-month-high-as-us-weighs-fresh-attacks-after-midterm-elections-more-upside-ahead/articleshow/135388221.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/lic-housing-fin-q2-net-profit-grows-12-yoy/articleshow/135388049.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/new-india-slips-into-red-with-1267-cr-loss-in-q2/articleshow/135387922.cms",
@@ -499,15 +495,18 @@
     "https://www.business-standard.com/markets/news/markets-extend-gains-on-us-midterm-results-as-democrats-sweep-elections-126110401953_1.html",
     "https://www.business-standard.com/markets/news/gold-up-3-experts-split-on-whether-rally-can-sustain-in-coming-months-126110402099_1.html",
     "https://www.business-standard.com/markets/news/dozens-of-investors-report-unauthorised-trades-in-borderless-accounts-126110401989_1.html",
-    "https://www.business-standard.com/markets/news/bse-climbs-5-post-q2-mofsl-raises-earnings-estimates-on-volume-recovery-126110300709_1.html"
+    "https://www.business-standard.com/markets/news/bse-climbs-5-post-q2-mofsl-raises-earnings-estimates-on-volume-recovery-126110300709_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-05-nov-2026/liveblog/135556739.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-05-nov-2026/liveblog/135556726.cms",
+    "https://www.livemint.com/market/stock-market-news/will-tighter-ai-regulation-slow-big-tech-spending-what-the-us-midterm-results-mean-for-tech-stocks-explained-11793813477058.html",
+    "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-2026-titan-shanti-gold-senco-among-top-jewellery-stocks-to-buy-for-long-term-check-list-11793857028086.html"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-05",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Binance hack exposes unsolvable crypto risk: Billions can vanish overnight",
     "Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?",
     "NTPC Q2 results 2026 brings good news of 1st interim dividend for investors! Check amount, record date, profit details",
     "Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey",
@@ -586,7 +585,8 @@
     "How to invest \u20b91 lakh in Samvat 2083? MOFSL's Siddhartha Khemka answers",
     "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
     "Lenskart shares gain 11% post Q2, up 90% from IPO price; more gains ahead?",
-    "BSE climbs 5% post Q2; MOFSL raises earnings estimates on volume recovery"
+    "BSE climbs 5% post Q2; MOFSL raises earnings estimates on volume recovery",
+    "Dhanteras, Diwali 2026: Titan, Shanti Gold, Senco among top jewellery stocks to buy for long-term | Check list"
   ],
   "reels_posted": {
     "date": "2026-11-05",
@@ -629,9 +629,10 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793858259.0159876,
+    "fetched_at": 1793862581.7424839,
     "symbols": [
       "ashokley",
+      "eternal",
       "goldadd",
       "goldbees",
       "groww",
@@ -639,17 +640,16 @@
       "hdfcbank",
       "idea",
       "jppower",
-      "liquidcase",
       "moneyview",
       "motherson",
       "nhpc",
       "olaelec",
       "pcjeweller",
       "pwl",
-      "silverbees",
       "suzlon",
       "tatagold",
       "tatsilv",
+      "vedpower",
       "yesbank"
     ]
   },
