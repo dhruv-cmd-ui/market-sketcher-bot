@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/lic-housing-fin-q2-net-profit-grows-12-yoy/articleshow/135388049.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/new-india-slips-into-red-with-1267-cr-loss-in-q2/articleshow/135387922.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-barodas-q2-profit-surges-36-yoy-on-nse-stake-sale/articleshow/135387894.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-profit-takes-a-hit-on-qcomm-push/articleshow/135387788.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-profit-zooms-14-on-healthy-user-mix-digital-play/articleshow/135387627.cms",
@@ -499,15 +497,16 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-05-nov-2026/liveblog/135556726.cms",
     "https://www.livemint.com/market/stock-market-news/will-tighter-ai-regulation-slow-big-tech-spending-what-the-us-midterm-results-mean-for-tech-stocks-explained-11793813477058.html",
     "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-2026-titan-shanti-gold-senco-among-top-jewellery-stocks-to-buy-for-long-term-check-list-11793857028086.html",
-    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-climb-in-step-with-treasuries-as-oil-sinks/articleshow/135564784.cms"
+    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-climb-in-step-with-treasuries-as-oil-sinks/articleshow/135564784.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-today-live-updates-05-nov-2026/liveblog/135556651.cms",
+    "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-witness-strong-buying-rise-7-in-1-month-can-new-ceo-improving-fundamentals-drive-next-leg-of-rally-11793861115989.html"
   ],
   "last_fii_dii_post_date": "2026-11-04",
   "news_posted": {
     "date": "2026-11-05",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "NTPC Q2 results 2026 brings good news of 1st interim dividend for investors! Check amount, record date, profit details",
     "Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey",
     "Jio Platforms up 27.8% since IPO listing but how RIL, Jio Fin, Alok Ind, Network 18, Lotus shares fared in 3 years?",
     "NTPC vs NTPC Green Energy Q2 results 2026 compared: Which PSU wins on Q2 profit, revenue, EBITDA, dividend? Details",
@@ -586,7 +585,8 @@
     "Lenskart shares gain 11% post Q2, up 90% from IPO price; more gains ahead?",
     "BSE climbs 5% post Q2; MOFSL raises earnings estimates on volume recovery",
     "Dhanteras, Diwali 2026: Titan, Shanti Gold, Senco among top jewellery stocks to buy for long-term | Check list",
-    "India bonds climb in step with Treasuries as oil sinks"
+    "India bonds climb in step with Treasuries as oil sinks",
+    "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?"
   ],
   "reels_posted": {
     "date": "2026-11-05",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793867764.0998516,
+    "fetched_at": 1793871164.1757433,
     "symbols": [
       "ashokley",
       "goldadd",
