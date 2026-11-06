@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/massive-cyber-fraud-hits-spandana-sphoorty-rs-78-crore-unauthorised-transactions-uncovered/articleshow/135477824.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-bond-yields-edge-higher-ahead-of-key-jgb-auctions-10-year-yield-holds-at-2-77/articleshow/135453773.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/indian-ipo-market-clocks-record-rs-84400-crore-in-h1-fy27-fundraising-jumps-30/articleshow/135453488.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/fiis-increase-stake-11-nifty-stocks-rally-up-to-50-in-fy27-so-far/slideshow/135452650.cms",
@@ -499,15 +498,15 @@
     "https://www.business-standard.com/markets/news/icici-bank-extends-rally-soars-10-in-4-days-market-cap-nears-11-trn-126110600622_1.html",
     "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-investment-ideas-kotak-neos-7-stocks-to-buy-for-samvat-2083-hal-titan-eternal-and-more-11793953552663.html",
     "https://www.livemint.com/market/tsx-posts-steepest-decline-in-five-months-as-us-tech-rout-hits-canadian-shares-11793913236017.html",
-    "https://www.livemint.com/market/stock-market-news/gold-etf-dhanteras-2026-tata-gold-exchange-traded-fund-60-returns-within-3-years-of-launch-should-you-buy-11793952833169.html"
+    "https://www.livemint.com/market/stock-market-news/gold-etf-dhanteras-2026-tata-gold-exchange-traded-fund-60-returns-within-3-years-of-launch-should-you-buy-11793952833169.html",
+    "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms"
   ],
   "last_fii_dii_post_date": "2026-11-05",
   "news_posted": {
     "date": "2026-11-06",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "Best 3 stocks to buy: SBI, Britannia, Biocon by Ganesh Dongre of Anand Rathi | Targets, stop-loss, stock market views",
     "Bonus share: Just single issue with record date this week: Pharma firm's free shares with 68% returns since IPO; ratio",
     "Gold, silver rates approaching Dec 2025 levels; energy prices, inflation, Fed weighing on investor sentiments - Details",
     "Bonus share by multibagger gold stock: Shares surge over 300% in 2026 - Check issue ratio as record date awaited",
@@ -586,7 +585,8 @@
     "Groww shares snap 9-day winning streak, fall 7% on multiple block deals",
     "Groww share price falls around 7% today after a 9-day winning streak, surging over 23%: What should investors do?",
     "ICICI Bank extends rally, soars 10% in 4 days; market cap nears \u20b911 trn",
-    "Gold ETF Dhanteras 2026: Tata Gold Exchange Traded Fund \u2014 60% returns within 3 years of launch! Should you buy?"
+    "Gold ETF Dhanteras 2026: Tata Gold Exchange Traded Fund \u2014 60% returns within 3 years of launch! Should you buy?",
+    "Diwali 2026: Is Samvat 2083 the start of Dalal Street\u2019s next big rally?"
   ],
   "reels_posted": {
     "date": "2026-11-06",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793957243.9182343,
+    "fetched_at": 1793961134.2363036,
     "symbols": [
       "goldbees",
       "groww",
