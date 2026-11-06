@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/jio-financial-shares-surge-4-but-fall-28-in-2026-can-stock-break-out-of-its-prolonged-downtrend-check-key-levels-11793594330626.html",
-    "https://www.business-standard.com/markets/news/gold-silver-rebound-after-sharp-losses-as-crude-oil-prices-soften-126110200293_1.html",
     "https://www.business-standard.com/markets/news/why-is-the-stock-market-rising-sensex-extends-rally-jumps-1-030-pts-intraday-6-reasons-126110200234_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/diwali-cheer-mukesh-ambani-gets-8-5-billion-richer-in-a-day-as-ril-shares-soar/articleshow/135460617.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/marico-q2-results-net-profit-jumps-31-yoy-to-rs-550-crore-revenue-rises-12/articleshow/135460226.cms",
@@ -499,15 +497,16 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-06-nov-2026/liveblog/135591146.cms",
     "https://www.livemint.com/market/stock-market-news/dividend-stocks-coal-india-tcs-hudco-hcl-tech-gail-among-top-10-dividend-paying-stocks-check-yield-annual-return-11793892901046.html",
     "https://www.livemint.com/market/stock-market-news/incred-equities-picks-5-stocks-to-buy-in-samvat-2083-sees-up-to-46-upside-artemis-cartrade-tech-among-top-bets-11793894473274.html",
-    "https://www.livemint.com/market/mark-to-market/cement-prices-cement-industry-price-hikes-east-india-input-costs-margins-demand-cement-volumes-11793936827478.html"
+    "https://www.livemint.com/market/mark-to-market/cement-prices-cement-industry-price-hikes-east-india-input-costs-margins-demand-cement-volumes-11793936827478.html",
+    "https://www.livemint.com/market/stock-market-news/us-stock-market-crash-chip-stocks-extend-sell-off-amd-arm-qualcomm-and-sandisk-plunge-up-to-17-nasdaq-down-6-11793900308301.html",
+    "https://www.business-standard.com/markets/news/groww-shares-snap-9-day-winning-streak-fall-7-on-multiple-block-deals-126110600592_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-05",
   "news_posted": {
     "date": "2026-11-06",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Carlyle, KKR Get Ready to Snatch Up Bargain Loans",
     "Binance crypto theft: Here's how North Korean hackers perfected the heist, stole $6.3 billion in 20 minutes | Details",
     "Reliance shares: Buy, sell or hold after Q2 results 2026? RIL stock up 384% in 10 yrs! Brokerages advice to investors",
     "Bonus issues, stock splits, dividends: Infosys, Asian Paints among over 40 stocks turning ex-date this week",
@@ -586,7 +585,8 @@
     "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
     "Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls",
     "Dhanteras 2026 today: Buy gold at current rates or avoid? Shopping guide - 20% price down from 2026 peak; Experts' views",
-    "Chart beat: East India sees highest cement price increase in October"
+    "Chart beat: East India sees highest cement price increase in October",
+    "Groww shares snap 9-day winning streak, fall 7% on multiple block deals"
   ],
   "reels_posted": {
     "date": "2026-11-06",
@@ -629,22 +629,22 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793940879.9696631,
+    "fetched_at": 1793944545.784186,
     "symbols": [
       "goldbees",
       "groww",
+      "gtlinfra",
       "hdfcbank",
       "ibullsltd",
-      "icicibank",
       "idea",
       "jppower",
       "jswcement",
-      "kalyankjil",
       "moneyview",
       "motherson",
-      "nhpc",
+      "motisons",
       "olaelec",
       "pcjeweller",
+      "pvtbanietf",
       "suzlon",
       "tatagold",
       "tatsilv",
