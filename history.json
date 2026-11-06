@@ -1,23 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/sebi-backs-ltcg-tax-relief-what-shankar-sharma-samir-arora-said-earlier-126110200591_1.html",
-    "https://www.business-standard.com/markets/news/hfcl-mtar-technologies-sterlite-tech-shares-hit-5-lower-circuits-126110200560_1.html",
-    "https://www.business-standard.com/markets/news/ai-investment-boom-faces-a-test-as-tech-stocks-and-credit-risks-mount-126110200578_1.html",
-    "https://www.business-standard.com/markets/news/devyani-international-sinks-8-from-day-s-high-despite-q2-turnaround-126110200544_1.html",
-    "https://www.business-standard.com/markets/news/bank-of-baroda-gains-5-on-record-profit-in-q2-here-s-what-brokerages-say-126110200534_1.html",
-    "https://www.business-standard.com/markets/news/indraprastha-gas-tanks-10-hits-52-week-low-on-disappointing-q2-results-126110200409_1.html",
-    "https://www.business-standard.com/markets/news/sebi-backs-removal-of-long-term-capital-gains-tax-for-foreign-investors-126110200449_1.html",
-    "https://www.business-standard.com/markets/news/pb-fintech-share-price-slumps-7-as-ad-spends-bite-in-q2-analysts-say-worst-priced-in-126110200402_1.html",
-    "https://www.business-standard.com/markets/news/indigo-up-5-in-2-sessions-on-q2-softer-oil-new-aviation-rules-in-focus-126110200347_1.html",
-    "https://www.business-standard.com/world-news/bitcoin-s-resilience-after-binance-hack-masks-lingering-market-jitters-126110200359_1.html",
-    "https://www.business-standard.com/markets/news/13x-rise-in-q2-pat-resilient-margins-lift-welspun-living-shares-by-11-126110200352_1.html",
-    "https://www.business-standard.com/companies/news/coal-india-unit-south-eastern-coalfields-files-for-800-million-ipo-126110200334_1.html",
-    "https://www.business-standard.com/markets/news/psu-cpse-stocks-in-demand-iti-engineers-india-zoom-up-to-19-here-s-why-126110200309_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-surges-11-6-as-strong-q2-earnings-add-rs-1-83-lakh-crore-in-market-value/articleshow/135477257.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-profit-falls-18-to-rs-4229-crore-revenue-rises-5/articleshow/135464317.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-15-in-a-month/slideshow/135463866.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-us-midterm-elections-ai-stocks-tech-stocks-openai-anthropic-intel-amd-apple-alphabet-spacex-earnings-oil-prices-treasury-yields-news-2nd-november-2026/liveblog/135463461.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/oil-slide-hands-indias-10-year-bond-its-best-day-since-early-april/articleshow/135463185.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-rise-as-ai-stocks-catch-their-breath-midterms-in-focus/articleshow/135463127.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-ril-tata-steel-infosys-icici-bank-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/135462862.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-sbi-nse-itc-sun-pharma-idbi-bank-shares-in-focus-on-tuesday-3-nov-full-list-11793668822019.html",
@@ -499,15 +481,32 @@
     "https://www.livemint.com/market/canadas-sovereign-wealth-fund-to-start-its-retail-offering-in-2027-11793928314167.html",
     "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-6-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793925396840.html",
     "https://www.business-standard.com/markets/news/listed-reits-beat-nifty-over-2-years-better-bet-than-dividend-stocks-126110501001_1.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/commencement-of-sebi-settlement-of-administrative-and-civil-proceedings-regulations-2026_105680.html"
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/commencement-of-sebi-settlement-of-administrative-and-civil-proceedings-regulations-2026_105680.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-live-updates-06-nov-2026/liveblog/135591235.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-livestock-price-today-live-updates-06-nov-2026/liveblog/135591233.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-06-nov-2026/liveblog/135591218.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-06-nov-2026/liveblog/135591214.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-06-nov-2026/liveblog/135591213.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-06-nov-2026/liveblog/135591201.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-06-nov-2026/liveblog/135591186.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-06-nov-2026/liveblog/135591182.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-06-nov-2026/liveblog/135591180.cms",
+    "https://www.livemint.com/market/indian-stocks-set-for-pullback-after-sharp-rally-on-oil-slide-foreign-inflows-11793932289845.html",
+    "https://www.livemint.com/market/stock-market-news/three-textile-stocks-with-ambitious-expansion-plans-to-watch-11793891432019.html",
+    "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
+    "https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-crashes-8-plunges-below-5-000-whats-behind-the-selloff-11793930297845.html",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-airtel-titan-blue-dart-gland-pharma-ongc-britannia-126110600103_1.html",
+    "https://www.business-standard.com/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html",
+    "https://www.business-standard.com/markets/news/asian-markets-crash-as-ai-rout-rocks-us-markets-kospi-plunges-8-126110600087_1.html",
+    "https://www.business-standard.com/markets/news/fno-pick-today-hdfc-securities-analyst-nandish-shah-recommends-bull-spread-strategy-on-hero-motocorp-pnb-126110600096_1.html",
+    "https://www.livemint.com/market/stock-market-news/gold-etfs-performance-on-dhanteras-2026-today-6-nov-2026-check-how-nippon-india-tata-gold-icici-prudential-fared-11793943055301.html"
   ],
   "last_fii_dii_post_date": "2026-11-05",
   "news_posted": {
     "date": "2026-11-06",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Good intentions, unintended consequences: The cost of regulation",
     "Global beverage majors Carlsberg, Pernod, Coca-Cola advance India IPO plans",
     "From Wall Street to D-Street: What history suggests for S&P 500 returns, impact on India stock market, Sensex, Nifty",
     "Sun Pharma shares gain despite Q2 profit slips 36% YoY | Should you buy, sell or hold? What brokerage says, target price",
@@ -586,7 +585,8 @@
     "Diwali 2026: Is Samvat 2083 the start of Dalal Street\u2019s next big rally?",
     "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day and snap a 7-week losing run \u2014 what led to rebound?",
     "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
-    "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026"
+    "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
+    "Gold ETFs performance on Dhanteras 2026 today 6 Nov 2026: Check how Nippon India, Tata Gold, ICICI Prudential fared"
   ],
   "reels_posted": {
     "date": "2026-11-06",
