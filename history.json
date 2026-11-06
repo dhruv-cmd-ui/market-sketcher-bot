@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/indian-ipo-market-clocks-record-rs-84400-crore-in-h1-fy27-fundraising-jumps-30/articleshow/135453488.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/fiis-increase-stake-11-nifty-stocks-rally-up-to-50-in-fy27-so-far/slideshow/135452650.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/mobikwik-shares-zoom-10-as-fintech-firm-posts-record-rs-12-crore-profit-in-q2/articleshow/135452378.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-expects-bank-of-england-to-raise-rates-again-in-february/articleshow/135451968.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/tsx-posts-steepest-decline-in-five-months-as-us-tech-rout-hits-canadian-shares-11793913236017.html",
     "https://www.livemint.com/market/stock-market-news/gold-etf-dhanteras-2026-tata-gold-exchange-traded-fund-60-returns-within-3-years-of-launch-should-you-buy-11793952833169.html",
     "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
-    "https://www.livemint.com/market/stock-market-news/why-did-yes-bank-shares-rally-6-extend-winning-streak-to-3rd-day-and-snap-a-7-week-losing-run-what-led-to-rebound-11793959853879.html"
+    "https://www.livemint.com/market/stock-market-news/why-did-yes-bank-shares-rally-6-extend-winning-streak-to-3rd-day-and-snap-a-7-week-losing-run-what-led-to-rebound-11793959853879.html",
+    "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms"
   ],
   "last_fii_dii_post_date": "2026-11-05",
   "news_posted": {
     "date": "2026-11-06",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Gold, silver rates approaching Dec 2025 levels; energy prices, inflation, Fed weighing on investor sentiments - Details",
     "Bonus share by multibagger gold stock: Shares surge over 300% in 2026 - Check issue ratio as record date awaited",
     "Good intentions, unintended consequences: The cost of regulation",
     "Global beverage majors Carlsberg, Pernod, Coca-Cola advance India IPO plans",
@@ -586,7 +585,8 @@
     "ICICI Bank extends rally, soars 10% in 4 days; market cap nears \u20b911 trn",
     "Gold ETF Dhanteras 2026: Tata Gold Exchange Traded Fund \u2014 60% returns within 3 years of launch! Should you buy?",
     "Diwali 2026: Is Samvat 2083 the start of Dalal Street\u2019s next big rally?",
-    "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day and snap a 7-week losing run \u2014 what led to rebound?"
+    "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day and snap a 7-week losing run \u2014 what led to rebound?",
+    "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides"
   ],
   "reels_posted": {
     "date": "2026-11-06",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793964312.5001204,
+    "fetched_at": 1793967787.8174865,
     "symbols": [
       "goldbees",
       "groww",
