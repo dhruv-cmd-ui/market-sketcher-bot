@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-preview-patmay-rise-up-to-25-yoy-nii-margins-deposit-growth-in-focus/articleshow/135458856.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-owned-knowledge-marine-shares-jump-4-on-rs-303-crore-order-win-stock-up-67-in-2026/articleshow/135456344.cms",
-    "https://economictimes.indiatimes.com/markets/forex/rupee-ends-little-changed-as-traders-stay-cautious-despite-oil-dollar-drop/articleshow/135455769.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/mold-tekpackagingsharessurge17-as-q2fy27profitjumps35-yoy-to-rs21crore/articleshow/135454971.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-french-bond-yields-hold-steady-despite-fitch-downgrade-warning/articleshow/135454878.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/oyo-parent-prism-clocks-pat-of-rs-353-crore-in-q1-up-17-yoy-revenue-jumps-35/articleshow/135454425.cms",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/gathering-ai-storm-clouds-doom-tech-stocks-to-darkest-day-in-a-year-11793905499422.html",
     "https://www.business-standard.com/markets/news/early-diwali-cheer-markets-see-fireworks-rupee-rises-bond-yields-ease-126110502021_1.html",
     "https://www.business-standard.com/markets/news/reserve-bank-of-india-may-hike-rates-by-up-to-75-bps-more-uday-kotak-126110501915_1.html",
-    "https://www.livemint.com/market/stock-market-news/groww-share-price-falls-around-7-today-after-a-9-day-winning-streak-surging-over-23-what-should-investors-do-11793939223102.html"
+    "https://www.livemint.com/market/stock-market-news/groww-share-price-falls-around-7-today-after-a-9-day-winning-streak-surging-over-23-what-should-investors-do-11793939223102.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-06-nov-2026/liveblog/135591018.cms",
+    "https://www.livemint.com/market/treasuries-soar-as-tech-stock-selloff-lures-investors-to-havens-11793908983146.html",
+    "https://www.business-standard.com/markets/news/icici-bank-extends-rally-soars-10-in-4-days-market-cap-nears-11-trn-126110600622_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-05",
   "news_posted": {
     "date": "2026-11-06",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Reliance shares: Buy, sell or hold after Q2 results 2026? RIL stock up 384% in 10 yrs! Brokerages advice to investors",
     "Bonus issues, stock splits, dividends: Infosys, Asian Paints among over 40 stocks turning ex-date this week",
     "Best 3 stocks to buy: SBI, Britannia, Biocon by Ganesh Dongre of Anand Rathi | Targets, stop-loss, stock market views",
     "Bonus share: Just single issue with record date this week: Pharma firm's free shares with 68% returns since IPO; ratio",
@@ -586,7 +585,8 @@
     "Dhanteras 2026 today: Buy gold at current rates or avoid? Shopping guide - 20% price down from 2026 peak; Experts' views",
     "Chart beat: East India sees highest cement price increase in October",
     "Groww shares snap 9-day winning streak, fall 7% on multiple block deals",
-    "Groww share price falls around 7% today after a 9-day winning streak, surging over 23%: What should investors do?"
+    "Groww share price falls around 7% today after a 9-day winning streak, surging over 23%: What should investors do?",
+    "ICICI Bank extends rally, soars 10% in 4 days; market cap nears \u20b911 trn"
   ],
   "reels_posted": {
     "date": "2026-11-06",
@@ -629,13 +629,14 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793948816.289472,
+    "fetched_at": 1793953163.1714785,
     "symbols": [
       "goldbees",
       "groww",
       "gtlinfra",
       "hdfcbank",
       "ibullsltd",
+      "icicibank",
       "idea",
       "jswcement",
       "moneyview",
@@ -644,7 +645,6 @@
       "mtnl",
       "olaelec",
       "pcjeweller",
-      "pvtbanietf",
       "suzlon",
       "tatagold",
       "tatsilv",
