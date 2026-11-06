@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/why-is-the-stock-market-rising-sensex-extends-rally-jumps-1-030-pts-intraday-6-reasons-126110200234_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-cheer-mukesh-ambani-gets-8-5-billion-richer-in-a-day-as-ril-shares-soar/articleshow/135460617.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/marico-q2-results-net-profit-jumps-31-yoy-to-rs-550-crore-revenue-rises-12/articleshow/135460226.cms",
-    "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-holds-steady-near-78000-as-investors-assess-binance-security-breach-here-is-what-experts-say/articleshow/135459441.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-preview-patmay-rise-up-to-25-yoy-nii-margins-deposit-growth-in-focus/articleshow/135458856.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-owned-knowledge-marine-shares-jump-4-on-rs-303-crore-order-win-stock-up-67-in-2026/articleshow/135456344.cms",
     "https://economictimes.indiatimes.com/markets/forex/rupee-ends-little-changed-as-traders-stay-cautious-despite-oil-dollar-drop/articleshow/135455769.cms",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/incred-equities-picks-5-stocks-to-buy-in-samvat-2083-sees-up-to-46-upside-artemis-cartrade-tech-among-top-bets-11793894473274.html",
     "https://www.livemint.com/market/mark-to-market/cement-prices-cement-industry-price-hikes-east-india-input-costs-margins-demand-cement-volumes-11793936827478.html",
     "https://www.livemint.com/market/stock-market-news/us-stock-market-crash-chip-stocks-extend-sell-off-amd-arm-qualcomm-and-sandisk-plunge-up-to-17-nasdaq-down-6-11793900308301.html",
-    "https://www.business-standard.com/markets/news/groww-shares-snap-9-day-winning-streak-fall-7-on-multiple-block-deals-126110600592_1.html"
+    "https://www.business-standard.com/markets/news/groww-shares-snap-9-day-winning-streak-fall-7-on-multiple-block-deals-126110600592_1.html",
+    "https://www.livemint.com/market/gathering-ai-storm-clouds-doom-tech-stocks-to-darkest-day-in-a-year-11793905499422.html",
+    "https://www.business-standard.com/markets/news/early-diwali-cheer-markets-see-fireworks-rupee-rises-bond-yields-ease-126110502021_1.html",
+    "https://www.business-standard.com/markets/news/reserve-bank-of-india-may-hike-rates-by-up-to-75-bps-more-uday-kotak-126110501915_1.html",
+    "https://www.livemint.com/market/stock-market-news/groww-share-price-falls-around-7-today-after-a-9-day-winning-streak-surging-over-23-what-should-investors-do-11793939223102.html"
   ],
   "last_fii_dii_post_date": "2026-11-05",
   "news_posted": {
     "date": "2026-11-06",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "Binance crypto theft: Here's how North Korean hackers perfected the heist, stole $6.3 billion in 20 minutes | Details",
     "Reliance shares: Buy, sell or hold after Q2 results 2026? RIL stock up 384% in 10 yrs! Brokerages advice to investors",
     "Bonus issues, stock splits, dividends: Infosys, Asian Paints among over 40 stocks turning ex-date this week",
     "Best 3 stocks to buy: SBI, Britannia, Biocon by Ganesh Dongre of Anand Rathi | Targets, stop-loss, stock market views",
@@ -586,7 +585,8 @@
     "Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls",
     "Dhanteras 2026 today: Buy gold at current rates or avoid? Shopping guide - 20% price down from 2026 peak; Experts' views",
     "Chart beat: East India sees highest cement price increase in October",
-    "Groww shares snap 9-day winning streak, fall 7% on multiple block deals"
+    "Groww shares snap 9-day winning streak, fall 7% on multiple block deals",
+    "Groww share price falls around 7% today after a 9-day winning streak, surging over 23%: What should investors do?"
   ],
   "reels_posted": {
     "date": "2026-11-06",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793944545.784186,
+    "fetched_at": 1793948816.289472,
     "symbols": [
       "goldbees",
       "groww",
@@ -637,11 +637,11 @@
       "hdfcbank",
       "ibullsltd",
       "idea",
-      "jppower",
       "jswcement",
       "moneyview",
       "motherson",
       "motisons",
+      "mtnl",
       "olaelec",
       "pcjeweller",
       "pvtbanietf",
