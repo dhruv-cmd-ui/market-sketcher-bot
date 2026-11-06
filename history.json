@@ -1,15 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-rally-6-after-q2-results-heres-why-jefferies-others-analysts-see-up-to-47-upside/articleshow/135444361.cms",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-signs-mou-with-boe-on-cooperation-and-exchange-of-information-related-to-sebi-recognised-clearing-corporations_105473.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/missed-reliance-industries-historic-8-one-day-rally-heres-what-technical-analysts-are-saying/articleshow/135451322.cms",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7131-of-2026-filed-by-ramapati-kuar_105556.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7130-of-2026-filed-by-mohammad-akbar_105554.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7129-of-2026-filed-by-nikul-prajapati_105552.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7128-of-2026-filed-by-p-sachithanantham_105550.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7127-of-2026-filed-by-himanshu-soni_105549.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7126-of-2026-filed-by-suriyanarayanan-ramachandran_105546.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7125-of-2026-filed-by-kamal-naini-sharma_105545.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7124-of-2026-filed-by-bhupinder-singh_105544.html",
@@ -499,15 +489,24 @@
     "https://www.business-standard.com/markets/news/tamo-cv-ashok-leyland-maruti-rally-up-to-8-as-crude-oil-price-tumbles-126110500463_1.html",
     "https://www.business-standard.com/markets/news/bombay-coated-special-steels-shares-list-at-12-premium-over-ipo-price-126110500471_1.html",
     "https://www.business-standard.com/markets/news/sensex-zooms-1600-pts-intraday-india-m-cap-tops-500-trn-key-reasons-126110500454_1.html",
-    "https://www.sebi.gov.in/legal/circulars/nov-2026/revision-of-limits-relating-to-requirement-of-underlying-exposure-for-currency-derivatives-contracts_105614.html"
+    "https://www.sebi.gov.in/legal/circulars/nov-2026/revision-of-limits-relating-to-requirement-of-underlying-exposure-for-currency-derivatives-contracts_105614.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn/articleshow/135576552.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation/articleshow/135576467.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/trumps-loss-wall-streets-gain-what-could-change-for-ai-defence-crypto-and-elon-musk/videoshow/135575972.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-qualcomm-nvidia-coreweave-tesla-amazon-meta-ai-stocks-data-center-stocks-semiconductor-stocks-brent-crude-us-jobs-report-federal-reserve-treasury-yield-news-5th-november-2026/liveblog/135575228.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-hikes-rates-to-4-first-raise-since-2023-says-more-may-come-amid-high-uk-inflation/articleshow/135574865.cms",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-hindalco-bharti-airtel-lic-ongc-shares-in-focus-on-friday-6-nov-full-list-11793928004864.html",
+    "https://www.livemint.com/market/stock-market-news/pfc-dividend-up-200-in-5-yrs-maharatna-psus-shares-rally-5-in-3-days-check-dividend-record-date-payment-timeline-11793884952011.html",
+    "https://www.business-standard.com/markets/stock-market-news/amc-stocks-rebound-as-equity-market-recovery-lifts-earnings-expectations-126110501795_1.html",
+    "https://www.business-standard.com/markets/news/sebi-allows-mutual-funds-to-net-cash-market-obligations-from-april-126110501727_1.html",
+    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls/articleshow/135590399.cms"
   ],
   "last_fii_dii_post_date": "2026-11-05",
   "news_posted": {
     "date": "2026-11-06",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
     "Why did investors dump technology stocks this week? AI spending concerns trigger Wall Street sell-off",
     "Best stocks to buy under  \u20b9100: Sumeet Bagadia recommends 3 shares to buy \u2014 SJVN, NHPC, Bank of Maharashtra | Targets",
     "Carlyle, KKR Get Ready to Snatch Up Bargain Loans",
@@ -586,7 +585,8 @@
     "AI, data-center stocks slip as Democratic sweep clouds expansion plans",
     "Review of the framework for Accredited Investors",
     "Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
-    "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts"
+    "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
+    "Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls"
   ],
   "reels_posted": {
     "date": "2026-11-06",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793926657.2173445,
+    "fetched_at": 1793930803.9549644,
     "symbols": [
       "ashokley",
       "goldadd",
