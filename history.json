@@ -1,19 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/eaaa-india-draws-hdfc-mf-carnelian-asset-and-lt-in-rs-316-crore-listing-day-bulk-deals/articleshow/135466785.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/why-traders-are-moving-away-from-equity-fo-to-commodities-nithin-kamath-explains/articleshow/135466022.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ipo-bound-stockgros-profit-jumps-3-fold-to-rs-113-cr-in-fy26-on-strong-revenue-growth/articleshow/135465910.cms",
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sri-lotus-developers-and-realty-promoters-to-sell-2-38-cr-shares-via-ofs/articleshow/135465830.cms",
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sebi-issues-rules-for-depositary-receipts-on-reits-invits-units/articleshow/135465653.cms",
-    "https://www.livemint.com/market/stock-market-news/sbi-q2-results-2026-today-schedule-preview-expectations-should-you-buy-ahead-of-earnings-announcement-11793673875014.html",
-    "https://www.livemint.com/market/stock-market-news/november-2-gold-silver-rates-gold-silver-prices-rebound-from-multi-month-lows-as-crude-oil-retreats-11793635178579.html",
-    "https://www.livemint.com/market/sitharaman-recognises-the-voice-of-investors-will-fm-slash-equity-taxes-in-next-budget-amid-heavy-fpi-outflows-11793631070177.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-among-8-stocks-showing-rsi-trending-up/slideshow/135481838.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-stocks-to-buy-this-diwali-5-stocks-with-upside-potential-of-up-to-37-do-you-own-any/slideshow/135483093.cms",
-    "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-unit-south-eastern-coalfields-files-papers-how-much-funds-to-be-raised-and-other-key-facts-11793636533876.html",
-    "https://www.business-standard.com/markets/news/ipo-fundraising-rises-30-to-record-84-400-crore-in-h1fy27-report-126110201078_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/trident-shares-rally-13-after-q2-net-profit-jumps-93-to-rs-175-crore-firm-plans-rs-4650-crore-capex/articleshow/135483244.cms",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-rc9307-of-2026-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillon-finance-limited_105568.html",
     "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html",
     "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-invits-_105557.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/krbl-shares-rally-9-after-q2-net-profit-jumps-51-yoy/articleshow/135484252.cms",
@@ -499,15 +485,28 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-06-nov-2026/liveblog/135591353.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-updates-06-nov-2026/liveblog/135591337.cms",
     "https://www.business-standard.com/markets/news/fpis-buy-14-796-cr-worth-indian-stocks-in-biggest-daily-inflow-since-2021-126110502078_1.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-equirus-prives-16-diwali-picks-include-hdfc-bank-m-m-esfb-voltas-upside-seen-up-to-54-11793974438126.html"
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-equirus-prives-16-diwali-picks-include-hdfc-bank-m-m-esfb-voltas-upside-seen-up-to-54-11793974438126.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/ipo-multibaggers-13-stocks-that-delivered-up-to-193-returns-since-last-dhanteras/slideshow/135594462.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/great-diwali-stock-hunt-hal-eternal-5-other-stocks-with-upside-of-up-to-75/slideshow/135593656.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/135593629.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-5-stocks-showing-white-marubozu-pattern/slideshow/135593329.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/authum-investment-among-4-stocks-showing-bullish-rsi-upswing/slideshow/135593074.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-06-nov-2026/liveblog/135592817.cms",
+    "https://www.livemint.com/market/stock-market-news/netweb-technologies-share-price-ai-stock-cracks-over-7-today-down-15-in-7-days-heres-why-still-a-stock-to-buy-11793937702205.html",
+    "https://www.livemint.com/market/stock-market-news/us-midterms-trigger-wall-street-rout-how-ai-sell-off-is-spreading-beyond-big-tech-to-riskier-stocks-11793936490944.html",
+    "https://www.business-standard.com/markets/news/m-m-jumps-5-even-as-firm-cuts-tractor-outlook-what-s-behind-the-rise-126110600504_1.html",
+    "https://www.business-standard.com/markets/commodities/gold-silver-turn-cheaper-on-dhanteras-amid-profit-booking-firm-dollar-126110600509_1.html",
+    "https://www.business-standard.com/markets/news/airtel-share-price-gains-3-nears-record-high-as-arpu-growth-drives-q2-revenue-by-17-126110600480_1.html",
+    "https://www.business-standard.com/markets/news/thermax-plunges-15-nears-52-week-low-on-weak-q2-operational-performance-126110600448_1.html",
+    "https://www.business-standard.com/markets/news/titan-shares-gain-2-after-q2-results-brokerages-remain-largely-bullish-126110600443_1.html",
+    "https://www.livemint.com/market/stock-market-news/nvidia-shares-rebound-over-7-after-biggest-single-day-crash-in-nearly-2-years-what-led-to-the-sentiment-reversal-11793980720704.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-06",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "From Wall Street to D-Street: What history suggests for S&P 500 returns, impact on India stock market, Sensex, Nifty",
     "Sun Pharma shares gain despite Q2 profit slips 36% YoY | Should you buy, sell or hold? What brokerage says, target price",
     "Cash rewards coming? PFC, CONCOR, RITES, to Sonata- These firms to announce dividend with Q2 results 2026 this week",
     "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel",
@@ -586,7 +585,8 @@
     "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
     "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
     "Gold ETFs performance on Dhanteras 2026 today 6 Nov 2026: Check how Nippon India, Tata Gold, ICICI Prudential fared",
-    "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&M, ESFB Voltas; upside seen up to 54%"
+    "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&M, ESFB Voltas; upside seen up to 54%",
+    "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?"
   ],
   "reels_posted": {
     "date": "2026-11-06",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1793967787.8174865,
+    "fetched_at": 1793983730.697292,
     "symbols": [
       "goldbees",
       "groww",
