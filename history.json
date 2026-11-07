@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/sfc-environment-technologies-shares-list-at-7-5-premium-over-ipo-price-126110300378_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-40-lakh-penalty-on-two-brokers-in-axis-mutual-fund-front-running-case/articleshow/135516888.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-levies-rs-40-lakh-penalty-on-four-entities-in-axis-mf-front-running-case/articleshow/135506148.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/bata-india-q2-results-profit-rises-30-at-rs-18-crore-revenue-rises-to-rs-862-crore/articleshow/135502156.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up-11793993964421.html",
     "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html",
     "https://www.livemint.com/market/india-should-scrap-equity-tax-on-foreigners-says-edelweiss-head-11794026589181.html",
-    "https://www.livemint.com/market/stock-market-news/tata-power-shares-will-it-react-on-mon-9-nov-post-650-mn-legal-battle-blow-with-kleros-capital-in-singapore-court-11794037830166.html"
+    "https://www.livemint.com/market/stock-market-news/tata-power-shares-will-it-react-on-mon-9-nov-post-650-mn-legal-battle-blow-with-kleros-capital-in-singapore-court-11794037830166.html",
+    "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-stocks-hdfc-sec-lists-bpcl-hcl-tech-zensar-and-more-to-buy-for-nov-8-targets-stop-loss-11794042906368.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-07",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov | Full list",
     "Delhivery shares rally 9% as company swings to \u20b941 crore profit in Q2FY27",
     "Reliance soars 7% post Q2 results; sees sharpest intraday rally in 3 years",
     "Reliance Industries shares set for biggest-single day jump since April 2020 as Q2 earnings spark Rs 1 lakh crore rally",
@@ -586,7 +585,8 @@
     "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
     "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2023. See full list",
     "India should scrap capital gains tax on foreign investors: Edelweiss chief",
-    "Tata Power shares: Will it react on Mon 9 Nov post $650 mn legal battle blow with Kleros Capital in Singapore court?"
+    "Tata Power shares: Will it react on Mon 9 Nov post $650 mn legal battle blow with Kleros Capital in Singapore court?",
+    "Diwali 2026 Muhurat Trading Stocks: HDFC Sec lists BPCL, HCL Tech, Zensar, and more to buy for Nov 8- targets, stop loss"
   ],
   "reels_posted": {
     "date": "2026-11-07",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794041271.1708434,
+    "fetched_at": 1794044605.389096,
     "symbols": [
       "goldbees",
       "groww",
