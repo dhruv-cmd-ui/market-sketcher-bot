@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/ipo/m-k-sons-fine-jewels-ipo-shares-may-list-at-marginal-premium-of-6-126110300788_1.html",
-    "https://www.business-standard.com/markets/news/grse-jumps-9-on-53-866-crore-deal-logs-best-one-day-gain-in-6-months-126110300678_1.html",
-    "https://www.business-standard.com/markets/commodities/gold-silver-prices-fall-on-expectations-of-tighter-monetary-policy-126110300603_1.html",
-    "https://www.business-standard.com/markets/commodities/india-s-gold-demand-likely-to-fall-to-six-year-low-in-2026-on-price-rise-126110300512_1.html",
     "https://www.business-standard.com/markets/news/bosch-share-price-jumps-5-hits-new-high-on-bonus-stock-split-plan-up-76-since-april-126110300574_1.html",
     "https://www.business-standard.com/markets/news/sensex-soars-3-300-pts-in-4-days-as-bulls-rejoice-time-to-sell-the-rally-126110300598_1.html",
     "https://www.business-standard.com/markets/news/oil-market-at-crossroads-as-us-iran-diplomacy-reshapes-outlook-analyst-126110300567_1.html",
@@ -499,15 +495,18 @@
     "https://www.business-standard.com/markets/news/samvat-2082-commodities-witness-sharp-volatility-as-crude-surges-126110601860_1.html",
     "https://www.livemint.com/market/stock-market-news/hunting-for-next-defence-stock-winners-raymond-ptc-axiscades-rossell-experts-decode-opportunity-share-targets-11793971143436.html",
     "https://www.business-standard.com/companies/news/this-samvat-can-large-companies-learn-to-think-like-entrepreneurs-126110601936_1.html",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms"
+    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms",
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms",
+    "https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html",
+    "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-gold-beats-stocks-or-nifty-takes-the-lead-gold-vs-nifty-50-returns-in-samvat-2082-compared-11793983947279.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-shagun-ke-shares-angel-one-selects-8-stocks-with-up-to-50-upside-to-buy-this-diwali-how-many-do-you-own/slideshow/135626837.cms"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-07",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "India's 10-year bond yield may ease to 6.75-7% by March: SBI Research",
     "Stock recommendations for 2 November from MarketSmith India",
     "How will US midterms impact Indian equities, bond yields, crude oil?",
     "India\u2019s consumers are back, its stocks aren\u2019t: Srinivasan Sivabalan",
@@ -586,7 +585,8 @@
     "Three warship manufacturing stocks to watch in India",
     "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
     "Samvat 2082: Commodities witness sharp volatility as crude surges",
-    "Dollar jumps after strong US payrolls report"
+    "Dollar jumps after strong US payrolls report",
+    "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?"
   ],
   "reels_posted": {
     "date": "2026-11-07",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794026930.1637335,
+    "fetched_at": 1794030284.8501148,
     "symbols": [
       "goldbees",
       "groww",
