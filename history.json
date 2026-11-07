@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/world-news/north-korea-denies-role-in-binance-crypto-heist-criticizes-fbi-probe-126110300081_1.html",
-    "https://www.business-standard.com/markets/news/mtf-declines-for-first-time-in-six-months-as-leveraged-positions-ease-126110301314_1.html",
-    "https://www.business-standard.com/markets/news/fusion-finance-share-price-zooms-nearly-16-on-q2-turnaround-126110300948_1.html",
     "https://www.business-standard.com/markets/ipo/m-k-sons-fine-jewels-ipo-shares-may-list-at-marginal-premium-of-6-126110300788_1.html",
     "https://www.business-standard.com/markets/news/grse-jumps-9-on-53-866-crore-deal-logs-best-one-day-gain-in-6-months-126110300678_1.html",
     "https://www.business-standard.com/markets/commodities/gold-silver-prices-fall-on-expectations-of-tighter-monetary-policy-126110300603_1.html",
@@ -499,15 +496,17 @@
     "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html",
     "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html",
     "https://www.business-standard.com/markets/news/sebi-warns-dabur-india-over-delay-in-disclosing-usfda-warning-letter-126110601897_1.html",
-    "https://www.business-standard.com/markets/news/samvat-2082-commodities-witness-sharp-volatility-as-crude-surges-126110601860_1.html"
+    "https://www.business-standard.com/markets/news/samvat-2082-commodities-witness-sharp-volatility-as-crude-surges-126110601860_1.html",
+    "https://www.livemint.com/market/stock-market-news/hunting-for-next-defence-stock-winners-raymond-ptc-axiscades-rossell-experts-decode-opportunity-share-targets-11793971143436.html",
+    "https://www.business-standard.com/companies/news/this-samvat-can-large-companies-learn-to-think-like-entrepreneurs-126110601936_1.html",
+    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-07",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Gold, silver may extend losses as US vote, jobs data test sentiment",
     "India's 10-year bond yield may ease to 6.75-7% by March: SBI Research",
     "Stock recommendations for 2 November from MarketSmith India",
     "How will US midterms impact Indian equities, bond yields, crude oil?",
@@ -586,7 +585,8 @@
     "Arini\u2019s Hedge Fund Losses Grow to 32% as It Sells Some Positions",
     "Three warship manufacturing stocks to watch in India",
     "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
-    "Samvat 2082: Commodities witness sharp volatility as crude surges"
+    "Samvat 2082: Commodities witness sharp volatility as crude surges",
+    "Dollar jumps after strong US payrolls report"
   ],
   "reels_posted": {
     "date": "2026-11-07",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794023143.4154885,
+    "fetched_at": 1794026930.1637335,
     "symbols": [
       "goldbees",
       "groww",
