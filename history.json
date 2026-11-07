@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/nse-q2-results-profit-rises-23-ebitda-doubles-in-first-post-ipo-earnings-how-has-stock-fared-since-listing-11793711653586.html",
-    "https://www.business-standard.com/markets/news/nse-q2fy27-net-profit-rises-23-to-2-578-crore-revenue-grows-10-6-126110301688_1.html",
-    "https://www.business-standard.com/markets/news/nseix-extends-trading-to-23-5-hours-offers-near-round-the-clock-access-126110301668_1.html",
-    "https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html",
     "https://www.business-standard.com/markets/news/are-large-cap-stocks-reclaiming-their-strategic-leadership-analysts-view-126110400087_1.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-prices-extend-declines-midterms-on-tap/articleshow/135503356.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/dupont-raises-annual-profit-forecasts-on-strong-healthcare-aerospace-demand/articleshow/135502681.cms",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/risk-off-mood-sweeps-european-stocks-as-ai-concerns-deepen/articleshow/135626153.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-stocks-rally-after-heavy-ai-related-selloff/articleshow/135626123.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms",
-    "https://www.livemint.com/market/stock-market-news/rs-90-dividend-per-share-this-stock-announces-900-payout-do-you-own-payment-record-date-returns-11794063019136.html"
+    "https://www.livemint.com/market/stock-market-news/rs-90-dividend-per-share-this-stock-announces-900-payout-do-you-own-payment-record-date-returns-11794063019136.html",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-top-3-samvat-2083-stock-picks-by-sumeet-bagadia-adani-ports-sun-pharma-kotak-bank-targets-sl-11794025429338.html",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-diwali-stocks-to-buy-for-upto-109-upside-bse-adani-power-hfcl-techm-samcos-10-shares-list-11794024034171.html",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-stocks-to-buy-on-diwali-day-nov-8-from-eternal-to-mcx-chandan-taparia-of-mofsl-shares-4-picks-11794023535359.html",
+    "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-why-do-nse-bse-break-the-holiday-rule-for-special-live-trading-session-explained-11794054250580.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-07",
-    "count": 17
+    "count": 18
   },
   "recent_titles": [
-    "Massive surge! Reliance Industries shares up 12% after Q2; add  \u20b92 lakh cr in mcap \u2014 when did RIL last rally this much?",
     "Cooling off period for offer for sale by Private listed InvITs",
     "ITC shares to be in focus on Tuesday as Q2 net profit drops 18.5% on higher cigarette taxes",
     "Reliance surges 11.6% as strong Q2 earnings add Rs 1.83 lakh crore in market value",
@@ -586,7 +585,8 @@
     "Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains",
     "Dividend dhamaka: 4 high yield stocks from brokerages' Diwali stock picks for Samvat 2083- Annual return, target price",
     "Q2 results race: Samvardhana Motherson vs Uno Minda - Which auto ancillary stock scores better? Revenue, profit, target",
-    "\u20b990 dividend per share: This stock announces 900% payout - Do you own? Payment, record date, returns"
+    "\u20b990 dividend per share: This stock announces 900% payout - Do you own? Payment, record date, returns",
+    "Diwali 2026 Muhurat trading: Why do NSE, BSE break the holiday rule for special live trading session? Explained"
   ],
   "reels_posted": {
     "date": "2026-11-07",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794067847.060573,
+    "fetched_at": 1794071424.6626847,
     "symbols": [
       "goldbees",
       "groww",
