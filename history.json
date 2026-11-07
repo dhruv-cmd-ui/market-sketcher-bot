@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/multibagger-stock-omnitech-engineering-hits-5-lower-circuit-despite-220-rally-in-2026-so-far-heres-why-11793687898933.html",
-    "https://www.livemint.com/market/mark-to-market/marico-profit-gains-copra-windfall-parachute-saffola-11793686485669.html",
     "https://www.business-standard.com/world-news/north-korea-denies-role-in-binance-crypto-heist-criticizes-fbi-probe-126110300081_1.html",
     "https://www.business-standard.com/markets/news/mtf-declines-for-first-time-in-six-months-as-leveraged-positions-ease-126110301314_1.html",
     "https://www.business-standard.com/markets/news/fusion-finance-share-price-zooms-nearly-16-on-q2-turnaround-126110300948_1.html",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/news/record-fii-selling-of-4-55-trillion-meets-record-dii-buying-in-samvat-2082-126110601834_1.html",
     "https://www.business-standard.com/markets/news/pressure-on-rupee-continues-in-samvat-2082-10-year-bond-yields-harden-126110601774_1.html",
     "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html",
-    "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html"
+    "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html",
+    "https://www.business-standard.com/markets/news/sebi-warns-dabur-india-over-delay-in-disclosing-usfda-warning-letter-126110601897_1.html",
+    "https://www.business-standard.com/markets/news/samvat-2082-commodities-witness-sharp-volatility-as-crude-surges-126110601860_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-07",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "ITC Q2 results 2026 preview: Will cigarette business drive growth? Profit, revenue expectations - share price target",
     "Gold, silver may extend losses as US vote, jobs data test sentiment",
     "India's 10-year bond yield may ease to 6.75-7% by March: SBI Research",
     "Stock recommendations for 2 November from MarketSmith India",
@@ -586,7 +585,8 @@
     "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?",
     "Arini\u2019s Hedge Fund Losses Grow to 32% as It Sells Some Positions",
     "Three warship manufacturing stocks to watch in India",
-    "Gold Extends Drop on Stronger-Than-Expected US Employment Data"
+    "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
+    "Samvat 2082: Commodities witness sharp volatility as crude surges"
   ],
   "reels_posted": {
     "date": "2026-11-07",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794019597.8983624,
+    "fetched_at": 1794023143.4154885,
     "symbols": [
       "goldbees",
       "groww",
