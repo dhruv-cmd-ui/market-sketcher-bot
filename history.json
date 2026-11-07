@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/nifty-capital-markets-rallies-2-motilal-oswal-angel-one-surge-up-to-7-126110300423_1.html",
-    "https://www.business-standard.com/markets/news/kec-international-falls-8-as-q2-profit-sinks-82-margins-contract-sharply-126110300434_1.html",
     "https://www.business-standard.com/markets/news/crude-sensitive-stocks-gain-as-oil-stays-below-105-hpcl-indigo-rise-126110300400_1.html",
     "https://www.business-standard.com/markets/news/small-cap-stock-kitex-garments-zooms-over-17-as-firm-swings-to-black-in-q2-126110300398_1.html",
     "https://www.business-standard.com/markets/news/sfc-environment-technologies-shares-list-at-7-5-premium-over-ipo-price-126110300378_1.html",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/ipo/best-ever-samvat-for-ipos-record-2-23-trillion-raised-up-19-6-126110601904_1.html",
     "https://www.business-standard.com/markets/news/weakest-samvat-in-15-years-ends-on-a-high-for-mkts-as-sensex-nifty-rally-126110601769_1.html",
     "https://www.business-standard.com/markets/news/street-basks-in-diwali-glow-benchmark-indices-post-best-week-in-6-years-126110602064_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
+    "https://www.livemint.com/market/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up-11793993964421.html",
+    "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-07",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "How will US midterms impact Indian equities, bond yields, crude oil?",
     "India\u2019s consumers are back, its stocks aren\u2019t: Srinivasan Sivabalan",
     "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov | Full list",
     "Delhivery shares rally 9% as company swings to \u20b941 crore profit in Q2FY27",
@@ -586,7 +585,8 @@
     "Samvat 2082: Commodities witness sharp volatility as crude surges",
     "Dollar jumps after strong US payrolls report",
     "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
-    "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2023. See full list"
+    "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2023. See full list",
+    "India should scrap capital gains tax on foreign investors: Edelweiss chief"
   ],
   "reels_posted": {
     "date": "2026-11-07",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794034285.002016,
+    "fetched_at": 1794038206.8324409,
     "symbols": [
       "goldbees",
       "groww",
