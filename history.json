@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/crude-sensitive-stocks-gain-as-oil-stays-below-105-hpcl-indigo-rise-126110300400_1.html",
-    "https://www.business-standard.com/markets/news/small-cap-stock-kitex-garments-zooms-over-17-as-firm-swings-to-black-in-q2-126110300398_1.html",
     "https://www.business-standard.com/markets/news/sfc-environment-technologies-shares-list-at-7-5-premium-over-ipo-price-126110300378_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-40-lakh-penalty-on-two-brokers-in-axis-mutual-fund-front-running-case/articleshow/135516888.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-levies-rs-40-lakh-penalty-on-four-entities-in-axis-mf-front-running-case/articleshow/135506148.cms",
@@ -499,15 +497,16 @@
     "https://www.business-standard.com/markets/news/street-basks-in-diwali-glow-benchmark-indices-post-best-week-in-6-years-126110602064_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
     "https://www.livemint.com/market/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up-11793993964421.html",
-    "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html"
+    "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html",
+    "https://www.livemint.com/market/india-should-scrap-equity-tax-on-foreigners-says-edelweiss-head-11794026589181.html",
+    "https://www.livemint.com/market/stock-market-news/tata-power-shares-will-it-react-on-mon-9-nov-post-650-mn-legal-battle-blow-with-kleros-capital-in-singapore-court-11794037830166.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-07",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "India\u2019s consumers are back, its stocks aren\u2019t: Srinivasan Sivabalan",
     "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov | Full list",
     "Delhivery shares rally 9% as company swings to \u20b941 crore profit in Q2FY27",
     "Reliance soars 7% post Q2 results; sees sharpest intraday rally in 3 years",
@@ -586,7 +585,8 @@
     "Dollar jumps after strong US payrolls report",
     "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
     "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2023. See full list",
-    "India should scrap capital gains tax on foreign investors: Edelweiss chief"
+    "India should scrap capital gains tax on foreign investors: Edelweiss chief",
+    "Tata Power shares: Will it react on Mon 9 Nov post $650 mn legal battle blow with Kleros Capital in Singapore court?"
   ],
   "reels_posted": {
     "date": "2026-11-07",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794038206.8324409,
+    "fetched_at": 1794041271.1708434,
     "symbols": [
       "goldbees",
       "groww",
