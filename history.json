@@ -1,13 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-5-after-announcement-of-q2-results-2026-dividend-up-65-in-6-months-do-you-own-11793700056652.html",
-    "https://www.livemint.com/market/stock-market-news/silver-prices-crash-rs-8-500-kg-gold-drops-rs-2-000-10g-as-us-iran-tensions-revive-inflation-fears-is-more-fall-ahead-11793698796709.html",
-    "https://www.livemint.com/market/ipo/sebi-ipo-issuers-issue-sizes-aibi-20-threshold-11793690528862.html",
-    "https://www.livemint.com/market/bhel-share-price-target-already-up-50-in-1-year-should-you-still-buy-the-maharatna-psu-stock-expert-views-11793692830871.html",
-    "https://www.livemint.com/market/stock-market-news/tempsens-instruments-shares-surge-17-stock-rallies-whopping-89-from-ipo-price-in-just-over-2-months-key-triggers-11793693494023.html",
-    "https://www.livemint.com/market/stock-market-news/smallcap-stock-mold-tek-packaging-jumps-8-after-q2-results-2026-will-the-rally-continue-target-stoploss-11793692179343.html",
-    "https://www.livemint.com/market/mark-to-market/lodha-developers-share-price-q2-results-fy27-sales-launches-11793690713747.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-samvat-2083-stocks-with-up-to-35-gain-hdfc-amc-sbi-tech-mahindra-3-more-by-anand-rathi-11793691071592.html",
     "https://www.livemint.com/market/stock-market-news/multibagger-stock-omnitech-engineering-hits-5-lower-circuit-despite-220-rally-in-2026-so-far-heres-why-11793687898933.html",
     "https://www.livemint.com/market/mark-to-market/marico-profit-gains-copra-windfall-parachute-saffola-11793686485669.html",
     "https://www.business-standard.com/world-news/north-korea-denies-role-in-binance-crypto-heist-criticizes-fbi-probe-126110300081_1.html",
@@ -499,15 +491,22 @@
     "https://www.business-standard.com/companies/news/bombay-hc-plea-seeks-rbi-direction-for-tata-sons-stock-market-listing-126110601724_1.html",
     "https://www.business-standard.com/markets/ipo/sagar-defence-encube-ethicals-among-4-firms-to-secure-sebi-s-nod-for-ipos-126110601677_1.html",
     "https://www.business-standard.com/markets/news/ecom-qcom-companies-gear-up-for-diwali-rush-with-expanded-offerings-126110601644_1.html",
-    "https://www.livemint.com/market/stock-market-news/three-warship-manufacturing-stocks-to-watch-in-india-11793980065116.html"
+    "https://www.livemint.com/market/stock-market-news/three-warship-manufacturing-stocks-to-watch-in-india-11793980065116.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
+    "https://www.livemint.com/market/pulse-of-the-street-dalal-street-shines-before-diwali-can-the-rally-last-11793965614339.html",
+    "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-4-large-cap-stocks-to-buy-for-samvat-2083-pl-capital-bullish-on-bel-britannia-to-icici-target-11793974105149.html",
+    "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-s-mahanadi-coalfields-gets-sebi-nod-for-public-issue-top-things-to-know-about-psu-public-offer-11793970259119.html",
+    "https://www.business-standard.com/markets/news/record-fii-selling-of-4-55-trillion-meets-record-dii-buying-in-samvat-2082-126110601834_1.html",
+    "https://www.business-standard.com/markets/news/pressure-on-rupee-continues-in-samvat-2082-10-year-bond-yields-harden-126110601774_1.html",
+    "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html",
+    "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-07",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel",
     "ITC Q2 results 2026 preview: Will cigarette business drive growth? Profit, revenue expectations - share price target",
     "Gold, silver may extend losses as US vote, jobs data test sentiment",
     "India's 10-year bond yield may ease to 6.75-7% by March: SBI Research",
@@ -586,7 +585,8 @@
     "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&M, ESFB Voltas; upside seen up to 54%",
     "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?",
     "Arini\u2019s Hedge Fund Losses Grow to 32% as It Sells Some Positions",
-    "Three warship manufacturing stocks to watch in India"
+    "Three warship manufacturing stocks to watch in India",
+    "Gold Extends Drop on Stronger-Than-Expected US Employment Data"
   ],
   "reels_posted": {
     "date": "2026-11-07",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794016493.6975942,
+    "fetched_at": 1794019597.8983624,
     "symbols": [
       "goldbees",
       "groww",
