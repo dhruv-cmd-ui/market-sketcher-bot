@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-2026-will-sensex-nifty-reclaim-their-peaks-or-scale-new-highs-analysts-map-the-road-ahead/articleshow/135526939.cms",
-    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-5-november-from-marketsmith-india-11793814548711.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-samvat-2083-11793786699285.html",
     "https://www.livemint.com/market/stock-market-news/stocks-to-buy-in-november-axis-direct-names-nuvama-beml-and-petronet-sees-up-to-27-upside-target-rationale-11793790461951.html",
     "https://www.livemint.com/market/stock-market-news/bel-share-price-rally-bharat-electronics-jumps-9-in-week-fresh-upside-ahead-post-q2-results-check-brokerage-target-p-11793790957688.html",
     "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-gmr-airports-hal-by-nagaraj-shetti-check-stop-loss-targets-11793791298237.html",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135649771.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-today-live-08-nov-2026/liveblog/135649767.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-share-price-live-08-nov-2026/liveblog/135649761.cms",
-    "https://www.business-standard.com/markets/news/samvat-2083-off-to-a-tepid-start-sensex-nifty-slip-smaller-cos-up-126110800423_1.html"
+    "https://www.business-standard.com/markets/news/samvat-2083-off-to-a-tepid-start-sensex-nifty-slip-smaller-cos-up-126110800423_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-08-nov-2026/liveblog/135650532.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-08-nov-2026/liveblog/135650295.cms",
+    "https://www.livemint.com/market/stock-market-news/bosch-bonus-issue-stock-split-1-share-to-become-20-after-38-rally-in-one-year-check-ratio-record-date-returns-11794135227568.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 16
+    "count": 17
   },
   "recent_titles": [
-    "How ITC shares are performing after Q2 results? Should you buy, sell or hold? Brokerages give targets, key levels",
     "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
     "Are large-cap stocks reclaiming their strategic leadership? Analysts' view",
     "Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4",
@@ -586,7 +585,8 @@
     "Global developments to keep commodity prices volatile in Samvat 2083",
     "AI slump revives Asia's forgotten stock bets, from China to India",
     "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL",
-    "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up"
+    "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up",
+    "Bosch bonus issue, stock split: 1 share to become 20 after 38% rally in one year! Check ratio, record date, returns"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794150708.5719728,
+    "fetched_at": 1794154090.2104723,
     "symbols": [
       "ashokley",
       "gatech",
