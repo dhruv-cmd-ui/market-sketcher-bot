@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-in-focus-60-jump-in-mtf-book-dethrones-hdfc-bank-should-you-buy-sell-or-hold-11793758986934.html",
-    "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
     "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
     "https://www.livemint.com/market/stock-market-news/us-midterm-elections-impact-on-gold-silver-prices-in-india-how-donald-trumps-loss-is-affecting-precious-metals-rates-11793785627674.html",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q2-results-pat-soars-207-yoy-to-rs-101-crore-revenue-up-28-co-to-acquire-82-stake-in-simply-nam/articleshow/135537436.cms",
@@ -499,15 +497,16 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-08-nov-2026/liveblog/135649766.cms",
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-live-check-stock-picks-and-time-for-special-session-today-pre-open-normal-market-rules-11794111427408.html",
     "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-today-stocks-to-buy-from-centrum-bse-l-t-tvs-motor-and-more-targets-stoploss-11794068530858.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-top-3-samvat-2083-stock-picks-under-rs-100-suzlon-nhpc-south-bank-by-sumeet-bagadia-11794109482297.html"
+    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-top-3-samvat-2083-stock-picks-under-rs-100-suzlon-nhpc-south-bank-by-sumeet-bagadia-11794109482297.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-08-nov-2026/liveblog/135649883.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "SBI Q2 results 2026 today schedule, preview, expectations | Should you buy ahead of earnings announcement?",
     "Reliance Industries among 8 stocks showing RSI Trending Up",
     "Trident shares rally 13% after Q2 net profit jumps 93% to Rs 175 crore; firm plans Rs 4,650 crore capex",
     "ITC up 1% after weak Q2; analysts see gradual recovery in cigarette biz",
@@ -586,7 +585,8 @@
     "How anti-AI trade after US midterm election results is reviving Indian, Chinese stocks",
     "Will bulls stay in control during Muhurat trading? Experts decode outlook",
     "Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings",
-    "Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under  \u20b9100 \u2014 Suzlon, NHPC, South Bank by Sumeet Bagadia"
+    "Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under  \u20b9100 \u2014 Suzlon, NHPC, South Bank by Sumeet Bagadia",
+    "\u200bMarket Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794113390.5694733,
+    "fetched_at": 1794116777.4186792,
     "symbols": [
       "goldbees",
       "groww",
