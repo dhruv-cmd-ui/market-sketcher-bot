@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/sbi-shares-strong-nii-improving-margins-drive-analysts-optimism-after-q2-126110400412_1.html",
-    "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html",
-    "https://www.business-standard.com/markets/news/equitas-sfb-shares-surge-9-after-19-fall-in-4-days-as-lender-names-interim-ceo-126110400487_1.html",
-    "https://www.business-standard.com/markets/news/titan-q2-preview-brokerages-see-up-to-27-pat-growth-led-by-jewellery-biz-126110400475_1.html",
     "https://www.business-standard.com/markets/news/indigo-asian-paints-ioc-analyst-view-on-crude-sensitives-shares-as-crude-oil-price-dips-13-126110400466_1.html",
     "https://www.business-standard.com/markets/news/bhel-rallies-6-on-securing-large-project-works-from-adani-power-126110400467_1.html",
     "https://www.business-standard.com/markets/commodities/gold-prices-show-mixed-trend-falls-on-mcx-rises-in-global-market-126110400456_1.html",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-icici-bank-pvr-inox-eternal-among-geojits-10-shares-samvat-2083-11794118050114.html",
     "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-08-nov-2026/liveblog/135649905.cms",
-    "https://www.business-standard.com/markets/news/stock-market-live-november-8-muhurat-trading-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-today-samvat-2083-tata-steel-share-price-126110800267_1.html"
+    "https://www.business-standard.com/markets/news/stock-market-live-november-8-muhurat-trading-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-today-samvat-2083-tata-steel-share-price-126110800267_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-updates-08-nov-2026/liveblog/135650111.cms",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-dalal-street-defies-global-gloom-what-lies-ahead-for-sensex-nifty-50-in-samvat-2083-11794123204720.html",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-today-nifty-50s-7-day-bull-streak-sets-the-stage-for-samvat-2083-what-should-investors-expect-11794109496766.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "HDFC Bank share price gains 3% today: Here's why - Is the worst over after a 27% one-year fall? What experts say",
     "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
     "Textile, garment stocks in demand; Kitex, Trident, Gokaldas rally up to 18%",
     "Reliance shares see volume breakout: Is a trend reversal around the corner? Here\u2019s what history shows",
@@ -586,7 +585,8 @@
     "\u200bMarket Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
     "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
     "Bullion may remain under pressure as markets track US-Iran war, inflation",
-    "Muhurat Trading LIVE: Sensex, Nifty to kick-start trading for Samvat 2083 today at 2:20 PM"
+    "Muhurat Trading LIVE: Sensex, Nifty to kick-start trading for Samvat 2083 today at 2:20 PM",
+    "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794127665.0242548,
+    "fetched_at": 1794130992.0678682,
     "symbols": [
+      "ashokley",
+      "gatech",
       "goldbees",
-      "groww",
+      "greenpower",
       "gtlinfra",
-      "hdfcbank",
-      "ibullsltd",
-      "icicibank",
       "idea",
-      "jswcement",
+      "jppower",
+      "liquidcase",
       "moneyview",
-      "motherson",
       "motisons",
-      "mtnl",
       "olaelec",
       "pcjeweller",
       "suzlon",
       "tatagold",
+      "tatasteel",
       "tatsilv",
       "ttml",
-      "v2retail",
-      "yesbank"
+      "vedpower",
+      "yesbank",
+      "zeel"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
