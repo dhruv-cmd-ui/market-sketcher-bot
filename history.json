@@ -1,16 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
-    "https://www.livemint.com/market/stock-market-news/us-midterm-elections-impact-on-gold-silver-prices-in-india-how-donald-trumps-loss-is-affecting-precious-metals-rates-11793785627674.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q2-results-pat-soars-207-yoy-to-rs-101-crore-revenue-up-28-co-to-acquire-82-stake-in-simply-nam/articleshow/135537436.cms",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105609.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6147-of-2022-the-apex-global-proprietor-yadunath-singh-thakur-in-the-matter-of-covidh-technologies-limited-_105607.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105605.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-swastika-investmart-limited_105600.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-som-distilleries-and-breweries-ltd_105598.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/order-in-the-matter-of-certain-investment-advisers_105587.html",
-    "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html",
-    "https://www.business-standard.com/markets/news/breakout-stocks-chandan-taparia-bets-on-bharti-airtel-paytm-divi-s-lab-126110400106_1.html",
     "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-eternal-icici-l-t-titan-to-radico-11-stocks-shriram-research-is-bullish-on-in-samvat-2083-11793796674218.html",
     "https://www.business-standard.com/markets/news/fiis-cover-shorts-net-buy-4-711-cr-index-futures-on-tue-a-4-month-record-126110400135_1.html",
     "https://www.business-standard.com/markets/commodities/oil-prices-edge-down-as-investors-await-us-midterm-election-results-126110400110_1.html",
@@ -499,15 +488,25 @@
     "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-today-stocks-to-buy-from-centrum-bse-l-t-tvs-motor-and-more-targets-stoploss-11794068530858.html",
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-top-3-samvat-2083-stock-picks-under-rs-100-suzlon-nhpc-south-bank-by-sumeet-bagadia-11794109482297.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-08-nov-2026/liveblog/135649883.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-08-nov-2026/liveblog/135651420.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-today-live-08-nov-2026/liveblog/135650048.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-08-nov-2026/liveblog/135649989.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-today-live-updates-08-nov-2026/liveblog/135649963.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-updates-08-nov-2026/liveblog/135649909.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-08-nov-2026/liveblog/135649900.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-live-updates-08-nov-2026/liveblog/135649746.cms",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-prediction-today-for-nifty-50-sensex-bank-nifty-on-diwali-2026-special-session-11794119093334.html",
+    "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Reliance Industries among 8 stocks showing RSI Trending Up",
     "Trident shares rally 13% after Q2 net profit jumps 93% to Rs 175 crore; firm plans Rs 4,650 crore capex",
     "ITC up 1% after weak Q2; analysts see gradual recovery in cigarette biz",
     "HDFC Bank share price gains 3% today: Here's why - Is the worst over after a 27% one-year fall? What experts say",
@@ -586,7 +585,8 @@
     "Will bulls stay in control during Muhurat trading? Experts decode outlook",
     "Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings",
     "Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under  \u20b9100 \u2014 Suzlon, NHPC, South Bank by Sumeet Bagadia",
-    "\u200bMarket Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session"
+    "\u200bMarket Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
+    "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794116777.4186792,
+    "fetched_at": 1794120756.2664845,
     "symbols": [
       "goldbees",
       "groww",
