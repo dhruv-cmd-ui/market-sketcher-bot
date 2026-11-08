@@ -1,12 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/stocks-to-buy-in-november-axis-direct-names-nuvama-beml-and-petronet-sees-up-to-27-upside-target-rationale-11793790461951.html",
-    "https://www.livemint.com/market/stock-market-news/bel-share-price-rally-bharat-electronics-jumps-9-in-week-fresh-upside-ahead-post-q2-results-check-brokerage-target-p-11793790957688.html",
-    "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-gmr-airports-hal-by-nagaraj-shetti-check-stop-loss-targets-11793791298237.html",
-    "https://www.livemint.com/market/how-markets-reacted-to-democrats-win-stocks-u-turn-gold-gains-11793791700352.html",
-    "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-impact-decoded-can-sensex-nifty-hit-new-peak-gold-silver-rates-rebound-with-trump-loss-11793788769424.html",
-    "https://www.livemint.com/market/stock-market-news/how-indian-metals-ferro-alloys-shares-performed-post-q2-results-profit-up-51-rs-5-dividend-what-drove-performa-11793789113686.html",
-    "https://www.livemint.com/market/stock-market-rally-bulls-to-stay-nifty-sensex-gain-5-5-in-5-sessions-can-the-momentum-sustain-key-levels-to-watch-11793787625537.html",
     "https://www.livemint.com/market/stock-market-news/diwali-2026-stocks-to-buy-for-samvat-2083-adani-energy-coforge-pnb-zydus-kddl-5-shares-for-muhurat-trading-11793785141234.html",
     "https://www.livemint.com/market/stock-market-news/sbi-q2-earnings-fy27-guidance-investor-wanting-more-11793783435201.html",
     "https://www.livemint.com/market/stock-market-news/stock-market-outlook-history-favours-bulls-in-november-but-can-nifty-rally-despite-global-headwinds-11793782345049.html",
@@ -499,15 +492,21 @@
     "https://www.business-standard.com/markets/news/samvat-2083-off-to-a-tepid-start-sensex-nifty-slip-smaller-cos-up-126110800423_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-08-nov-2026/liveblog/135650532.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-08-nov-2026/liveblog/135650295.cms",
-    "https://www.livemint.com/market/stock-market-news/bosch-bonus-issue-stock-split-1-share-to-become-20-after-38-rally-in-one-year-check-ratio-record-date-returns-11794135227568.html"
+    "https://www.livemint.com/market/stock-market-news/bosch-bonus-issue-stock-split-1-share-to-become-20-after-38-rally-in-one-year-check-ratio-record-date-returns-11794135227568.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135651441.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-updates-08-nov-2026/liveblog/135651405.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-08-nov-2026/liveblog/135651372.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135651362.cms",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-last-10-years-data-nifty-50-bank-nifty-sensex-what-history-tells-amid-special-diwali-session-today-11794111665133.html",
+    "https://www.livemint.com/market/stock-market-news/nifty-sensex-worst-samvat-returns-15-years-equity-investors-samvat-2083-11793888291373.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-global-stability-to-drive-market-growth-in-new-samvat-anmi-president-kamlesh-shroff/articleshow/135656109.cms"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 17
+    "count": 18
   },
   "recent_titles": [
-    "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
     "Are large-cap stocks reclaiming their strategic leadership? Analysts' view",
     "Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4",
     "Airtel Q2 preview: Analysts see double-digit revenue growth; ARPU in focus",
@@ -586,7 +585,8 @@
     "AI slump revives Asia's forgotten stock bets, from China to India",
     "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL",
     "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up",
-    "Bosch bonus issue, stock split: 1 share to become 20 after 38% rally in one year! Check ratio, record date, returns"
+    "Bosch bonus issue, stock split: 1 share to become 20 after 38% rally in one year! Check ratio, record date, returns",
+    "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794154090.2104723,
+    "fetched_at": 1794157820.770644,
     "symbols": [
       "ashokley",
       "gatech",
