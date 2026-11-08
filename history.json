@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-04-nov-2026/liveblog/135520287.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-04-nov-2026/liveblog/135522861.cms",
     "https://www.livemint.com/market/sugar-slides-to-five-week-low-as-high-indian-output-jolts-market-11793731217079.html",
     "https://www.livemint.com/market/stock-market-news/down-38-in-2026-aditya-birla-real-estate-gets-buy-rating-from-anand-rathi-30-upside-see-11793728248414.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/ipo/upcoming-ipo-coca-cola-india-bottler-hcch-files-drhp-for-public-issue-majority-shareholder-to-sell-up-to-15-stake-11794070690577.html",
     "https://www.business-standard.com/markets/news/muhurat-trading-stock-markets-to-open-for-special-session-on-diwali-check-timings-126110600907_1.html",
     "https://www.livemint.com/market/how-anti-ai-trade-after-us-midterm-election-results-is-reviving-indian-chinese-stocks-11794101102138.html",
-    "https://www.business-standard.com/markets/news/will-bulls-stay-in-control-during-muhurat-trading-experts-decode-outlook-126110600925_1.html"
+    "https://www.business-standard.com/markets/news/will-bulls-stay-in-control-during-muhurat-trading-experts-decode-outlook-126110600925_1.html",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-time-2026-nse-bse-to-hold-special-diwali-trading-session-today-check-market-open-timings-11794105055102.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Sebi allows REITs, InvITs to tap overseas investors through depository receipts",
     "Reliance Industries takes the wheel, surges 12% to steer benchmarks higher",
     "SBI Q2 results 2026 today schedule, preview, expectations | Should you buy ahead of earnings announcement?",
     "Reliance Industries among 8 stocks showing RSI Trending Up",
@@ -586,7 +585,8 @@
     "Diwali 2026 Muhurat trading: Why do NSE, BSE break the holiday rule for special live trading session? Explained",
     "Upcoming IPO: Coca-Cola India bottler HCCH files DRHP for public issue, majority shareholder to sell up to 15% stake",
     "How anti-AI trade after US midterm election results is reviving Indian, Chinese stocks",
-    "Will bulls stay in control during Muhurat trading? Experts decode outlook"
+    "Will bulls stay in control during Muhurat trading? Experts decode outlook",
+    "Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794106035.2359514,
+    "fetched_at": 1794109775.684741,
     "symbols": [
       "goldbees",
       "groww",
