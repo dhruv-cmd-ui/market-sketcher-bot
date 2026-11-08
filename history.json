@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-eternal-icici-l-t-titan-to-radico-11-stocks-shriram-research-is-bullish-on-in-samvat-2083-11793796674218.html",
-    "https://www.business-standard.com/markets/news/fiis-cover-shorts-net-buy-4-711-cr-index-futures-on-tue-a-4-month-record-126110400135_1.html",
-    "https://www.business-standard.com/markets/commodities/oil-prices-edge-down-as-investors-await-us-midterm-election-results-126110400110_1.html",
-    "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-s-medium-term-momentum-improves-24k-next-resistance-hdfc-securities-126110400112_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-nse-bata-india-hindustan-zinc-nykaa-ask-automotive-126110400118_1.html",
     "https://www.business-standard.com/markets/news/suppliers-charging-vendors-extra-for-upi-payments-before-mdr-isb-survey-126110401916_1.html",
     "https://www.business-standard.com/markets/news/sbi-shares-strong-nii-improving-margins-drive-analysts-optimism-after-q2-126110400412_1.html",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-live-updates-08-nov-2026/liveblog/135649746.cms",
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-prediction-today-for-nifty-50-sensex-bank-nifty-on-diwali-2026-special-session-11794119093334.html",
     "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
+    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-pc-jeweller-suzlon-vedanta-power-3-samvat-2083-stock-picks-under-rs-50-by-mahesh-ojha-11794123128165.html",
+    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-icici-bank-pvr-inox-eternal-among-geojits-10-shares-samvat-2083-11794118050114.html",
+    "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "Trident shares rally 13% after Q2 net profit jumps 93% to Rs 175 crore; firm plans Rs 4,650 crore capex",
     "ITC up 1% after weak Q2; analysts see gradual recovery in cigarette biz",
     "HDFC Bank share price gains 3% today: Here's why - Is the worst over after a 27% one-year fall? What experts say",
     "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
@@ -586,7 +585,8 @@
     "Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings",
     "Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under  \u20b9100 \u2014 Suzlon, NHPC, South Bank by Sumeet Bagadia",
     "\u200bMarket Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
-    "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%"
+    "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
+    "Bullion may remain under pressure as markets track US-Iran war, inflation"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794120756.2664845,
+    "fetched_at": 1794124640.7492702,
     "symbols": [
       "goldbees",
       "groww",
