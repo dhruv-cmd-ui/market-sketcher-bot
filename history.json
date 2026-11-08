@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/indigo-asian-paints-ioc-analyst-view-on-crude-sensitives-shares-as-crude-oil-price-dips-13-126110400466_1.html",
-    "https://www.business-standard.com/markets/news/bhel-rallies-6-on-securing-large-project-works-from-adani-power-126110400467_1.html",
-    "https://www.business-standard.com/markets/commodities/gold-prices-show-mixed-trend-falls-on-mcx-rises-in-global-market-126110400456_1.html",
-    "https://www.business-standard.com/markets/news/mcx-share-price-falls-7-despite-two-fold-jump-in-q2-profit-here-s-why-126110400449_1.html",
     "https://www.business-standard.com/markets/news/emcure-pharma-share-price-surges-10-stock-hits-new-high-on-strong-outlook-126110400404_1.html",
     "https://www.business-standard.com/markets/news/us-midterms-impact-on-trump-s-political-authority-market-implications-126110400441_1.html",
     "https://www.business-standard.com/markets/news/m-k-sons-fine-jewels-lists-at-6-premium-in-line-with-expectations-126110400423_1.html",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-updates-08-nov-2026/liveblog/135650111.cms",
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-dalal-street-defies-global-gloom-what-lies-ahead-for-sensex-nifty-50-in-samvat-2083-11794123204720.html",
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-today-nifty-50s-7-day-bull-streak-sets-the-stage-for-samvat-2083-what-should-investors-expect-11794109496766.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-08-nov-2026/liveblog/135650045.cms",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html",
+    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-tata-steel-sun-pharma-bse-among-top-gainers-as-nifty-50-sensex-swing-between-gains-and-losses-11794128799050.html",
+    "https://www.business-standard.com/markets/news/tata-steel-spurts-3-in-muhurat-trading-session-post-steady-q2-earnings-126110800313_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
     "Textile, garment stocks in demand; Kitex, Trident, Gokaldas rally up to 18%",
     "Reliance shares see volume breakout: Is a trend reversal around the corner? Here\u2019s what history shows",
     "Exemption Order in the matter of Emmbi Industries Limited",
@@ -586,7 +585,8 @@
     "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
     "Bullion may remain under pressure as markets track US-Iran war, inflation",
     "Muhurat Trading LIVE: Sensex, Nifty to kick-start trading for Samvat 2083 today at 2:20 PM",
-    "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers"
+    "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
+    "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794130992.0678682,
+    "fetched_at": 1794134377.9390857,
     "symbols": [
       "ashokley",
       "gatech",
