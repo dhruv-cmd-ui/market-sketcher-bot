@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/us-midterms-impact-on-trump-s-political-authority-market-implications-126110400441_1.html",
     "https://www.business-standard.com/markets/news/m-k-sons-fine-jewels-lists-at-6-premium-in-line-with-expectations-126110400423_1.html",
     "https://www.livemint.com/market/stock-market-news/sbi-vs-sbi-life-vs-sbi-cards-which-sbi-group-stock-emerged-as-the-q2-results-2026-winner-check-analyst-targets-11793811829732.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/democratic-sweep-adds-new-twist-to-markets-iran-ai-and-debt-worries/articleshow/135539439.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html",
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-tata-steel-sun-pharma-bse-among-top-gainers-as-nifty-50-sensex-swing-between-gains-and-losses-11794128799050.html",
     "https://www.business-standard.com/markets/news/tata-steel-spurts-3-in-muhurat-trading-session-post-steady-q2-earnings-126110800313_1.html",
-    "https://www.business-standard.com/markets/news/icici-bank-divi-s-among-14-nse-500-stocks-hit-new-highs-in-muhurat-session-126110800329_1.html"
+    "https://www.business-standard.com/markets/news/icici-bank-divi-s-among-14-nse-500-stocks-hit-new-highs-in-muhurat-session-126110800329_1.html",
+    "https://www.business-standard.com/markets/news/markets-commodities-samvat-2083-commodity-outlook-crude-oil-gold-silver-global-risks-126110800289_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Reliance shares see volume breakout: Is a trend reversal around the corner? Here\u2019s what history shows",
     "Exemption Order in the matter of Emmbi Industries Limited",
     "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
     "Reliance shares: After massive 12% surge, Mukesh Ambani's RIL stock slips from biggest single-day rally since 2020; buy?",
@@ -586,7 +585,8 @@
     "Muhurat Trading LIVE: Sensex, Nifty to kick-start trading for Samvat 2083 today at 2:20 PM",
     "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
     "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
-    "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session"
+    "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
+    "Global developments to keep commodity prices volatile in Samvat 2083"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794137690.0374918,
+    "fetched_at": 1794139849.1391246,
     "symbols": [
       "ashokley",
       "gatech",
