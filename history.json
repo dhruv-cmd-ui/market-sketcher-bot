@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/democratic-sweep-adds-new-twist-to-markets-iran-ai-and-debt-worries/articleshow/135539439.cms",
     "https://economictimes.indiatimes.com/markets/bonds/beyond-equity-jiraafs-saurav-ghosh-on-how-to-customise-your-portfolio-and-the-importance-of-bonds/articleshow/135538953.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/auto-sales-growth-to-cool-post-festive-season-says-monarch-bets-on-minda-corp-rk-forgings-and-sundram-fasteners/articleshow/135537265.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-rise-as-banks-clean-energy-stocks-rally-novo-nordisk-jumps/articleshow/135536424.cms",
@@ -499,15 +498,15 @@
     "https://www.business-standard.com/markets/news/icici-bank-divi-s-among-14-nse-500-stocks-hit-new-highs-in-muhurat-session-126110800329_1.html",
     "https://www.business-standard.com/markets/news/markets-commodities-samvat-2083-commodity-outlook-crude-oil-gold-silver-global-risks-126110800289_1.html",
     "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-samvat-2083-outlook-indian-equities-oil-prices-fpi-flows-volatility-126110800259_1.html",
-    "https://www.business-standard.com/markets/news/ai-slump-revives-asia-s-forgotten-stock-bets-from-china-to-india-126110800052_1.html"
+    "https://www.business-standard.com/markets/news/ai-slump-revives-asia-s-forgotten-stock-bets-from-china-to-india-126110800052_1.html",
+    "https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-in-nov-2026-sbi-swiggy-adani-power-lloyds-engineering-ge-vernova-by-bajaj-broking-target-sl-11794135408453.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-08",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
     "Reliance shares: After massive 12% surge, Mukesh Ambani's RIL stock slips from biggest single-day rally since 2020; buy?",
     "How ITC shares are performing after Q2 results? Should you buy, sell or hold? Brokerages give targets, key levels",
     "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
@@ -586,7 +585,8 @@
     "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
     "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
     "Global developments to keep commodity prices volatile in Samvat 2083",
-    "AI slump revives Asia's forgotten stock bets, from China to India"
+    "AI slump revives Asia's forgotten stock bets, from China to India",
+    "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL"
   ],
   "reels_posted": {
     "date": "2026-11-08",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794144417.810392,
+    "fetched_at": 1794147317.5287273,
     "symbols": [
       "ashokley",
       "gatech",
