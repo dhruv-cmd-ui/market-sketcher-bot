@@ -1,16 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-slip-as-democratic-sweep-clouds-expansion-plans/articleshow/135572604.cms",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-kamalnayan-harakchand-aahpk8406d-dated-november-04-2026-issued-for-rc-nos-002-003-004-005-of-2013-in-the-matter-of-pyramid-saimira-theater-ltd-_105612.html",
-    "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-the-framework-for-accredited-investors_105618.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9318-of-2026-dated-november-05-2026-issued-to-priyanka-jain-pan-bazpj9596e-defaulter-in-the-matter-of-vedic-ayurveda-ltd-formerly-known-as-k-_105626.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9317-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-anshu-mishra-pan-bmips3480h-dipak-dwiwedi-pan-atdpd4055c-viv-_105625.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9316-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-dipak-dwiwedi-pan-atdpd4055c-vivek-chauhan-pan-ahppc9620a-ankur-_105623.html",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-today-live-updates-05-nov-2026/liveblog/135557380.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-05-nov-2026/liveblog/135557310.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-05-nov-2026/liveblog/135557282.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-live-updates-05-nov-2026/liveblog/135557274.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-05-nov-2026/liveblog/135557230.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-updates-05-nov-2026/liveblog/135557126.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-05-nov-2026/liveblog/135557045.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-05-nov-2026/liveblog/135557039.cms",
@@ -499,15 +488,25 @@
     "https://www.business-standard.com/markets/news/why-fpis-turned-aggressive-stock-buyers-in-november-choice-wealth-explains-126110900074_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html",
     "https://www.business-standard.com/markets/news/asian-stocks-steady-as-ai-w-asia-jitters-recede-dollar-firm-on-fed-bets-126110900051_1.html",
-    "https://www.livemint.com/market/stock-market-news/kpi-green-energy-shares-jump-9-on-massive-volume-spike-ahead-of-q2-results-whats-driving-the-rally-11794225977234.html"
+    "https://www.livemint.com/market/stock-market-news/kpi-green-energy-shares-jump-9-on-massive-volume-spike-ahead-of-q2-results-whats-driving-the-rally-11794225977234.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-live-09-nov-2026/liveblog/135670950.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-09-nov-2026/liveblog/135670421.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670255.cms",
+    "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135670237.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670110.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-metal-among-5-stocks-showing-bullish-rsi-upswing/slideshow/135670091.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/lampt-finance-among-6-stocks-that-dropped-below-their-vwaps/slideshow/135669893.cms",
+    "https://www.business-standard.com/markets/news/divis-joins-3-trn-market-cap-club-rallies-15-in-2-days-post-q2-results-126110900182_1.html",
+    "https://www.business-standard.com/markets/news/honasa-consumer-share-price-gains-5-as-brokerages-raise-target-earnings-post-q2-126110900201_1.html",
+    "https://www.livemint.com/market/stock-market-news/irb-infra-shares-surge-6-after-q2-results-is-a-bigger-breakout-on-the-cards-experts-identify-key-levels-to-watch-11794203964814.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-09",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "SBI vs SBI Life vs SBI Cards: Which SBI Group stock emerged as the Q2 results 2026 winner? Check technical targets",
     "Raja Venkatraman recommends three stocks for 5 November",
     "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
     "How to invest \u20b91 lakh in Samvat 2083? MOFSL's Siddhartha Khemka answers",
@@ -586,7 +585,8 @@
     "Welspun Corp, JSW Steel, SAIL, NMDC to Tata Steel: Which metal stock to buy in Samvat 2083? Experts' views, targets, SL",
     "PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3%",
     "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks futures rally on bargain hunting; Nvidia concerns cloud outlook",
-    "KPI Green Energy shares jump 9% on massive volume spike ahead of Q2 results; what's driving the rally?"
+    "KPI Green Energy shares jump 9% on massive volume spike ahead of Q2 results; what's driving the rally?",
+    "IRB Infra shares surge 6% after Q2 results: Is a bigger breakout on the cards? Stock market experts identify key levels"
   ],
   "reels_posted": {
     "date": "2026-11-09",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794238088.3144176,
+    "fetched_at": 1794242146.1170402,
     "symbols": [
       "canbk",
       "empower",
