@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/rbi-forms-markets-panel-with-citi-morgan-stanley-sbi-as-members-126110400636_1.html",
     "https://www.business-standard.com/markets/news/parag-milk-foods-shares-surge-13-as-firm-posts-highest-ever-revenue-in-q2-126110400641_1.html",
     "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-5-november-11793839245375.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-15-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/135541189.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-under-rs-200-start-samvat-2083-with-ashok-leyland-swiggy-pnb-by-anand-rathi-11794114454674.html",
     "https://www.livemint.com/market/stock-market-news/mcx-diwali-muhurat-trading-schedule-2026-session-wise-time-today-special-main-client-code-modification-window-timing-11794113917078.html",
     "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-2026-tata-steel-bel-hdfc-bank-25-brokerages-reveal-187-shares-to-buy-in-samvat-2083-full-list-11794134434530.html",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-adani-enterprises-marico-shares-in-focus-on-monday-9-november-full-list-11794187790707.html"
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-adani-enterprises-marico-shares-in-focus-on-monday-9-november-full-list-11794187790707.html",
+    "https://www.livemint.com/market/south-korea-shares-rise-on-chip-rebound-after-ai-led-selloff-11794191706306.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-09",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Airtel Q2 preview: Analysts see double-digit revenue growth; ARPU in focus",
     "ITC shares continue to rise after Q2 results 2026; jumps 3% today | More rally to come? Check target, upside, returns",
     "HDFC Bank Share Price Live Updates: HDFC Bank Achieves New High Above 100-Day SMA",
     "ITC shares jump 6% in two days after Q2 results. More upside ahead?",
@@ -586,7 +585,8 @@
     "Bosch bonus issue, stock split: 1 share to become 20 after 38% rally in one year! Check ratio, record date, returns",
     "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
     "Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List",
-    "Top stocks to watch today: Tata Steel, Adani Enterprises, Marico shares in focus on Monday, 9 November | Full list"
+    "Top stocks to watch today: Tata Steel, Adani Enterprises, Marico shares in focus on Monday, 9 November | Full list",
+    "South Korea shares rise on chip rebound after AI-led selloff"
   ],
   "reels_posted": {
     "date": "2026-11-09",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794189881.104449,
+    "fetched_at": 1794192724.1822927,
     "symbols": [
       "ashokley",
       "gatech",
