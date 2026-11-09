@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/finance/personal-finance/crypto-exchange-hacks-how-to-stay-safe-and-protect-your-investments-126110401757_1.html",
     "https://www.business-standard.com/markets/news/sebi-forms-working-group-to-review-innovators-growth-platform-framework-126110401649_1.html",
     "https://www.business-standard.com/companies/news/bse-q2-net-profit-jumps-45-to-809-crore-board-clears-bkc-plot-proposal-126110401578_1.html",
     "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/stock-to-buy-elara-capital-recommends-oil-stock-ongc-sees-38-upside-potential-check-target-rationale-11794191153266.html",
     "https://www.livemint.com/market/stock-market-news/dividend-alert-mrf-cochin-shipyard-talbros-and-others-may-reward-shareholders-this-week-check-key-dates-returns-11794138915123.html",
     "https://www.business-standard.com/markets/news/ai-selloff-rejuvenates-asia-s-forgotten-investment-trades-126110800604_1.html",
-    "https://www.business-standard.com/markets/news/tata-steel-dips-1-5-after-5-day-rally-brokerages-stay-upbeat-on-india-biz-126110900194_1.html"
+    "https://www.business-standard.com/markets/news/tata-steel-dips-1-5-after-5-day-rally-brokerages-stay-upbeat-on-india-biz-126110900194_1.html",
+    "https://www.livemint.com/market/stock-market-news/bosch-shares-falls-3-after-stock-split-bonus-issue-q2-results-announcement-what-should-investors-do-11794201416845.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-09",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "ITC shares jump 6% in two days after Q2 results. More upside ahead?",
     "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell?",
     "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What\u2019s happening?",
     "US midterm elections impact on gold, silver prices in India: How Donald Trump's loss is affecting precious metals rates?",
@@ -586,7 +585,8 @@
     "Top stocks to watch today: Tata Steel, Adani Enterprises, Marico shares in focus on Monday, 9 November | Full list",
     "South Korea shares rise on chip rebound after AI-led selloff",
     "Stock to buy: Elara Capital recommends this oil share amid volatility in crude oil prices | Check target, upside",
-    "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz"
+    "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz",
+    "Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do?"
   ],
   "reels_posted": {
     "date": "2026-11-09",
@@ -629,8 +629,9 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794200400.524366,
+    "fetched_at": 1794203987.4903672,
     "symbols": [
+      "alembicltd",
       "canbk",
       "empower",
       "goldbees",
@@ -639,11 +640,10 @@
       "iolcp",
       "irb",
       "moneyview",
+      "nmdc",
       "olaelec",
       "pcjeweller",
-      "pnb",
       "sagility",
-      "sbin",
       "sparc",
       "suzlon",
       "tatagold",
