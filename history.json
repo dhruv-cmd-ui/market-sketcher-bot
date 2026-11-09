@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-15-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/135541189.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-cancels-registrations-of-8-investment-advisers-for-non-payment-of-renewal-fees/articleshow/135540926.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms",
     "https://www.business-standard.com/finance/personal-finance/crypto-exchange-hacks-how-to-stay-safe-and-protect-your-investments-126110401757_1.html",
     "https://www.business-standard.com/markets/news/sebi-forms-working-group-to-review-innovators-growth-platform-framework-126110401649_1.html",
     "https://www.business-standard.com/companies/news/bse-q2-net-profit-jumps-45-to-809-crore-board-clears-bkc-plot-proposal-126110401578_1.html",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-adani-enterprises-marico-shares-in-focus-on-monday-9-november-full-list-11794187790707.html",
     "https://www.livemint.com/market/south-korea-shares-rise-on-chip-rebound-after-ai-led-selloff-11794191706306.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-zeel-adani-enterprises-iocl-sbi-airtel-126110900066_1.html",
-    "https://www.livemint.com/market/stock-market-news/stock-to-buy-elara-capital-recommends-oil-stock-ongc-sees-38-upside-potential-check-target-rationale-11794191153266.html"
+    "https://www.livemint.com/market/stock-market-news/stock-to-buy-elara-capital-recommends-oil-stock-ongc-sees-38-upside-potential-check-target-rationale-11794191153266.html",
+    "https://www.livemint.com/market/stock-market-news/dividend-alert-mrf-cochin-shipyard-talbros-and-others-may-reward-shareholders-this-week-check-key-dates-returns-11794138915123.html",
+    "https://www.business-standard.com/markets/news/ai-selloff-rejuvenates-asia-s-forgotten-investment-trades-126110800604_1.html",
+    "https://www.business-standard.com/markets/news/tata-steel-dips-1-5-after-5-day-rally-brokerages-stay-upbeat-on-india-biz-126110900194_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-09",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "HDFC Bank Share Price Live Updates: HDFC Bank Achieves New High Above 100-Day SMA",
     "ITC shares jump 6% in two days after Q2 results. More upside ahead?",
     "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell?",
     "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What\u2019s happening?",
@@ -586,7 +585,8 @@
     "Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List",
     "Top stocks to watch today: Tata Steel, Adani Enterprises, Marico shares in focus on Monday, 9 November | Full list",
     "South Korea shares rise on chip rebound after AI-led selloff",
-    "Stock to buy: Elara Capital recommends this oil share amid volatility in crude oil prices | Check target, upside"
+    "Stock to buy: Elara Capital recommends this oil share amid volatility in crude oil prices | Check target, upside",
+    "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz"
   ],
   "reels_posted": {
     "date": "2026-11-09",
@@ -629,26 +629,26 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794196407.0428839,
+    "fetched_at": 1794200400.524366,
     "symbols": [
+      "canbk",
       "empower",
-      "gatech",
       "goldbees",
       "hdfcbank",
-      "icicibank",
       "idea",
-      "jppower",
+      "iolcp",
+      "irb",
       "moneyview",
       "olaelec",
       "pcjeweller",
       "pnb",
+      "sagility",
       "sbin",
+      "sparc",
       "suzlon",
       "tatagold",
       "tatasteel",
       "tatsilv",
-      "ttml",
-      "vedpower",
       "yesbank",
       "zeel"
     ]
