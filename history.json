@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/sebi-forms-working-group-to-review-innovators-growth-platform-framework-126110401649_1.html",
     "https://www.business-standard.com/companies/news/bse-q2-net-profit-jumps-45-to-809-crore-board-clears-bkc-plot-proposal-126110401578_1.html",
     "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-soars-1000-points-at-open-as-democrats-win-congress-data-center-stocks-slide/articleshow/135542698.cms",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/stock-market-news/dividend-alert-mrf-cochin-shipyard-talbros-and-others-may-reward-shareholders-this-week-check-key-dates-returns-11794138915123.html",
     "https://www.business-standard.com/markets/news/ai-selloff-rejuvenates-asia-s-forgotten-investment-trades-126110800604_1.html",
     "https://www.business-standard.com/markets/news/tata-steel-dips-1-5-after-5-day-rally-brokerages-stay-upbeat-on-india-biz-126110900194_1.html",
-    "https://www.livemint.com/market/stock-market-news/bosch-shares-falls-3-after-stock-split-bonus-issue-q2-results-announcement-what-should-investors-do-11794201416845.html"
+    "https://www.livemint.com/market/stock-market-news/bosch-shares-falls-3-after-stock-split-bonus-issue-q2-results-announcement-what-should-investors-do-11794201416845.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-09-nov-2026/liveblog/135669071.cms"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-09",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell?",
     "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What\u2019s happening?",
     "US midterm elections impact on gold, silver prices in India: How Donald Trump's loss is affecting precious metals rates?",
     "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
@@ -586,7 +585,8 @@
     "South Korea shares rise on chip rebound after AI-led selloff",
     "Stock to buy: Elara Capital recommends this oil share amid volatility in crude oil prices | Check target, upside",
     "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz",
-    "Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do?"
+    "Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do?",
+    "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position"
   ],
   "reels_posted": {
     "date": "2026-11-09",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794203987.4903672,
+    "fetched_at": 1794208843.50271,
     "symbols": [
       "alembicltd",
       "canbk",
@@ -639,9 +639,9 @@
       "idea",
       "iolcp",
       "irb",
+      "ireda",
       "moneyview",
       "nmdc",
-      "olaelec",
       "pcjeweller",
       "sagility",
       "sparc",
