@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-q2-profit-jumps-10-fold-to-rs-101-cr/articleshow/135543604.cms",
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/property-giant-vonovia-concerned-over-berlin-lefts-housing-plans/articleshow/135543553.cms",
     "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sunday-proptech-acquires-89-room-hotel-in-kolkata-marks-entry-into-city/articleshow/135543130.cms",
     "https://www.livemint.com/market/stock-market-news/bharti-airtel-q2-results-2026-today-heres-schedule-preview-expectations-returns-should-you-buy-ahead-of-earnings-11793846386935.html",
     "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
@@ -499,15 +497,16 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669206.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-09-nov-2026/liveblog/135669205.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669095.cms",
-    "https://www.livemint.com/market/stock-market-news/ireda-shares-jump-7-despite-20-fall-in-one-year-on-high-trading-volume-check-target-stop-loss-stock-performance-11794214570839.html"
+    "https://www.livemint.com/market/stock-market-news/ireda-shares-jump-7-despite-20-fall-in-one-year-on-high-trading-volume-check-target-stop-loss-stock-performance-11794214570839.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-updates-09-nov-2026/liveblog/135669668.cms",
+    "https://www.business-standard.com/markets/news/irb-infra-share-price-climbs-7-as-toll-collections-boost-q2-earnings-126110900539_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-09",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
     "Review of Know Your Client process for individual Person Resident Outside India clients",
     "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research",
     "Suppliers charging vendors extra for UPI payments before MDR: ISB survey",
@@ -586,7 +585,8 @@
     "Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do?",
     "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
     "ZEEL extends gains, rises 11% in 2 days as board to mull buyback, dividend",
-    "IREDA shares jump 7% despite 20% fall in one year on high trading volume | Check target, stop loss, stock performance"
+    "IREDA shares jump 7% despite 20% fall in one year on high trading volume | Check target, stop loss, stock performance",
+    "IRB Infra share price climbs 7% as toll collections boost Q2 earnings"
   ],
   "reels_posted": {
     "date": "2026-11-09",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794218431.8763168,
+    "fetched_at": 1794221645.504705,
     "symbols": [
       "canbk",
       "empower",
