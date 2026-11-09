@@ -501,7 +501,7 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-today-live-09-nov-2026/liveblog/135671037.cms",
     "https://www.livemint.com/market/stock-market-news/welspun-corp-jsw-steel-sail-nmdc-to-tata-steel-which-metal-stock-to-buy-in-samvat-2083-experts-views-targets-sl-11794209957357.html"
   ],
-  "last_fii_dii_post_date": "2026-11-06",
+  "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-09",
     "count": 11
@@ -590,7 +590,7 @@
   ],
   "reels_posted": {
     "date": "2026-11-09",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-11-09",
   "nse_holidays": {
@@ -654,7 +654,7 @@
     ]
   },
   "news_evening_reel_date": "2026-10-25",
-  "fii_cta_index": 2,
+  "fii_cta_index": 0,
   "news_morning_reel_date": "2026-11-09",
   "news_afternoon_post_date": "2026-10-26"
 }
