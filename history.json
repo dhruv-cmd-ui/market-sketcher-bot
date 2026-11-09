@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sunday-proptech-acquires-89-room-hotel-in-kolkata-marks-entry-into-city/articleshow/135543130.cms",
-    "https://www.livemint.com/market/stock-market-news/bharti-airtel-q2-results-2026-today-heres-schedule-preview-expectations-returns-should-you-buy-ahead-of-earnings-11793846386935.html",
     "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
     "https://www.livemint.com/market/stock-market-news/us-markets-why-qualcomm-shares-are-in-top-focus-today-with-quarterly-earnings-growth-outlook-amid-ai-costs-concerns-11793799657674.html",
     "https://www.livemint.com/market/stock-market-news/us-market-nasdaq-dow-ai-stocks-after-us-midterm-election-results-11793804138598.html",
@@ -499,15 +497,16 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669095.cms",
     "https://www.livemint.com/market/stock-market-news/ireda-shares-jump-7-despite-20-fall-in-one-year-on-high-trading-volume-check-target-stop-loss-stock-performance-11794214570839.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-updates-09-nov-2026/liveblog/135669668.cms",
-    "https://www.business-standard.com/markets/news/irb-infra-share-price-climbs-7-as-toll-collections-boost-q2-earnings-126110900539_1.html"
+    "https://www.business-standard.com/markets/news/irb-infra-share-price-climbs-7-as-toll-collections-boost-q2-earnings-126110900539_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-today-live-09-nov-2026/liveblog/135671037.cms",
+    "https://www.livemint.com/market/stock-market-news/welspun-corp-jsw-steel-sail-nmdc-to-tata-steel-which-metal-stock-to-buy-in-samvat-2083-experts-views-targets-sl-11794209957357.html"
   ],
   "last_fii_dii_post_date": "2026-11-06",
   "news_posted": {
     "date": "2026-11-09",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Review of Know Your Client process for individual Person Resident Outside India clients",
     "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research",
     "Suppliers charging vendors extra for UPI payments before MDR: ISB survey",
     "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List",
@@ -586,7 +585,8 @@
     "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
     "ZEEL extends gains, rises 11% in 2 days as board to mull buyback, dividend",
     "IREDA shares jump 7% despite 20% fall in one year on high trading volume | Check target, stop loss, stock performance",
-    "IRB Infra share price climbs 7% as toll collections boost Q2 earnings"
+    "IRB Infra share price climbs 7% as toll collections boost Q2 earnings",
+    "Welspun Corp, JSW Steel, SAIL, NMDC to Tata Steel: Which metal stock to buy in Samvat 2083? Experts' views, targets, SL"
   ],
   "reels_posted": {
     "date": "2026-11-09",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794221645.504705,
+    "fetched_at": 1794225250.592698,
     "symbols": [
       "canbk",
       "empower",
