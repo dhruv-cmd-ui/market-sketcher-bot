@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/tonbo-imaging-india-zooms-20-up-119-against-issue-price-in-2-weeks-126110500993_1.html",
-    "https://www.business-standard.com/markets/news/biocon-share-price-rises-nearly-6-despite-52-fall-in-q2-profit-126110500911_1.html",
-    "https://www.business-standard.com/markets/news/nykaa-s-q2-fails-to-impress-street-despite-200-rise-in-pat-stock-falls-2-126110500904_1.html",
     "https://www.business-standard.com/markets/news/sensex-stocks-adani-ports-techm-at-new-highs-eternal-icici-bank-near-peaks-126110500798_1.html",
     "https://www.business-standard.com/markets/news/3-trillion-fpi-outflows-samvat-2082-set-for-worst-selling-in-17-samvats-126110500670_1.html",
     "https://www.business-standard.com/markets/news/physicswallah-share-price-jump-10-post-q2-show-can-earnings-sustain-momentum-126110500650_1.html",
@@ -499,15 +496,17 @@
     "https://www.business-standard.com/markets/news/hsbc-upgrades-indian-equities-to-overweight-cuts-china-to-neutral-126110901244_1.html",
     "https://www.business-standard.com/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html",
     "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-dips-as-easing-ai-and-mideast-worries-limit-its-appeal/articleshow/135687593.cms",
-    "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html"
+    "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms",
+    "https://www.livemint.com/market/stock-market-news/amd-stock-rallies-12-as-google-cloud-taps-its-epyc-processors-for-next-generation-ai-infrastructure-11794242504072.html",
+    "https://www.livemint.com/market/commodities/gold-rates-today-10-nov-tuesday-can-price-rise-to-1-48-lakh-per-10-gm-what-experts-say-about-rally-as-crude-cools-11794285337553.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-10",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "BSE climbs 5% post Q2; MOFSL raises earnings estimates on volume recovery",
     "Dhanteras, Diwali 2026: Titan, Shanti Gold, Senco among top jewellery stocks to buy for long-term | Check list",
     "India bonds climb in step with Treasuries as oil sinks",
     "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?",
@@ -586,7 +585,8 @@
     "Oil falls as Trump downplays prospect of escalation with Iran",
     "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges",
     "Asian stocks rise amid falling oil prices on hopes of US-Iran talks",
-    "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here"
+    "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
+    "Gold rates today 10 Nov Tuesday: Can price rise to  \u20b91.48 lakh per 10 gm? What experts say about rally as crude cools"
   ],
   "reels_posted": {
     "date": "2026-11-10",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794286437.4648447,
+    "fetched_at": 1794289866.6623557,
     "symbols": [
       "canbk",
       "empower",
