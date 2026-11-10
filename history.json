@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-hdfc-amc-bel-sbi-vedant-aluminium-monarch-stock-picks-8th-pay-commission-bsfi-samvat-2083-11793872391839.html",
-    "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-for-diwali-muhurat-trading-samvat-2083-indiabulls-shares-rise-85-in-2026-20-more-gains-11793869233254.html",
-    "https://www.livemint.com/market/stock-market-news/oil-cools-fpis-return-is-dalal-street-ready-to-run-11793858558879.html",
-    "https://www.livemint.com/market/mark-to-market/lenskart-investors-give-thumbs-up-to-growth-over-margin-strategy-11793865227400.html",
     "https://www.livemint.com/market/stock-market-news/samvat-2083-stock-muhurat-trading-2026-stocks-to-buy-hfcl-varun-beverages-greaves-cotton-list-by-centrum-for-diwali-11793864066141.html",
     "https://www.livemint.com/market/stock-market-news/diwali-2026-samvat-2083-ahead-of-muhurat-trading-uday-kotak-shares-5-factors-to-watch-in-festive-season-list-11793863466374.html",
     "https://www.livemint.com/market/mark-to-market/nykaa-fashion-ebitda-margin-growth-competition-valuation-risks-11793859471376.html",
@@ -499,15 +495,18 @@
     "https://www.business-standard.com/markets/stock-market-news/citi-bullish-on-indian-equities-sees-nifty-at-28-000-by-end-2027-126110900222_1.html",
     "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-november-from-marketsmith-india-11794226262086.html",
     "https://www.livemint.com/market/stock-market-news/chemplast-sanmar-shares-jump-over-11-in-biggest-single-day-gain-in-10-months-as-q2-rally-gathers-pace-11794229336025.html",
-    "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran/articleshow/135696497.cms"
+    "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran/articleshow/135696497.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
+    "https://www.livemint.com/market/commodities/gold-vs-silver-vs-copper-vs-platinum-which-metal-could-deliver-the-biggest-returns-in-samvat-2083-11794232375711.html",
+    "https://www.business-standard.com/markets/news/how-to-choose-a-foreign-broker-check-the-plumbing-not-just-the-app-126110901189_1.html",
+    "https://www.livemint.com/market/stock-market-news/stock-market-holiday-closed-today-on-tuesday-10-november-2026-on-diwali-balipratipada-no-trading-in-nse-bse-exchanges-11794275379042.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-10",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "How to invest \u20b91 lakh in Samvat 2083? MOFSL's Siddhartha Khemka answers",
     "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
     "Lenskart shares gain 11% post Q2, up 90% from IPO price; more gains ahead?",
     "BSE climbs 5% post Q2; MOFSL raises earnings estimates on volume recovery",
@@ -586,7 +585,8 @@
     "KPI Green Energy shares jump 9% on massive volume spike ahead of Q2 results; what's driving the rally?",
     "IRB Infra shares surge 6% after Q2 results: Is a bigger breakout on the cards? Stock market experts identify key levels",
     "Stock recommendations for 11 November from MarketSmith India",
-    "Oil falls as Trump downplays prospect of escalation with Iran"
+    "Oil falls as Trump downplays prospect of escalation with Iran",
+    "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges"
   ],
   "reels_posted": {
     "date": "2026-11-10",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794275968.4783041,
+    "fetched_at": 1794278764.117635,
     "symbols": [
       "canbk",
       "empower",
