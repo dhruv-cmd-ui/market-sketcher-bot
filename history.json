@@ -1,6 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-hindalco-bharti-airtel-lic-ongc-shares-in-focus-on-friday-6-nov-full-list-11793928004864.html",
     "https://www.livemint.com/market/stock-market-news/pfc-dividend-up-200-in-5-yrs-maharatna-psus-shares-rally-5-in-3-days-check-dividend-record-date-payment-timeline-11793884952011.html",
     "https://www.business-standard.com/markets/stock-market-news/amc-stocks-rebound-as-equity-market-recovery-lifts-earnings-expectations-126110501795_1.html",
     "https://www.business-standard.com/markets/news/sebi-allows-mutual-funds-to-net-cash-market-obligations-from-april-126110501727_1.html",
@@ -499,15 +498,15 @@
     "https://www.livemint.com/market/eibs-calvino-says-us-turmoil-is-driving-capital-to-europe-11794262213745.html",
     "https://www.business-standard.com/markets/news/world-stocks-rise-as-oil-slips-below-90-on-hopes-of-us-iran-peace-talks-126111000408_1.html",
     "https://www.livemint.com/market/mark-to-market/tata-steel-domestic-business-q2-netherlands-uncertainty-risk-11794295394886.html",
-    "https://www.livemint.com/market/stock-market-news/stocks-to-watch-tomorrow-11-november-wednesday-why-data-patterns-mrf-cochin-shipyard-irb-infra-others-are-in-focus-11794304295254.html"
+    "https://www.livemint.com/market/stock-market-news/stocks-to-watch-tomorrow-11-november-wednesday-why-data-patterns-mrf-cochin-shipyard-irb-infra-others-are-in-focus-11794304295254.html",
+    "https://www.business-standard.com/markets/news/individual-ownership-in-nse-listed-firms-hits-record-19-5-in-q2fy27-126111000550_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-10",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "AI, data-center stocks slip as Democratic sweep clouds expansion plans",
     "Review of the framework for Accredited Investors",
     "Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
     "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
@@ -586,7 +585,8 @@
     "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
     "NSE new BKC Mumbai building design: First look! See pics, video of new landmark architecture of National Stock Exchange",
     "Tata Steel\u2019s domestic business shines in Q2; Netherlands uncertainty poses risk",
-    "Stocks to watch tomorrow 11 November Wednesday: Why Data Patterns, MRF, Cochin Shipyard, IRB Infra, others are in focus"
+    "Stocks to watch tomorrow 11 November Wednesday: Why Data Patterns, MRF, Cochin Shipyard, IRB Infra, others are in focus",
+    "Individual ownership in NSE-listed firms hits record 19.5% in Q2FY27"
   ],
   "reels_posted": {
     "date": "2026-11-10",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794309641.6179316,
+    "fetched_at": 1794313259.894091,
     "symbols": [
       "canbk",
       "empower",
