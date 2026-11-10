@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/pfc-dividend-up-200-in-5-yrs-maharatna-psus-shares-rally-5-in-3-days-check-dividend-record-date-payment-timeline-11793884952011.html",
-    "https://www.business-standard.com/markets/stock-market-news/amc-stocks-rebound-as-equity-market-recovery-lifts-earnings-expectations-126110501795_1.html",
-    "https://www.business-standard.com/markets/news/sebi-allows-mutual-funds-to-net-cash-market-obligations-from-april-126110501727_1.html",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls/articleshow/135590399.cms",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7131-of-2026-filed-by-ramapati-kuar_105556.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7130-of-2026-filed-by-mohammad-akbar_105554.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7129-of-2026-filed-by-nikul-prajapati_105552.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7128-of-2026-filed-by-p-sachithanantham_105550.html",
@@ -499,15 +493,20 @@
     "https://www.business-standard.com/markets/news/world-stocks-rise-as-oil-slips-below-90-on-hopes-of-us-iran-peace-talks-126111000408_1.html",
     "https://www.livemint.com/market/mark-to-market/tata-steel-domestic-business-q2-netherlands-uncertainty-risk-11794295394886.html",
     "https://www.livemint.com/market/stock-market-news/stocks-to-watch-tomorrow-11-november-wednesday-why-data-patterns-mrf-cochin-shipyard-irb-infra-others-are-in-focus-11794304295254.html",
-    "https://www.business-standard.com/markets/news/individual-ownership-in-nse-listed-firms-hits-record-19-5-in-q2fy27-126111000550_1.html"
+    "https://www.business-standard.com/markets/news/individual-ownership-in-nse-listed-firms-hits-record-19-5-in-q2fy27-126111000550_1.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1583-of-2026-issued-against-cat-technologies-limited-associated-with-rc-4398-of-2021-in-the-matter-of-cat-technologies-ltd-_105693.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1582-of-2026-issued-against-dinesh-kumar-jaiswal-associated-with-rc-4395-of-2021-in-the-matter-of-cat-technologies-ltd-_105691.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1581-of-2026-issued-against-dhiraj-kumar-jaiswal-associated-with-rc-4391-of-2021-in-the-matter-of-cat-technologies-ltd-_105689.html",
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-ahead-of-us-inflation-data/articleshow/135696094.cms",
+    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sellers-hit-pause-for-us-inflation-data/articleshow/135696077.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-10",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Review of the framework for Accredited Investors",
     "Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
     "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
     "Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls",
@@ -586,7 +585,8 @@
     "NSE new BKC Mumbai building design: First look! See pics, video of new landmark architecture of National Stock Exchange",
     "Tata Steel\u2019s domestic business shines in Q2; Netherlands uncertainty poses risk",
     "Stocks to watch tomorrow 11 November Wednesday: Why Data Patterns, MRF, Cochin Shipyard, IRB Infra, others are in focus",
-    "Individual ownership in NSE-listed firms hits record 19.5% in Q2FY27"
+    "Individual ownership in NSE-listed firms hits record 19.5% in Q2FY27",
+    "Nasdaq futures dip as Nvidia woes persist; Anthropic IPO in focus: Stock Market Live Updates"
   ],
   "reels_posted": {
     "date": "2026-11-10",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794313259.894091,
+    "fetched_at": 1794317987.9345984,
     "symbols": [
       "canbk",
       "empower",
