@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn/articleshow/135576552.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation/articleshow/135576467.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/trumps-loss-wall-streets-gain-what-could-change-for-ai-defence-crypto-and-elon-musk/videoshow/135575972.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-qualcomm-nvidia-coreweave-tesla-amazon-meta-ai-stocks-data-center-stocks-semiconductor-stocks-brent-crude-us-jobs-report-federal-reserve-treasury-yield-news-5th-november-2026/liveblog/135575228.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-hikes-rates-to-4-first-raise-since-2023-says-more-may-come-amid-high-uk-inflation/articleshow/135574865.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-hindalco-bharti-airtel-lic-ongc-shares-in-focus-on-friday-6-nov-full-list-11793928004864.html",
     "https://www.livemint.com/market/stock-market-news/pfc-dividend-up-200-in-5-yrs-maharatna-psus-shares-rally-5-in-3-days-check-dividend-record-date-payment-timeline-11793884952011.html",
@@ -499,15 +495,18 @@
     "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
     "https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html",
     "https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html",
-    "https://www.livemint.com/market/stock-market-news/nse-new-bkc-mumbai-building-design-first-look-see-pics-video-of-new-landmark-architecture-of-national-stock-exchange-11794297657678.html"
+    "https://www.livemint.com/market/stock-market-news/nse-new-bkc-mumbai-building-design-first-look-see-pics-video-of-new-landmark-architecture-of-national-stock-exchange-11794297657678.html",
+    "https://www.livemint.com/market/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt-11794262406093.html",
+    "https://www.livemint.com/market/eibs-calvino-says-us-turmoil-is-driving-capital-to-europe-11794262213745.html",
+    "https://www.business-standard.com/markets/news/world-stocks-rise-as-oil-slips-below-90-on-hopes-of-us-iran-peace-talks-126111000408_1.html",
+    "https://www.livemint.com/market/mark-to-market/tata-steel-domestic-business-q2-netherlands-uncertainty-risk-11794295394886.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-10",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "Rupee finds its footing as oil worries cool, traders watch flow momentum",
     "Ashok Leyland shares jump over 10% in biggest single-day gain since April; here's what lifted the stock",
     "AI, data-center stocks slip as Democratic sweep clouds expansion plans",
     "Review of the framework for Accredited Investors",
@@ -586,7 +585,8 @@
     "Gold rates today 10 Nov Tuesday: Can price rise to  \u20b91.48 lakh per 10 gm? What experts say about rally as crude cools",
     "Asian stocks ride tech rally higher as oil falls",
     "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
-    "NSE new BKC Mumbai building design: First look! See pics, video of new landmark architecture of National Stock Exchange"
+    "NSE new BKC Mumbai building design: First look! See pics, video of new landmark architecture of National Stock Exchange",
+    "Tata Steel\u2019s domestic business shines in Q2; Netherlands uncertainty poses risk"
   ],
   "reels_posted": {
     "date": "2026-11-10",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794302879.9248927,
+    "fetched_at": 1794306409.8335207,
     "symbols": [
       "canbk",
       "empower",
