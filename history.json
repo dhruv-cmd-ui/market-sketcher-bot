@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/bombay-coated-special-steels-shares-list-at-12-premium-over-ipo-price-126110500471_1.html",
-    "https://www.business-standard.com/markets/news/sensex-zooms-1600-pts-intraday-india-m-cap-tops-500-trn-key-reasons-126110500454_1.html",
-    "https://www.sebi.gov.in/legal/circulars/nov-2026/revision-of-limits-relating-to-requirement-of-underlying-exposure-for-currency-derivatives-contracts_105614.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn/articleshow/135576552.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation/articleshow/135576467.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/trumps-loss-wall-streets-gain-what-could-change-for-ai-defence-crypto-and-elon-musk/videoshow/135575972.cms",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms",
     "https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html",
     "https://www.livemint.com/market/canadian-dollar-underperforms-most-g10-currencies-as-oil-falls-11794252780817.html",
-    "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html"
+    "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
+    "https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html",
+    "https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html",
+    "https://www.livemint.com/market/stock-market-news/nse-new-bkc-mumbai-building-design-first-look-see-pics-video-of-new-landmark-architecture-of-national-stock-exchange-11794297657678.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-10",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?",
     "Rupee finds its footing as oil worries cool, traders watch flow momentum",
     "Ashok Leyland shares jump over 10% in biggest single-day gain since April; here's what lifted the stock",
     "AI, data-center stocks slip as Democratic sweep clouds expansion plans",
@@ -586,7 +585,8 @@
     "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
     "Gold rates today 10 Nov Tuesday: Can price rise to  \u20b91.48 lakh per 10 gm? What experts say about rally as crude cools",
     "Asian stocks ride tech rally higher as oil falls",
-    "Retail investors shed stocks, but crowd into Reliance, HDFC Bank"
+    "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
+    "NSE new BKC Mumbai building design: First look! See pics, video of new landmark architecture of National Stock Exchange"
   ],
   "reels_posted": {
     "date": "2026-11-10",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794298539.86689,
+    "fetched_at": 1794302879.9248927,
     "symbols": [
       "canbk",
       "empower",
