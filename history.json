@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/sensex-stocks-adani-ports-techm-at-new-highs-eternal-icici-bank-near-peaks-126110500798_1.html",
-    "https://www.business-standard.com/markets/news/3-trillion-fpi-outflows-samvat-2082-set-for-worst-selling-in-17-samvats-126110500670_1.html",
-    "https://www.business-standard.com/markets/news/physicswallah-share-price-jump-10-post-q2-show-can-earnings-sustain-momentum-126110500650_1.html",
     "https://www.business-standard.com/markets/news/capital-markets-index-soars-4-mofsl-groww-360-one-bse-zoom-up-to-7-126110500617_1.html",
     "https://www.business-standard.com/markets/news/omcs-indigo-paint-and-tyre-stocks-rally-up-to-7-as-crude-cools-below-95-126110500630_1.html",
     "https://www.business-standard.com/markets/news/pi-industries-tanks-15-hits-6-year-low-on-disappointing-q2-results-126110500534_1.html",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms",
     "https://www.livemint.com/market/stock-market-news/amd-stock-rallies-12-as-google-cloud-taps-its-epyc-processors-for-next-generation-ai-infrastructure-11794242504072.html",
-    "https://www.livemint.com/market/commodities/gold-rates-today-10-nov-tuesday-can-price-rise-to-1-48-lakh-per-10-gm-what-experts-say-about-rally-as-crude-cools-11794285337553.html"
+    "https://www.livemint.com/market/commodities/gold-rates-today-10-nov-tuesday-can-price-rise-to-1-48-lakh-per-10-gm-what-experts-say-about-rally-as-crude-cools-11794285337553.html",
+    "https://www.livemint.com/market/upcoming-ipo-veritas-finance-gets-sebi-nod-to-launch-public-issue-top-things-for-investors-11794247367964.html",
+    "https://www.livemint.com/market/stock-market-news/broadcom-shares-pop-over-9-on-track-for-biggest-one-day-surge-in-a-year-whats-driving-the-rebound-11794246529114.html",
+    "https://www.livemint.com/market/stock-market-news/asian-stocks-ride-tech-rally-higher-as-oil-falls-11794291620755.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-10",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Dhanteras, Diwali 2026: Titan, Shanti Gold, Senco among top jewellery stocks to buy for long-term | Check list",
     "India bonds climb in step with Treasuries as oil sinks",
     "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?",
     "Rupee finds its footing as oil worries cool, traders watch flow momentum",
@@ -586,7 +585,8 @@
     "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges",
     "Asian stocks rise amid falling oil prices on hopes of US-Iran talks",
     "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
-    "Gold rates today 10 Nov Tuesday: Can price rise to  \u20b91.48 lakh per 10 gm? What experts say about rally as crude cools"
+    "Gold rates today 10 Nov Tuesday: Can price rise to  \u20b91.48 lakh per 10 gm? What experts say about rally as crude cools",
+    "Asian stocks ride tech rally higher as oil falls"
   ],
   "reels_posted": {
     "date": "2026-11-10",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794289866.6623557,
+    "fetched_at": 1794294010.7260227,
     "symbols": [
       "canbk",
       "empower",
