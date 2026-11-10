@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-how-has-the-indian-stock-market-performed-over-the-past-10-years-what-lies-ahead-in-samvat-2083-11793885461795.html",
-    "https://www.business-standard.com/markets/news/rupee-hits-over-one-month-high-10-year-bond-yield-falls-to-7-17-126110501865_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/godfrey-phillips-q2-profit-down-37-to-rs-190-cr-revenue-up-twofold-at-rs-4198-cr/articleshow/135578939.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-seeks-about-7-billion-from-bond-sale-bloomberg-news-reports/articleshow/135578897.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-shares-9-slump-as-weak-smartphone-chip-sales-overshadow-data-center-momentum/articleshow/135578695.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-gambled-445-million-to-boost-republicans-in-midterms-and-came-up-short/articleshow/135578644.cms",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/stock-market-news/fpis-return-to-dalal-street-amid-ai-sell-off-and-oil-slump-can-proposed-tax-cuts-sustain-inflows-11794315705620.html",
     "https://www.livemint.com/market/stock-market-news/hul-dividend-2026-tomorrow-is-the-last-day-to-buy-check-payout-amount-record-date-history-yield-and-returns-11794278924006.html",
     "https://www.livemint.com/market/stock-market-news/four-stocks-with-high-dividend-payout-ratios-to-watch-11794220722375.html",
-    "https://www.livemint.com/market/stock-market-news/omc-stocks-brent-slips-below-90-to-hit-over-2-month-low-amid-iran-peace-hopes-will-hpcl-bpcl-and-ioc-benefit-11794312198955.html"
+    "https://www.livemint.com/market/stock-market-news/omc-stocks-brent-slips-below-90-to-hit-over-2-month-low-amid-iran-peace-hopes-will-hpcl-bpcl-and-ioc-benefit-11794312198955.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon/articleshow/135699137.cms",
+    "https://www.livemint.com/market/stock-market-news/us-etfs-to-buy-for-samvat-2083-samco-recommends-2-etfs-with-potential-upside-of-up-to-60-for-indian-investors-11794283267027.html",
+    "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-index-performance-bank-of-india-uco-bank-among-7-stocks-rebound-15-56-from-1-yr-lows-here-s-why-11794321816668.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-10",
-    "count": 15
+    "count": 16
   },
   "recent_titles": [
-    "Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls",
     "Dhanteras 2026 today: Buy gold at current rates or avoid? Shopping guide - 20% price down from 2026 peak; Experts' views",
     "Chart beat: East India sees highest cement price increase in October",
     "Groww shares snap 9-day winning streak, fall 7% on multiple block deals",
@@ -586,7 +585,8 @@
     "Individual ownership in NSE-listed firms hits record 19.5% in Q2FY27",
     "Nasdaq futures dip as Nvidia woes persist; Anthropic IPO in focus: Stock Market Live Updates",
     "FPIs return to Dalal Street amid AI sell-off and oil slump; Can proposed tax cuts sustain inflows?",
-    "OMC stocks: Brent slips below $90 to hit over 2-month low amid Iran peace hopes; Will HPCL, BPCL and IOC benefit?"
+    "OMC stocks: Brent slips below $90 to hit over 2-month low amid Iran peace hopes; Will HPCL, BPCL and IOC benefit?",
+    "Nifty PSU Bank Index Performance: Bank of India, UCO Bank among 7 stocks rebound 15\u201356% from 1-yr lows - here\u2019s why"
   ],
   "reels_posted": {
     "date": "2026-11-10",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794325534.9527366,
+    "fetched_at": 1794329376.297466,
     "symbols": [
       "canbk",
       "empower",
