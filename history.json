@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/fpis-buy-14-796-cr-worth-indian-stocks-in-biggest-daily-inflow-since-2021-126110502078_1.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-equirus-prives-16-diwali-picks-include-hdfc-bank-m-m-esfb-voltas-upside-seen-up-to-54-11793974438126.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/ipo-multibaggers-13-stocks-that-delivered-up-to-193-returns-since-last-dhanteras/slideshow/135594462.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/great-diwali-stock-hunt-hal-eternal-5-other-stocks-with-upside-of-up-to-75/slideshow/135593656.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/135593629.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-5-stocks-showing-white-marubozu-pattern/slideshow/135593329.cms",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/defaults-rattle-brazil-s-shadow-banks-spark-regulatory-scrutiny-11794343869632.html",
     "https://www.livemint.com/market/feds-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out-11794343808997.html",
     "https://www.livemint.com/market/chile-pension-funds-swap-losses-narrow-as-treasuries-rally-11794343809144.html",
-    "https://www.livemint.com/market/stock-market-news/railway-stocks-on-fast-track-rvnl-irfc-jump-up-to-10-amid-sensex-nifty-rise-whats-behind-momentum-key-levels-11794378046674.html"
+    "https://www.livemint.com/market/stock-market-news/railway-stocks-on-fast-track-rvnl-irfc-jump-up-to-10-amid-sensex-nifty-rise-whats-behind-momentum-key-levels-11794378046674.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-live-updates-11-nov-2026/liveblog/135723467.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-11-nov-2026/liveblog/135723256.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-11",
-    "count": 9
+    "count": 10
   },
   "recent_titles": [
-    "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
     "Gold ETFs performance on Dhanteras 2026 today 6 Nov 2026: Check how Nippon India, Tata Gold, ICICI Prudential fared",
     "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&M, ESFB Voltas; upside seen up to 54%",
     "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?",
@@ -586,7 +585,8 @@
     "Ashoka Buildcon shares jump 15% on \u20b9866 crore NHAI expressway contract",
     "India bonds slip as Treasury rout offsets oil slide",
     "Railway stocks RVNL, RailTel gain up to 7%; experts see valuation comfort",
-    "Railway stocks on fast track! RVNL, IRFC jump up to 10% amid Sensex, Nifty rise | What's behind momentum? Key levels"
+    "Railway stocks on fast track! RVNL, IRFC jump up to 10% amid Sensex, Nifty rise | What's behind momentum? Key levels",
+    "Bajaj Finance to launch share sale worth up to Rs 11,700 cr this week: Report"
   ],
   "reels_posted": {
     "date": "2026-11-11",
@@ -629,12 +629,13 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794389253.7295659,
+    "fetched_at": 1794392973.748456,
     "symbols": [
       "ashoka",
       "bankbaroda",
       "canbk",
       "gatech",
+      "goldbees",
       "gtlinfra",
       "hdfcbank",
       "idea",
@@ -643,7 +644,6 @@
       "kalyankjil",
       "moneyview",
       "motisons",
-      "nmdc",
       "pcjeweller",
       "pnb",
       "rpower",
