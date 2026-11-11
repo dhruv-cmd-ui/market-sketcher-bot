@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9267-of-2026-drawn-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-s-_105679.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9230-of-2026-drawn-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrat-_105675.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9267of-2026-dated-29-07-2026-issued-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105673.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9230-of-2026-dated-29-07-2026-issued-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited-_105671.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9229-of-2026-dated-29-07-2026-issued-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105669.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9227-of-2026-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105668.html",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/articleshow/135713301.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-prices-rise-above-expectations-in-october/articleshow/135712897.cms",
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-cochin-shipyard-mrf-tata-power-shares-in-focus-on-wednesday-11-november-full-list-11794360457800.html",
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-rich-pivot-to-real-estate-after-stock-returns-falter/articleshow/135723008.cms"
+    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-rich-pivot-to-real-estate-after-stock-returns-falter/articleshow/135723008.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-octobers-hot-inflation-print/articleshow/135714411.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-potential-mega-ipo-joins-ranks-of-worlds-biggest-stock-market-listings/articleshow/135714028.cms",
+    "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/articleshow/135722819.cms"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-11",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Groww share price falls around 7% today after a 9-day winning streak, surging over 23%: What should investors do?",
     "ICICI Bank extends rally, soars 10% in 4 days; market cap nears \u20b911 trn",
     "Gold ETF Dhanteras 2026: Tata Gold Exchange Traded Fund \u2014 60% returns within 3 years of launch! Should you buy?",
     "Diwali 2026: Is Samvat 2083 the start of Dalal Street\u2019s next big rally?",
@@ -586,7 +585,8 @@
     "Nifty PSU Bank Index Performance: Bank of India, UCO Bank among 7 stocks rebound 15\u201356% from 1-yr lows - here\u2019s why",
     "The turn of the tide: Foreign investors return, signalling longer India bet",
     "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
-    "India\u2019s rich pivot to real estate after stock returns falter"
+    "India\u2019s rich pivot to real estate after stock returns falter",
+    "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes"
   ],
   "reels_posted": {
     "date": "2026-11-11",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794365230.334605,
+    "fetched_at": 1794369094.9355876,
     "symbols": [
+      "ashoka",
+      "bankbaroda",
       "canbk",
       "empower",
-      "goldbees",
+      "gatech",
+      "groww",
       "hdfcbank",
+      "hudco",
+      "icicibank",
       "idea",
       "irb",
-      "ireda",
-      "kpigreen",
+      "jppower",
+      "kalyankjil",
+      "kotakbank",
       "moneyview",
-      "olaelec",
       "pcjeweller",
       "pnb",
-      "sagility",
-      "sparc",
       "suzlon",
       "tatagold",
-      "tatasteel",
-      "tatsilv",
-      "yesbank",
-      "zeel"
+      "yesbank"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
