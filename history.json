@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/three-textile-stocks-with-ambitious-expansion-plans-to-watch-11793891432019.html",
-    "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
-    "https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-crashes-8-plunges-below-5-000-whats-behind-the-selloff-11793930297845.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-airtel-titan-blue-dart-gland-pharma-ongc-britannia-126110600103_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html",
     "https://www.business-standard.com/markets/news/asian-markets-crash-as-ai-rout-rocks-us-markets-kospi-plunges-8-126110600087_1.html",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-11-nov-2026/liveblog/135723760.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-today-live-11-nov-2026/liveblog/135723390.cms",
     "https://www.livemint.com/market/stock-market-news/nvidia-sell-off-deepens-fall-6-3-wipes-10-billion-off-jensen-huangs-wealth-slips-to-12th-on-forbes-rich-list-11794327860453.html",
-    "https://www.business-standard.com/markets/news/ashoka-buildcon-shares-jump-15-on-866-crore-nhai-expressway-contract-126111100281_1.html"
+    "https://www.business-standard.com/markets/news/ashoka-buildcon-shares-jump-15-on-866-crore-nhai-expressway-contract-126111100281_1.html",
+    "https://www.livemint.com/market/stock-market-news/ashoka-buildcon-shares-soar-14-after-new-nhai-order-win-still-down-43-in-1-year-check-contract-details-performance-11794372853320.html",
+    "https://www.livemint.com/market/soybeans-corn-rally-after-usda-pegs-us-harvest-stocks-below-expectations-11794336087036.html",
+    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-as-treasury-rout-offsets-oil-slide/articleshow/135727127.cms"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-11",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Diwali 2026: Is Samvat 2083 the start of Dalal Street\u2019s next big rally?",
     "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day and snap a 7-week losing run \u2014 what led to rebound?",
     "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
     "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
@@ -586,7 +585,8 @@
     "India\u2019s rich pivot to real estate after stock returns falter",
     "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
     "Cochin Shipyard shares crash 8%: Defence PSU stock Q2 profit drops 50% but declares  \u20b93 dividend- Still a stock to buy?",
-    "Ashoka Buildcon shares jump 15% on \u20b9866 crore NHAI expressway contract"
+    "Ashoka Buildcon shares jump 15% on \u20b9866 crore NHAI expressway contract",
+    "India bonds slip as Treasury rout offsets oil slide"
   ],
   "reels_posted": {
     "date": "2026-11-11",
@@ -629,16 +629,16 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794376567.2085538,
+    "fetched_at": 1794380691.2900221,
     "symbols": [
       "ashoka",
+      "bankbaroda",
       "canbk",
       "gatech",
       "gtlinfra",
       "hdfcbank",
       "idea",
       "irfc",
-      "jppower",
       "jyotistruc",
       "kalyankjil",
       "moneyview",
@@ -646,9 +646,9 @@
       "pcjeweller",
       "pnb",
       "rpower",
+      "rtnpower",
       "rvnl",
       "suzlon",
-      "swiggy",
       "tatagold",
       "yesbank"
     ]
