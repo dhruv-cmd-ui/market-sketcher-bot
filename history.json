@@ -1,12 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-06-nov-2026/liveblog/135591214.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-06-nov-2026/liveblog/135591213.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-06-nov-2026/liveblog/135591201.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-06-nov-2026/liveblog/135591186.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-06-nov-2026/liveblog/135591182.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-06-nov-2026/liveblog/135591180.cms",
-    "https://www.livemint.com/market/indian-stocks-set-for-pullback-after-sharp-rally-on-oil-slide-foreign-inflows-11793932289845.html",
     "https://www.livemint.com/market/stock-market-news/three-textile-stocks-with-ambitious-expansion-plans-to-watch-11793891432019.html",
     "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
     "https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-crashes-8-plunges-below-5-000-whats-behind-the-selloff-11793930297845.html",
@@ -499,15 +492,21 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-11-nov-2026/liveblog/135723169.cms",
     "https://www.business-standard.com/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html",
     "https://www.business-standard.com/markets/news/wall-st-slips-as-hot-inflation-data-fuels-rate-hike-jitters-nvidia-down-4-126111001020_1.html",
-    "https://www.livemint.com/market/stock-market-news/cochin-shipyard-shares-crash-8-defence-psu-stock-q2-profit-drops-50-but-declares-rs-3-dividend-still-a-stock-to-buy-11794370626964.html"
+    "https://www.livemint.com/market/stock-market-news/cochin-shipyard-shares-crash-8-defence-psu-stock-q2-profit-drops-50-but-declares-rs-3-dividend-still-a-stock-to-buy-11794370626964.html",
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/commencement-of-sebi-settlement-of-administrative-and-civil-proceedings-regulations-2026_105680.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-updates-11-nov-2026/liveblog/135724550.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-11-nov-2026/liveblog/135724204.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-11-nov-2026/liveblog/135723760.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-today-live-11-nov-2026/liveblog/135723390.cms",
+    "https://www.livemint.com/market/stock-market-news/nvidia-sell-off-deepens-fall-6-3-wipes-10-billion-off-jensen-huangs-wealth-slips-to-12th-on-forbes-rich-list-11794327860453.html",
+    "https://www.business-standard.com/markets/news/ashoka-buildcon-shares-jump-15-on-866-crore-nhai-expressway-contract-126111100281_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-11",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "Gold ETF Dhanteras 2026: Tata Gold Exchange Traded Fund \u2014 60% returns within 3 years of launch! Should you buy?",
     "Diwali 2026: Is Samvat 2083 the start of Dalal Street\u2019s next big rally?",
     "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day and snap a 7-week losing run \u2014 what led to rebound?",
     "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
@@ -586,7 +585,8 @@
     "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
     "India\u2019s rich pivot to real estate after stock returns falter",
     "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
-    "Cochin Shipyard shares crash 8%: Defence PSU stock Q2 profit drops 50% but declares  \u20b93 dividend- Still a stock to buy?"
+    "Cochin Shipyard shares crash 8%: Defence PSU stock Q2 profit drops 50% but declares  \u20b93 dividend- Still a stock to buy?",
+    "Ashoka Buildcon shares jump 15% on \u20b9866 crore NHAI expressway contract"
   ],
   "reels_posted": {
     "date": "2026-11-11",
@@ -629,24 +629,24 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794372965.867899,
+    "fetched_at": 1794376567.2085538,
     "symbols": [
       "ashoka",
-      "balmlawrie",
       "canbk",
-      "empower",
       "gatech",
       "gtlinfra",
       "hdfcbank",
       "idea",
-      "iifl",
       "irfc",
+      "jppower",
       "jyotistruc",
       "kalyankjil",
       "moneyview",
+      "motisons",
       "pcjeweller",
       "pnb",
       "rpower",
+      "rvnl",
       "suzlon",
       "swiggy",
       "tatagold",
