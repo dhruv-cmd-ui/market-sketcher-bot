@@ -1,16 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/stocks-to-watch-airtel-titan-blue-dart-gland-pharma-ongc-britannia-126110600103_1.html",
-    "https://www.business-standard.com/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html",
-    "https://www.business-standard.com/markets/news/asian-markets-crash-as-ai-rout-rocks-us-markets-kospi-plunges-8-126110600087_1.html",
-    "https://www.business-standard.com/markets/news/fno-pick-today-hdfc-securities-analyst-nandish-shah-recommends-bull-spread-strategy-on-hero-motocorp-pnb-126110600096_1.html",
-    "https://www.livemint.com/market/stock-market-news/gold-etfs-performance-on-dhanteras-2026-today-6-nov-2026-check-how-nippon-india-tata-gold-icici-prudential-fared-11793943055301.html",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-live-updates-06-nov-2026/liveblog/135592148.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-live-06-nov-2026/liveblog/135591983.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-today-live-06-nov-2026/liveblog/135591973.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-today-live-06-nov-2026/liveblog/135591691.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-live-updates-06-nov-2026/liveblog/135591679.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/live-blog/gold-silver-rates-live-updates-22k-24k-18k-mcx-gold-silver-price-on-dhanteras-6th-november-city-wise-latest-gold-news/liveblog/135591659.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-live-updates-06-nov-2026/liveblog/135591447.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-today-live-06-nov-2026/liveblog/135591438.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-updates-06-nov-2026/liveblog/135591433.cms",
@@ -499,15 +488,25 @@
     "https://www.business-standard.com/markets/news/ashoka-buildcon-shares-jump-15-on-866-crore-nhai-expressway-contract-126111100281_1.html",
     "https://www.livemint.com/market/stock-market-news/ashoka-buildcon-shares-soar-14-after-new-nhai-order-win-still-down-43-in-1-year-check-contract-details-performance-11794372853320.html",
     "https://www.livemint.com/market/soybeans-corn-rally-after-usda-pegs-us-harvest-stocks-below-expectations-11794336087036.html",
-    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-as-treasury-rout-offsets-oil-slide/articleshow/135727127.cms"
+    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-as-treasury-rout-offsets-oil-slide/articleshow/135727127.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-11-nov-2026/liveblog/135725513.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-11-nov-2026/liveblog/135723929.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-11-nov-2026/liveblog/135723744.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-today-live-11-nov-2026/liveblog/135723505.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-11-nov-2026/liveblog/135723485.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-live-updates-11-nov-2026/liveblog/135723205.cms",
+    "https://www.livemint.com/market/dangote-refinery-gets-4-1-billion-orders-in-top-africa-ipo-11794341424038.html",
+    "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
+    "https://www.livemint.com/market/corn-soars-after-usda-cuts-american-yield-in-another-surprise-11794339085566.html",
+    "https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html",
+    "https://www.business-standard.com/markets/news/railway-stocks-rvnl-railtel-irfc-gain-up-to-7-experts-see-valuation-comfort-126111100379_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-11",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day and snap a 7-week losing run \u2014 what led to rebound?",
     "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
     "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
     "Gold ETFs performance on Dhanteras 2026 today 6 Nov 2026: Check how Nippon India, Tata Gold, ICICI Prudential fared",
@@ -586,7 +585,8 @@
     "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
     "Cochin Shipyard shares crash 8%: Defence PSU stock Q2 profit drops 50% but declares  \u20b93 dividend- Still a stock to buy?",
     "Ashoka Buildcon shares jump 15% on \u20b9866 crore NHAI expressway contract",
-    "India bonds slip as Treasury rout offsets oil slide"
+    "India bonds slip as Treasury rout offsets oil slide",
+    "Railway stocks RVNL, RailTel gain up to 7%; experts see valuation comfort"
   ],
   "reels_posted": {
     "date": "2026-11-11",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794380691.2900221,
+    "fetched_at": 1794385130.5616908,
     "symbols": [
       "ashoka",
       "bankbaroda",
