@@ -501,7 +501,7 @@
     "https://economictimes.indiatimes.com/markets/stocks/news/these-12-midcap-stocks-rally-up-to-30-in-just-one-month/slideshow/135734690.cms",
     "https://www.livemint.com/market/stock-market-news/pc-jeweller-vs-kalyan-jewellers-shares-both-delivered-strong-q2-results-but-what-to-buy-for-better-returns-key-levels-11794394181636.html"
   ],
-  "last_fii_dii_post_date": "2026-11-09",
+  "last_fii_dii_post_date": "2026-11-11",
   "news_posted": {
     "date": "2026-11-11",
     "count": 12
@@ -590,7 +590,7 @@
   ],
   "reels_posted": {
     "date": "2026-11-11",
-    "count": 1
+    "count": 2
   },
   "meta_token_checked_on": "2026-11-11",
   "nse_holidays": {
@@ -654,7 +654,7 @@
     ]
   },
   "news_evening_reel_date": "2026-10-25",
-  "fii_cta_index": 0,
+  "fii_cta_index": 1,
   "news_morning_reel_date": "2026-11-11",
   "news_afternoon_post_date": "2026-10-26"
 }
