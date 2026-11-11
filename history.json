@@ -1,11 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-live-updates-06-nov-2026/liveblog/135591447.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-today-live-06-nov-2026/liveblog/135591438.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-updates-06-nov-2026/liveblog/135591433.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-live-updates-06-nov-2026/liveblog/135591382.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-06-nov-2026/liveblog/135591353.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-today-live-updates-06-nov-2026/liveblog/135591337.cms",
     "https://www.business-standard.com/markets/news/fpis-buy-14-796-cr-worth-indian-stocks-in-biggest-daily-inflow-since-2021-126110502078_1.html",
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-equirus-prives-16-diwali-picks-include-hdfc-bank-m-m-esfb-voltas-upside-seen-up-to-54-11793974438126.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/ipo-multibaggers-13-stocks-that-delivered-up-to-193-returns-since-last-dhanteras/slideshow/135594462.cms",
@@ -499,15 +493,20 @@
     "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
     "https://www.livemint.com/market/corn-soars-after-usda-cuts-american-yield-in-another-surprise-11794339085566.html",
     "https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html",
-    "https://www.business-standard.com/markets/news/railway-stocks-rvnl-railtel-irfc-gain-up-to-7-experts-see-valuation-comfort-126111100379_1.html"
+    "https://www.business-standard.com/markets/news/railway-stocks-rvnl-railtel-irfc-gain-up-to-7-experts-see-valuation-comfort-126111100379_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-updates-11-nov-2026/liveblog/135723743.cms",
+    "https://www.livemint.com/market/stock-market-news/indias-rich-pivot-to-real-assets-after-stock-returns-falter-11794384284327.html",
+    "https://www.livemint.com/market/defaults-rattle-brazil-s-shadow-banks-spark-regulatory-scrutiny-11794343869632.html",
+    "https://www.livemint.com/market/feds-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out-11794343808997.html",
+    "https://www.livemint.com/market/chile-pension-funds-swap-losses-narrow-as-treasuries-rally-11794343809144.html",
+    "https://www.livemint.com/market/stock-market-news/railway-stocks-on-fast-track-rvnl-irfc-jump-up-to-10-amid-sensex-nifty-rise-whats-behind-momentum-key-levels-11794378046674.html"
   ],
   "last_fii_dii_post_date": "2026-11-09",
   "news_posted": {
     "date": "2026-11-11",
-    "count": 8
+    "count": 9
   },
   "recent_titles": [
-    "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
     "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
     "Gold ETFs performance on Dhanteras 2026 today 6 Nov 2026: Check how Nippon India, Tata Gold, ICICI Prudential fared",
     "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&M, ESFB Voltas; upside seen up to 54%",
@@ -586,7 +585,8 @@
     "Cochin Shipyard shares crash 8%: Defence PSU stock Q2 profit drops 50% but declares  \u20b93 dividend- Still a stock to buy?",
     "Ashoka Buildcon shares jump 15% on \u20b9866 crore NHAI expressway contract",
     "India bonds slip as Treasury rout offsets oil slide",
-    "Railway stocks RVNL, RailTel gain up to 7%; experts see valuation comfort"
+    "Railway stocks RVNL, RailTel gain up to 7%; experts see valuation comfort",
+    "Railway stocks on fast track! RVNL, IRFC jump up to 10% amid Sensex, Nifty rise | What's behind momentum? Key levels"
   ],
   "reels_posted": {
     "date": "2026-11-11",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794385130.5616908,
+    "fetched_at": 1794389253.7295659,
     "symbols": [
       "ashoka",
       "bankbaroda",
@@ -643,10 +643,10 @@
       "kalyankjil",
       "moneyview",
       "motisons",
+      "nmdc",
       "pcjeweller",
       "pnb",
       "rpower",
-      "rtnpower",
       "rvnl",
       "suzlon",
       "tatagold",
