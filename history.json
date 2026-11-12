@@ -1,15 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-stocks-hdfc-sec-lists-bpcl-hcl-tech-zensar-and-more-to-buy-for-nov-8-targets-stop-loss-11794042906368.html",
-    "https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-from-dec-7-11794047384672.html",
-    "https://www.livemint.com/market/stock-market-news/from-diwali-2025-to-diwali-2026-how-sensex-nifty-50-rupee-crude-oil-changed-in-samvat-2082-what-lies-ahead-11794043761591.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-80-to-90-will-sensex-nifty-improve-decadal-strike-rate-on-ceremonial-diwali-session-11794049934692.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-cheer-missing-nifty-lights-up-but-your-portfolio-may-be-burning-whats-driving-the-disconnect-samco-explains-11794050891575.html",
-    "https://www.livemint.com/market/stock-market-news/dividend-dhamaka-4-high-yield-stocks-from-brokerages-diwali-stock-picks-for-samvat-2083-annual-return-target-price-11794058869190.html",
-    "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
-    "https://www.livemint.com/market/stock-market-news/q2-results-race-samvardhana-motherson-vs-uno-minda-which-auto-ancillary-stock-scores-better-revenue-profit-target-11794054095084.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/risk-off-mood-sweeps-european-stocks-as-ai-concerns-deepen/articleshow/135626153.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-stocks-rally-after-heavy-ai-related-selloff/articleshow/135626123.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms",
     "https://www.livemint.com/market/stock-market-news/rs-90-dividend-per-share-this-stock-announces-900-payout-do-you-own-payment-record-date-returns-11794063019136.html",
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-top-3-samvat-2083-stock-picks-by-sumeet-bagadia-adani-ports-sun-pharma-kotak-bank-targets-sl-11794025429338.html",
@@ -499,15 +489,24 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-said-to-be-multiple-times-oversubscribed/articleshow/135743507.cms",
     "https://www.livemint.com/market/stock-market-news/nvidia-shares-recover-4-5-after-steep-sell-off-china-spy-probe-and-november-17-earnings-to-test-investor-confidence-11794413606492.html",
     "https://www.business-standard.com/markets/news/bajaj-finance-launches-11-700-crore-qip-at-5-discount-to-closing-price-126111101488_1.html",
-    "https://www.livemint.com/market/stock-market-news/hdfc-bank-hdfc-bank-stock-hdfc-bank-share-price-11794395992177.html"
+    "https://www.livemint.com/market/stock-market-news/hdfc-bank-hdfc-bank-stock-hdfc-bank-share-price-11794395992177.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-12-nov-2026/liveblog/135754002.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-12-nov-2026/liveblog/135753316.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-12-nov-2026/liveblog/135753254.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-stock-price-today-live-12-nov-2026/liveblog/135753223.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-updates-12-nov-2026/liveblog/135753066.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-livestock-price-today-live-updates-12-nov-2026/liveblog/135753001.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-12-nov-2026/liveblog/135752699.cms",
+    "https://www.business-standard.com/markets/news/nifty-eyes-record-as-largecaps-lead-charge-on-strong-corporate-earnings-126111101368_1.html",
+    "https://www.business-standard.com/markets/news/benchmarks-rise-nearly-1-auto-bank-stocks-lead-gains-amid-fpi-inflows-126111101384_1.html",
+    "https://www.business-standard.com/markets/news/cupid-shares-jump-10-to-record-high-on-133-q2-pat-growth-higher-guidance-126111200282_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-11",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Dollar jumps after strong US payrolls report",
     "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
     "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2023. See full list",
     "India should scrap capital gains tax on foreign investors: Edelweiss chief",
@@ -586,7 +585,8 @@
     "Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026",
     "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
     "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
-    "Thinking about buying the dip in HDFC Bank? Here are the pros and cons."
+    "Thinking about buying the dip in HDFC Bank? Here are the pros and cons.",
+    "Cupid shares jump 10% to record high on 133% Q2 PAT growth, higher guidance"
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794457793.4984436,
+    "fetched_at": 1794461462.0486653,
     "symbols": [
       "cupid",
       "dcxindia",
@@ -637,12 +637,12 @@
       "goldbees",
       "hdfcbank",
       "hindcopper",
+      "ibullsltd",
       "idea",
       "jppower",
       "jyotistruc",
       "kalyankjil",
       "moneyview",
-      "motisons",
       "olaelec",
       "pcjeweller",
       "pnb",
