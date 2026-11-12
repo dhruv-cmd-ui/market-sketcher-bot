@@ -1,13 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/ipo/best-ever-samvat-for-ipos-record-2-23-trillion-raised-up-19-6-126110601904_1.html",
-    "https://www.business-standard.com/markets/news/weakest-samvat-in-15-years-ends-on-a-high-for-mkts-as-sensex-nifty-rally-126110601769_1.html",
-    "https://www.business-standard.com/markets/news/street-basks-in-diwali-glow-benchmark-indices-post-best-week-in-6-years-126110602064_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
-    "https://www.livemint.com/market/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up-11793993964421.html",
-    "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html",
-    "https://www.livemint.com/market/india-should-scrap-equity-tax-on-foreigners-says-edelweiss-head-11794026589181.html",
-    "https://www.livemint.com/market/stock-market-news/tata-power-shares-will-it-react-on-mon-9-nov-post-650-mn-legal-battle-blow-with-kleros-capital-in-singapore-court-11794037830166.html",
     "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-stocks-hdfc-sec-lists-bpcl-hcl-tech-zensar-and-more-to-buy-for-nov-8-targets-stop-loss-11794042906368.html",
     "https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-from-dec-7-11794047384672.html",
     "https://www.livemint.com/market/stock-market-news/from-diwali-2025-to-diwali-2026-how-sensex-nifty-50-rupee-crude-oil-changed-in-samvat-2082-what-lies-ahead-11794043761591.html",
@@ -499,15 +491,22 @@
     "https://economictimes.indiatimes.com/markets/bonds/india-to-switch-bonds-worth-250-billion-rupees-next-week/articleshow/135740426.cms",
     "https://www.livemint.com/market/stock-market-news/mrf-share-price-target-after-q2-tyre-maker-faces-margin-pressure-but-citi-sees-30-upside-sets-rs-1-65-238-target-11794405931431.html",
     "https://www.livemint.com/market/stock-market-news/nifty-50-target-index-in-sweet-spot-28-000-soon-hsbc-citi-and-bernstein-raise-targets-after-sharp-13-5-recovery-11794402943483.html",
-    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/articleshow/135752937.cms"
+    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/articleshow/135752937.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-12-nov-2026/liveblog/135753121.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-12-nov-2026/liveblog/135753052.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-12-nov-2026/liveblog/135753045.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-updates-12-nov-2026/liveblog/135752688.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-said-to-be-multiple-times-oversubscribed/articleshow/135743507.cms",
+    "https://www.livemint.com/market/stock-market-news/nvidia-shares-recover-4-5-after-steep-sell-off-china-spy-probe-and-november-17-earnings-to-test-investor-confidence-11794413606492.html",
+    "https://www.business-standard.com/markets/news/bajaj-finance-launches-11-700-crore-qip-at-5-discount-to-closing-price-126111101488_1.html",
+    "https://www.livemint.com/market/stock-market-news/hdfc-bank-hdfc-bank-stock-hdfc-bank-share-price-11794395992177.html"
   ],
   "last_fii_dii_post_date": "2026-11-11",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "Samvat 2082: Commodities witness sharp volatility as crude surges",
     "Dollar jumps after strong US payrolls report",
     "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
     "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2023. See full list",
@@ -586,7 +585,8 @@
     "Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets",
     "Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026",
     "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
-    "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data"
+    "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
+    "Thinking about buying the dip in HDFC Bank? Here are the pros and cons."
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794453628.2242403,
+    "fetched_at": 1794457793.4984436,
     "symbols": [
-      "ashoka",
-      "bankbaroda",
-      "canbk",
-      "gatech",
+      "cupid",
+      "dcxindia",
+      "empower",
       "goldbees",
-      "gtlinfra",
       "hdfcbank",
+      "hindcopper",
       "idea",
-      "irfc",
+      "jppower",
       "jyotistruc",
       "kalyankjil",
       "moneyview",
       "motisons",
+      "olaelec",
       "pcjeweller",
       "pnb",
-      "rpower",
-      "rvnl",
       "suzlon",
       "tatagold",
-      "yesbank"
+      "tatsilv",
+      "yesbank",
+      "zeel"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
