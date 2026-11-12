@@ -1,15 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/hindalco-shares-jump-22-in-a-year-should-you-buy-or-sell-after-q2-results-2026-what-brokerages-say-price-targets-11794025738874.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-strategy-diwali-day-2026-what-to-do-what-to-buy-what-to-avoid-trading-guide-for-nov-8-key-levels-11794028047150.html",
-    "https://www.business-standard.com/markets/ipo/coca-cola-india-bottling-arm-hcch-files-drhp-ipo-99-75-crore-shares-126110700766_1.html",
-    "https://www.business-standard.com/markets/ipo/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo-126110700650_1.html",
-    "https://www.business-standard.com/markets/ipo/amber-enterprises-arm-il-jin-electronics-files-drhp-for-2-500-crore-ipo-126110700332_1.html",
-    "https://www.livemint.com/market/ipo/upcoming-ipo-coca-cola-india-bottler-hcch-files-drhp-for-public-issue-majority-shareholder-to-sell-up-to-15-stake-11794070690577.html",
-    "https://www.business-standard.com/markets/news/muhurat-trading-stock-markets-to-open-for-special-session-on-diwali-check-timings-126110600907_1.html",
-    "https://www.livemint.com/market/how-anti-ai-trade-after-us-midterm-election-results-is-reviving-indian-chinese-stocks-11794101102138.html",
-    "https://www.business-standard.com/markets/news/will-bulls-stay-in-control-during-muhurat-trading-experts-decode-outlook-126110600925_1.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-time-2026-nse-bse-to-hold-special-diwali-trading-session-today-check-market-open-timings-11794105055102.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-08-nov-2026/liveblog/135649766.cms",
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-live-check-stock-picks-and-time-for-special-session-today-pre-open-normal-market-rules-11794111427408.html",
     "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-today-stocks-to-buy-from-centrum-bse-l-t-tvs-motor-and-more-targets-stoploss-11794068530858.html",
@@ -499,15 +489,24 @@
     "https://www.livemint.com/market/ipo/indias-next-billion-dollar-ipo-coal-india-subsidiary-mahanadi-coalfields-in-line-after-jio-nse-key-things-to-know-11794470804131.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-12-nov-2026/liveblog/135753318.cms",
     "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-with-traders-clinging-to-equity-cues-awaiting-inflation-data/articleshow/135765691.cms",
-    "https://www.business-standard.com/markets/news/hdfc-bank-18-other-fallen-angels-could-be-d-st-s-next-winners-elara-126111200555_1.html"
+    "https://www.business-standard.com/markets/news/hdfc-bank-18-other-fallen-angels-could-be-d-st-s-next-winners-elara-126111200555_1.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7154-of-2026-filed-by-imran_105726.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7153-of-2026-filed-by-jamil-mian_105725.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7152-of-2026-filed-by-amit-harlalka_105723.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7151-of-2026-filed-by-aakash-goel_105722.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7150-of-2026-filed-by-nirvesh-devi_105720.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7149-of-2026-filed-by-rajendra-kumar-izardar_105719.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7147-of-2026-filed-by-vaibhav-bansal_105717.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7146-of-2026-filed-by-narpat-parmar_105715.html",
+    "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7148-of-2026-filed-by-rajeev-k-r_104013.html",
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/niveshak-shivir-to-be-held-on-november-17-2026-at-new-delhi_105731.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead?",
     "Muhurat trading 2026: 80% to 90% \u2014 will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?",
     "Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains",
     "Dividend dhamaka: 4 high yield stocks from brokerages' Diwali stock picks for Samvat 2083- Annual return, target price",
@@ -586,7 +585,8 @@
     "What's Gold price future in India? Will it touch  \u20b91.50 lakh per 10 grams again by December 2026? Experts' view",
     "India's Next Billion-Dollar IPO? Coal India subsidiary Mahanadi Coalfields in line after Jio, NSE - key things to know",
     "Rupee slips with traders clinging to equity cues, awaiting inflation data",
-    "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara"
+    "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara",
+    "Niveshak Shivir to be held on November 17, 2026 at New Delhi"
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794484479.704561,
+    "fetched_at": 1794488705.8275986,
     "symbols": [
       "cupid",
       "dcxindia",
