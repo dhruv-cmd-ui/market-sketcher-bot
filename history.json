@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stocks-dividend-expert-picks-2-stocks-for-samvat-2083-with-record-dates-next-week-do-you-own-11794039951310.html",
-    "https://www.livemint.com/market/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch-11794040210737.html",
     "https://www.livemint.com/market/stock-market-news/upcoming-dividend-bonus-rights-record-date-next-week-9-13-nov-dabur-rites-concor-hul-ongc-emami-among-others-11794037826095.html",
     "https://www.livemint.com/market/stock-market-news/us-stocks-what-led-to-crash-and-bounce-back-in-just-2-sessions-whats-next-for-nvidia-amd-intel-micron-shares-11794034954583.html",
     "https://www.livemint.com/market/stock-market-news/stock-market-muhurat-trading-date-and-time-2026-on-diwali-day-8-nov-mcx-sensex-nifty-what-investors-should-know-11794036310637.html",
@@ -499,15 +497,16 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-today-live-12-nov-2026/liveblog/135752869.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-livestock-price-today-live-updates-12-nov-2026/liveblog/135752863.cms",
     "https://www.livemint.com/market/london-aluminum-market-faces-biggest-supply-squeeze-in-decades-11794422775412.html",
-    "https://www.business-standard.com/markets/news/realty-index-surges-4-oberoi-sobha-lodha-up-5-dlf-nears-52-week-high-126111200602_1.html"
+    "https://www.business-standard.com/markets/news/realty-index-surges-4-oberoi-sobha-lodha-up-5-dlf-nears-52-week-high-126111200602_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-12-nov-2026/liveblog/135753053.cms",
+    "https://www.livemint.com/market/commodities/whats-gold-price-future-in-india-will-it-touch-1-50-lakh-per-10-grams-again-by-december-2026-experts-view-11794468408702.html"
   ],
   "last_fii_dii_post_date": "2026-11-11",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "India should scrap capital gains tax on foreign investors: Edelweiss chief",
     "Tata Power shares: Will it react on Mon 9 Nov post $650 mn legal battle blow with Kleros Capital in Singapore court?",
     "Diwali 2026 Muhurat Trading Stocks: HDFC Sec lists BPCL, HCL Tech, Zensar, and more to buy for Nov 8- targets, stop loss",
     "NSE overhauls key trading rules: CAS, F&O expiry trading hours revised - What changes from December 7?",
@@ -586,7 +585,8 @@
     "Thinking about buying the dip in HDFC Bank? Here are the pros and cons.",
     "Cupid shares jump 10% to record high on 133% Q2 PAT growth, higher guidance",
     "Multibagger stock: Cupid shares jump 10% as profit soars 133% in Q2 results 2026; already up 262% in 2026 \u2014 What's next?",
-    "Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high"
+    "Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high",
+    "What's Gold price future in India? Will it touch  \u20b91.50 lakh per 10 grams again by December 2026? Experts' view"
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794469863.584352,
+    "fetched_at": 1794473781.8448102,
     "symbols": [
       "cupid",
       "dcxindia",
