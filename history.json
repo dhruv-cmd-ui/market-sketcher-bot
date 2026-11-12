@@ -1,22 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-today-stocks-to-buy-from-centrum-bse-l-t-tvs-motor-and-more-targets-stoploss-11794068530858.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-top-3-samvat-2083-stock-picks-under-rs-100-suzlon-nhpc-south-bank-by-sumeet-bagadia-11794109482297.html",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-08-nov-2026/liveblog/135649883.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-08-nov-2026/liveblog/135651420.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-today-live-08-nov-2026/liveblog/135650048.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-08-nov-2026/liveblog/135649989.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-today-live-updates-08-nov-2026/liveblog/135649963.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-updates-08-nov-2026/liveblog/135649909.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-08-nov-2026/liveblog/135649900.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-live-updates-08-nov-2026/liveblog/135649746.cms",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-prediction-today-for-nifty-50-sensex-bank-nifty-on-diwali-2026-special-session-11794119093334.html",
-    "https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
-    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-pc-jeweller-suzlon-vedanta-power-3-samvat-2083-stock-picks-under-rs-50-by-mahesh-ojha-11794123128165.html",
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-icici-bank-pvr-inox-eternal-among-geojits-10-shares-samvat-2083-11794118050114.html",
     "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-08-nov-2026/liveblog/135649905.cms",
@@ -499,15 +482,31 @@
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7148-of-2026-filed-by-rajeev-k-r_104013.html",
     "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/niveshak-shivir-to-be-held-on-november-17-2026-at-new-delhi_105731.html",
     "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-could-move-to-25-500-25-750-paytm-among-3-stock-ideas-ajit-mishra-126111200062_1.html",
-    "https://www.livemint.com/market/stock-market-news/up-in-8-of-last-10-sessions-hdfc-bank-share-price-jumps-22-in-this-period-why-should-you-still-buy-the-bank-stock-11794471982939.html"
+    "https://www.livemint.com/market/stock-market-news/up-in-8-of-last-10-sessions-hdfc-bank-share-price-jumps-22-in-this-period-why-should-you-still-buy-the-bank-stock-11794471982939.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-shares-slide-as-investors-consider-future-without-huang/articleshow/135753594.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-12-nov-2026/liveblog/135753606.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-12-nov-2026/liveblog/135753520.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-12-nov-2026/liveblog/135753396.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-close-above-their-200-dma/slideshow/135753555.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-updates-12-nov-2026/liveblog/135753231.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-live-12-nov-2026/liveblog/135753213.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-today-live-12-nov-2026/liveblog/135753143.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-12-nov-2026/liveblog/135753130.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-updates-12-nov-2026/liveblog/135753044.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-updates-12-nov-2026/liveblog/135753022.cms",
+    "https://www.business-standard.com/markets/news/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceo-s-fate-126111200065_1.html",
+    "https://www.business-standard.com/markets/commodities/oil-prices-drop-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-126111200061_1.html",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-bajaj-finance-grse-lic-meesho-itc-tata-investment-126111200073_1.html",
+    "https://www.business-standard.com/markets/news/msci-november-2026-rejig-lic-adani-green-meesho-among-4-additions-pi-inds-exits-126111200074_1.html",
+    "https://www.business-standard.com/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html",
+    "https://www.business-standard.com/markets/news/how-to-invest-abroad-through-gift-city-a-step-by-step-guide-126111201694_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains",
     "Dividend dhamaka: 4 high yield stocks from brokerages' Diwali stock picks for Samvat 2083- Annual return, target price",
     "Q2 results race: Samvardhana Motherson vs Uno Minda - Which auto ancillary stock scores better? Revenue, profit, target",
     "\u20b990 dividend per share: This stock announces 900% payout - Do you own? Payment, record date, returns",
@@ -586,7 +585,8 @@
     "Rupee slips with traders clinging to equity cues, awaiting inflation data",
     "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara",
     "Niveshak Shivir to be held on November 17, 2026 at New Delhi",
-    "Up in 8 of last 10 sessions, HDFC Bank share price jumps 22% in this period - Why should you still buy the bank stock?"
+    "Up in 8 of last 10 sessions, HDFC Bank share price jumps 22% in this period - Why should you still buy the bank stock?",
+    "How to invest abroad through GIFT City: A step-by-step guide"
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794492976.120782,
+    "fetched_at": 1794497176.1177132,
     "symbols": [
       "cupid",
       "dcxindia",
