@@ -1,15 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-stocks-to-buy-on-diwali-day-nov-8-from-eternal-to-mcx-chandan-taparia-of-mofsl-shares-4-picks-11794023535359.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-why-do-nse-bse-break-the-holiday-rule-for-special-live-trading-session-explained-11794054250580.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
-    "https://www.livemint.com/market/stock-market-news/ongc-shares-venezuela-oil-project-hopes-lift-focus-after-q2-results-should-you-buy-key-levels-to-watch-11794051814943.html",
-    "https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-for-invest-11794044306255.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-guide-gold-etf-vs-silver-etf-on-diwali-day-what-to-buy-for-higher-returns-in-samvat-2083-11794042037235.html",
-    "https://www.livemint.com/market/diwali-2026-stock-market-enters-samvat-2083-with-nifty-50-above-25-000-key-support-resistance-levels-targets-to-know-11794037933505.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-celebrations-aboard-nifty-gains-in-12-out-of-15-muhurat-sessions-check-performance-11794040199490.html",
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stocks-dividend-expert-picks-2-stocks-for-samvat-2083-with-record-dates-next-week-do-you-own-11794039951310.html",
     "https://www.livemint.com/market/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch-11794040210737.html",
     "https://www.livemint.com/market/stock-market-news/upcoming-dividend-bonus-rights-record-date-next-week-9-13-nov-dabur-rites-concor-hul-ongc-emami-among-others-11794037826095.html",
@@ -499,15 +489,24 @@
     "https://www.livemint.com/market/stock-market-news/multibagger-cupid-to-be-in-focus-on-thursday-after-q2-net-profit-more-than-doubles-to-rs-56-crore-raises-fy27-guidance-11794420911955.html",
     "https://www.livemint.com/market/stock-market-news/bought-indo-thai-securities-shares-in-2026-stock-crashes-90-after-two-years-of-multibagger-gains-what-went-wrong-11794418354632.html",
     "https://www.business-standard.com/markets/news/bse-traders-face-technical-glitch-ncdex-launches-steel-scrap-futures-126111101646_1.html",
-    "https://www.livemint.com/market/stock-market-news/multibagger-stock-cupid-shares-jump-10-as-profit-soars-133-in-q2-results-2026-already-up-262-in-2026-whats-next-11794457689791.html"
+    "https://www.livemint.com/market/stock-market-news/multibagger-stock-cupid-shares-jump-10-as-profit-soars-133-in-q2-results-2026-already-up-262-in-2026-whats-next-11794457689791.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-updates-12-nov-2026/liveblog/135753389.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-12-nov-2026/liveblog/135753244.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-updates-12-nov-2026/liveblog/135753153.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-12-nov-2026/liveblog/135753062.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-today-live-updates-12-nov-2026/liveblog/135753007.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-12-nov-2026/liveblog/135752991.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-today-live-12-nov-2026/liveblog/135752869.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-livestock-price-today-live-updates-12-nov-2026/liveblog/135752863.cms",
+    "https://www.livemint.com/market/london-aluminum-market-faces-biggest-supply-squeeze-in-decades-11794422775412.html",
+    "https://www.business-standard.com/markets/news/realty-index-surges-4-oberoi-sobha-lodha-up-5-dlf-nears-52-week-high-126111200602_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-11",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2023. See full list",
     "India should scrap capital gains tax on foreign investors: Edelweiss chief",
     "Tata Power shares: Will it react on Mon 9 Nov post $650 mn legal battle blow with Kleros Capital in Singapore court?",
     "Diwali 2026 Muhurat Trading Stocks: HDFC Sec lists BPCL, HCL Tech, Zensar, and more to buy for Nov 8- targets, stop loss",
@@ -586,7 +585,8 @@
     "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
     "Thinking about buying the dip in HDFC Bank? Here are the pros and cons.",
     "Cupid shares jump 10% to record high on 133% Q2 PAT growth, higher guidance",
-    "Multibagger stock: Cupid shares jump 10% as profit soars 133% in Q2 results 2026; already up 262% in 2026 \u2014 What's next?"
+    "Multibagger stock: Cupid shares jump 10% as profit soars 133% in Q2 results 2026; already up 262% in 2026 \u2014 What's next?",
+    "Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high"
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,15 +629,13 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794465148.591806,
+    "fetched_at": 1794469863.584352,
     "symbols": [
       "cupid",
       "dcxindia",
       "empower",
-      "gatech",
       "goldbees",
       "hdfcbank",
-      "ibullsltd",
       "idea",
       "jppower",
       "jyotistruc",
@@ -645,7 +643,9 @@
       "moneyview",
       "olaelec",
       "pcjeweller",
+      "pinelabs",
       "pnb",
+      "silverbees",
       "suzlon",
       "tatagold",
       "tatsilv",
