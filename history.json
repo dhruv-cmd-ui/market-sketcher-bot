@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms",
-    "https://www.livemint.com/market/stock-market-news/rs-90-dividend-per-share-this-stock-announces-900-payout-do-you-own-payment-record-date-returns-11794063019136.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-top-3-samvat-2083-stock-picks-by-sumeet-bagadia-adani-ports-sun-pharma-kotak-bank-targets-sl-11794025429338.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-diwali-stocks-to-buy-for-upto-109-upside-bse-adani-power-hfcl-techm-samcos-10-shares-list-11794024034171.html",
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-stocks-to-buy-on-diwali-day-nov-8-from-eternal-to-mcx-chandan-taparia-of-mofsl-shares-4-picks-11794023535359.html",
     "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-why-do-nse-bse-break-the-holiday-rule-for-special-live-trading-session-explained-11794054250580.html",
     "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-12-nov-2026/liveblog/135752699.cms",
     "https://www.business-standard.com/markets/news/nifty-eyes-record-as-largecaps-lead-charge-on-strong-corporate-earnings-126111101368_1.html",
     "https://www.business-standard.com/markets/news/benchmarks-rise-nearly-1-auto-bank-stocks-lead-gains-amid-fpi-inflows-126111101384_1.html",
-    "https://www.business-standard.com/markets/news/cupid-shares-jump-10-to-record-high-on-133-q2-pat-growth-higher-guidance-126111200282_1.html"
+    "https://www.business-standard.com/markets/news/cupid-shares-jump-10-to-record-high-on-133-q2-pat-growth-higher-guidance-126111200282_1.html",
+    "https://www.livemint.com/market/stock-market-news/multibagger-cupid-to-be-in-focus-on-thursday-after-q2-net-profit-more-than-doubles-to-rs-56-crore-raises-fy27-guidance-11794420911955.html",
+    "https://www.livemint.com/market/stock-market-news/bought-indo-thai-securities-shares-in-2026-stock-crashes-90-after-two-years-of-multibagger-gains-what-went-wrong-11794418354632.html",
+    "https://www.business-standard.com/markets/news/bse-traders-face-technical-glitch-ncdex-launches-steel-scrap-futures-126111101646_1.html",
+    "https://www.livemint.com/market/stock-market-news/multibagger-stock-cupid-shares-jump-10-as-profit-soars-133-in-q2-results-2026-already-up-262-in-2026-whats-next-11794457689791.html"
   ],
   "last_fii_dii_post_date": "2026-11-11",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 5
+    "count": 6
   },
   "recent_titles": [
-    "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
     "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2023. See full list",
     "India should scrap capital gains tax on foreign investors: Edelweiss chief",
     "Tata Power shares: Will it react on Mon 9 Nov post $650 mn legal battle blow with Kleros Capital in Singapore court?",
@@ -586,7 +585,8 @@
     "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
     "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
     "Thinking about buying the dip in HDFC Bank? Here are the pros and cons.",
-    "Cupid shares jump 10% to record high on 133% Q2 PAT growth, higher guidance"
+    "Cupid shares jump 10% to record high on 133% Q2 PAT growth, higher guidance",
+    "Multibagger stock: Cupid shares jump 10% as profit soars 133% in Q2 results 2026; already up 262% in 2026 \u2014 What's next?"
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,14 +629,14 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794461462.0486653,
+    "fetched_at": 1794465148.591806,
     "symbols": [
       "cupid",
       "dcxindia",
       "empower",
+      "gatech",
       "goldbees",
       "hdfcbank",
-      "hindcopper",
       "ibullsltd",
       "idea",
       "jppower",
