@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-08-nov-2026/liveblog/135649766.cms",
-    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-live-check-stock-picks-and-time-for-special-session-today-pre-open-normal-market-rules-11794111427408.html",
     "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-today-stocks-to-buy-from-centrum-bse-l-t-tvs-motor-and-more-targets-stoploss-11794068530858.html",
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-top-3-samvat-2083-stock-picks-under-rs-100-suzlon-nhpc-south-bank-by-sumeet-bagadia-11794109482297.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-08-nov-2026/liveblog/135649883.cms",
@@ -499,15 +497,16 @@
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7147-of-2026-filed-by-vaibhav-bansal_105717.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7146-of-2026-filed-by-narpat-parmar_105715.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7148-of-2026-filed-by-rajeev-k-r_104013.html",
-    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/niveshak-shivir-to-be-held-on-november-17-2026-at-new-delhi_105731.html"
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/niveshak-shivir-to-be-held-on-november-17-2026-at-new-delhi_105731.html",
+    "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-could-move-to-25-500-25-750-paytm-among-3-stock-ideas-ajit-mishra-126111200062_1.html",
+    "https://www.livemint.com/market/stock-market-news/up-in-8-of-last-10-sessions-hdfc-bank-share-price-jumps-22-in-this-period-why-should-you-still-buy-the-bank-stock-11794471982939.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Muhurat trading 2026: 80% to 90% \u2014 will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?",
     "Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains",
     "Dividend dhamaka: 4 high yield stocks from brokerages' Diwali stock picks for Samvat 2083- Annual return, target price",
     "Q2 results race: Samvardhana Motherson vs Uno Minda - Which auto ancillary stock scores better? Revenue, profit, target",
@@ -586,7 +585,8 @@
     "India's Next Billion-Dollar IPO? Coal India subsidiary Mahanadi Coalfields in line after Jio, NSE - key things to know",
     "Rupee slips with traders clinging to equity cues, awaiting inflation data",
     "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara",
-    "Niveshak Shivir to be held on November 17, 2026 at New Delhi"
+    "Niveshak Shivir to be held on November 17, 2026 at New Delhi",
+    "Up in 8 of last 10 sessions, HDFC Bank share price jumps 22% in this period - Why should you still buy the bank stock?"
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794488705.8275986,
+    "fetched_at": 1794492976.120782,
     "symbols": [
       "cupid",
       "dcxindia",
