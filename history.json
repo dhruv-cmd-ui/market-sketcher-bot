@@ -1,12 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/hunting-for-next-defence-stock-winners-raymond-ptc-axiscades-rossell-experts-decode-opportunity-share-targets-11793971143436.html",
-    "https://www.business-standard.com/companies/news/this-samvat-can-large-companies-learn-to-think-like-entrepreneurs-126110601936_1.html",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms",
-    "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms",
-    "https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html",
-    "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-gold-beats-stocks-or-nifty-takes-the-lead-gold-vs-nifty-50-returns-in-samvat-2082-compared-11793983947279.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/diwali-shagun-ke-shares-angel-one-selects-8-stocks-with-up-to-50-upside-to-buy-this-diwali-how-many-do-you-own/slideshow/135626837.cms",
     "https://www.business-standard.com/markets/ipo/best-ever-samvat-for-ipos-record-2-23-trillion-raised-up-19-6-126110601904_1.html",
     "https://www.business-standard.com/markets/news/weakest-samvat-in-15-years-ends-on-a-high-for-mkts-as-sensex-nifty-rally-126110601769_1.html",
     "https://www.business-standard.com/markets/news/street-basks-in-diwali-glow-benchmark-indices-post-best-week-in-6-years-126110602064_1.html",
@@ -499,15 +492,21 @@
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-power-bajaj-finance-hal-irctc-shares-in-focus-on-thursday-12-november-full-list-11794447178928.html",
     "https://www.livemint.com/market/stock-market-news/eaaa-india-alternatives-q2-results-2026-net-profit-jumps-27-140-interim-dividend-of-rs-7-share-check-record-date-11794399717392.html",
     "https://www.business-standard.com/markets/news/equity-mf-inflows-fall-14-in-october-as-mid-smallcap-investments-cool-126111101371_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-bondholders-press-for-compliance-with-supreme-courts-at-1-order/articleshow/135744450.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-bondholders-press-for-compliance-with-supreme-courts-at-1-order/articleshow/135744450.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-coreweave-lifts-ai-trade/articleshow/135741336.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/baird-downgrades-nvidia-on-china-curbs-ai-demand-worries/articleshow/135740853.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/easyjet-shareholders-approve-5-7-billion-apollo-takeover/articleshow/135740460.cms",
+    "https://economictimes.indiatimes.com/markets/bonds/india-to-switch-bonds-worth-250-billion-rupees-next-week/articleshow/135740426.cms",
+    "https://www.livemint.com/market/stock-market-news/mrf-share-price-target-after-q2-tyre-maker-faces-margin-pressure-but-citi-sees-30-upside-sets-rs-1-65-238-target-11794405931431.html",
+    "https://www.livemint.com/market/stock-market-news/nifty-50-target-index-in-sweet-spot-28-000-soon-hsbc-citi-and-bernstein-raise-targets-after-sharp-13-5-recovery-11794402943483.html",
+    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/articleshow/135752937.cms"
   ],
   "last_fii_dii_post_date": "2026-11-11",
   "news_posted": {
     "date": "2026-11-12",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
     "Samvat 2082: Commodities witness sharp volatility as crude surges",
     "Dollar jumps after strong US payrolls report",
     "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
@@ -586,7 +585,8 @@
     "PC Jeweller vs Kalyan Jewellers shares: Both delivered strong Q2 results but what to buy for better returns? Key levels",
     "Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets",
     "Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026",
-    "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order"
+    "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
+    "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data"
   ],
   "reels_posted": {
     "date": "2026-11-12",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794449564.9035378,
+    "fetched_at": 1794453628.2242403,
     "symbols": [
       "ashoka",
       "bankbaroda",
