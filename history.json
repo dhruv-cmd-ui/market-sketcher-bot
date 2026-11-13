@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/south-korea-shares-rise-on-chip-rebound-after-ai-led-selloff-11794191706306.html",
-    "https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-zeel-adani-enterprises-iocl-sbi-airtel-126110900066_1.html",
-    "https://www.livemint.com/market/stock-market-news/stock-to-buy-elara-capital-recommends-oil-stock-ongc-sees-38-upside-potential-check-target-rationale-11794191153266.html",
-    "https://www.livemint.com/market/stock-market-news/dividend-alert-mrf-cochin-shipyard-talbros-and-others-may-reward-shareholders-this-week-check-key-dates-returns-11794138915123.html",
     "https://www.business-standard.com/markets/news/ai-selloff-rejuvenates-asia-s-forgotten-investment-trades-126110800604_1.html",
     "https://www.business-standard.com/markets/news/tata-steel-dips-1-5-after-5-day-rally-brokerages-stay-upbeat-on-india-biz-126110900194_1.html",
     "https://www.livemint.com/market/stock-market-news/bosch-shares-falls-3-after-stock-split-bonus-issue-q2-results-announcement-what-should-investors-do-11794201416845.html",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-13-nov-2026/liveblog/135786956.cms",
     "https://www.livemint.com/market/stock-market-news/paytm-shares-at-rs-1-925-close-in-on-ipo-listing-day-high-after-100-rally-from-march-lows-what-led-a-recovery-11794491626960.html",
     "https://www.livemint.com/market/stock-market-news/laurus-labs-gland-pharma-piramal-divis-labs-4-drug-manufacturing-stocks-rally-up-to-90-in-6-months-more-upside-a-11794493778483.html",
-    "https://www.business-standard.com/markets/news/vodafone-idea-share-price-declines-3-5-on-wider-than-expected-loss-in-q2-126111300408_1.html"
+    "https://www.business-standard.com/markets/news/vodafone-idea-share-price-declines-3-5-on-wider-than-expected-loss-in-q2-126111300408_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-live-updates-13-nov-2026/liveblog/135786970.cms",
+    "https://www.livemint.com/market/stock-market-news/nvidia-stock-crash-short-seller-flagged-jensen-huang-s-close-ties-to-alice-huang-months-before-ceo-s-resignation-11794502597338.html",
+    "https://www.business-standard.com/markets/news/standard-chartered-brings-four-signature-cio-funds-from-gift-city-126111201886_1.html",
+    "https://www.business-standard.com/markets/news/hitachi-energy-shares-rally-12-on-86-rise-in-q2-order-inflows-pat-up-21-126111300504_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Will bulls stay in control during Muhurat trading? Experts decode outlook",
     "Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings",
     "Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under  \u20b9100 \u2014 Suzlon, NHPC, South Bank by Sumeet Bagadia",
     "\u200bMarket Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
@@ -586,7 +585,8 @@
     "GPU Financing Filters Further Into ABS With Planned Newton Deal",
     "Last chance to buy today ahead of record date! BN Agrochem announces split, stock delivers 28% return in 2 weeks",
     "Stocks to watch: ZEEL, Ola Electric, Vi, IHCL, Manappuram Finance, RPower",
-    "Vodafone Idea shares decline 3.5% on wider-than-expected loss in Q2"
+    "Vodafone Idea shares decline 3.5% on wider-than-expected loss in Q2",
+    "Hitachi Energy shares rally 12% on 86% rise in Q2 order inflows, PAT up 21%"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,22 +629,22 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794545754.925497,
+    "fetched_at": 1794549412.8601468,
     "symbols": [
       "cupid",
       "empower",
+      "goldbees",
       "groww",
       "idea",
-      "iti",
-      "jppower",
       "kwil",
       "manappuram",
+      "mmtc",
       "moneyview",
       "nslnisp",
       "olaelec",
       "pcjeweller",
       "pnb",
-      "rpower",
+      "silverbees",
       "suzlon",
       "tatagold",
       "tatsilv",
