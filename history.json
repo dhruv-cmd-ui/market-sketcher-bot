@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/why-bertie-thinks-investors-should-be-like-drones-11794131602003.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html",
-    "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-jump-6-in-muhurat-trading-extend-4-day-rally-to-23-whats-driving-the-surge-11794130908054.html",
-    "https://www.livemint.com/market/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split-11794131188933.html",
-    "https://www.livemint.com/market/stock-market-news/on-muhurat-trading-2026-diwali-zee-entertainment-shares-in-rocket-mode-11-jump-on-buyback-interim-dividend-news-11794129729751.html",
     "https://www.livemint.com/market/stock-market-news/why-safe-enterprises-shares-bleeding-on-diwali-muhurat-trading-2026-session-despite-nifty-sensex-in-green-key-reasons-11794125786215.html",
     "https://www.livemint.com/market/stock-market-news/finolex-cables-shares-jump-14-in-muhurat-trading-2026-diwali-session-day-heres-why-stock-up-59-ytd-key-levels-11794128644480.html",
     "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-diwali-session-opening-bell-how-sensex-nifty-is-performing-on-special-day-check-gainers-losers-11794128484708.html",
@@ -499,15 +494,19 @@
     "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-vodafone-idea-ola-electric-irctc-grasim-shares-in-focus-on-friday-13-november-full-list-11794534755765.html",
     "https://www.livemint.com/market/stock-market-news/meesho-block-deal-svf-ii-meerkat-to-offload-1-stake-at-rs-246-apiece-deal-size-rs-1-174-crore-11794493326642.html",
     "https://www.livemint.com/market/stock-market-news/nvidia-stock-plunges-14-to-over-one-year-low-as-jensen-huang-quits-market-cap-falls-below-4-trillion-11794493911909.html",
-    "https://www.livemint.com/market/stock-market-news/last-chance-to-buy-today-ahead-of-record-date-bn-agrochem-stock-split-stock-delivers-28-return-in-2-weeks-11794507504180.html"
+    "https://www.livemint.com/market/stock-market-news/last-chance-to-buy-today-ahead-of-record-date-bn-agrochem-stock-split-stock-delivers-28-return-in-2-weeks-11794507504180.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-13-nov-2026/liveblog/135787036.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-nvidia-ceo-steps-down/articleshow/135773944.cms",
+    "https://www.livemint.com/market/ipo/anthropic-ipo-who-is-krishna-rao-meet-the-cfo-whose-1-30-stock-options-could-unlock-a-rs-7-000-crore-fortune-11794497618384.html",
+    "https://www.business-standard.com/world-news/wall-street-opens-lower-as-nvidia-ceo-huang-steps-down-tech-stocks-slide-126111201681_1.html",
+    "https://www.business-standard.com/markets/news/stocks-to-watch-zeel-ola-electric-vi-ihcl-manappuram-finance-rpower-126111300072_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Upcoming IPO: Coca-Cola India bottler HCCH files DRHP for public issue, majority shareholder to sell up to 15% stake",
     "How anti-AI trade after US midterm election results is reviving Indian, Chinese stocks",
     "Will bulls stay in control during Muhurat trading? Experts decode outlook",
     "Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings",
@@ -586,7 +585,8 @@
     "October retail inflation surge may weigh on housing demand, raise rate hike concerns: Knight Frank, PHDCCI",
     "Nvidia default risk nears record high as board weighs CEO\u2019s fate",
     "GPU Financing Filters Further Into ABS With Planned Newton Deal",
-    "Last chance to buy today ahead of record date! BN Agrochem announces split, stock delivers 28% return in 2 weeks"
+    "Last chance to buy today ahead of record date! BN Agrochem announces split, stock delivers 28% return in 2 weeks",
+    "Stocks to watch: ZEEL, Ola Electric, Vi, IHCL, Manappuram Finance, RPower"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,26 +629,26 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794537891.5519178,
+    "fetched_at": 1794541882.5400627,
     "symbols": [
       "cupid",
-      "dcxindia",
-      "empower",
-      "goldbees",
       "hdfcbank",
       "idea",
       "jppower",
-      "jyotistruc",
       "kalyankjil",
+      "manappuram",
       "moneyview",
+      "nmdc",
+      "nslnisp",
       "olaelec",
       "pcjeweller",
-      "pinelabs",
       "pnb",
-      "silverbees",
+      "rpower",
+      "sbin",
       "suzlon",
       "tatagold",
-      "tatsilv",
+      "tdpowersys",
+      "texinfra",
       "yesbank",
       "zeel"
     ]
