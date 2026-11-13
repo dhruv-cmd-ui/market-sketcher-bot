@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html",
-    "https://www.business-standard.com/markets/news/stock-to-buy-angel-one-flags-nifty-hurdle-at-25-150-bullish-on-itc-sbi-force-motors-126110900057_1.html",
-    "https://www.business-standard.com/markets/commodities/oil-prices-fall-on-open-as-trump-says-fresh-iran-attacks-unlikely-126110900038_1.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669678.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-09-nov-2026/liveblog/135669509.cms",
@@ -499,15 +496,17 @@
     "https://www.business-standard.com/markets/news/auto-ancillary-shares-sharda-motor-fiem-automotive-axles-zoom-up-to-17-126111300879_1.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-13-nov-2026/liveblog/135787068.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-today-live-13-nov-2026/liveblog/135787040.cms",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-snaps-rising-streak-on-hawkish-fed-oil-rise/articleshow/135798564.cms"
+    "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-snaps-rising-streak-on-hawkish-fed-oil-rise/articleshow/135798564.cms",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9227-of-2026-dated-20-07-2026-issued-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105685.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9226-of-2026-dated-20-07-2026-issued-against-jigar-bhailalbhai-khalash-in-the-matter-of-trading-in-the-scrip-of-ani-integrated-services-limited-_105683.html",
+    "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-logs-biggest-weekly-surge-in-two-years-pnb-bank-of-india-bank-of-baroda-among-top-performers-11794563569958.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 10
+    "count": 11
   },
   "recent_titles": [
-    "Muhurat Trading LIVE: Sensex, Nifty to kick-start trading for Samvat 2083 today at 2:20 PM",
     "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
     "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
     "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
@@ -586,7 +585,8 @@
     "Manappuram Finance shares dip 4% even as brokerages upbeat; here's why",
     "Stock under \u20b9100: Turtlemint hits 5% upper circuit as Q2 loss narrows 67%",
     "Auto ancillary shares: Sharda Motor, Fiem, Automotive Axles zoom up to 17%",
-    "Indian rupee snaps rising streak on hawkish Fed, oil rise"
+    "Indian rupee snaps rising streak on hawkish Fed, oil rise",
+    "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794569170.2210987,
+    "fetched_at": 1794572865.821894,
     "symbols": [
       "blspoly",
       "dhanbank",
