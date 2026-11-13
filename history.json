@@ -1,14 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-themes-to-watch-this-week/slideshow/135673587.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-falls-about-3-in-after-hours-and-perpetual-futures-trade/articleshow/135671212.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
-    "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-this-week-union-bank-ather-energy-laurus-labs-by-market-expert-check-stop-loss-target-price-11794224157187.html",
-    "https://www.livemint.com/market/stock-market-news/700-return-in-5-years-kp-energy-share-price-rallies-20-to-hit-upper-circuit-ahead-of-q2-results-2026-check-key-detai-11794223729241.html",
-    "https://www.livemint.com/market/stock-market-news/nvidia-shares-drop-nearly-6-in-pre-market-as-alleged-china-spy-links-put-jensen-huang-under-board-scrutiny-11794222872171.html",
-    "https://www.livemint.com/market/stock-market-news/alphabet-eyes-3-billion-bond-sale-in-hong-kong-singapore-how-google-parent-is-leveraging-asian-markets-amid-ai-fears-11794219861137.html",
-    "https://www.livemint.com/market/stock-market-news/best-power-stock-to-buy-samvat-2083-picks-adani-power-tata-power-vedanta-power-to-ntpc-what-market-experts-say-11794218332905.html",
     "https://www.livemint.com/market/stock-market-news/top-psu-stock-to-buy-brokerage-sees-50-upside-gujarat-energy-shares-gain-2-as-profit-surges-26-check-target-price-11794218975640.html",
     "https://www.livemint.com/market/stock-market-news/winter-is-coming-voltas-delivers-strong-q2-results-should-you-buy-the-tata-group-ac-maker-as-cold-winds-rise-11794212915132.html",
     "https://www.livemint.com/market/stock-market-news/rs-13-to-rs-82-this-multibagger-small-cap-stock-turns-rs-1-lakh-into-6-5-lakh-in-just-10-months-do-you-own-it-11794218451880.html",
@@ -499,15 +490,23 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-13-nov-2026/liveblog/135787308.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-13-nov-2026/liveblog/135787297.cms",
     "https://www.livemint.com/market/stock-market-news/value-stocks-in-india-value-stocks-value-investing-value-investing-screener-value-stocks-screen-11794482050343.html",
-    "https://www.business-standard.com/markets/news/indian-markets-extend-gains-for-3rd-straight-week-despite-nvidia-crisis-126111301616_1.html"
+    "https://www.business-standard.com/markets/news/indian-markets-extend-gains-for-3rd-straight-week-despite-nvidia-crisis-126111301616_1.html",
+    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further/articleshow/135789760.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-updates-13-nov-2026/liveblog/135789396.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-capital-among-9-stocks-showing-white-marubozu-pattern/slideshow/135788959.cms",
+    "https://www.livemint.com/market/stock-market-news/up-94-from-52-week-low-hitachi-energy-shares-jump-9-today-after-q2-results-should-you-buy-power-stock-check-targets-11794543376253.html",
+    "https://www.business-standard.com/markets/news/action-construction-rallies-6-nears-52-week-high-on-healthy-q2-results-126111300421_1.html",
+    "https://www.business-standard.com/markets/commodities/oil-prices-set-for-second-weekly-drop-as-trump-to-stay-with-iran-blockade-126111300106_1.html",
+    "https://www.business-standard.com/markets/news/nifty-bank-auto-realty-skid-1-as-inflation-stokes-rbi-rate-hike-fears-126111300433_1.html",
+    "https://www.business-standard.com/markets/news/ola-electric-shares-skid-nearly-7-as-q2-revenue-falls-39-loss-narrows-126111300115_1.html",
+    "https://www.business-standard.com/markets/news/govt-notifies-commodity-contracts-as-financial-products-at-gift-ifsc-126111301641_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 14
+    "count": 15
   },
   "recent_titles": [
-    "Global developments to keep commodity prices volatile in Samvat 2083",
     "AI slump revives Asia's forgotten stock bets, from China to India",
     "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL",
     "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up",
@@ -586,7 +585,8 @@
     "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers",
     "Paytm shares cross  \u20b91,955 IPO listing-day high after nearly five years; what's boosting investor confidence?",
     "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook",
-    "Indian markets extend gains for 3rd straight week despite Nvidia crisis"
+    "Indian markets extend gains for 3rd straight week despite Nvidia crisis",
+    "Govt notifies commodity contracts as financial products at GIFT IFSC"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794584831.2190342,
+    "fetched_at": 1794588687.116587,
     "symbols": [
       "blspoly",
       "dhanbank",
