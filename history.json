@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/news/asian-stocks-steady-as-ai-w-asia-jitters-recede-dollar-firm-on-fed-bets-126110900051_1.html",
-    "https://www.livemint.com/market/stock-market-news/kpi-green-energy-shares-jump-9-on-massive-volume-spike-ahead-of-q2-results-whats-driving-the-rally-11794225977234.html",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-live-09-nov-2026/liveblog/135670950.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-09-nov-2026/liveblog/135670421.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670255.cms",
     "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135670237.cms",
@@ -499,15 +495,18 @@
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9325-of-2026_105741.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9324-of-2026_105739.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-dated-12-11-2026-issued-in-rc-no-9286-of-2026_105737.html",
-    "https://www.livemint.com/market/stock-market-news/paytm-shares-cross-rs-1-955-ipo-listing-day-high-after-nearly-five-years-whats-boosting-investor-confidence-11794575989775.html"
+    "https://www.livemint.com/market/stock-market-news/paytm-shares-cross-rs-1-955-ipo-listing-day-high-after-nearly-five-years-whats-boosting-investor-confidence-11794575989775.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
+    "https://www.business-standard.com/markets/news/nifty-bank-nifty-outlook-will-inflation-higher-bond-yields-spook-markets-here-s-what-analysts-say-126111300077_1.html",
+    "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html",
+    "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 12
+    "count": 13
   },
   "recent_titles": [
-    "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
     "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
     "Global developments to keep commodity prices volatile in Samvat 2083",
     "AI slump revives Asia's forgotten stock bets, from China to India",
@@ -586,7 +585,8 @@
     "Auto ancillary shares: Sharda Motor, Fiem, Automotive Axles zoom up to 17%",
     "Indian rupee snaps rising streak on hawkish Fed, oil rise",
     "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers",
-    "Paytm shares cross  \u20b91,955 IPO listing-day high after nearly five years; what's boosting investor confidence?"
+    "Paytm shares cross  \u20b91,955 IPO listing-day high after nearly five years; what's boosting investor confidence?",
+    "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794577478.429385,
+    "fetched_at": 1794581499.677191,
     "symbols": [
       "blspoly",
       "dhanbank",
