@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-09-nov-2026/liveblog/135669205.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669095.cms",
     "https://www.livemint.com/market/stock-market-news/ireda-shares-jump-7-despite-20-fall-in-one-year-on-high-trading-volume-check-target-stop-loss-stock-performance-11794214570839.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-updates-09-nov-2026/liveblog/135669668.cms",
     "https://www.business-standard.com/markets/news/irb-infra-share-price-climbs-7-as-toll-collections-boost-q2-earnings-126110900539_1.html",
@@ -499,15 +497,16 @@
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-live-updates-13-nov-2026/liveblog/135787400.cms",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-13-nov-2026/liveblog/135787023.cms",
     "https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html",
-    "https://www.business-standard.com/markets/news/manappuram-finance-shares-dip-4-even-as-brokerages-upbeat-here-s-why-126111300542_1.html"
+    "https://www.business-standard.com/markets/news/manappuram-finance-shares-dip-4-even-as-brokerages-upbeat-here-s-why-126111300542_1.html",
+    "https://www.livemint.com/market/trafigura-is-key-player-in-lme-aluminum-squeeze-with-china-trade-11794516897689.html",
+    "https://www.business-standard.com/markets/news/stock-under-100-turtlemint-hits-5-upper-circuit-as-q2-loss-narrows-67-126111300718_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 7
+    "count": 8
   },
   "recent_titles": [
-    "\u200bMarket Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
     "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
     "Bullion may remain under pressure as markets track US-Iran war, inflation",
     "Muhurat Trading LIVE: Sensex, Nifty to kick-start trading for Samvat 2083 today at 2:20 PM",
@@ -586,7 +585,8 @@
     "Vodafone Idea shares decline 3.5% on wider-than-expected loss in Q2",
     "Hitachi Energy shares rally 12% on 86% rise in Q2 order inflows, PAT up 21%",
     "Zee Entertainment buyback: What happened with ZEEL stock after  \u20b9600 cr announcement? Check record date, price",
-    "Manappuram Finance shares dip 4% even as brokerages upbeat; here's why"
+    "Manappuram Finance shares dip 4% even as brokerages upbeat; here's why",
+    "Stock under \u20b9100: Turtlemint hits 5% upper circuit as Q2 loss narrows 67%"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794558141.310243,
+    "fetched_at": 1794562184.237408,
     "symbols": [
       "blspoly",
       "dhanbank",
