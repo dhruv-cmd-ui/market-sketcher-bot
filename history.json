@@ -1,23 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669678.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-09-nov-2026/liveblog/135669509.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-09-nov-2026/liveblog/135669503.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-09-nov-2026/liveblog/135669461.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-price-today-live-updates-09-nov-2026/liveblog/135669422.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-09-nov-2026/liveblog/135669242.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-09-nov-2026/liveblog/135669234.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669229.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-today-live-09-nov-2026/liveblog/135669217.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-live-updates-09-nov-2026/liveblog/135669193.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-today-live-09-nov-2026/liveblog/135669184.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-09-nov-2026/liveblog/135669141.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-09-nov-2026/liveblog/135669136.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-09-nov-2026/liveblog/135669128.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-09-nov-2026/liveblog/135669118.cms",
-    "https://www.business-standard.com/markets/news/why-fpis-turned-aggressive-stock-buyers-in-november-choice-wealth-explains-126110900074_1.html",
-    "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html",
     "https://www.business-standard.com/markets/news/asian-stocks-steady-as-ai-w-asia-jitters-recede-dollar-firm-on-fed-bets-126110900051_1.html",
     "https://www.livemint.com/market/stock-market-news/kpi-green-energy-shares-jump-9-on-massive-volume-spike-ahead-of-q2-results-whats-driving-the-rally-11794225977234.html",
     "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-live-09-nov-2026/liveblog/135670950.cms",
@@ -499,15 +481,32 @@
     "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-snaps-rising-streak-on-hawkish-fed-oil-rise/articleshow/135798564.cms",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9227-of-2026-dated-20-07-2026-issued-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105685.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9226-of-2026-dated-20-07-2026-issued-against-jigar-bhailalbhai-khalash-in-the-matter-of-trading-in-the-scrip-of-ani-integrated-services-limited-_105683.html",
-    "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-logs-biggest-weekly-surge-in-two-years-pnb-bank-of-india-bank-of-baroda-among-top-performers-11794563569958.html"
+    "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-logs-biggest-weekly-surge-in-two-years-pnb-bank-of-india-bank-of-baroda-among-top-performers-11794563569958.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-subhalakshmi-m-s-under-rc-no-7712-of-2024-in-the-matter-of-arvind-remedies-ltd-_105772.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-s-sengolancy-beaula-under-rc-no-7711-of-2024-in-the-matter-of-arvind-remedies-ltd-_105770.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-m-sethujanani-under-rc-no-7709-of-2024-in-the-matter-of-arvind-remedies-ltd-_105769.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-shreyanse-finance-ltd-under-rc-no-7708-of-2024-in-the-matter-of-arvind-remedies-ltd-_105767.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-murali-prakash-naidu-under-rc-no-7707-of-2024-in-the-matter-of-arvind-remedies-ltd_105765.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-solomon-y-under-rc-no-7706-of-2024-in-the-matter-of-arvind-remedies-ltd-_105763.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-raja-p-under-rc-no-7704-of-2024-in-the-matter-of-arvind-remedies-ltd-_105761.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-m-sasikala-under-rc-no-7699-of-2024-in-the-matter-of-arvind-remedies-ltd-_105759.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-k-manikandan-under-rc-no-7698-of-2024-in-the-matter-of-arvind-remedies-ltd-_105757.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-s-nagarajan-under-rc-no-7696-of-2024-in-the-matter-of-arvind-remedies-ltd-_105755.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-varalakshmi-p-under-rc-no-7695-of-2024-in-the-matter-of-arvind-remedies-ltd-_105753.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-shreyanse-finance-ltd-in-the-matter-of-arvind-remedies-ltd-under-recovery-certificate-no-7568-of-2024_105751.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-12-11-2026-issued-in-rc-no-9286-of-2026_105745.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-dated-november-12-2026-for-release-of-attachment-of-bank-accounts-lockers-demat-accounts-and-mutual-fund-folios-in-respect-of-recovery-certificate-no-7251-of-2023_105743.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9325-of-2026_105741.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9324-of-2026_105739.html",
+    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-dated-12-11-2026-issued-in-rc-no-9286-of-2026_105737.html",
+    "https://www.livemint.com/market/stock-market-news/paytm-shares-cross-rs-1-955-ipo-listing-day-high-after-nearly-five-years-whats-boosting-investor-confidence-11794575989775.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 11
+    "count": 12
   },
   "recent_titles": [
-    "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
     "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
     "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
     "Global developments to keep commodity prices volatile in Samvat 2083",
@@ -586,7 +585,8 @@
     "Stock under \u20b9100: Turtlemint hits 5% upper circuit as Q2 loss narrows 67%",
     "Auto ancillary shares: Sharda Motor, Fiem, Automotive Axles zoom up to 17%",
     "Indian rupee snaps rising streak on hawkish Fed, oil rise",
-    "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers"
+    "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers",
+    "Paytm shares cross  \u20b91,955 IPO listing-day high after nearly five years; what's boosting investor confidence?"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794572865.821894,
+    "fetched_at": 1794577478.429385,
     "symbols": [
       "blspoly",
       "dhanbank",
