@@ -1,19 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/why-safe-enterprises-shares-bleeding-on-diwali-muhurat-trading-2026-session-despite-nifty-sensex-in-green-key-reasons-11794125786215.html",
-    "https://www.livemint.com/market/stock-market-news/finolex-cables-shares-jump-14-in-muhurat-trading-2026-diwali-session-day-heres-why-stock-up-59-ytd-key-levels-11794128644480.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-diwali-session-opening-bell-how-sensex-nifty-is-performing-on-special-day-check-gainers-losers-11794128484708.html",
-    "https://www.livemint.com/market/commodities/buying-gold-or-silver-this-diwali-which-precious-metal-offers-bigger-upside-in-samvat-2083-check-targets-strategy-11794124125357.html",
-    "https://www.livemint.com/market/stock-market-news/upcoming-psu-dividend-record-dates-concor-ongc-nbcc-rites-hudco-nlc-india-check-amount-record-date-payment-tim-11794120757556.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-on-diwali-from-trade-settlement-to-delivery-key-rules-investors-should-know-about-special-trade-11794122357593.html",
-    "https://www.livemint.com/market/stock-market-news/top-12-diwali-muhurat-trading-stock-picks-2026-up-to-41-gain-buy-jio-platforms-adani-ports-10-more-by-kc-securities-11794119726963.html",
-    "https://www.livemint.com/market/wheat-hits-lowest-since-june-ahead-of-black-sea-peace-talks-11794122080754.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-stock-picks-2026-for-diwali-special-session-hdfc-amc-sbi-techm-3-others-upside-seen-up-to-35-11794118582830.html",
-    "https://www.livemint.com/market/stock-market-news/muhurat-trading-stock-picks-2026-for-diwali-special-session-hdfc-amc-sbi-techm-3-others-upside-seen-up-to-54-11794103527940.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-under-rs-200-start-samvat-2083-with-ashok-leyland-swiggy-pnb-by-anand-rathi-11794114454674.html",
-    "https://www.livemint.com/market/stock-market-news/mcx-diwali-muhurat-trading-schedule-2026-session-wise-time-today-special-main-client-code-modification-window-timing-11794113917078.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-2026-tata-steel-bel-hdfc-bank-25-brokerages-reveal-187-shares-to-buy-in-samvat-2083-full-list-11794134434530.html",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-adani-enterprises-marico-shares-in-focus-on-monday-9-november-full-list-11794187790707.html",
     "https://www.livemint.com/market/south-korea-shares-rise-on-chip-rebound-after-ai-led-selloff-11794191706306.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-zeel-adani-enterprises-iocl-sbi-airtel-126110900066_1.html",
     "https://www.livemint.com/market/stock-market-news/stock-to-buy-elara-capital-recommends-oil-stock-ongc-sees-38-upside-potential-check-target-rationale-11794191153266.html",
@@ -499,15 +485,28 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-nvidia-ceo-steps-down/articleshow/135773944.cms",
     "https://www.livemint.com/market/ipo/anthropic-ipo-who-is-krishna-rao-meet-the-cfo-whose-1-30-stock-options-could-unlock-a-rs-7-000-crore-fortune-11794497618384.html",
     "https://www.business-standard.com/world-news/wall-street-opens-lower-as-nvidia-ceo-huang-steps-down-tech-stocks-slide-126111201681_1.html",
-    "https://www.business-standard.com/markets/news/stocks-to-watch-zeel-ola-electric-vi-ihcl-manappuram-finance-rpower-126111300072_1.html"
+    "https://www.business-standard.com/markets/news/stocks-to-watch-zeel-ola-electric-vi-ihcl-manappuram-finance-rpower-126111300072_1.html",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-today-live-13-nov-2026/liveblog/135787990.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-13-nov-2026/liveblog/135787827.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-13-nov-2026/liveblog/135787712.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-13-nov-2026/liveblog/135787285.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-live-13-nov-2026/liveblog/135787278.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-today-live-updates-13-nov-2026/liveblog/135787131.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-updates-13-nov-2026/liveblog/135787120.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-live-updates-13-nov-2026/liveblog/135787039.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-13-nov-2026/liveblog/135787026.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-updates-13-nov-2026/liveblog/135787007.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-13-nov-2026/liveblog/135786956.cms",
+    "https://www.livemint.com/market/stock-market-news/paytm-shares-at-rs-1-925-close-in-on-ipo-listing-day-high-after-100-rally-from-march-lows-what-led-a-recovery-11794491626960.html",
+    "https://www.livemint.com/market/stock-market-news/laurus-labs-gland-pharma-piramal-divis-labs-4-drug-manufacturing-stocks-rally-up-to-90-in-6-months-more-upside-a-11794493778483.html",
+    "https://www.business-standard.com/markets/news/vodafone-idea-share-price-declines-3-5-on-wider-than-expected-loss-in-q2-126111300408_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 3
+    "count": 4
   },
   "recent_titles": [
-    "How anti-AI trade after US midterm election results is reviving Indian, Chinese stocks",
     "Will bulls stay in control during Muhurat trading? Experts decode outlook",
     "Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings",
     "Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under  \u20b9100 \u2014 Suzlon, NHPC, South Bank by Sumeet Bagadia",
@@ -586,7 +585,8 @@
     "Nvidia default risk nears record high as board weighs CEO\u2019s fate",
     "GPU Financing Filters Further Into ABS With Planned Newton Deal",
     "Last chance to buy today ahead of record date! BN Agrochem announces split, stock delivers 28% return in 2 weeks",
-    "Stocks to watch: ZEEL, Ola Electric, Vi, IHCL, Manappuram Finance, RPower"
+    "Stocks to watch: ZEEL, Ola Electric, Vi, IHCL, Manappuram Finance, RPower",
+    "Vodafone Idea shares decline 3.5% on wider-than-expected loss in Q2"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,26 +629,26 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794541882.5400627,
+    "fetched_at": 1794545754.925497,
     "symbols": [
       "cupid",
-      "hdfcbank",
+      "empower",
+      "groww",
       "idea",
+      "iti",
       "jppower",
-      "kalyankjil",
+      "kwil",
       "manappuram",
       "moneyview",
-      "nmdc",
       "nslnisp",
       "olaelec",
       "pcjeweller",
       "pnb",
       "rpower",
-      "sbin",
       "suzlon",
       "tatagold",
+      "tatsilv",
       "tdpowersys",
-      "texinfra",
       "yesbank",
       "zeel"
     ]
