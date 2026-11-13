@@ -1,9 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/sensex-nifty-muhurat-trading-samvat-2083-diwali-market-11794137925445.html",
-    "https://www.livemint.com/market/stock-market-news/global-ai-sell-off-turns-into-indias-gain-as-fpis-pump-rs-46-000-crore-in-5-sessions-will-the-buying-spree-sustain-11794135940793.html",
-    "https://www.livemint.com/market/stock-market-news/why-did-rr-kabel-share-rally-8-during-muhurat-trading-despite-weak-market-sentiment-what-triggered-the-surge-11794133913486.html",
-    "https://www.livemint.com/market/stock-market-news/emami-vs-dabur-q2-results-which-fmcg-giant-wins-on-profit-revenue-and-dividend-check-target-upcoming-record-dates-11794133857711.html",
     "https://www.livemint.com/market/why-bertie-thinks-investors-should-be-like-drones-11794131602003.html",
     "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html",
     "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-jump-6-in-muhurat-trading-extend-4-day-rally-to-23-whats-driving-the-surge-11794130908054.html",
@@ -499,15 +495,18 @@
     "https://economictimes.indiatimes.com/markets/companies/clean-max-enviro-energy-pledges-rs-50000-crore-investment-in-andhra-pradesh/articleshow/135771043.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-intel-micron-ai-stocks-marvell-coreweave-ai-chip-stocks-treasury-yield-news-12th-november-2026/liveblog/135771380.cms",
     "https://www.livemint.com/market/stock-market-news/page-industries-rs-150-dividend-firm-behind-jockey-in-india-announces-mega-payout-after-q2-results-check-record-date-11794478217436.html",
-    "https://www.business-standard.com/markets/mutual-fund/sip-openings-hit-18-month-low-in-october-closures-rise-to-18-month-high-126111201475_1.html"
+    "https://www.business-standard.com/markets/mutual-fund/sip-openings-hit-18-month-low-in-october-closures-rise-to-18-month-high-126111201475_1.html",
+    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-vodafone-idea-ola-electric-irctc-grasim-shares-in-focus-on-friday-13-november-full-list-11794534755765.html",
+    "https://www.livemint.com/market/stock-market-news/meesho-block-deal-svf-ii-meerkat-to-offload-1-stake-at-rs-246-apiece-deal-size-rs-1-174-crore-11794493326642.html",
+    "https://www.livemint.com/market/stock-market-news/nvidia-stock-plunges-14-to-over-one-year-low-as-jensen-huang-quits-market-cap-falls-below-4-trillion-11794493911909.html",
+    "https://www.livemint.com/market/stock-market-news/last-chance-to-buy-today-ahead-of-record-date-bn-agrochem-stock-split-stock-delivers-28-return-in-2-weeks-11794507504180.html"
   ],
   "last_fii_dii_post_date": "2026-11-12",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Diwali 2026 Muhurat trading: Why do NSE, BSE break the holiday rule for special live trading session? Explained",
     "Upcoming IPO: Coca-Cola India bottler HCCH files DRHP for public issue, majority shareholder to sell up to 15% stake",
     "How anti-AI trade after US midterm election results is reviving Indian, Chinese stocks",
     "Will bulls stay in control during Muhurat trading? Experts decode outlook",
@@ -586,7 +585,8 @@
     "How to invest abroad through GIFT City: A step-by-step guide",
     "October retail inflation surge may weigh on housing demand, raise rate hike concerns: Knight Frank, PHDCCI",
     "Nvidia default risk nears record high as board weighs CEO\u2019s fate",
-    "GPU Financing Filters Further Into ABS With Planned Newton Deal"
+    "GPU Financing Filters Further Into ABS With Planned Newton Deal",
+    "Last chance to buy today ahead of record date! BN Agrochem announces split, stock delivers 28% return in 2 weeks"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794535413.145639,
+    "fetched_at": 1794537891.5519178,
     "symbols": [
       "cupid",
       "dcxindia",
