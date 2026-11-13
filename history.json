@@ -1,24 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670255.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135670237.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670110.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-metal-among-5-stocks-showing-bullish-rsi-upswing/slideshow/135670091.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/lampt-finance-among-6-stocks-that-dropped-below-their-vwaps/slideshow/135669893.cms",
-    "https://www.business-standard.com/markets/news/divis-joins-3-trn-market-cap-club-rallies-15-in-2-days-post-q2-results-126110900182_1.html",
-    "https://www.business-standard.com/markets/news/honasa-consumer-share-price-gains-5-as-brokerages-raise-target-earnings-post-q2-126110900201_1.html",
-    "https://www.livemint.com/market/stock-market-news/irb-infra-shares-surge-6-after-q2-results-is-a-bigger-breakout-on-the-cards-experts-identify-key-levels-to-watch-11794203964814.html",
-    "https://economictimes.indiatimes.com/markets/bonds/india-bonds-continue-rally-ahead-of-inflation-data/articleshow/135681750.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stake-in-10-smallcap-stocks-for-3-consecutive-quarters-shares-fall-up-to-70-in-cy26/slideshow/135680171.cms",
-    "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
-    "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-nvidia-shares-dropped-4-in-overnight-trade-and-what-analysts-warn-can-trigger-a-bloodbath/articleshow/135674705.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-in-focus-3-key-risks-after-jensen-huang-probe/slideshow/135674350.cms",
     "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-themes-to-watch-this-week/slideshow/135673587.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-falls-about-3-in-after-hours-and-perpetual-futures-trade/articleshow/135671212.cms",
@@ -499,15 +480,33 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
     "https://www.business-standard.com/markets/news/nifty-bank-nifty-outlook-will-inflation-higher-bond-yields-spook-markets-here-s-what-analysts-say-126111300077_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html",
-    "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html"
+    "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/one97-communications-among-3-stocks-closing-above-vwap/slideshow/135788620.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/godrej-industries-among-4-stocks-showing-rsi-trending-up/slideshow/135788392.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-updates-13-nov-2026/liveblog/135788172.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-livestock-price-today-live-updates-13-nov-2026/liveblog/135788075.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-13-nov-2026/liveblog/135787967.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-live-updates-13-nov-2026/liveblog/135787960.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-13-nov-2026/liveblog/135787956.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-today-live-13-nov-2026/liveblog/135787655.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-13-nov-2026/liveblog/135787538.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-live-updates-13-nov-2026/liveblog/135787467.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-close-above-their-200-dma/slideshow/135787610.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-updates-13-nov-2026/liveblog/135787391.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-livestock-price-today-live-updates-13-nov-2026/liveblog/135787371.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-live-updates-13-nov-2026/liveblog/135787361.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-live-13-nov-2026/liveblog/135787315.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-13-nov-2026/liveblog/135787308.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-13-nov-2026/liveblog/135787297.cms",
+    "https://www.livemint.com/market/stock-market-news/value-stocks-in-india-value-stocks-value-investing-value-investing-screener-value-stocks-screen-11794482050343.html",
+    "https://www.business-standard.com/markets/news/indian-markets-extend-gains-for-3rd-straight-week-despite-nvidia-crisis-126111301616_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-13",
-    "count": 13
+    "count": 14
   },
   "recent_titles": [
-    "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
     "Global developments to keep commodity prices volatile in Samvat 2083",
     "AI slump revives Asia's forgotten stock bets, from China to India",
     "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL",
@@ -586,7 +585,8 @@
     "Indian rupee snaps rising streak on hawkish Fed, oil rise",
     "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers",
     "Paytm shares cross  \u20b91,955 IPO listing-day high after nearly five years; what's boosting investor confidence?",
-    "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook"
+    "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook",
+    "Indian markets extend gains for 3rd straight week despite Nvidia crisis"
   ],
   "reels_posted": {
     "date": "2026-11-13",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794581499.677191,
+    "fetched_at": 1794584831.2190342,
     "symbols": [
       "blspoly",
       "dhanbank",
