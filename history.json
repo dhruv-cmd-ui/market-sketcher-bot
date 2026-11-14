@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-ahead-of-us-inflation-data/articleshow/135696094.cms",
-    "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sellers-hit-pause-for-us-inflation-data/articleshow/135696077.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-secunderabad-healthcare-limited-under-rc-no-7734-of-2024-in-the-matter-of-secunderabad-healthcare-limited_105698.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-chennai-commodities-under-rc-no-7470-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105696.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-first-futures-and-stocks-private-limited-under-rc-no-7469-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105694.html",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/oil-prices-set-for-second-straight-weekly-decline-on-growing-signs-of-supply-surplus-11794595284142.html",
     "https://www.livemint.com/market/gold-edges-up-still-on-track-for-worst-weekly-slump-since-june-11794595223804.html",
     "https://www.business-standard.com/markets/news/nse-ix-global-access-expands-investment-offerings-into-7-european-markets-126111301892_1.html",
-    "https://www.business-standard.com/markets/cryptocurrency/bitcoin-s-billion-dollar-wipeouts-becoming-an-increasingly-familiar-sight-126111400176_1.html"
+    "https://www.business-standard.com/markets/cryptocurrency/bitcoin-s-billion-dollar-wipeouts-becoming-an-increasingly-familiar-sight-126111400176_1.html",
+    "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight/articleshow/135822462.cms",
+    "https://www.livemint.com/market/ratehike-bets-keep-gold-on-track-for-worst-week-in-four-months-11794598496469.html",
+    "https://www.livemint.com/market/stock-market-news/up-325-in-4-years-multibagger-brewery-stock-with-1-10-stock-split-history-declares-q2-results-2026-revenue-up-203-11794638711855.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-14",
-    "count": 6
+    "count": 7
   },
   "recent_titles": [
-    "Top stocks to watch today: Tata Steel, Adani Enterprises, Marico shares in focus on Monday, 9 November | Full list",
     "South Korea shares rise on chip rebound after AI-led selloff",
     "Stock to buy: Elara Capital recommends this oil share amid volatility in crude oil prices | Check target, upside",
     "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz",
@@ -586,7 +585,8 @@
     "Ramayana effect? Prime Focus Q2 results: Revenue rises to  \u20b91,410.17 crore; PAT climbs to  \u20b991.04 crore from  \u20b95.8 crore",
     "Nvidia has worst week since Trump tariff selloff as Huang exits",
     "Around 600% jump in 5 years: Citi maintains 'buy' on Maharatna defence PSU HAL for up to 28% - Check target, rationale",
-    "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight"
+    "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
+    "Up 325% in 4 years! Multibagger brewery stock with 1:10 stock split history declares Q2 Results 2026; revenue up 103%"
   ],
   "reels_posted": {
     "date": "2026-11-14",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794639287.121846,
+    "fetched_at": 1794643055.7408805,
     "symbols": [
       "blspoly",
       "dhanbank",
