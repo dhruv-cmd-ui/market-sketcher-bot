@@ -1,7 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/mark-to-market/tata-steel-domestic-business-q2-netherlands-uncertainty-risk-11794295394886.html",
-    "https://www.livemint.com/market/stock-market-news/stocks-to-watch-tomorrow-11-november-wednesday-why-data-patterns-mrf-cochin-shipyard-irb-infra-others-are-in-focus-11794304295254.html",
     "https://www.business-standard.com/markets/news/individual-ownership-in-nse-listed-firms-hits-record-19-5-in-q2fy27-126111000550_1.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1583-of-2026-issued-against-cat-technologies-limited-associated-with-rc-4398-of-2021-in-the-matter-of-cat-technologies-ltd-_105693.html",
     "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1582-of-2026-issued-against-dinesh-kumar-jaiswal-associated-with-rc-4395-of-2021-in-the-matter-of-cat-technologies-ltd-_105691.html",
@@ -499,15 +497,16 @@
     "https://www.livemint.com/market/ipo/airtel-payments-bank-ipo-in-pipeline-bharti-airtel-payments-business-eyes-d-street-debut-says-report-11794586839337.html",
     "https://www.livemint.com/market/stock-market-news/upcoming-ipo-razorpay-gets-sebi-nod-for-ipo-launch-top-things-to-know-about-the-issue-11794586427364.html",
     "https://www.livemint.com/market/stock-market-news/beml-share-price-falls-after-hitting-52-week-high-icici-direct-sees-39-upside-in-the-defence-psu-stock-should-you-buy-11794580770478.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms"
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms",
+    "https://www.business-standard.com/markets/news/gift-city-funds-compared-what-they-cost-and-how-they-have-performed-126111301835_1.html",
+    "https://www.livemint.com/market/stock-market-news/around-600-jump-in-5-years-citi-maintains-buy-on-maharatna-defence-psu-hal-for-up-to-28-check-target-rationale-11794630844431.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-14",
-    "count": 4
+    "count": 5
   },
   "recent_titles": [
-    "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
     "Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List",
     "Top stocks to watch today: Tata Steel, Adani Enterprises, Marico shares in focus on Monday, 9 November | Full list",
     "South Korea shares rise on chip rebound after AI-led selloff",
@@ -586,7 +585,8 @@
     "YES Bank files SC review plea over AT-1 bonds: What does it mean for investors after stock's 15% rebound?",
     "Three fast-growing water infra stocks",
     "Ramayana effect? Prime Focus Q2 results: Revenue rises to  \u20b91,410.17 crore; PAT climbs to  \u20b991.04 crore from  \u20b95.8 crore",
-    "Nvidia has worst week since Trump tariff selloff as Huang exits"
+    "Nvidia has worst week since Trump tariff selloff as Huang exits",
+    "Around 600% jump in 5 years: Citi maintains 'buy' on Maharatna defence PSU HAL for up to 28% - Check target, rationale"
   ],
   "reels_posted": {
     "date": "2026-11-14",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794631788.422105,
+    "fetched_at": 1794635211.1150353,
     "symbols": [
       "blspoly",
       "dhanbank",
