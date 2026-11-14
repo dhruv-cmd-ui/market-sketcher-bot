@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-secunderabad-healthcare-limited-under-rc-no-7734-of-2024-in-the-matter-of-secunderabad-healthcare-limited_105698.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-chennai-commodities-under-rc-no-7470-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105696.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-first-futures-and-stocks-private-limited-under-rc-no-7469-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105694.html",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-slip-with-nvidia-woes-anthropic-ipo-in-focus/articleshow/135711347.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
     "https://economictimes.indiatimes.com/markets/bonds/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/articleshow/135696624.cms",
@@ -499,7 +496,10 @@
     "https://www.business-standard.com/markets/cryptocurrency/bitcoin-s-billion-dollar-wipeouts-becoming-an-increasingly-familiar-sight-126111400176_1.html",
     "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight/articleshow/135822462.cms",
     "https://www.livemint.com/market/ratehike-bets-keep-gold-on-track-for-worst-week-in-four-months-11794598496469.html",
-    "https://www.livemint.com/market/stock-market-news/up-325-in-4-years-multibagger-brewery-stock-with-1-10-stock-split-history-declares-q2-results-2026-revenue-up-203-11794638711855.html"
+    "https://www.livemint.com/market/stock-market-news/up-325-in-4-years-multibagger-brewery-stock-with-1-10-stock-split-history-declares-q2-results-2026-revenue-up-203-11794638711855.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-cr/articleshow/135820907.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-google-anthropic-hit-with-lawsuit-to-halt-ai-development/articleshow/135820787.cms",
+    "https://www.livemint.com/market/wall-st-slides-as-nvidia-uncertainty-drags-tech-shares-lower-11794599915160.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794643055.7408805,
+    "fetched_at": 1794668205.4437723,
     "symbols": [
       "blspoly",
       "dhanbank",
