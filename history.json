@@ -1,10 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/upcoming-ipo-veritas-finance-gets-sebi-nod-to-launch-public-issue-top-things-for-investors-11794247367964.html",
-    "https://www.livemint.com/market/stock-market-news/broadcom-shares-pop-over-9-on-track-for-biggest-one-day-surge-in-a-year-whats-driving-the-rebound-11794246529114.html",
-    "https://www.livemint.com/market/stock-market-news/asian-stocks-ride-tech-rally-higher-as-oil-falls-11794291620755.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms",
-    "https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html",
     "https://www.livemint.com/market/canadian-dollar-underperforms-most-g10-currencies-as-oil-falls-11794252780817.html",
     "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
     "https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html",
@@ -499,15 +494,19 @@
     "https://www.business-standard.com/markets/news/crude-sensitive-stocks-fall-as-oil-trades-at-95-bpcl-indigo-down-over-2-126111300478_1.html",
     "https://www.business-standard.com/markets/news/lic-meesho-coforge-stocks-amid-msci-nov-rejig-what-charts-say-technical-analysis-126111300450_1.html",
     "https://www.livemint.com/market/stock-market-news/yes-bank-files-sc-review-plea-over-at-1-bonds-what-does-it-mean-for-investors-after-stocks-15-rebound-11794591968232.html",
-    "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-dalal-street-s-winning-streak-faces-an-inflation-test-11794572591011.html"
+    "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-dalal-street-s-winning-streak-faces-an-inflation-test-11794572591011.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-soft-producer-prices-data/articleshow/135807296.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/chicago-feds-goolsbee-says-on-cnbc-the-fed-needs-to-guard-against-demand-overheating/articleshow/135807011.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war/articleshow/135806960.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-pat-rises-to-rs-82-cr-in-q2/articleshow/135806024.cms",
+    "https://www.livemint.com/market/stock-market-news/three-fast-growing-water-infra-stocks-11794577248207.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-14",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL",
     "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up",
     "Bosch bonus issue, stock split: 1 share to become 20 after 38% rally in one year! Check ratio, record date, returns",
     "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
@@ -586,7 +585,8 @@
     "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook",
     "Indian markets extend gains for 3rd straight week despite Nvidia crisis",
     "Govt notifies commodity contracts as financial products at GIFT IFSC",
-    "YES Bank files SC review plea over AT-1 bonds: What does it mean for investors after stock's 15% rebound?"
+    "YES Bank files SC review plea over AT-1 bonds: What does it mean for investors after stock's 15% rebound?",
+    "Three fast-growing water infra stocks"
   ],
   "reels_posted": {
     "date": "2026-11-14",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794621525.1289709,
+    "fetched_at": 1794624451.7481751,
     "symbols": [
       "blspoly",
       "dhanbank",
