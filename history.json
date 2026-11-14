@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/canadian-dollar-underperforms-most-g10-currencies-as-oil-falls-11794252780817.html",
-    "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
-    "https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html",
     "https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html",
     "https://www.livemint.com/market/stock-market-news/nse-new-bkc-mumbai-building-design-first-look-see-pics-video-of-new-landmark-architecture-of-national-stock-exchange-11794297657678.html",
     "https://www.livemint.com/market/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt-11794262406093.html",
@@ -499,15 +496,17 @@
     "https://economictimes.indiatimes.com/markets/us-stocks/news/chicago-feds-goolsbee-says-on-cnbc-the-fed-needs-to-guard-against-demand-overheating/articleshow/135807011.cms",
     "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war/articleshow/135806960.cms",
     "https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-pat-rises-to-rs-82-cr-in-q2/articleshow/135806024.cms",
-    "https://www.livemint.com/market/stock-market-news/three-fast-growing-water-infra-stocks-11794577248207.html"
+    "https://www.livemint.com/market/stock-market-news/three-fast-growing-water-infra-stocks-11794577248207.html",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-adds-january-fed-hike-to-forecast-says-quarterly-pace-no-longer-enough/articleshow/135808910.cms",
+    "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-rebound-15-in-november-add-rs-2-38-lakh-crore-in-market-value-whats-changed-11794580881169.html",
+    "https://www.livemint.com/market/ramayana-effect-prime-focus-q2-results-revenue-rises-to-1-410-17-crore-pat-climbs-to-91-04-crore-from-5-8-crore-11794627104139.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-14",
-    "count": 2
+    "count": 3
   },
   "recent_titles": [
-    "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up",
     "Bosch bonus issue, stock split: 1 share to become 20 after 38% rally in one year! Check ratio, record date, returns",
     "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
     "Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List",
@@ -586,7 +585,8 @@
     "Indian markets extend gains for 3rd straight week despite Nvidia crisis",
     "Govt notifies commodity contracts as financial products at GIFT IFSC",
     "YES Bank files SC review plea over AT-1 bonds: What does it mean for investors after stock's 15% rebound?",
-    "Three fast-growing water infra stocks"
+    "Three fast-growing water infra stocks",
+    "Ramayana effect? Prime Focus Q2 results: Revenue rises to  \u20b91,410.17 crore; PAT climbs to  \u20b991.04 crore from  \u20b95.8 crore"
   ],
   "reels_posted": {
     "date": "2026-11-14",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794624451.7481751,
+    "fetched_at": 1794628092.6441338,
     "symbols": [
       "blspoly",
       "dhanbank",
