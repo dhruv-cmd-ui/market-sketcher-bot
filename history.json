@@ -1,8 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.livemint.com/market/stock-market-news/tcpl-packaging-shares-incred-equities-recommends-this-high-conviction-stock-with-18-upside-check-target-returns-11794287696958.html",
-    "https://www.business-standard.com/markets/news/fpis-turn-net-buyers-in-november-pump-53-739-crore-into-indian-equities-126111000477_1.html",
-    "https://www.business-standard.com/markets/news/bullish-signals-gift-nifty-jumps-1-as-crude-oil-prices-test-90-bbl-126111000417_1.html",
     "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html",
     "https://www.business-standard.com/markets/news/the-turn-of-the-tide-foreign-investors-return-signalling-longer-india-bet-126111000761_1.html",
     "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms",
@@ -499,15 +496,17 @@
     "https://www.livemint.com/market/stock-market-news/rs-150-dividend-alert-record-date-next-week-of-jockey-firm-for-biggest-payout-declared-in-q2-check-key-dates-history-11794628701443.html",
     "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bharti-airtel-bajaj-finance-nestle-by-sumeet-bagadia-targets-stop-loss-market-prediction-11794622858676.html",
     "https://www.business-standard.com/markets/news/softbank-further-trims-india-exposure-sells-meesho-shares-worth-1-885-cr-126111400069_1.html",
-    "https://www.business-standard.com/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html"
+    "https://www.business-standard.com/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html",
+    "https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-under-rs-100-lloyds-engineering-niva-bupa-vedanta-power-by-sumeet-bagadia-targets-stoploss-11794674607528.html",
+    "https://www.livemint.com/market/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate-11794702675152.html",
+    "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
     "date": "2026-11-15",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Stock to buy: Elara Capital recommends this oil share amid volatility in crude oil prices | Check target, upside",
     "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz",
     "Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do?",
     "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
@@ -586,7 +585,8 @@
     "Around 600% jump in 5 years: Citi maintains 'buy' on Maharatna defence PSU HAL for up to 28% - Check target, rationale",
     "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
     "Up 325% in 4 years! Multibagger brewery stock with 1:10 stock split history declares Q2 Results 2026; revenue up 103%",
-    "Bitcoin tumbles to four-month low as leveraged bets face mass liquidations"
+    "Bitcoin tumbles to four-month low as leveraged bets face mass liquidations",
+    "Gold, silver prices ahead of wedding season: Down over 4% this week - Investors guide before US Fed Dec meeting"
   ],
   "reels_posted": {
     "date": "2026-11-14",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794722334.0280743,
+    "fetched_at": 1794750489.0102582,
     "symbols": [
       "blspoly",
       "dhanbank",
