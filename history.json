@@ -1,24 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html",
-    "https://www.business-standard.com/markets/news/the-turn-of-the-tide-foreign-investors-return-signalling-longer-india-bet-126111000761_1.html",
-    "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/articleshow/135713301.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-prices-rise-above-expectations-in-october/articleshow/135712897.cms",
-    "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-cochin-shipyard-mrf-tata-power-shares-in-focus-on-wednesday-11-november-full-list-11794360457800.html",
-    "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-rich-pivot-to-real-estate-after-stock-returns-falter/articleshow/135723008.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-octobers-hot-inflation-print/articleshow/135714411.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-potential-mega-ipo-joins-ranks-of-worlds-biggest-stock-market-listings/articleshow/135714028.cms",
-    "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/articleshow/135722819.cms",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9267-of-2026-drawn-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-s-_105679.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9230-of-2026-drawn-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrat-_105675.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9267of-2026-dated-29-07-2026-issued-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105673.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9230-of-2026-dated-29-07-2026-issued-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited-_105671.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9229-of-2026-dated-29-07-2026-issued-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105669.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9227-of-2026-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105668.html",
-    "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-trading-activities-of-certain-client-of-inventure-growth-and-securities-limited-suspected-to-be-front-running-to-the-trades-of-axis-mutual-fund_105664.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7145-of-2026-filed-by-vikram-aggarwal_105663.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7144-of-2026-filed-by-dhanni-devi-panwar_105662.html",
     "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7143-of-2026-filed-by-ashok-kumar-saini_105661.html",
@@ -499,15 +480,33 @@
     "https://www.business-standard.com/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html",
     "https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-under-rs-100-lloyds-engineering-niva-bupa-vedanta-power-by-sumeet-bagadia-targets-stoploss-11794674607528.html",
     "https://www.livemint.com/market/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate-11794702675152.html",
-    "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html"
+    "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html",
+    "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-16-november-from-marketsmith-india-11794745234974.html",
+    "https://www.livemint.com/market/ipo/watrana-rentals-ipo-gmp-one-lot-profit-calculator-on-latest-gmp-how-much-profit-can-retail-and-hni-investors-expect-11794759981622.html",
+    "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-delivers-91-return-in-1-year-idbi-capital-sees-17-upside-do-you-own-check-target-price-11794757193256.html",
+    "https://www.livemint.com/market/stock-market-news/144-return-in-6-months-multibagger-to-turn-1-stock-into-18-after-split-bonus-do-you-own-it-check-ratio-return-11794754361817.html",
+    "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q2-results-2026-up-70-in-ytd-should-you-buy-this-retail-stock-after-strong-growth-guidance-target-11794751254602.html",
+    "https://www.livemint.com/market/ipo/crystal-crop-protection-ipo-one-lot-profit-calculator-on-latest-gmp-how-much-can-retail-and-hni-investors-earn-listing-11794744856974.html",
+    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-november-16-20-nifty-logs-3-week-winning-streak-first-since-june-rally-ahead-or-a-pause-11794738601982.html",
+    "https://www.livemint.com/market/stock-market-news/sensex-nifty-cheer-as-bulls-fpis-back-in-indian-stock-market-pump-in-over-rs-84k-cr-in-nov-so-far-more-rally-ahead-11794736253974.html",
+    "https://www.livemint.com/market/stock-market-news/sebi-to-issue-ai-guidelines-for-capital-markets-soon-focus-on-investor-protection-and-human-oversight-11794737481977.html",
+    "https://www.livemint.com/market/stock-market-news/psu-dividend-this-week-nov-16-20-cochin-shipyard-power-finance-corp-sci-to-oil-india-check-record-dates-and-returns-11794735494353.html",
+    "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-stage-set-for-launch-price-band-tomorrow-gmp-allotment-listing-other-details-11794731994241.html",
+    "https://www.livemint.com/market/stock-market-news/nifty-50-above-25-000-holds-key-moving-averages-is-buy-on-dips-right-strategy-heres-what-stock-market-experts-say-11794726896459.html",
+    "https://www.livemint.com/market/stock-market-news/midcap-solar-stock-rallies-33-in-six-months-motilal-oswal-sees-40-upside-do-you-own-it-check-target-price-11794669986419.html",
+    "https://www.business-standard.com/companies/news/coal-india-s-mahanadi-coalfields-seeks-9-55-billion-valuation-in-ipo-126111600061_1.html",
+    "https://www.business-standard.com/markets/news/wpi-inflation-oil-fii-trading-activity-may-guide-stock-markets-this-week-126111500300_1.html",
+    "https://www.business-standard.com/markets/news/sebi-plans-ai-guardrails-for-capital-markets-focus-on-investor-protection-126111500187_1.html",
+    "https://www.business-standard.com/markets/cryptocurrency/crypto-s-slow-motion-selloff-leaves-investors-weary-as-bitcoin-nears-lows-126111500203_1.html",
+    "https://www.business-standard.com/markets/news/fpis-pump-84-290-crore-into-equities-in-first-fortnight-of-november-126111500184_1.html",
+    "https://www.business-standard.com/markets/news/bharti-airtel-voda-idea-jio-platforms-rally-up-to-3-here-s-why-telecom-related-stocks-are-in-demand-today-126111600774_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-13",
   "news_posted": {
-    "date": "2026-11-15",
-    "count": 2
+    "date": "2026-11-16",
+    "count": 1
   },
   "recent_titles": [
-    "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz",
     "Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do?",
     "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
     "ZEEL extends gains, rises 11% in 2 days as board to mull buyback, dividend",
@@ -586,13 +585,14 @@
     "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
     "Up 325% in 4 years! Multibagger brewery stock with 1:10 stock split history declares Q2 Results 2026; revenue up 103%",
     "Bitcoin tumbles to four-month low as leveraged bets face mass liquidations",
-    "Gold, silver prices ahead of wedding season: Down over 4% this week - Investors guide before US Fed Dec meeting"
+    "Gold, silver prices ahead of wedding season: Down over 4% this week - Investors guide before US Fed Dec meeting",
+    "Airtel, Voda Idea rally up to 3%; here's why telecom stocks are in demand"
   ],
   "reels_posted": {
     "date": "2026-11-14",
     "count": 1
   },
-  "meta_token_checked_on": "2026-11-15",
+  "meta_token_checked_on": "2026-11-16",
   "nse_holidays": {
     "year": 2026,
     "fetched_on": "2026-11-09",
@@ -629,28 +629,28 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1794750489.0102582,
+    "fetched_at": 1794808696.367084,
     "symbols": [
-      "blspoly",
+      "belrise",
       "dhanbank",
-      "gatech",
       "goldbees",
-      "groww",
       "idea",
-      "kwil",
-      "manappuram",
+      "inoxwind",
+      "itc",
       "moneyview",
+      "motisons",
       "olaelec",
       "pcjeweller",
       "pnb",
       "silverbees",
       "suzlon",
+      "syncomf",
       "tatagold",
       "tatsilv",
-      "tdpowersys",
+      "tmpv",
+      "tvsscs",
       "v2retail",
-      "yesbank",
-      "zeel"
+      "yesbank"
     ]
   },
   "news_evening_reel_date": "2026-10-25",
