@@ -52,7 +52,12 @@ jobs:
           echo "task=$t" >> "$GITHUB_OUTPUT"
           echo "Running: $t"
 
+      # Check out the branch tip, not the commit the run was queued at. Queued runs otherwise
+      # get a stale history.json (without the previous run's "already posted today" mark) and
+      # post the FII/DII Short again.
       - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
 
       - uses: actions/setup-python@v7
         with:
