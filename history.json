@@ -1,17 +1,5 @@
 {
   "processed_news_urls": [
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-m-sasikala-under-rc-no-7699-of-2024-in-the-matter-of-arvind-remedies-ltd-_105759.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-k-manikandan-under-rc-no-7698-of-2024-in-the-matter-of-arvind-remedies-ltd-_105757.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-s-nagarajan-under-rc-no-7696-of-2024-in-the-matter-of-arvind-remedies-ltd-_105755.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-varalakshmi-p-under-rc-no-7695-of-2024-in-the-matter-of-arvind-remedies-ltd-_105753.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-shreyanse-finance-ltd-in-the-matter-of-arvind-remedies-ltd-under-recovery-certificate-no-7568-of-2024_105751.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-12-11-2026-issued-in-rc-no-9286-of-2026_105745.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-dated-november-12-2026-for-release-of-attachment-of-bank-accounts-lockers-demat-accounts-and-mutual-fund-folios-in-respect-of-recovery-certificate-no-7251-of-2023_105743.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9325-of-2026_105741.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9324-of-2026_105739.html",
-    "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-dated-12-11-2026-issued-in-rc-no-9286-of-2026_105737.html",
-    "https://www.livemint.com/market/stock-market-news/paytm-shares-cross-rs-1-955-ipo-listing-day-high-after-nearly-five-years-whats-boosting-investor-confidence-11794575989775.html",
-    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
     "https://www.business-standard.com/markets/news/nifty-bank-nifty-outlook-will-inflation-higher-bond-yields-spook-markets-here-s-what-analysts-say-126111300077_1.html",
     "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html",
     "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html",
@@ -499,15 +487,26 @@
     "https://www.business-standard.com/markets/news/chris-wood-hikes-exposure-to-indian-equities-as-ai-trade-falters-126112000145_1.html",
     "https://www.business-standard.com/markets/news/nvidia-stock-falls-32-in-nov-is-it-a-buying-opportunity-analysts-answer-126112000133_1.html",
     "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html",
-    "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms"
+    "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms",
+    "https://www.livemint.com/market/stock-market-news/us-stock-markets-nasdaq-100-5-6-pc-worst-week-since-covid-2020-s-p-500-3-7-pc-correction-investors-sell-off-ai-tech-11795223650589.html",
+    "https://www.livemint.com/market/stock-market-news/best-pharma-cdmo-stocks-china-plus-one-pharma-stocks-india-pharma-stocks-top-pharma-cdmo-stocks-11795178604521.html",
+    "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-under-rs-200-jammu-and-kashmir-bank-canara-bank-bank-of-india-by-mehul-kothari-of-anand-rathi-11795191036501.html",
+    "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
+    "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html",
+    "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html",
+    "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html",
+    "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html",
+    "https://www.business-standard.com/markets/news/sebi-proposes-removing-additional-disclosure-framework-for-fpis-126112001177_1.html",
+    "https://www.business-standard.com/markets/news/margins-to-remain-under-pressure-for-siemens-in-near-term-amid-volatility-126112000992_1.html",
+    "https://www.business-standard.com/markets/news/trading-still-anchors-nse-s-business-as-clearing-section-gains-share-126112000366_1.html",
+    "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html"
   ],
   "last_fii_dii_post_date": "2026-11-20",
   "news_posted": {
     "date": "2026-11-21",
-    "count": 1
+    "count": 2
   },
   "recent_titles": [
-    "Welspun Corp, JSW Steel, SAIL, NMDC to Tata Steel: Which metal stock to buy in Samvat 2083? Experts' views, targets, SL",
     "PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3%",
     "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks futures rally on bargain hunting; Nvidia concerns cloud outlook",
     "KPI Green Energy shares jump 9% on massive volume spike ahead of Q2 results; what's driving the rally?",
@@ -586,7 +585,8 @@
     "PNB vs Canara Bank: Which PSU bank is a better stock to buy Nifty Bank at record high, and why? Experts' views, targets",
     "Small-cap stock under  \u20b910 Salasar Techno Engineering shares jump 12% today, soars 42% in 3 days- What's driving gains?",
     "SBI, PNB, 3 other PSBs zoom up to 27% in Nov; here's what tech analysts say",
-    "Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week"
+    "Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week",
+    "Bitcoin price crash: \u200bFalls to lowest level in two years - What\u2019s behind plunge of world\u2019s largest cryptocurrency"
   ],
   "reels_posted": {
     "date": "2026-11-20",
@@ -629,7 +629,7 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1795243552.0554433,
+    "fetched_at": 1795274121.6250148,
     "symbols": [
       "canbk",
       "goldadd",
