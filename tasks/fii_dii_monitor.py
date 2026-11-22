@@ -73,11 +73,7 @@ def _youtube_metadata(content: dict, values: dict, report_date: datetime.date, h
     date_str = report_date.strftime("%d %b %Y")
     fii, dii = values["fii"], values["dii"]
 
-    title = (f"FII DII Data Today: FII {_flow(fii['net'])} ₹{abs(fii['net']):,.0f} Cr, "
-             f"DII {_flow(dii['net'])} ₹{abs(dii['net']):,.0f} Cr | {date_str}")
-    if len(title) > 100:
-        title = f"FII DII Data Today: {hook_stat.replace('NET BUY', 'Net Buy').replace('NET SELL', 'Net Sell')} | {date_str}"
-    title = title[:100]
+    title = f"FII DII Data Today – {date_str}"
 
     def _line(name: str, v: dict) -> str:
         return (f"{name} {_flow(v['net'])} ₹{abs(v['net']):,.0f} Cr "
