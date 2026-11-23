@@ -1,22 +1,5 @@
 {
   "processed_news_urls": [
-    "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-reverses-half-of-last-weeks-drop-on-elevated-inflation/articleshow/135804127.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/how-us-tech-pain-is-european-stock-markets-gain/articleshow/135804056.cms",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/razorpay-sembcorp-green-infra-get-sebi-nod-to-float-ipos/articleshow/135803228.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/mutlibaggers-7-stocks-held-by-100-mf-schemes-in-october-rally-up-to-300-in-fy27/slideshow/135802136.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/earnings/jagatjit-industries-q2-net-loss-narrows-to-rs-4-cr-revenue-rises-90/articleshow/135801327.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-rally-after-earnings-beat-6-key-things-investors-need-to-know/slideshow/135794957.cms",
-    "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-spacex-merger-musk-eyes-december-deal-announcement/slideshow/135793745.cms",
-    "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
-    "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-start-road-show-for-600-million-india-ipo/articleshow/135790402.cms",
-    "https://economictimes.indiatimes.com/markets/bonds/top-pension-fund-to-buy-more-india-state-bonds-on-high-yields/articleshow/135789980.cms",
-    "https://www.livemint.com/market/stock-market-news/microsoft-shares-fall-nearly-3-in-pre-market-as-global-outage-hits-outlook-teams-and-copilot-what-went-wrong-11794570500283.html",
-    "https://www.livemint.com/market/stock-market-news/ideaforge-technology-shares-drone-stock-gains-53-in-a-year-but-should-you-buy-now-check-targets-support-stop-loss-11794564183048.html",
-    "https://www.livemint.com/market/ipo/haldiram-ipo-in-making-namkeen-to-d-street-snack-giant-eyes-stock-market-debut-check-listing-timeline-valuation-11794562224305.html",
-    "https://www.livemint.com/market/stock-market-news/dividend-stocks-shipping-corporation-vs-cochin-shipyard-record-date-on-nov-16-what-to-buy-amount-yield-returns-11794567075247.html",
-    "https://www.livemint.com/market/stock-market-news/diwali-gains-this-year-sensex-rally-muhurat-11794459314013.html",
-    "https://www.livemint.com/market/stock-market-news/circuittocircuit-stock-sc-agrotech-declares-4-5-bonus-1-10-stock-split-dividend-update-record-date-other-details-11794564352785.html",
-    "https://www.livemint.com/market/stock-market-news/looking-for-stocks-to-buy-for-2027-hdfc-bank-meesho-paytm-park-medi-lg-electronics-venturas-top-picks-revealed-11794556121055.html",
     "https://www.livemint.com/market/stock-market-news/up-17-in-ytd-small-cap-hotel-stock-under-rs-200-jumps-4-after-q2-results-2026-do-you-own-11794558406332.html",
     "https://www.livemint.com/market/stock-market-news/dividend-stock-multibagger-share-ingersoll-rand-india-declares-dividend-of-20-check-record-date-history-yield-11794557139856.html",
     "https://www.livemint.com/market/stock-market-news/microsoft-outage-gums-up-markets-forces-traders-to-use-phones-11794560680458.html",
@@ -499,15 +482,31 @@
     "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-23-november-from-marketsmith-india-11795351438248.html",
     "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html",
     "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-paint-sector-demand-q3fy27-asian-paints-berger-kansai-nerolac-outlook-126112200081_1.html",
-    "https://www.livemint.com/market/commodities/gold-silver-copper-aluminium-platinum-to-zinc-why-are-metal-prices-crashing-to-multi-month-lows-key-reasons-11795357679178.html"
+    "https://www.livemint.com/market/commodities/gold-silver-copper-aluminium-platinum-to-zinc-why-are-metal-prices-crashing-to-multi-month-lows-key-reasons-11795357679178.html",
+    "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-stocks-showing-rsi-trending-up/slideshow/136087624.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
+    "https://economictimes.indiatimes.com/markets/commodities/crude-oil-futures-brace-for-opec-output-decision-amid-supply-glut-concerns-analysts/articleshow/136072428.cms",
+    "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+    "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+    "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+    "https://www.livemint.com/market/taiwan-mulls-lowering-margin-requirement-to-support-stock-market-11795359097624.html",
+    "https://www.livemint.com/market/wall-st-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market-11795356076825.html",
+    "https://www.livemint.com/market/have-high-crude-prices-sown-the-seeds-of-their-own-destruction-11795351295441.html",
+    "https://www.livemint.com/market/stock-market-news/52-rally-in-six-months-mukul-agrawal-portfolio-s-defence-stock-has-19-upside-says-icici-direct-do-you-own-it-11795353943967.html",
+    "https://www.livemint.com/market/trumps-memecoin-gala-returns-with-demand-down-and-scrutiny-up-11795353666621.html",
+    "https://www.livemint.com/market/stock-market-news/stock-market-outlook-nifty-posts-longest-weekly-winning-streak-in-5-months-will-rally-survive-next-week-nov-2327-11795350642959.html",
+    "https://www.business-standard.com/markets/news/fpi-crude-oil-global-trends-to-to-steer-markets-in-holiday-shortened-week-126112200353_1.html",
+    "https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html",
+    "https://www.business-standard.com/markets/news/tata-steel-share-price-tata-steel-divests-tubes-biz-will-it-unlock-value-what-analysts-say-126112300236_1.html"
   ],
   "last_fii_dii_post_date": "2026-11-20",
   "news_posted": {
-    "date": "2026-11-22",
-    "count": 2
+    "date": "2026-11-23",
+    "count": 1
   },
   "recent_titles": [
-    "KPI Green Energy shares jump 9% on massive volume spike ahead of Q2 results; what's driving the rally?",
     "IRB Infra shares surge 6% after Q2 results: Is a bigger breakout on the cards? Stock market experts identify key levels",
     "Stock recommendations for 11 November from MarketSmith India",
     "Oil falls as Trump downplays prospect of escalation with Iran",
@@ -586,13 +585,14 @@
     "Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week",
     "Bitcoin price crash: \u200bFalls to lowest level in two years - What\u2019s behind plunge of world\u2019s largest cryptocurrency",
     "Best 3 stocks to buy under  \u20b9100: IDFC First Bank, Jayaswal Neco Industries, Sagility by Sumeet Bagadia | Targets, SL",
-    "Gold, silver, copper, aluminium, platinum to zinc: Why are metal prices crashing to multi-month lows? Key reasons"
+    "Gold, silver, copper, aluminium, platinum to zinc: Why are metal prices crashing to multi-month lows? Key reasons",
+    "Tata Steel divests tubes biz: Will it unlock value? What analysts say"
   ],
   "reels_posted": {
     "date": "2026-11-20",
     "count": 1
   },
-  "meta_token_checked_on": "2026-11-22",
+  "meta_token_checked_on": "2026-11-23",
   "nse_holidays": {
     "year": 2026,
     "fetched_on": "2026-11-09",
@@ -629,27 +629,27 @@
     "count": 1
   },
   "nse_most_active": {
-    "fetched_at": 1795359009.6502118,
+    "fetched_at": 1795417681.257162,
     "symbols": [
       "canbk",
-      "goldadd",
+      "dharan",
       "goldbees",
-      "goldcase",
       "goldietf",
       "groww",
+      "gtlinfra",
       "hdfcbank",
       "hmaagro",
       "idea",
-      "moneyview",
+      "idfcfirstb",
+      "iti",
       "pcjeweller",
-      "sagility",
       "silverbees",
-      "suzlon",
+      "syncomf",
       "tatagold",
       "tatasteel",
       "tatsilv",
+      "thomascook",
       "ugrocap",
-      "v2retail",
       "yesbank"
     ]
   },
