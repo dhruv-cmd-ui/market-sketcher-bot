@@ -501,7 +501,7 @@
     "https://www.business-standard.com/markets/news/asian-shares-rally-as-huang-returns-to-nvidia-sparking-wall-street-rebound-126112400069_1.html",
     "https://www.livemint.com/market/stock-market-news/tata-steel-share-price-what-should-investors-do-after-apl-apollo-tubes-rs-5-825-crore-deal-buy-sell-or-hold-11795585659415.html"
   ],
-  "last_fii_dii_post_date": "2026-11-23",
+  "last_fii_dii_post_date": "2026-11-25",
   "news_posted": {
     "date": "2026-11-25",
     "count": 1
@@ -589,7 +589,7 @@
     "Tata Steel share price: What should investors do after APL Apollo Tubes  \u20b95,825 crore deal; buy, sell or hold?"
   ],
   "reels_posted": {
-    "date": "2026-11-23",
+    "date": "2026-11-25",
     "count": 1
   },
   "meta_token_checked_on": "2026-11-25",
@@ -654,7 +654,7 @@
     ]
   },
   "news_evening_reel_date": "2026-10-25",
-  "fii_cta_index": 0,
+  "fii_cta_index": 1,
   "news_morning_reel_date": "2026-11-14",
   "news_afternoon_post_date": "2026-10-26"
 }
